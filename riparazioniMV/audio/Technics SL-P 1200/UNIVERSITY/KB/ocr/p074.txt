@@ -1,0 +1,37 @@
+Pulse of each terminal ;
+OO 7 va Coat TTT
+|
+DAIS 26) @) BI { PAM wave form | - — — =4 CN?
+J 7
+|
+
+1C503 | OQ LPE ean
+(DAC) CN7 @_ ! + 301 PR £(9)) R OUT
+16 bit bus sas { © I \ l
+Gnd @ OUT ( { i
+UT | (1) | | |
+| | l | |
+| | I |
+| Py
+|
+] | |
+|
+| | |
+|_| | 501 N 8), LOUT
+; | KA
+, |
+| |
+1C501 i 1 I | 1C253 |
+(LS1) y . LJ | I
+4 Lo _s
+
+(1) Check LSI pin 26 DA15 to pin 42 DAO output signals.
+
+(2) Check CN7 pin 1 PAM output signal. (IC503 pin 17 OUTPUT)
+
+(3) Check CN7 pin 4 RDG and pin 3 LDG output signals.
+
+(4) Check CN7 pin 9 ROUT and pin 8 LOUT audio output signals.
+(IC253 > 1C252 > LPF)
+
+Fig. 2-7-1 DAC and Lowpass Filter Circuits (Circuit voltages apply where the play mode is in effect.)

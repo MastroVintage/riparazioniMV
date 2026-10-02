@@ -1,0 +1,50 @@
+9.
+
+MN6617 CIRCUIT OPERATION
+
+Lee eee eee eee ene eens 36
+
+9-1 Recording System Signal Processing ......... 000s cece eee eee eee 36
+
+9-2 Reproducing System Signal Processing ........ 0.0.00. cece een eens 41
+
+9-3 LSI and Associated Operations of Peripheral Circuits. ..............05. 44
+
+10. AUDIO CIRCUIT ........ ccc ene ettentnetenes 51
+
+10-1 D-A Converter .. 0.0.0... ccc ccc ee teen eee tenes 52
+
+10-2 Deglitch Circuit .. 0... . ee eee teen eee eee 52
+
+10-3 LPF and De-emphasis Circuit. .... 0.0... 0... ccc eee eae 53
+
+11. MUTING CIRCUIT and SYSTEM CONTROL ............. cc cece ee eens 54
+TROUBLESHOOTING
+
+1. SYMPTOM CHECK ........... 0.0 eee tte teens 55
+
+2. CHECKING PROCEDURE ............ 00: cece eee eee 56
+
+2-1 Loading Check .. 0.0... . ccc ee eens 56
+
+2-2 Disk Sensor Check ....... 6. ce cece eect eet eteteeeeee 60
+
+2-3 Focus Search Check 1... . 0. eee eens 62
+
+2-4 Spindle Motor Circuit Check ........ cece eee eee ee tee 65
+
+2-5 RF Signal Check, etc... 0.0.2... ccc ee eee eens 67
+
+2-6 LCDand LED Check .......... 6c cee eee re 71
+
+2-7 Audio Circuit Check... 0... eee eee eee 73
+
+2-8 Operation Check 1.0... . cece teeta 76
+
+2-9 ReadjustmMent .. 0... eee eens 78
+
+3. APPENDIX ....... 0.00... c ccc eee 79
+
+3-1 Connector Voltages .. 0... eee eee ees 79
+
+3-2 Microcomputer Pin Voltages 2.0... . cece eee tenes 83

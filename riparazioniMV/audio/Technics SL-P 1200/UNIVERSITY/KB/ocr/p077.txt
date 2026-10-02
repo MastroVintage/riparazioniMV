@@ -1,0 +1,56 @@
+Battery 5V
+
+SwW8
+
+1
+1
+mite REPEAT | | |
+May bo po TTT 7
+y 1 Q3 L)
+Sw7 GS (14) (9) (LN pgs |
+wie FAST.R 1 4 !
+(L) (L) 1 1 ot 1 J
+02(6) 3. 1 fy1 02 (L) |
+!
+Swe 3 )> moe 9 P32
+wits FAST F | | i
+(L) (L) 5 | | |
+01 Q1 |
+; @) r) S44)! (Ld p31 |
+SW5 | 5 ;71
+wis SCAN ; | i |
+(L) (L) 8 | ! I |
+00(9) 10 | Q0 (L) \
+1
+SW4 1 } ; (12) © P30 ,
+A LE ae a
+1C4
+! Oo (H —
+sw ! Ty OH Ot aw Te eT +s aiRa |
+mie DOWN IC902 | (L) 12 Se > |
+iL) - | CN10 H 1C10 |
+ewe (Encoder) | Reset circuit | (Microcomputer) |
+ante PLAY STOP | |
+O | NOTE: @1C902 GS is high when any of SW1 to SW2 is pressed. bPe--—--——~+—-+ |
+(H) * is hi i
+E OUT (5) ®@ *C902 EOUT is high when none of SW1 to SW8 is pressed.
+sw ' a
+wits EJECT * _ ;
+| A low pulse is input to the microcomputer’s CN10
+(L) | AY) , __ output | Q3]) Q2 | O1] Q¢g | INT
+\ SIRO port when a key is pressed.
+Po + Q904 fo) SW ON
+swag 90 903 IC4 > 1C3
+ae PAUSE ( ) NON SW L L L L L
+Oo sWw1 H H H H H
+Sw2 H H H L H
+SW10 SW3 H!} H!|L |H IH
+MEMORY SW4 HH}; H}|LI] LIA
+SW5 H L H H H
+. Wi H L H L H
+1. Check CNIO pin(S) to pin @3) voltages during NON SW. ows wi ctlctplela
+2. Check CNIO pin @) to pin @3) voltages during EJECT SW ON. swe wl cletetloela
+3. Check CNIO pin @) to pin @3 voltages during PAUSE SW ON. sw9 L| HHI] HH
+SW10 L H H L H
+
+Fig.2-8-1 Keyboard Interface Circuit (Circuit voltages apply where the play mode is in effect with NON SW.) L |

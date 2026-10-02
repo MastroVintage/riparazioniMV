@@ -1,0 +1,31 @@
+3. APPENDIX
+
+3-1 Connector Voltage (Stop, Play)
+
+Deck Connector CN1 (12-pin)
+
+Pin No. Name of Pin Stop Play Remarks
+1 Digital 5V 5V > O when disk is off
+2 Accessory 5V 5V >
+3 GND 0 >
+4 Solenoid © output 14.4V > Battery 14.4V power
+5 Solenoid © output 14.4V > O when door is open
+6 Loading motor © output 0 > 10V during eject
+7 Loading motor ® output 0 > 10V during loading
+8 Traverse ® output 5V Waveform
+9 Traverse © output 5V Waveform <n ge
+10 Inner SW input 5V > 0 when disk is off.
+11 NC / /
+| Anti-drop SW input 0 > 5V before magnet is down
+Deck Switch Input CN2 (7-pin)
+[ Pin No. Name of Pin Stop Play Remarks
+1 NC / /
+2 | SW3 input ay or >
+3 Digital 5V 5V > O when disk is off
+4 GND 0 >
+5 | SW2 input av or > 5V when disk is off
+6 Accessory 5V 5V >
+7 Door SW input 5V > 2V or less when door is open
+
+—79—
+

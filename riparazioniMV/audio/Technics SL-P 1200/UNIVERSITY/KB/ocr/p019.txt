@@ -1,0 +1,31 @@
+(1)
+
+(2)
+
+LCD display
+
+The LCD is used for track and time display.
+
+Serial data synchronized with the clock is input from the microcomputer to the LCD driver, and each
+time that serial data ends, LOAD signal is added to the data to be sent to the LCD.
+
+OSC is a terminal for generating a COM frequency, which is one-eighth of the OSC frequency. Signal
+voltage between COM and each SEG are used for LCD display as follows:
+
+SEG output with phase opposite to COM signal: .............. ON
+SEG output with same phase to COM signal............ 0000 OFF
+LED display
+
+The LED display indicates seven statuses.
+Serial data synchronized with the clock is input from the microcomputer to the LED driver, and
+each time that serial data ends, LATCH signal is added to the data for selecting an LED and giving
+an indication. The two pilot lamps that are connected to 07 are orange and green and operate as
+follows:
+
+1) Orange pilot lamp lights when no disk is in.
+
+2) Green pilot lamp lights when a disk is inserted.
+
+3) Orange and green lamps alternately light during loading or ejection.
+
+—19—

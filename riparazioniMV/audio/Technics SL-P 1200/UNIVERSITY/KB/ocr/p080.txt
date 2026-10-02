@@ -1,0 +1,35 @@
+Spindle Motor Input/Output CN3 (6-pin)
+
+r
+
+Pin No. | Name of Pin Stop | Play Remarks |
+1 FAI (EC) output 1.5V Waveform
+2 GND 0 >
+3 VCC (10V) 10V >
+4 PC output 0
+5 FGP input 0 Waveform
+6 DCR 2.5V >
+|
+Focus Tracking Output CN4 (4-pin)
+c. es |
+Pin No. Name of Pin Stop Play Remarks
+-
+1 Tr ® 0 Waveform AAAAAAr sve
+2 Tro 0 >
+3 Fo ® 0 Waveform ° VVV VV V “5VP—P
+4 Foo 0 >
+Optical Pickup Input/Output CN5 (11-pin)
+[ Pin No. Name of Pin Stop Play Remarks |
+1 G GND 0 >
+2 A2 8) >
+3 A3 0 >
+4 | Al 0 >
+5 A4 0 >
+6 ® 5V 5V > Analog + 5V
+j RF AV 5 Signal is so low in level that it is
+invisible.
+8 GND 0 >
+fs) PD 2 5V 2 3V
+10 LD 0 S 3V
+11 O5V 2 5V >
+

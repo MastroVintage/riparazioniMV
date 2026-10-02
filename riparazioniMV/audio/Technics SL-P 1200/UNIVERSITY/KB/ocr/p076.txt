@@ -1,0 +1,9 @@
+2-8 Checking Various Operations (Key decoder circuit)
+
+Keyboard commands are received by the microcomputer, which sends control signals suitable to the
+state to initiate operate. The control signals from the microcomputer are considered nearly normal in
+view of the checks made so far, check the circuitry from the keyboard to the microcomputer.
+
+| se the keyboard interface circuit diagram.
+
+—76—

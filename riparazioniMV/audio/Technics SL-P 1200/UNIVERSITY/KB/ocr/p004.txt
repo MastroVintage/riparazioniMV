@@ -1,0 +1,31 @@
+V(A1+A2)
+
+(a) Track Deviating to the Left (b) Trackin the Center (c) Track Deviating to the Right
+
+AAANIAANR
+
+ETEa
+
+NJ
+
+SN
+
+Y
+
+]
+|
+1
+VIA3+A4) | | | | |
+
+| !
+| I
+i ! |
++
+(+) 1 |
+difference | '
+output O o9————____1—_
+
+® A positive pulse is generated if V (A1 + A2) is earlier than V (A3 + A4),
+or a negative pulse is generated in the opposite case.
+
+Fig. 1-4 Tracking Error Detection Diagram

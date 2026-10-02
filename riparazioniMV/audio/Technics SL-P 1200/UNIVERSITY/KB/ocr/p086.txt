@@ -1,0 +1,18 @@
+Sheet 4
+
+Port No.
+
+Port Sianal Input/ Voltage, etc. Descripti
+igna escription
+Flat symbol 9 Output Stop Play P
+59 Po1 M DATA 0 > 1C501 data
+LCV control and interpolation circuit mode
+60 P9¢2 M CLK 5 > 1C501 clock
+setting
+61 P93 MLD O 5 > 1C501 load
+62 PC2 MUTE O 0 > High during skip, etc.
+63 Pio TR FWD O 0 > Traverse forced forward signal high
+P11 TR REV O 0 > Traverse forced reverse signal high |
+
+| %
+

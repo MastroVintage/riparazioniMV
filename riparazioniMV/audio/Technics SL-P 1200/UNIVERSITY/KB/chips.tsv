@@ -1,0 +1,10 @@
+# chip -> pagine che lo citano (da OCR). Equivalente SL-P1200 dove applicabile
+chip	role_in_SL-XP7	SL-P1200_equivalent	pages
+AN8281S	spindle motor drive	IC501 AN8290S (diverso)	p049,p050
+AN8370S	optical servo (focus/tracking/APC/RF)	IC101 AN8370S (stesso chip)	p000b_contents1,p005,p020,p021,p022,p023,p024,p025,p027,p031,p034,p045
+AN8371S	data slice + PLL (EFM/PCK/FPC/SRF/DO)	IC301 EHDGA1243 (ibrido, stesse funzioni/pin names)	p000b_contents1,p023,p034,p035,p044,p045,p049,p050
+MN1208	voltage-drop detector (reset), IC6/IC704/IC705	IC403 MN1280-R (analogo)	p016
+MN1554	system control microcomputer	IC401 MN15261PDK (diverso)	p083
+MN1554CAC	system control microcomputer	IC401 MN15261PDK (diverso)	p005,p011,p035
+MN1554CAF	system control microcomputer (variante)	IC401 MN15261PDK (diverso)	p021,p046,p049
+MN6617	DSP: EFM demod, CIRC, CLV servo	IC302 MN6617S (stesso chip)	p000c_contents2,p034,p035,p036,p044,p046,p049,p051

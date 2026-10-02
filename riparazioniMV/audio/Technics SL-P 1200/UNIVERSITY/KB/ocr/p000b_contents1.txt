@@ -1,0 +1,52 @@
+CONTENTS
+
+CIRCUIT OPERATION
+
+1.
+
+TRAVERSE MECHANISM and OPTICAL PICKUP
+
+1-1 Traverse Mechanism ........ 0.00 cece ene t nets
+1-2 3-Beam Type and Single Beam Type ........... cece eee ee ee
+1-3. Tracking Error Generation
+
+BLOCK DIAGRAM and CD SYSTEM OPERATION ......................
+
+2-1 Block Diagram ..... 0... ccc eee eee
+2-2 CD System Operation 1... 0... ccc et ete
+
+LOADING MECHANISM and OPERATION
+3-1 Disk Loading Mechanism
+3-2 Loading Operation
+3-3 Eject Operation 2.0... . ce eee eee
+3-4 Disk Loading Ci.cuit
+
+POWER CIRCUIT ........ 0... eee nes
+
+4-1 Required Power for CD Circuit
+4-2 Power Supply Control
+
+MICROCOMPUTER PERIPHERAL CIRCUITS ..........-.....0 0c eee eaee
+5-1 Reset Circuit 2.0.0... ee eee
+5-2 Keyboard Interface Circuit... 0... 0... cc ee tees
+5-3. LCD and LED Display Circuit
+
+AN8370S CIRCUIT OPERATION
+6-1 Control Logic Circuit
+6-2 Laser APC Circuit 2.00... eee eae
+6-3 RF Amplifier and Dropout Detector Circuits
+6-4 Auto Focus Circuit and Focus Error Circuit... 2.0.0.0... 0... eee ees
+6-5 Tracking Error Circuit and Kick Hold Circuit
+6-6 Focus Tracking Drive Circuit
+
+TRAVERSE SERVO CIRCUIT OPERATION
+7-1 Traverse Detector Circuit
+7-2 Mode Select Circuit .... .. ee eee eens
+7-3 Traverse Drive Circuit
+
+Ce
+
+AN8371S CIRCUIT OPERATION
+8-1 EFM Signal
+8-2 PCK Signal... 2.0... ee ee eee tenet e ae
+8-3 Other Signals

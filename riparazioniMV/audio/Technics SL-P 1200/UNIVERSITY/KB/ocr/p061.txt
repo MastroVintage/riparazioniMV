@@ -1,0 +1,54 @@
+Falling in detecting SW
+
+Fig. 2-2-1
+
+Falling in detecting SW
+
+(Circuit voltage is at the time of disk setting.) Mode
+Micro- Disk off _|, Door a Door le Disk set
+com- open closed
+IC5 ra puter pin
+! —
+(SW2) 11 10 (H)
+O P
+(Lower than 2V) => 92 P92 L L H H
+|
+igi | P93 H L H H
+Digital 5V I Microcomputer
+1c10 P91 L L L H
+IC5 P83 L H L L
+4
+H)
+(SW3) 9 => 58 ( P93
+(Lower than 2V)
+
+*When a disk is loaded, SW2 turns on the turn SW3
+on and turn the solenoid off.
+Thus, the disk lowers and is held in position on
+the turntable by the magnet.
+If detecting circuit is not in good order, it be-
+becomes EJECT MODE.
+
+Battery 5V
+
+P91
+
+Q82
+
+IC5
+
+From door SW ———— (5V) (L)
+
+P83
+
+qn HOw we ee ee
+
+'
+1
+|
+{
+|
+I
+1
+
+Loading and Disk Sensor Circuit (Circuit voltages apply where a disk is set.)

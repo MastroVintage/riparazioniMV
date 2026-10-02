@@ -1,0 +1,41 @@
+3-4 Disk Loading Circuit
+
+@® 14V battery
+
+® 5V digital -——— — — —
+1 @® 5V battery
+1C10
+SW3 I Microcomputer Solenoid
+P93 PAO
+I
+| MN1554CAC
+@ 5V accessory !
+l @ 5V battery
+I
+SW2 i
+O P92 PA1
+1 )
+| |
+J 1
+Power supplyy
+| control ! @ 10V
+= Door y |
+| sw ! !
+\ @ 5V battery @ 10V @ 14V battery
+O P83 |
+!
++ 5V battery | P120
+|
+' |
+P91 I
+Q8 y | Loading
+owe detection 2 | | @ 5V battery B10V motor
+y P13 O
+{ 1
+Le LL 4
+
+* Input and output: Low active
+
+Fig. 3-2
+
+Disk Loading Circuit

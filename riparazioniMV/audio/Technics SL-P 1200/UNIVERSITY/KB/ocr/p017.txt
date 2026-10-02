@@ -1,0 +1,45 @@
+5-2 Keyboard Interface Circuit
+
++ 5V battery
+
+@ 5V battery
+
+encoder
+
+1C903
+(6) u 3
+__>
+@) 4
+6
+
+@ @,
+Q904 P,
+swe PAUSE . BF oo
+
+sWi0 MEMORY
+
+Q3
+Q2
+Q1
+O¢
+
+IC2 @
+
+ic4 ©
+
+O P33
+© P32
+O P31
+
+!
+© P30
+
+| Microcomputer
+| 1c10
+
+—
+
+Ten key inputs are converted to 4-bit codes to give commands to the microcomputer. INT signal
+is routed through the delay circuit and waveform shaping circuit to supply SIRQ H pulse.
+
+5-2. Keyboard Interface Circuit

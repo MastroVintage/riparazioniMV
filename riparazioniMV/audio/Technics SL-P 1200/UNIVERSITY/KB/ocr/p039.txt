@@ -1,0 +1,56 @@
+EFM >
+
+modulation
+
+1 L2 13 44.1 kHz
+R1{ w2] R2| wa} A3i we |
+wi | w2 | w3 | wa [| ws | we w7 | ws | wo | wio0l wit] wi2
+16] 16] 16] 16| 16] 16 16] 16| 16] 16] 16] 16] bits
+
+1 1
+Sample = 16 bits/word Q
+Simbol = 8 bits parity
+
+12 samples
+4 partiies ) 16 data
+: bits 16x16 = 256 bits
+
+\_REPECEEFECEE EP
+
+Data bits (1 symbol! = 8 bits) => Channel bits (14 bits) (ROM table processing)
+
+* 3 bits between 14 bits call the coupled
+lots |4ilsilel|7 holla hathalhaltslpelt7iialtig|{2ol|27|}zal taal lod 27] |281129|130}131|[32|] Symbol bits and when they are observed through
+| the data, they serve as connectors to maintain
+
+P
+parity
+
+=)
+
+—_—
+
+\\
+
+24 |halhalhal the EFM standards.
+3BaSb3 3 3 3 3
+~— a fy ny
+Data Error Data Error ;
+Data (14 channel bits = 1 symbol) correction correction
+
+Coupled bits
+
+|Control signal (low range suppression)
+
+Sync signal 1 frame = 12 samples + 4 parities
++ contro! signal + Sync signal
+
+544 bits 17x32 = 544 bits
+
+588 bits
+
+588 channe! bits = 1 frame
+
+4.3218 MHz/588 = 7350 Hz = 136 x 10°° sec
+
+Fig. 9-5 CD Signal Format

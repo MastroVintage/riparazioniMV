@@ -1,0 +1,13 @@
+2-2. Disk Sensor Check (Sensor Switch)
+
+For a disk to be set on the turntable, the sensor must detect that the disk has been properly inserted
+so that the disk may be placed on the turntable and held down by the magnet. Check the loading sensor
+for its detecting operation.
+
+See the Loading and Disk Sensor Circuit
+
+OK
+
+Proceed to 2-3.
+
+—60—

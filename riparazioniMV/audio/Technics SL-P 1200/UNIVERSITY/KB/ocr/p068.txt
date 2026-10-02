@@ -1,0 +1,31 @@
+aa roo TTT alienate
+t '
+nF | @+———_8}- + FIN @6)—F LOCK (t) opz1 C10
+! Microcomputer
+\ @ CNT4 QTPi (L) ° PRO
+CNT3 OTP10(L) 1
+
+1C101 64)
+
+i
+1
+1
+\
+OPB1
+t
+i}
+1
+'
+
+Tracking
+3 coil (30)
+
+When the turntable runs and RF signal is confirmed, 1C101 pin @8 F.LOCK signal is applied to the microcomputer.
+The control signals (CNT 1 low, CNT2 low) from the microcomputer change, and the focus servo and tracking servo
+start operating..
+
+Check the RF signal at JSW3.
+
+Set oscilloscope to 50 mV, 50 msec.
+
+Fig. 2-5-1 Tracking Servo Circuit (Circuit voltages apply where the play mode is in effect.)

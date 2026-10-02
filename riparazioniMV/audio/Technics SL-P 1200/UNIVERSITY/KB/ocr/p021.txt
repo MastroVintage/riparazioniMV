@@ -1,0 +1,46 @@
+6-1 Control Logic Circuit
+
+Control signals CNT1 to CNT4 are 4-bit parallel output signals from the microcomputer.
+
+The logic circuit of AN8370S decodes these control signals and outputs the required control signals to
+the optical servo system.
+
+(1)
+
+Optical servo
+
+SENSE output
+
+| Contatiovic | logic Se KICK output
+
+CNT.2}] CNT.3] CNT.4
+
+PB2 O) PB1 O PBO
+
+Microcomputer
+Optical servo control (MN1554CAF)
+
+Fig. 6-2 Control Logic Circuit
+
+Control signals and their functions (See Fig. 6-2.)
+
+1) LDON.............., Laser ON command
+e Controls laser APC ON/OFF.
+2) AFON ............-. Auto focus command
+
+e Controls the focus servo loop to open or close, and the search OSC
+switch ON/OFF.
+
+3) TRON .............. Tracking servo command
+
+e Controls the tracking servo loop switch.
+4) HOLD .............. Tracking hold command
+
+e Holds tracking error at preceding value during track kick.
+5) BRON .............. Tracking brake command
+
+e After high-speed feed or kick, brakes the tracking actuator to absorb
+unnecessary vibration in a short time to facilitate tracking.
+
+—21—
+

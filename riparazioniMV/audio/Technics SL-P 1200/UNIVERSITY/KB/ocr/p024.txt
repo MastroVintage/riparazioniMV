@@ -1,0 +1,45 @@
+RF signal output
+
+ott)
+
+C125
+
+JSW3
+C124
+
+(A1 + A2+ A3 + A4)
+
+amplifier
+
+Dropout
+detector
+CS
+
+BDo
+
+C126
+
+O
+THT. us
+
+Optical servo (AN8370S)  ¢497
+Fig. 6-4 RF Amplifier and Dropout Detection
+
+(3) Off track detector
+Off track detection refers to a signal resulting from detection of the beam between tracks.
+When the tracking servo is disconnected, the beam crosses a track. In this case, the relationship
+between RF signal and off track detection signal is as shown in Fig. 6-6.
+This detection signal is used as a control signal in the IC and also as SENSE signal to be sent to the
+microcomputer.
+
+RF signal
+
+detection
+signal
+
+Dropout (BDo) | | Fig.6-6 Off Track Detection
+detection signal
+
+Fig.6-5 Dropout Detection
+
+—24—

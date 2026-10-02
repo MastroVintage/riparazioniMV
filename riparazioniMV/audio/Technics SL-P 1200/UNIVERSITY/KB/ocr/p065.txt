@@ -1,0 +1,33 @@
+2-4 Spindle Motor Circuit Check (Laser ON, spindle motor control)
+
+When the focus is adjusted by focus search, a spindle motor start command is sent to start the spindle
+motor.
+
+First, check the laser that it is ON and then the spindle motor circuit.
+
+| Check by referring to the APC circuit diagram. ]
+
+OK
+
+L See the spindle motor control circuit diagram. |
+
+OK
+
+Proceed to 2-5.
+
+ry | TP8 as |
+
+Microcomputer
+
+1C10
+
+poccocococcc coco
+
+1C101 *(1) Check PBO to PB3 voltages on the micro-
+computer.
+(2) Check 1C101 pin 5 APC voltage.
+(3) Check CN 5 pin 10 voltage.
+
+Fig. 2-4-1 APC Circuit (Circuit voltages apply where the disk detection mode is in effect.)
+
+—65—

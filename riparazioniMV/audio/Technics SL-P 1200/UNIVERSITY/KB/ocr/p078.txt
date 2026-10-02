@@ -1,0 +1,44 @@
+2-9 Readjustments
+
+The set may be considered operating because the operation from reading the TOC to initiating play has
+been checked and found normal.
+
+o Check the RF amplitude and eye pattern opening if they are sufficient.
+
+o Check if offset adjustment is correct.
+
+o Check if servo gain adjustment is correct.
+
+o Check if the corrective capacity of the LSI is satisfactory.
+
+* For the adjustement procedures, refer to the adjustment part of the manual.
+
+Check procedures and possible faulty points
+
+Connect an oscilloscope as described in the adjustment procedures, and monitor the following signals.
+
+Check RF amplitude if it is about 1.2V. NG NG
+Check focus balance adjustment (best Readjust Optical pickup is faulty.
+eye) if it is correct.
+lox
+i? ] |
+Check final focus adjustment if it is NG .
+Readjust
+
+correct.
+
+OK
+
+Check servo gain adjustment if it NG Readjust
+is correct,
+
+= _| |
+_jox
+1
+. tetas NG .
+Check PLL adjustment if it is correct. Readjust
+
+LSI or RAM is faulty.
+
+|
+

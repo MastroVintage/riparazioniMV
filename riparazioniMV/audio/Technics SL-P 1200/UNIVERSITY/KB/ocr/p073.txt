@@ -1,0 +1,18 @@
+2-7 Audio Circuit Check (DAC, LPF, Mute)
+
+If no sound is reproduced when the LCD is counting correctly in the play mode, check the audio circuit
+and mute circuit from the LSI to DIN pin output.
+
+The 16-bit signals from the LSI are converted to analog signals by the DAC, and branched to right and
+left signals by deglitch. The branched signals are routed via the LPFs to be audio signals. Check the route.
+(In case of DP3, the signals are then routed via the preamplifier to the main amplifier.)
+
+Then, check the mute circuit that it operates properly.
+
+See the DAC and lowpass filter circuit diagram. |
+
+OK
+
+| See the mute and system control circuit sag.
+
+—73—

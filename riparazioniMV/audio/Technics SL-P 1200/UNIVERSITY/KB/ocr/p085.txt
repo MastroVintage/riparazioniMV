@@ -1,0 +1,29 @@
+Sheet 3
+
+Port No. Port . Input/ Voltage, etc.
+foo Signal Description
+Flat | Dual | symbol Output Stop Play
+39| 47 P82 Inner SW I Traverse position confirmation
+40! 48 P83 Door SW l 0 >
+41 | 49 POP |
+42 | 50 P91 Anti-drop | 5V >
+43 | 51 P92 Sw2 l 5V >
+44 52 P93 SW3 | 5V >
+45] 53 PA} 5V > O when door starts opening
+} Loading solenoid control
+46 | 54 PA1 O 5V > O when door is open
+47 | 55 PA2 NC
+48 | 56 PA3 O 5V > Power circuit control
+49 | 57 PB CNT4 oO 5V 0
+50 | 58 PB1 CNT3 Oo 5V 0
+Optical servo control signal
+51 | 59 PB2 CNT2 oO 5V 0
+52 | 60 PB3 CNT1 O 5 0
+53 | 61 | OSC2 AVAVAVAVAVA >
+} Crystal 4 MHz
+64 | 62 | osct AVAVAVAVAV A
+55 |63 | X1 | > > Same as SENSE input as to P7@
+56 | 64 x¢ NC
+57 1 vss Oo ¢) >
+58 2 Pod NC
+

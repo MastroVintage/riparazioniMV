@@ -1,0 +1,45 @@
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+12 samples of data (six each for the right and left) are taken as a frame for signal processing. In
+other words, 24-symbol data constitutes a frame. W1 to W24 shown in Fig. 9-1 correspond to
+it.
+
+Data W1 to W24 are first scrambled by C2. Scramble may be considered to be a small interleave.
+In C2 scramble, the data are delayed over two frames alternately in units of sample data.
+
+After the C2 scramble, the data enter the C2 encoder, which generates 4-symbol parity signals
+Q1 to Q4 from the 24-symbol data using reed solomon code, and arranges them in the frame
+center.
+
+The symbol data count in one frame is 28 in total.
+
+Next is the interleave.
+
+As shown in the figure, the interleave delays the 28-symbol data, including the Q parity signals,
+over the range of 4 frames minimum to 108 frames maximum.
+
+The C1 encoder generates 4-symbol parity signals P1 to P4 from the 28-symbol data, which
+have been rearranged by interleaving, using reed solomon code, and arranges them at the frame
+end.
+
+Here, the symbol data count in a frame is 32 in total. (See Fig. 9-3.)
+
+| 1 frame = 32 symbols ;
+
+P1 P2 P3 P4
+
+* Symbol partities P1 to P4 are added to the 28 symbols
+arranged horizontal in a frame, and four symbol parities
+are added to the 24 symbols arranged diagonally.
+
+Fig. 9-3 CIRC Code Composition
+
+—37—

@@ -1,0 +1,48 @@
+5-3 LCD and LED Display Circuit
+
+COM 28
+1C901 LOAD
+LCD driver
+SEG33 1
+j CLOCK
+LCD SEG48 16
+SEG6 34 DATA-IN
+SEG32 60 BLANK
++10V
+RM 12] 01 3 LATCH
+PAUSE 1C7
+Illumination S 11] 02 LED driver
+stor yo 14_ ok
+(9) (3) REPEAT 8 13. SIN
+a902 ( ¥) _
+e 15 R
+
+e
+Qg01
+
+Fig. 5-3. LCD and LED Display Circuit
+
+LCD
+
+LCD CK
+
+DATA
+
+Reset
+Q2
+
+LED
+
+LED CK
+
+Q3
+
+P40
+
+P41
+
+P42
+
+P50
+
+P51

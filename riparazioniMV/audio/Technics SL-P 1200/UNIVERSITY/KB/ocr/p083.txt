@@ -1,0 +1,30 @@
+3-2 Microcomputer Pin Voltages (Stop, Play)
+
+Microcomputer MN1554 CAC or MN1554 Sheet 1
+T
+Port No. Port . Input/ Voltage, etc. a
+a Signal Description
+Flat | Dual | symbol Output Stop Play
+[ 1 9 P12 0 5V > During H During L Loading motor
+loading L eject H FWD/REV contorl
+2; 10 P13 O 5V >
+3| 11 SYNC NC
+4) 12 SIRO I 5V > Low key interrupt input when key input is entered
+5}| 13 IRO BLK CK | 0 | | | | | | | | 0 1C501 block clock (75 Hz)
+6 | 14 SBT CLD CK | 5V TTT 1C501 frame clock (7.53 kHz)
+a Subcode QO take-in
+7) 15 SBO NC
+8} 16 | SBI SUB O Waveform Waveform 1C501 subcode O data
+9| 17 RST 1 5V >
+10] 18 P2¢ CDPSIN | 6) > H ...Stop
+Toyota specifications
+11] 19 P21 HAR | 0 > H ... Stop (Traffic information)
+12 | 20 P22 VAC+5V I 5V > ACC power detection
+13 | 21 P23 NC
+14 | 22 P3¢ Q¢ l 0 >
+15 | 23 P31 Q1 | 0 >
+Key input of 4-bit code
+16 | 24 P32 Q2 | 0 >
+17 | 25 P33 Q3 I 0 >
+18 | 26 P4¢ LCD LOAD oO 1C901 LCD driver load LCD data sending |
+

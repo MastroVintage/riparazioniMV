@@ -1,0 +1,54 @@
+3-2 Loading Operation
+
+Output
+
+Remarks
+
+Solenoid ON
+
+Loading motor ON
+
+Door opens.
+Elevation gear begins to
+descend.
+
+|
+|
+I
+|
+|
+i}
+I
+I
+I
+I
+|
+I
+I
+'
+I
+|
+J
+
+Roller gate opens.
+Roller turns.
+
+; Magnet plate holds disk down.
+
+Lowering
+
+SW3 ON
+
+Door SW OFF
+
+Solenoid OFF
+
+| Traverse deck is free.
+
+Loading motor OFF
+
+Spindle motor ON
+
+Elevation gear at bottom
+dead center.
+

@@ -1,0 +1,60 @@
+10-1 D—A Converter
+
+1C801 is a D—A converter, which converts
+digital signals to analog signals. Digital signals
+are input to pins 1 to 16 of 1C801, 16 bits
+parallel. Pin 1 (B1) is MSB, and pin 16 (B16)
+is LSB. PAM signal is output from pin 17
+(OUT).
+
+(Lch = 1 kHz, Rech = 0)
+Fig. 10-2 PAM Signal
+
+10-2 Deglitch Circuit
+
+The deglitch circuit consists of 1C253 (analog switch), 1C252 (operational amplifier), C255 and C355 (for
+
+hold).
+
+Pin 19 (L DG) of 1C601 (LSI) is the deglitch signal output for the left channel, and pin 20 (R DG) of
+
+1!C601 is the deglitch signal output for the right channel.
+
+Fig. 10-3 shows a demodulation timing chart of the deglitch circuit.
+
+When L DG signal is low, the left channel circuit takes signals in, while the right channel circuit outputs
+
+the signals that have been taken in (and held by C255).
+
+L/R data
+changeover
+timing
+LDGLT
+Deglitch
+
+RDGLT
+
+Lch output
+Output {
+
+Rch output
+
+Rch holds
+
+I
+| Ren ie eh nos Fch <—p-}-—— >
+| takes inl | takes in
+1
+Roh | Reh holds Oa, Reh holds |
+takes in takes in l
+
+|
+| |
+|
+1 | | |
+1 |
+|
+
+Fig. 10-3 Delitch Timing
+
+—52—

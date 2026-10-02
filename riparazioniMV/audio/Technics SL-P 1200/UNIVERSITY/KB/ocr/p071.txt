@@ -1,0 +1,7 @@
+2-6 LCD and LED Check (LCD driver, LED driver)
+
+When TOC is deciphered, data is fed from the microcomputer via the drivers to select the ON mode. The
+LCD flashes until the play mode starts.
+
+| See the LCD and LED circuit cag
+

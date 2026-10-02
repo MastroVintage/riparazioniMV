@@ -1,0 +1,38 @@
+(3) Control data
+Control data is recorded in one symbol (8 bits) in one frame.
+The 8 bits are named P, QO, R, S, T, U, V, and W in this order. Actually, however, only bits P and
+QO of the 8 bits are used.
+
+Subcode
+channel
+Sync signal }
+Sync signal
+1/75 second
+(13.3 ms)
+a
+
+Fig. 9-6 Control Data
+
+Control P signal
+This signal discriminates program signals (music signals) or intervals between melodies on the
+read-in track, and indicates the program end on the read-out track using a 2 Hz repetitive
+
+pulse.
+Control Q signal
+
+Details of melodies recorded on the read-in track, program track, and read-out track of the disk
+are recorded for use in various kinds of display and control.
+
+Read-in track
+
+Music No. Point Melody time Zz Overall time
+(Melody No.) (Minutes, seconds, frame) ero (Minutes, seconds, frame)
+
+Program track and read-out track
+
+Control Music Music No. | Melody time Zero Overall time
+emphasis No. index (Munites, seconds, frame) (Minutes, seconds, frame)
+
+Fig. 9-7. Control O Details
+
+—40—

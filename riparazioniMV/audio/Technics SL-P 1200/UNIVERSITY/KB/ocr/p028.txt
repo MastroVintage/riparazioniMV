@@ -1,0 +1,30 @@
+(1)
+
+(2)
+
+Tracking error circuit
+
+The tracking error circuit inputs the I-V converted signals to pins 2 and 4 via C119 and C117.
+
+The comparators shape the waveforms.
+
+In the tracking error process of the single beam type, the phase difference between the two signals
+is detected and a pulse corresponding to the phase difference is generated as described in 2-3. Deviat-
+ing direction is judged from the polarity of the pulse. The generated pulse is smoothed by the LPF
+into an analog tracking error (TE) signal. This is how the phase comparator and LPF operate.
+
+Then, the TE signal is output from pin 6 (TE OUT) via the TE amplifier and TE SW.
+
+VR102 is the tracking gain (TR GAIN) control, and VR106 the tracking offset (TR OFFSET)
+control.
+
+Kick and hold circuits
+
+Kick means jumping the beam from one track to another during a pause or manual search. Kick
+timing is set by a control signal from the microcomputer, and a kick signal is output to pin 20. The
+waveform of each kick signal is shown in Fig. 6-10.
+
+The hold circuit holds the preceding value of a TE signal in a kick section. TE SW is kept off during a
+kick. Signal waveforms during a pause kick are shown in Fig. 6-11.
+
+—28—

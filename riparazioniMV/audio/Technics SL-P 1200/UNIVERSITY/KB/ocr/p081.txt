@@ -1,0 +1,32 @@
+LPF Digital Power CN6 (3-pin)
+
+—, a
+Pin No. Name of Pin Stop Play Remarks
+1 GND 0 >
+© 5V © 5V >
+® 5V 5V > Digital 5V
+LPF Control Input/Output CN7 (9-pin)
+—
+Pin No. Name of Pin Stop Play Remarks
+1 PAM 8) % Fe SRF
+2 GND 0 >
+3 LDG Waveform >
+4 RDG Waveform >
+5 D. EMPH 0 0 De-emphasis disk 5V during play
+6 @® 10V 10V >
+7 © 10V © 10V >
+Audio
+8 ROUT 0 Waveform
+Audio
+i 9 LOUT 0 Waveform
+i L
+DC/DC Converter CN8 (6-pin)
+—
+Pin No. Name of Pin Stop Play Remarks
+1 V BAT 14.4V > Battery power
+2 GND 0 >
+3 V ACC 14.4V > Accessory power
+4 V CONT 5V > O when disk is off
+5 © 5V ~ 5V >
+6 © 10V - 10V >
+

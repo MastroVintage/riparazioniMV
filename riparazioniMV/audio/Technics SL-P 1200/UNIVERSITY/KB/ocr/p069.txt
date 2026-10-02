@@ -1,0 +1,27 @@
+1)
+
+2)
+
+3)
+
+RFwaveform when the focus servo is faulty.
+
+Check points
+
+o Microcomputer input and output ports
+
+o Connection from 1C101 pin 66 FEOUT to 1C102 pin 2
+o Focus offset readjustment
+
+o Focus gain readjustment
+
+RF waveform when the tracking servo is faulty.
+
+MITA ATWT
+
+Check points
+o Tracking servo circuit from 1C101 pin ©) TEOUT to pin (5 HIN, pin (@ HOUT, CN4
+
+pins (1) and @)
+o Tracking gain readjustement
+Normal waveform

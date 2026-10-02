@@ -1,0 +1,26 @@
++10V
+
+P10 (TRV F) (H)
+
+Pi (TRVR) (L)}
+
+Microcomputer
+1C10
+
+TP2
+
+|
+| Inner SW
+i
+
+When a disk isset on the turntable, the microcomputer is set in the disk detection mode (CH1 high), and IC603 turns on for s7
+forced traverse motor operation. CN1
+Internal switch state detection by P82 on the microcomputer controls the traverse motor to run forward or backward (P10, P11),
+and the forced mode ends when the optical pickup reaches the prescribed position.
+1. Check microcomputer PB3 (CNT1) that it is high.
+2. Check if microcomputer P82 changes from low to high.
+(Normally, operation starts in the internal switch ON state. The switch turns off when the traverse motor starts running for-
+ward.)
+3. If P82 shows no change, check the circuit from P10 and P11 to the traverse motor.
+
+Fig. 2-3-1 Traverse Motor Forced Operation Circuit (Circuit voltages apply where the traverse motor is running forward.)

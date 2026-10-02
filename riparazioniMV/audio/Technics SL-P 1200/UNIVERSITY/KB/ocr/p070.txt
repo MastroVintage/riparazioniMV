@@ -1,0 +1,62 @@
+n
+D
+nT
+n
+Be
+nN
+mw
+Tm
+A
+2)
+A
+
+—Q--
+aI
+2)
+
+m
+7
+=
+L
+—— -@)----
+m
+m7
+=
+n
+Cc
+ow
+—_—-—-—-O-—
+3
+
+1
+l
+| L
+a
+PCK PCK | +10V
+1 | y
+1C501
+1C401 (PLL) | | (LS1) Oo
+i |
+1
+f
+FPC FPC 1 Q605 Q604
+1 !
+Be | CLVS @)—
+| {
+Lee ee =)
+
+1. RFsignal (JSW3) amplitude and eye pattern opening are not sufficient. Readjust the eye pattern.
+2. Check PLL IC pin 3 EFM and pin 5 PCK.
+3. Check LSI decision output pin 78 FPC and pin 77 CLVS.
+
+G@) CLVS..... Normal, FPC .... NG > PLL [Cis faulty.
+@ LLVS .... NG, FPC .... NG ~> Traverse deck (spindle circuit board) is faulty.
+4, Check (1) BLKCK, (2) CLDCK, and (3) SUBO from LSI.
+
+Fig. 2-5-2  Subcode O Data Read Circuit (Circuit voltages apply where the play mode is in effect.)
+
+(Microcomputer)
+
+1C10
+
+Traverse control

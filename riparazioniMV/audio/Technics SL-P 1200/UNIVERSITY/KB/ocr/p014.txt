@@ -1,0 +1,30 @@
+4-1 Required Power for CD Circuit
+
+The following power inputs independent of the power supply for the system are necessary for the CD
+circuit.
+1) Direct input from battery
+2) Input from accessory power circuit
+However, illumination power is supplied from the main amplifier for the system.
+The power required for the CD circuit is as follows:
+1) @ 10V, © 10V
+2) © 5V,0 5V
+The @) 5V power supply is divided as follows for preventing noise and selection during operation.
+1) @ 5V digital power for digital circuit
+2) @ 5V analog power for analog circuit IC
+3) @ 5V battery power for microcomputer, supplied before disk insertion
+4) @ 5V sensor power from accessory power supply to loading sensor
+
+4-2 Power Supply Control
+
+G@) 5V battery power is kept supplied. The following voltages, however, are supplied when door SW and
+SW2 are closed (going low) by disk insertion.
+
+1) ® 10V
+
+2) ® 5V digital, © 5V analog
+
+3) © 10V, © 5V
+Control by signal (1C10) PA3 low from the microcomputer is for supplying power until the disk is ejected
+in the event of faulty disk loading.
+
+—14—

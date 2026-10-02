@@ -1,0 +1,53 @@
+(3)
+
+Brake circuit
+
+The brake circuit brakes the tracking actuator to quickly retracts the tracking servo after rapid feed
+or kick (10/100).
+
+The process is shown in Fig. 6-12.
+
+The brake circuit applies a single limiter (indicated by the dotted line in the figure) to the TE signal
+to absorb the energy after a kick.
+
+The figure shows the case of KICK REV. In the case of KICK FWD, the brake is applied with the
+single limiter inverted in polarity. Therefore, the brake circuit requires a kick direction discriminating
+signal, which is generated from a tracking cross signal and off track signal as shown in Fig. 6-13.
+
+The cross signal has an advanced phase in KICK FWD, and a delayed phase in KICK REV. Braking
+direction is determined by detecting this phase difference.
+
+TE signal
+
+TE SW
+
+Fig. 6-12 Brake Timing
+
+m | atm! AT Are
+RF ATR UGIN lll i
+signal I 1 I i | | !
+l
+
+I
+| | !
+1 i | i] | I \ { |
+| | | \ \ | |
+| { ; | |
+
+TE LVS +>-f—- a a
+signal \ ! f \ !
+
+1 | !
+
+TE 1 | | | |
+CROSS 1
+| | 1 1 l 1 | I
+! 1 1 1 1 \
+1
+Off track ; | im | | { 1 f | 1 fi |
+1
+
+detection ' ! T | ' i
+a) KICK FWD b) KICK REV
+
+Fig. 6-13 Kick Direction Discrimination

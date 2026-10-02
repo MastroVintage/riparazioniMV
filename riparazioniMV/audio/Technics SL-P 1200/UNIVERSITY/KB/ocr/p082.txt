@@ -1,0 +1,40 @@
+TRE, BASS, CONT CN9 (6-pin) P3D only
+
+Pin No. Name of Pin Stop Play Remarks “|
+1 RNF 0 4.5V
+2 RO 0 4.5V
+3 ROUT 0 4.5V
+4 Lout 0 A5V When connected to DIN input
+5 Lo 0 4.5V
+6 | LNF 0 4.5V | |
+LCD Control Key Input CN10 (26-pin)
+Pin No. Name of Pin Stop Play Remarks
+1 LCD LOAD
+2 LCD CLOCK
+3 | DATA Waveform > | I tt i
+4 5V 5V > Digital 5V
+5 NC / /
+6 BLANK (LCD) 8) > High when reset
+7 GND 0 >
+8 | Illumination (LCD) 14.4V > Honinvton ogee lifer
+9 | a3 0 > |]
+10 Q2 0 >
+11 Q1 0 > ¢ High pulse when key is ON
+12 Q¢ 0 >
+13 INT 0 >
+14 RM (Ramdom memory) 8V > )
+15 RAUSE 8V >
+16 STOP iv 8V Voltage drops when LED lights.
+17 PLAY 8V 7V
+18 REPEAT 8V >
+19 SCAN 8V >
+20 DISC 0 iaeeeiaedia and low during loading
+21 ALARM (NC) / /
+22 GND 0 >
+23 @ 10V 10V >
+24 | Illumination 14.4V > Hlaminetion power eter
+25 BUP 5V 5V > Battery 5V
+26 RESET ce) 7 10V when reset button is ON
+
+—382—
+

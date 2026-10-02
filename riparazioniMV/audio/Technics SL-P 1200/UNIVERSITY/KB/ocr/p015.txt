@@ -1,0 +1,60 @@
+5. MICROCOMPUTER PERIPHRAL CIRCUITS
+
+5-1 Reset Circuit @® 5V digital
+LCD reset Ic4 104
+10,411 Ag
+Q2 6} o< | < @ 5V battery
+poo e eee -
+® 5V digital
+
+IC7, 1C501 reset Voltage detector
+
+03
+IC3 © e
+
+@ 10V & SV digital @ 5V digital
+
+® 10V
+
+IC8
+Fae
+Reset SW I
+1
+
+Voltage detector
+
+IC3 13
+
+Power control u C | Door SW
+
+12 SWw2
+Voltage detector
+
+Acc @ 5V
+1C701 1C704
+® 14.4V
+
+Acc @ 5V
+
+Fig. 5-1 Reset Circuit
+
+Microcomputer
+(1C10)
+
+<
+iw)
+0
+
+|
+
+=o]
+n
+4
+
+zg
+Se Ww
+
+pm cOnr n-ne Ce me we em oe Qe - OOM “On ww He HH “Oe -
+vu
+o ©
+o °

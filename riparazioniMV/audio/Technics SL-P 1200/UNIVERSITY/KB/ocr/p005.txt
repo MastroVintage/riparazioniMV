@@ -1,0 +1,98 @@
+2. BLOCK DIAGRAM and CD SYSTEM OPERATION
+
+2-1 Block Diagram
+
+RF
+amplifier
+
+@)
+
+-5— Ae -
+oe EE
+
+a 2 BDO
+w
+
+RF in@®
+
+mos
+eco
+
+[=]
+
+Optical te out
+servo
+
+e H
+AN8370S
+
+Tracking 3 Tracking coil
+
+drive
+Traverse e Traverse
+BALL [aa rowers more
+
+Fast F/S
+select
+
+T
+
+Spindle
+motor
+
+Spindle
+
+2
+oO
+Le
+jum
+G)) AN82815
+
+; LPF de- Audio QO
+
+RF/PLL : Wawel a. out
+AN371s SRES on oY tbatance 1 : Fn output
+; PF de- ! i
+ge —_{t <r |
+i Solenoid @®
+
+Cay @10V power Battery D
+Reset
+
+® 5v
+
+: ( ,
+A P71 Microcomputer MN1554CAC digital)?
+C) P70 Micro-
+
+computer
+power
+
+©10v
+SO 5v
+
+t=
+t<
+oo
+OO
+
+Solenoid
+driver
+
+Deck solenoid
+
+Relay ®
+
+Loading
+motor driver sv
+power AC
+(wi) c®
+
+Loading
+motor
+
+Keyboard
+
+Deck sensor
+
+Fig. 2-1 Block Diagram

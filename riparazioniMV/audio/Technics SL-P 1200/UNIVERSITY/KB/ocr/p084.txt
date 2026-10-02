@@ -1,0 +1,26 @@
+Sheet 2
+
+[ Port No. Port Signal Input/ Voltaje, etc. | Description
+| Flat] Dual | symbol Output Stop Play
+19] 27 P41 LCD CK 0 0 1C901 LCD driver clock LCD data sending
+20; 18 P42 DATA O LCD, LED data
+21; 29 P43 NC
+22; 30 P5¢ LED LOAD O 1C7 LED decoder load LED data sending
+23, 31 P51 LED CK O 1C7 LED decoder clock
+24| 32 P52 NC
+25 | 33 VDD | 5V > Battery 5V
+26 | 34 PC O 5V >
+27 | 35 PC1 CDPY OUT O 5V 0 CD play signal, system control
+28 | 36 P53 O 5V > Battery 5V detection
+29 | 37 P6¢ NC
+30 | 38 P61 NC
+31 | 39 P62 NC
+32 | 40 P63 NC
+33 | 41 P7¢ SENSE | 1C101 Optical servo state signal input
+34 | 42 P71 FLOCK | 5V 0 1C101 RF signal/no RF signal input; Low for RF signal input
+35 | 43 P72 TEMP I 5V > 1C101 temperature sensor L: Stop command
+0 (Pulse
+36 | 44 P73 DTC (STAT) | 0 sometimes) 1C501 LCV state confirmation input
+37 | 45 P8¢ rom votes | 5V > 1C2 (Reset circuit)
+| 38 | 46 | Pat NC |
+

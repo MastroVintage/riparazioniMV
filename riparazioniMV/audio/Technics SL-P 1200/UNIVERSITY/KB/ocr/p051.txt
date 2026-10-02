@@ -1,0 +1,43 @@
+—lg—
+
+10- AUDIO CIRCUIT
+
+IC (LSI) MN6617F
+
+Su bcode decoder
+
+DEMPHA
+
+R263
+
+1C251
+—O “H"...... ON
+—e “L"...... ON
+
+L.P.F801
+
+(+10V)
+
+(+5V) (-5V)
+
+R502, 355
+
+R352
+
+o O
+< DA15
+a (6) —> ©)
+3 Inter circuit a3
+a polation c> ( 16 bits ( OUTPUT (7)
+3. circuit parallel
+z pao (42) a) (ie) B16 c352
+R252
+O
+R501, 255 R261
+D | muTe 10253 .
+aye — 3
+(29) —O “H" ..... ON coe 9 4 C252
+—e “L"....... ON 252
+IC503(DAC)PCM55HP a
+
+Fig. 10-1 Audio Circuit

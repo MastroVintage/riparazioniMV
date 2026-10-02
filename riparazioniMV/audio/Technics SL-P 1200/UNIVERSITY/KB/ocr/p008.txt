@@ -1,0 +1,30 @@
+3. LOADING MECHANISM and OPERATION
+
+3-1 Disk Loading Mechanism
+
+The following optical switches are provided as sensors to detect disk position.
+o Door switch
+o SW2
+o SW3
+
+SW3
+
+Solenoid
+
+Roller
+
+SW2 Loadimg motor
+
+\ j Door Switch f
+
+Fig. 3-1 Loading Mechanism Sensor Locations
+
+The following are provided as driving devices:
+o Loading motor : Turns both ways to load, eject, raise, and lower disks.
+o Solenoid : Opens and closes the door, and allows descent on the traverse deck
+
+In the play mode, the traverse deck is set on a free cushion base with the disk held down by the magnet
+plate.
+
+* The drop detection switch is a standby switch that is used to recover the magnet plate by means of
+EJECT, should it drop when there is no disk loaded.

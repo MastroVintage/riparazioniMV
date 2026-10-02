@@ -1,0 +1,54 @@
+Fig. 9-9 shows an LSI block diagram.
+
+1)
+
+2)
+
+3)
+
+4)
+
+EFM demodulation, subcode demodulation
+
+In EFM demodulation, an extraction clock PCK is used to latch EFM signal every 14 bits to
+return it to the original 8-bit data.
+
+The frame clock of 7.35 kHz in EFM signal is output from pin @ (CLDCK) by synchronized
+detection.
+
+In subcode demodulation, the sychronized signal in the 14 bits preceding EFM demodulation is
+detected, and subcode Q data is output to pin @) (SUBQ) and emphasis/de-emphasis signal to pin
+@) (DEMPHA) (high in case of emphasis signal).
+
+Also, a subcode QO block clock of 75 Hz is output from pin 1 (BLKCK).
+
+C1, C2 unscramble, deinterleave
+
+Time base processing (data rearrangement) is used during recording to deal with various burst
+errors and random errors that occur through the recording and reproducing systems.
+
+The data thus rearranged is returned to the original state by an operation opposite to that of
+recording, using an external RAM (16K).
+
+(a) Pins 43 to 50 (DO to D7) : Data signals to RAM
+(b) Pin 6) (RAM WE) : Command signal to write in RAM
+(c) Pin 62 (RAM OE) : Command signal to read from RAM
+
+(d) Pins 63 to 63 (RAMAO to RAMA10) : RAM address signals
+Error detection, correction (C1, C2 decorders)
+The C1 decoder detects errors in data subsequent to C1 unscramble and corrects them, using
+parity P signal. The C2 decoder detects errors in data subsequent to deinterleave and corrects
+them, using parity QO signal.
+System timing
+Xtal signal (16.9344 MHz) that is connected to pin @ (X2) and pin 4) (X1) is divided to
+generate a clock for signal processing in the LSI and a timing clock signal for external circuits.
+(a) Pin @2 (SMCK)
+
+Signal output of 4.23 MHz
+(b) Pin 19 (LDG), pin 20 (R DG)
+
+Signal output of 44.1 kHz used as a deglitch signal for audio circuit
+CLV servo
+The CLV servo circuit is described in 9-3 (3).
+
+—43—

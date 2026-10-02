@@ -1,0 +1,63 @@
+7-1 Traverse Detector Circuit
+
+The tracking error signal corresponds to the
+eccentric component of the disk as viewed
+within the range of a single disk revolution. In
+a little wider range, however, a DC voltage
+(servo error voltage) is generated as shown in
+
+a 4 REV direction
+of 25 Ri
+xX On
+Set ‘ \
+
+Optical pickup is
+moved by traverse
+servo.
+
+Servo error
+voltage
+
+GND point
+
+FWD direction
+
+Fig. 7-2. This DC voltage drives the traverse
+mechanism.
+
+The traverse detector circuit referred to here
+covers from the tracking coil output to the
+lowpass filter (pin 1 of 1C601) output. Pin
+8 of 1C601 outputs forced drive signals, that
+is, forced forward H and reverse L, by micro-
+computer commands.
+
+Pin 7 of 1C601 is set to a reference voltage
+of +5V.
+
+Fig. 7-2 Traverse Servo Voltage
+
+7-2 Mode Select Circuit
+
+The multiplexer (1C603) is used for selecting three inputs in mode selection.
+1) Servo error voltage selection
+The output of pin 1 , 1C601 is applied to the drive circuit when pin 10 and pin 9 of |C 603 are
+high.
+2) Brake selection by reference voltage
+The output of pin 7 , 1C601 is applied to the drive circuit when pin 10 of IC603 is low and
+pin 9 of 1C603 is high.
+3) Forced forward/reverse selection
+The output of pin 8 , 1C601 is applied to the drive circuit when pin 9 of |C603 is high.
+The input to pin 9 of 1C603 is controlled by CNT1 to CNT3 of the microcomputer via the NOR circuit.
+Thus, pin 9 goes high when all of CNT1 to CNT3 are low (during disk play), or goes low when one of
+CNT1 to CNT3 is high (other than during disk play).
+The input to pin 10 of |C603 is controlled by CLVS signal 77 of LSI (IC501). Thus, pin 10 goes high
+when T11 is OK.
+
+7-3. Traverse Drive Circuit
+
+The traverse drive circuit consisting of 1|C602, Q606 to O609 drives the traverse motor using the reference
+voltage applied to pin 3 of IC602 according to the polarity corresponding to the voltage difference
+applied to pin 2 and the voltage difference.
+
+—33—

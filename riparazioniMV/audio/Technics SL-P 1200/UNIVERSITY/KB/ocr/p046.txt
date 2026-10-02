@@ -1,0 +1,33 @@
+(2) Operations associated with microcomputer
+
+Fig. 9-13 shows an LSI (MN6617) and microcomputer (MN1554CAF) connection diagram. There
+are four inputs and five outputs as viewed from the LSI.
+
+Subcode
+decoder
+
+CLV mode
+setting
+
+comput- Attenuation
+er inter- control
+face
+
+CLV status
+confirmation
+
+LSI (MN6617) Microcomputer (MN1554CAF)
+
+Fig. 9-13 LSI and Microcomputer Connection Diagram
+
+1) BLKCK, CLDCK, SUB Q signals
+These three signals transfer the subcode Q data, which has been demodulated from the EFM
+data in the LSI, to the microcomputer. The microcomputer deciphers the subcode QO data for
+time base control and display.
+BLKCK is a clock signal of one block (98 frames) extracted from the EFM data; CLDCK is a
+clock signal of one frame similarly extracted, and SUB O becomes subcode OQ data.
+Data transfer is serial.
+
+Fig. 9-14 shows a timing chart of the three signals.
+
+—46—

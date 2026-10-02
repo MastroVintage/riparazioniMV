@@ -1,0 +1,36 @@
+4. POWER CIRCUIT
+
+Q705
+
+@ 10V
+
+Battery ® 14.4V O
+® 5V digital
+
+@® 5V analog
+
+@ 5V battery (Always ON)
+
+Loading solenoid + (Always ON)
+
+Accessory ® 14.4V 0 Relay ®
+
+@ 5V Accessory
+
+Microcomputer (1C10) PA3 .
+Loading sensor power power supply
+
+12
+Door SW >a
+sw2 D>
+
+IC5
+
+Microcomputer
+(1C10) P22
+
+Voltage drop detector
+
+1C704
+
+Fig. 4-1 Power Circuit

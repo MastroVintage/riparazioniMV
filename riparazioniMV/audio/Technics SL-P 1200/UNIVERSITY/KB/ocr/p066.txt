@@ -1,0 +1,89 @@
+as | DT as Ceara
+| ! ! ! |
+SENSE O P70 !
+y ) i (About 25ms_—!
+! P03 i pulse) MLD
+'
+I I ! t 1! i
+O X-1 EC
+1 j { (25 mS pulse} 6») ; @) | (2.5V standard
+—— = m
+10101 y P02 0-———— 7M CLK 1 = | pulse)
+I t { ! Analog 5V Wr | |
+! ! (Data pulse) | 9 I |
+P01 ¢ _-® (8)M DATA 1 ;
+(
+Low OL J ! l
+IC10 ry
+(Microcomputer) " i | |
+t l |
+ITC l |
+i ' |
+I I
+“H” pulse during L— 1C501_—__ | |
+searching focus (LS1) | l
+I |
+|
+7
+
+The turntable turns if focus search is under way and the laser is ON.
+
+High pulse (disk detection) is applied from SENSE (4 of 1C101 to the microcomputer during search,
+and an LCV control signal is applied from the microcomputer to the LSI.
+
+The LSI generates a spindle motor ON signa! (PC) and spindle motor drive pulse (EC).
+
+The traverse deck has the spindle motor drive IC, so the final check point is up to CN3.
+
+Fig. 2-4-2 Spindle Motor Control Circuit (Circuit voltages apply where the play mode is in effect.)
+
+eocococcocce |
+' \
+\
+|
+
+|
+
+!
+
+I
+
+i
+
+I
+
+!
+
+I
+
+I
+
+|
+
+| Spindle motor
+
+I circuit board
+
+I
+
+|
+
+|
+
+!
+
+|
+
+|
+
+I
+
+I
+
+I
+
+I
+
+LoL Le
+
+Lowe Le ee ee ee

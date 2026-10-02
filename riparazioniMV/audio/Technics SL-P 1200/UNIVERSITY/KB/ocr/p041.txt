@@ -1,0 +1,33 @@
+9-2 Reproducing System Signal Processing
+(1) Decoder
+
+Deinterleave
+
+1 C1 unscramble
+
+Japooap 79
+ajquiesosun ZO
+
+Japovap 19
+
+W23
+W24
+
+Jo}eiedas e1ep [01]U09 pue sO}eEjnpowWaPp 4A
+
+Fig. 9-8 Reproducing System Signal Processing
+
+A reproducing system signal processing block diagram is shown in Fig. 9-8.
+
+The flow of reproducing system signal processing is just opposite to the flow of recording system
+signal processing. Here, decoders are error detection and correction are used in place of the C1 and
+C2 encoders that are used for parity generation.
+
+Both the C1 and C2 decoders are capable of error detection and correction. If data is incorrectable
+in the C1 decoder, C1 flag is attached to that data, and after deinterleaving, the data is sent to the
+C2 decoder for accurate correction.
+
+If data is incorrectable in the C2 decoder, an average value is obtained from the preceding and next
+data after C2 unscramble, followed by interpolation processing.
+
+—A1—

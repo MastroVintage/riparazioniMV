@@ -1,0 +1,23 @@
+2-3 Focus Search Check (Traverse Servo, Focus Servo)
+
+When a disk is set on the turntable, the traverse motor runs forward, and the focus starts searching.
+Proceed as follows:
+
+(1) Traverse motor forward run check
+
+(2} Focus search check
+
+See the traverse motor forced operation
+circuit diagram.
+
+ox
+
+See the focus search circuit diagram.
+
+L |
+
+OK
+
+Proceed to 2-4.
+
+—62—

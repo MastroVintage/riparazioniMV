@@ -1,0 +1,103 @@
+eS
+
+LSI| @ Pin SUBO
+
+@ Pin BLKCK Jo Ly
+}
+
+13.3mS (75 Hz} +
+
+Fig. 9-14 Subcode QO data Transfer (LSI to Microcomputer)
+
+2) MLD, MCLK, MDATA signals
+These three signals transfer data from the microcomputer to the LSI.
+
+(a) MLD Data loading signal
+(b) MCLK Data transfer clock signal
+(c) MDATA_ : Transfer data
+
+Data is transferred to set the modes of the CLV control and interpolation circuit in the LSI.
+Fig. 9-15 shows MDATA details.
+
+(LSB)—»)
+
+D4
+
+D3
+
+D1
+
+Remarks
+
+1
+(with FG)
+
+1
+(TT ON)
+
+(STOP)
+
+0
+
+(ACC)
+
+1
+
+0
+(without FG)
+
+0
+(TT OFF)
+
+1
+
+(BRAKE)
+
+0
+
+1
+
+(PLAY)
+
+1
+
+CLV mode
+
+1
+(ATT—1 2dB)
+
+1
+(MUTE ON)
+
+0
+(ATT OFF)
+
+0
+
+(MUTE OFF)
+
+Interpolation circuit
+
+Fig. 9-15 MDATA Details
+
+_A7—
+
+0
+
+(CRC)
+
+(6)
+
+—
+
+(CLVOK)
+
+1
+
+(TT STOP)
+
+1
+
+Status output
+switching
+

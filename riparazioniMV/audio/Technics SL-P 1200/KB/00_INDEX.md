@@ -47,3 +47,6 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 2. Componente passivo/TJ -> grep index_components.tsv; se assente -> overview del foglio probabile -> tile.
 3. Taratura -> adjustments.md -> manual/img/m35..m40.
 4. Ricambi/codici -> manual/img/m23..m26 (OCR inaffidabile sui codici).
+
+## Materiale formativo collegato
+- ..\UNIVERSITY\KB\00_INDEX.md : Technical Guide Vol.17 (SL-XP7) - teoria AN8370S (sez.6 pp.20-31), AN8371S data slice/PLL (= funzioni EHDGA1243), MN6617 (sez.9 pp.36-50), troubleshooting pp.55-86. Ref IC del libro = SL-XP7, non SL-P1200.

@@ -1,0 +1,80 @@
+Digital 5V
+
+7 “XN
+n> ae I BV
+Common VDD 1 \ |
+a ! i | po----- ;
+LCDL
+--L_, ————(1) SEG33._ LOAD “OF pag
+l
+
+Segment \ CLOCK (18) O P41
+
+SEG6 y
+
+I .
+Segment \ BLANK @ ' (6) | BLANK < Reser circuit
+|
+L-———4 SEG32 l
+OSC |
+
+HO sor
+
+r
+
+|
+
+|
+
+I
+
+|
+
+|
+
+|
+l
+
+1c901
+I
+I
+
+1C10
+Microcomputer)
+
+I
+
+I
+
+|
+
+{| Hlumination 14.4V
+> (LCD driver)
+
+6a) +10V
+| I
+‘ @)
+| | rs
+RM I
+D901 04); (12/01 ~LATCH(3) @ P50
+lI
+D902 PAUSE (5); (1) 02 © P51
+| | |
+D903 STOP (8); (10) 03 S-IN (13) L______
+y |
+D904 PLAY (7) : (9) 04 |
+I oo
+D905 REPEAT © () 05 i © é Reset circuit
+I |
+D906 SCAN (19) (7) 06 lic?
+Q902 |
+(6) 07
+© 2 LL J (LED driver)
+CN10
+LCD circuit check LED circuit check
+1. Check the LCDL, LCDCK, and DATA signals from the microcomputer in the play mode. 1, Check the LATCH, CK, and SIN signals from the microcomputer in the play mode.
+2. Check CN10 pin 6 BLANK. 2. Check 1C7 pin 15 R.
+3. Check pulse waves at COM and SEG pins. 3. Check IC7 pin 9 04 that it is OV in the play mode.
+4. Check OSC and VDD. 4. PL3 and PL4 light only when main amplifier illumination power is applied.
+
+Fig. 2-6-1 LCD and LED Circuits (Cirenite valtanoc anniv ushara tha nla wade ie i ££ -4 1

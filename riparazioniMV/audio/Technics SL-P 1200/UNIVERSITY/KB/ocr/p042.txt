@@ -1,0 +1,104 @@
+(2) LSI signal processing
+
+A
+Lu
+isp)
+Z
+Lu
+wn
+| 16K RAM
+(3-1) 09) 5d @ A~O-O~©
+oO = EE
+a
+= a o wi |e
+_ © of
+EFM frequency Ws
+<rre>=—& aioe
+BSSEL 2| |= al
+
+<PCK > , EFM demodulator
+<EFM >— 69 and sync detector
+
+< CLDCK > (2)
+
+<BLKCK >
+< SUBQ >
+< DEMPH >
+< SRF >—»(@5) Microcomputer
+interface
+< DO>
+
+< TRON >—*(19)
+
+©)
+@)
+APS
+@)
+(>)
+a
+@)
+a
+
+<EC>
+<PC>
+<FG>
+<MLD >
+<MCLK >
+<MDATA >
+
+< STAT > +(Z)
+
+Fig. 9-9 LSI Block Diagram
+
+C3 one
+
+uu
+2)
+
+$
+2
+processing
+
+C1, C2 unscramble
+
+deinterleave
+
+Error detection,
+correction (C1,
+C2 decoders)
+
+DA 15 ~ DAO @9)
+
+— 69 L*"]
+©
+
+oOo
+
+(9
+
+a (7)
+
+System timing ©
+miceet
+
+©
+
+VDD
+
+WAY, mo
+
+o TEST
+
+2 GND
+6)—69—62) C—(9
+
+< RDG >
+<LDG>
+
+<t5V >
+
+()——<+5V >
+
+G)
+
+16.9344 MHz

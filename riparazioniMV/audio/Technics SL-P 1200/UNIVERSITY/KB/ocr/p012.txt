@@ -1,0 +1,42 @@
+(1) Sensor input
+In disk loading and ejection, the microcomputer controls the loading motor and solenoid with four
+sensor inputs.
+When a disk is set, the sensor information input to the microcomputer is as follows.
+
+SW3 (P93) 2... . cee ee OV
+SW2 (P92) ..... eee OV
+Door SW (P83) ..........0.. 5V
+Drop detectionSW (P91) ............. 5V
+
+Loading starts as door SW ON information or SW2 ON information switches on the following:
+Power supply
+Solenoid
+Loading motor
+
+Eject starts as the EJECT SW is pressed.
+
+(2) Solenoid control
+The solenoid is controlled by PA@ and PA1 outputs.
+PA‘ is for starting the solenoid.
+PA@ is for holding the solenoid.
+The solenoid operates when the disk goes in or out. (OV during operation)
+
+(3) Loading motor control
+There are three loading motor control modes.
+o Forward operation for loading
+o Reverse operation for eject
+o Stop
+
+Loading
+P® Output
+pO Input
+P ®
+P® @®
+{C11 is acomplementary transistor driver, whose equivalent
+circuit is shown in Figure 3-3.
+Output
+Input
+
+Fig. 3-3. Loading Motor Driver Circuit
+
+—12—

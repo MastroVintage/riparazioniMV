@@ -1,0 +1,36 @@
+6-6 Focus Tracking Drive Circuit
+
+Fig. 6-14 shows the focus tracking servo drive circuit.
+
+Both servos have the same drive circuit except that the focus servo has a search circuit and that the tracking servo has a kick hold circuit.
+
+Optical servo (AN8370S)
+
+C133 R146
+
+Focus coil
+
+Dropout
+detector
+
+1C102
+!
+(+10V)
+
+1
+I
+t
+1
+1
+Control 4
+
+Traverse
+logic >
+
+control unit
+
++
+Tracking
+_ coil
+
+Fig. 6-14 Focus Tracking Drive Circuit

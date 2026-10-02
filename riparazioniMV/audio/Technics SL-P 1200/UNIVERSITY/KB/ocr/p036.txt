@@ -1,0 +1,54 @@
+9. MN6617 CIRCUIT OPERATION
+
+Before beginning a circuit operation description, the signal processing of the recording system is explained.
+
+9-1 Recording System Signal Processing
+(1) Encoder
+
+C1 scramble
+
+> W2
+o 1
+3 I
+o | oO
+a 1 iS)
+< \ a
+3 1 9
+io” a
+ic} ' 3
+Q ' im
+o oO
+a \
+
+W23
+
+w24 r—'> Disk cutting
+
+ONAS 8 WAS PPV
+
+C1 encoder
+
+Control
+data P~W
+
+Fig. 9-1 Recording System Signal Processing
+
+Fig. 9-1 shows a block diagram of CD recording system signal processing.
+
+A brief description of CD recording system signal processing is given in the following.
+
+1) The CD sampling frequency is 44.1 kHz, and quantizing involves A—D conversion to 16 bits
+per sample.
+The 16 bits are divided into two parts, upper 8 bits and lower 8 bits.
+
+* 16 bits per sample are called a data word,
+16 bits per sample 16 bits per sample and 8 bits per symbol are called symbol
+channel (left) channel (right) data
+In other words, two symbols constitutes
+one data word.
+
+1 symbol 1 symbol
+
+Fig. 9-2 Symbol Data and Other Than Data
+
+—36—

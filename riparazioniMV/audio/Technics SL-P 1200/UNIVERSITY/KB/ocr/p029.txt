@@ -1,0 +1,61 @@
+Section of
+inertia
+el bee I
+
+. l
+Accelerating — a Decelerating
+section 11 | section KICK REV
+------} I (Inward)
++0.1V
+“OV Fs J--- KICK FWD
+I | (Outward)
+(b) Single kick
+RF signal | \
+I
+} l
+
+KICK REV a
+TE signal
+0 0 KICK rw |
+
+{c) 10/100 kicks
+
+0 Bits
+(a) Kick signal and RF signal
+
+Fig. 6-10 Kick Signal Waveforms
+
+Kick period
+' I
+
+H Control logic
+
+!
+output
+HOLD ___[~ronL__ P
+
+TRON _ OF Fy
+I [}
+I |
+
+1
+!
+I I
+I
+RF signal |
+TEG | \
+@ Pin ! Raw tracking error
+l
+I
+
+TE SW turns off and
+
+. 1 |
+© PINR M14 nr output falls to zero.
+\
+H. OUT ty
+@ Pin Hold at preceding value
+
+Fig. 6-11 Pause Kick
+
+—29—

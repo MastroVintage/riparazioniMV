@@ -1,0 +1,44 @@
+(Play mode)
+
+SCAN key ON? PAUSE key ON Search key ON
+
+KICK REV mode KICK mode
+PAUSE key
+OFF?
+
+Key kept
+KICK mode
+10-second play end
+
+depressed?
+NO
+SCAN operation
+
+Specified
+Play end
+
+STOP key ON
+TRV REU
+
+Inner REST
+SW ON?
+
+SKIP key ON
+
+ACCESS mode
+
+Near specified
+position?
+
+PLAY key ON?
+
+position?
+
+NO
+
+Memory play
+
+Repeat OFF?
+
+Repeat play
+

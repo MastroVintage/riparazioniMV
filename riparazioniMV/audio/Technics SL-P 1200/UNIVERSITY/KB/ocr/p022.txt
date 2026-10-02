@@ -1,0 +1,42 @@
+6) SEL ...... ee. SENSE signal select command
+e Selects SENSE signal (that indicates optical servo status) to be sent
+from AN8370S to the microcomputer.
+SENSE signal changes depending on the system mode.
+7) KICK wo... cee ee eee Track kick command
+e Controls track kick output signals.
+There are KICK FWD (outward) and KICK REV (inward), and three
+modes of 1 kick, 10 kicks, and 100 kicks according to kick width.
+The logic circuit has 16 (24 = 16) decoding modes, of which eight are used as shown in Table 6-1.
+
+(Vo. “HO... “L")
+
+Logic input Logic control signal output
+CNT2 | CNT3 AF On| TR ON| HOLD! BR ON | KICK SENSE
+
+Mode
+
+Remarks
+
+PLAY 0) 0 ON ON OFF OFF OFF | Off track || Play mode
+
+BRAKE 0 1 ON ON OFF ON OFF | Off track || Brake mode
+
+=
+KICK Kick mode
+CROSS 1 e) ON ON OFF | CROSS
+
+KICK ON | Shaping
+| REV ON ON (REV) | CROSS
+
+KICK ON Shaping
+FWD ON ON (FWD) | CROSS
+
+ACCESS ON OFF eee Coarse feed
+
+| DETECT ON OFF |S latch Disk detection
+
+STANDBY OFF eee Forced return
+
+Table 6-1 Control Logic Table
+
+—22—

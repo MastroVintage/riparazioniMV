@@ -1,0 +1,30 @@
+—----4 r—-
+Microcomputer | |
+
+pa3 oY
+
+c
+4
+me]
+“ oO
+
+PB2
+
+vu
+w
+—_
+C) — <= a= ae
+c
+4
+uv
+—_
+oO
+O
+
+£
+
+Forcus search takes place for disk detection. CNT1 is high due to a command (disk detection) from the microcomputer,
+
+1c101 outputs a search signal (triangular wave) to drive the focus coil,
+
+Fig. 2-3-2 Focus Search Circuit (Circuit voltages apply where forcus search is under way.)

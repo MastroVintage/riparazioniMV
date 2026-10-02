@@ -1,0 +1,16 @@
+# Indice argomenti (dal CONTENTS, pagine verificate). File pagina: pages/pNNN.png, testo: ocr/pNNN.txt
+section	title	pages
+CO-1	Traverse mechanism and optical pickup (1-1 traverse mech, 1-2 3-beam vs single beam, 1-3 tracking error generation)	1-4
+CO-2	Block diagram (2-1, p5) and CD system operation (2-2 flowchart)	5-7
+CO-3	Loading mechanism and operation (3-1 mech, 3-2 loading, 3-3 eject, 3-4 disk loading circuit)	8-12
+CO-4	Power circuit (4-1 required power, 4-2 power supply control)	13-14
+CO-5	Microcomputer peripheral circuits (5-1 reset, 5-2 keyboard interface, 5-3 LCD/LED display)	15-19
+CO-6	AN8370S circuit operation: 6-1 control logic(21), 6-2 laser APC(23), 6-3 RF amp & dropout(23), 6-4 auto focus & focus error(25), 6-5 tracking error, kick, hold(27), 6-6 focus/tracking drive(31)	20-31
+CO-7	Traverse servo: 7-1 traverse detector, 7-2 mode select, 7-3 traverse drive	32-33
+CO-8	AN8371S circuit operation (data slice + PLL): 8-1 EFM, 8-2 PCK, 8-3 other signals	34-35
+CO-9	MN6617 circuit operation: 9-1 recording-system signal processing (CIRC/EFM encoding theory)(36), 9-2 reproducing-system processing(41), 9-3 LSI & peripheral circuits: AN8371S link(44), microcomputer link, subcode, CLV servo(49-50)	36-50
+CO-10	Audio circuit: 10-1 D-A converter(52), 10-2 deglitch(52), 10-3 LPF & de-emphasis(53)	51-53
+CO-11	Muting circuit and system control	54
+TS-1	Symptom check (flowchart sintomo -> procedura)	55
+TS-2	Checking procedure: 2-1 loading(56), 2-2 disk sensor(60), 2-3 focus search(62), 2-4 spindle motor(65), 2-5 RF signal/tracking(67), 2-6 LCD/LED(71), 2-7 audio(73), 2-8 operation/keys(76), 2-9 readjustment(78)	56-78
+TS-3	Appendix: 3-1 connector voltages stop/play (79-82), 3-2 microcomputer MN1554 pin voltages (83-86)	79-86

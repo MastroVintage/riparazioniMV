@@ -1,0 +1,22 @@
+1. TRAVERSE MECHANISM and OPTICAL PICKUP
+
+1-1 Traverse Mechanism
+
+Fig. 1-1 shows the traverse mechanism.
+
+The traverse mechanism conveys power from the motor to the wormgear, gear A, gear B, and main gear,
+and drives the optical pickup with the rack gear.
+
+Gear A and gear B are double clutch gears.
+
+The inner REST switch is closed by the optical pickup base when the optical pickup is returned to the in-
+
+nermost position by the traverse mechanism.
+
+Worm gear Gear A Gear B Main gear
+
+Traverse motor
+
+Opticak pickup base
+
+Fig. 1-1 Traverse Mechanism

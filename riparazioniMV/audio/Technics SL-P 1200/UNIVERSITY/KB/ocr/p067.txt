@@ -1,0 +1,28 @@
+2-5 RF Signal Check (RF Signal, Tracking Servo, LS!)
+
+1) When an RF signal is detected, the focus circuit changes from the search mode to the focus servo
+mode.
+
+2) In this case, a focus lock signal is applied to the microcomputer, which sends a tracking ON,
+command to start the tracking servo circuit.
+
+3) Then, the RF signal is converted to an EFM signal by the PLL IC, and the converted EFM signal
+is applied to the LSI. The LSI demodulates the subcode Q data and supplies it to the micro-
+computer, which deciphers the TOC and selects the play mode.
+
+—If a fault is detected anywhere up to this point, the eject mode follows.—
+
+Check the connection from 1C101 pin 36
+(EFOUT) to 1C102 pin 2.
+
+OK
+See the tracking servo circuit diagram. |
+OK
+
+See the subcode O data read circuit cag. |
+
+OK
+
+Proceed to 2-6.
+
+—67—

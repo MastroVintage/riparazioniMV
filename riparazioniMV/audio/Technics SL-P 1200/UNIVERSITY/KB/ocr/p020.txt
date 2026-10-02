@@ -1,0 +1,71 @@
+6. AN8370S CIRCUIT OPERATION
+
+The optical servo reads the signals recordec on a disk using the laser beam.
+
+AN8370S is the main IC for the optical servo, consisting of laser APC, RF signal amplifier, focus servo
+(including auto focus), tracking servo (including kick), drop output detector, and the control logic that
+controls the optical servo in this IC.
+
+A block diagiam of AN8370S is shown in Fig. 6-1.
+
+< Dropout signal >
+
+< RF signal >
+
+@-@-
+8
+
+< FLOCK signal >
+
+G)
+
+<+5V >
+
+CFBD
+csppe®
+
+FLOCK
+®)
+
+CFBRT
+CSBRT
+
+RFE Dropout
+amplifier detector
+| Lene | Off track
+a — i
+Fe dx i
+=
+
+Cross
+detector
+TE (5)—» < Hold input >
+amplifier
+
+<-5V >
+
+< Search signal >
+
+< SENSE signal >
+
+Matrix
+{subtrac-
+
+: < Focus error signal >
+tion)
+
+< Tracking error signal >
+
+VREF TE|TE
+C)-(2)8) (7) (2) 3)
+
+CNT.
+6) *-€5)
+aS ay —-psyearenen 0 -omevenr weet
+< ControlSignal >
+
+Microcomputer
+
+< Kick signal >
+
+Fig. 6-1 AN8370S Block Diagram

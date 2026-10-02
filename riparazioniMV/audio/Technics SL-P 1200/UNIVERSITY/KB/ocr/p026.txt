@@ -1,0 +1,74 @@
+(1)
+
+(2)
+
+Auto focus circuit
+
+The auto focus uses control logic output AF ON for its operation. It has two inputs, RF cletection
+
+and S detection, and controls search SW and FE SW.
+
+Search
+(Triangular
+wave)
+
+FE
+
+a=
+|
+|
+|
+
+Search ON OFF
+SW
+
+1
+FESW OFF ON
+
+Fig. 6-8 Fo ON Timing
+
+2) Re-focusing
+
+1)
+
+Disk detection
+
+AF ON turns search SW on and FE SW
+off.
+
+In this state, the search signal (triangular
+wave) drives the focus coil (raising or
+lowering the lens).
+
+When the distance between the disk and
+lens is brought close to the focal point by
+focus search, the FE signal develops an
+S-curve, which is detected to turn search
+SW off and FE SW on, thus closing the
+focus serve loop.
+
+The auto focus discriminates the state of the servo by RF detection while the focus servo loop is
+closed. When RF detection is no longer possible due to defocusing, search SW is turned to start
+
+focus search.
+
+This is input to the microcomputer, and whether the focus is correct can be checked at pin 26
+
+(F LOCK). (Low when the focus is correct.)
+
+Focus error circuit
+
+The diagonal sums (A1 + A2) and (A3+A4) of the 4-divided photo-detector are input to pins 39 and
+42. |-V converts the photo-detector output currents to voltages. An external resistor is used for
+gain setting. VR101 is a photo-detector balance (PD BAL) adjuster, used to absorb the sensitivity
+
+difference of the photo-detector.
+
+Subtraction of the two converted signals, that is, (A1 + A2) — (A3 + A4), produces a focus error
+
+signal (FE).
+
+This FE signal is routed via the FE amplifier and FE SW to pin 36 (FE OUT).
+VR104 is the focus gain (FO GAIN) control, and VR105 the focus offset (FO OFFSET) control.
+
+—26—

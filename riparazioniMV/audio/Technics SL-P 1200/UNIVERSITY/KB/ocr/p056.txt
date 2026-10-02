@@ -1,0 +1,24 @@
+2. CHECKING PROCEDURE
+
+2-1 Loading Check (Power unit and microcomputer)
+
+For a disk to be drawn in, the door sensor must detect it to turn power on and the loading motor and
+solenoid must operate under microcomputer control.
+
+—
+Character lamp turned on when NG See the circuit that turns power on (+10V)
+the door is opened? when the door is opened.
+_| L
+ox
+Did the loadi d solenoid NG [ |
+id the loading motor and solenol See the loading motor and solenoid driver
+start operating when the door is > oo.
+circuit.
+opened? |
+OK (If microcomputer terminal voltage
+is wrong)
+Proceed to 2-2. See the microcomputer power supply
+
+and reset circuit.
+
+—56—

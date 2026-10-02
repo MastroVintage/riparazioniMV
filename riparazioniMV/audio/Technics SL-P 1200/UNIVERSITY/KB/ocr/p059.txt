@@ -1,0 +1,50 @@
+]
+
+4MHz oscillator
+
+0
+
+OSC2
+
+5V Battery r 7
+|
+© VDD(5V) |
+] |
+- I |
+Digital 5V 1C705 1C10 I oetpic ieee a:
+\ | This circuit diagram shows the
++10V | (Microcomputer) | Power supply for operating
+| microcomputer.
+5V IC3 5V __ | Check each microcomputer
+3 (O O RST (H) | Port.
+bn AND a4 1 !
+|> Ln pwifs. OV ‘9 il } |
+2
+5V O P53 (H) |
+2
+a5y 'C2 nH ica OV |
+ics PCO (H) |
++10V alo—d |
+| Reset SW ov a i P90 (L) |
+in (- O ! \
+OM) 214 ! |
+| !
+IC 6 P80 (H) |
+|
+! |
+From Acc P22 (H) I
+! !
+I
+1 I
+! !
+Osci
+|
+I
+I
+|
+I
+
+Lf
+
+Fig. 2-1-3. Microcomputer Power and Reset Circuit
+(Circuit voltages apply where a disk is in.)

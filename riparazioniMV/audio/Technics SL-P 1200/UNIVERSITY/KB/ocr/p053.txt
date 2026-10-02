@@ -1,0 +1,13 @@
+10-3. LPF and De-emphasis Circuit
+
+The lowpass filter (LPF) restores the signals containing harmonics (staircase waves) received from the
+deglitch circuit to complete audio signals.
+
+The LPF also has a de-emphasis function.
+
+It reads emphasis or no emphasis from subcode (Q channel), and outputs a control signal from pin 21
+(DEMPHA) of 1C601 (LSI). De-emphasis is applied when the output signal is high.
+
+Fig. 10-4 LPF Input Fig. 10-5 LPF Output
+
+—53—

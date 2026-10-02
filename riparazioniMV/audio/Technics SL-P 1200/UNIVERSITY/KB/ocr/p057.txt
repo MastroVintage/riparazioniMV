@@ -1,0 +1,62 @@
+CN2
+
+Door SW ie 5V (Lower than 2V)
+
+IC5
+D19
+
+To micro computer
+
+Wave forming When the door is opened, the light
+of D19 is interrupted so that the
+D9 TPI base of Q15 goes low, and a high
+
+© voltage of inverted waveform is
+
+ia) applied to 1C3 (AND), whose out-
+' (Door opening 5V) put controls 1C702 to turn O705
+' OQ) on and supply the 10V.
+
+St 5V
+
+CN1
+
+D2
+
+Detecting 13
+decreased voltage (5\) D6 (5V)
+ic);
+
+r 7
+14.4V yon 5V Controlling other power source
+
+Acc No— (3) 1C701 1C704 73 .
+
+5V
+
+i
+
+|
+
+|
+
+1
+
+1
+
+|
+
+ay
+14.4V 7 (+10V) ] 6
+BAT OND 1
+cone SA
+I . ~ a?
+w ------- 4 5| 1702 Q704 C4 CN10
+
+e ®
+(Hp wot] 13 PL5 PL6
+
+Wave forming
+
+Fig. 2-1-1 Circuit That Turns Power ON (+10V) When Door is Opened
+(Circuit voltages apply where door is open)

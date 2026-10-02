@@ -1,0 +1,67 @@
+2-2 CD System Operation Start End
+
+DISC IN DISC OUT
+
+YE
+S PLAY key ON?
+
+Inner REST
+
+SW ON? Door SW ON
+
+Stand-by mode
+TRV REV Motor OFF
+
+Door SW OFF
+Solenoid OFF
+SW2 OFF
+
+Not 3 sec yet
+
+NO
+
+YES Solenoid ON
+
+TRV FOW (Door open)
+Focus search ON
+
+Loading motor
+FOW ON
+
+DISC present?
+3 sec
+
+SW2 ON
+
+e@ Focus search OFF
+® Turntable ON
+NO
+3-second timer Over
+
+x.
+Not 3 sec yet
+
+{Boor closed) | Door SWON
+(Door closed) Door SW ON
+
+; Loading motor
+Loading motor OFF REV ON
+
+YES
+NO
+
+<—
+
+=F
+
+RF present?
+6 sec
+
+3-second ;
+timer operating
+
+My
+
+YES
+
+TOC read

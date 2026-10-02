@@ -1,0 +1,21 @@
+The reset circuit is so designed that it will generate a reset pulse when a disk is inserted.
+
+IC2 detects a rising voltage, and |C4 and !C3 generate a reset pulse.
+
+A reset switch is provided for forced resetting.
+
+1C705, |C6, and |C704 (MN1208) are voltage drop detecting ICs. They output input voltages of up to
+about 4.5V, and are grounded if the input voltage drops below about 4.5V, thus protecting microcom-
+puter operation. .
+
+In normal condition, microcomputer board voltages are as follows:
+
+MDD......... eee eee 5V
+PST .. ee cece eee eee 5V
+POS... ee eee eee 5V
+dO 5V
+POO... Lee eee eee OV
+P80............0 ee eee 5V
+oy 5V
+
+—16—

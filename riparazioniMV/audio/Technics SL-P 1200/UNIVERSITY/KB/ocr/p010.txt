@@ -1,0 +1,28 @@
+3-3 Eject Operation
+
+I I |
+| 1 |
+| I |
+| I I
+
+Sensor
+
+Output
+
+Remarks
+
+SW2 OFF Door SW OFF
+Spindle motor OFF
+
+Solenoid ON
+
+i Solenoid OFF
+Loading motor ON .
+(Reverse) Loading motor OFF
+
+Door opens. Magnet plate moves away
+Elevation gear begins to disk.
+
+Roller gate openes. Disk is ready for removal.
+Roller turns backward.
+rise. Traverse deck is locked.

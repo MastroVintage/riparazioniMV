@@ -1,0 +1,94 @@
+TROUBLESHOOTING
+
+If trouble has occurred, check the symptoms according to the flowchart shown in Section 1.
+Note: Do not skip steps in the flow of symptom confirmation.
+Keep power on and, if the set is disassembled for troubleshooting, make sure that the symp-
+toms are the same as before diassembling the set.
+Note: When checking the set with the top cover open, cover the top of the deck to prevent the
+optical sensor from wrong operation.
+
+1. SYMPTOM CHECK
+
+(Insert a disk.)
+
+Is the disk loaded?
+(Disk is drawn in.)
+
+NG
+
+Check the loading described in 2-1.
+(Power unit and microcomputer)
+
+[ox
+
+Is the disk set on the turntable?
+(Disk falls on the turntable and
+is held by the magnet.)
+
+Check the disk sensor described 2-2.
+(Sensor switch)
+
+Jox
+
+Focus search?
+(Lens raises and falls.)
+
+Check the focus search described in 2-3.
+(Traverse servo, focus servo)
+
+JoK
+
+Does the turntable turn?
+
+Jox
+
+Check the spindle motor circuit described
+in 2-4.
+(Laser ON, spindle motor control)
+
+|
+
+No automatic eject. (Disk is
+ejected if TOC is not read.)
+
+Check RF signal, etc. described in 2-5.
+(RF signal, tracking servo, LS!)
+
+Jox
+
+Do LCD and LED light?
+
+Check the LCD and LED described in 2-6.
+
+(LCD driver, LED driver)
+
+JoK
+
+Is sound reproduced?
+(Track and time are displayed.)
+
+Check the audio circuit described in 2-7.
+(DAC, LPF, Mute)
+
+ox
+
+Can the keys be operated?
+
+fox
+
+Check the various operations described
+in 2-8. (Key decoder circuit)
+
+Sound skip or noise?
+(Check with test disk.
+
+TETERFEEREE
+
+Readjust as described in 1-9.
+
+CL} LE} LE} Le} LJ
+
+4
+OK
+
+—55—

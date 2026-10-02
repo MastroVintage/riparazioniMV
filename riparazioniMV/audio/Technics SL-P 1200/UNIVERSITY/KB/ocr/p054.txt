@@ -1,0 +1,47 @@
+11. MUTING CIRCUIT and SYSTEM CONTROL
+
+IHumination
+
+ee, ee, a, | ee Ped
+
+cD
+| LPF circuit
+I
+°
+3 | Peano | RY202
+RY201
+
+® 14V accessory
+
+a RY 202
+
+Ic10
+Microcomputer
+
+I
+I
+|
+t
+!
+| I
+| !
+| | N @ I ©)
+on a RY201 ‘=U? eu oo
+& q accesso
+l | Main amplifier Q201 'Y Q206 .@ Q207
+| CN202
+(DIN)
+i CN201
+OF (DIN)
+| Tuner
+CN201
+| (DIN)
+db DRY OUT
+I
+-———_4
+Q203 BV 7
+1C4 4) Preamplifier power
+13 ho = Q
+CD power OFF detection th
+
+Fig. 11-1 Muting and System Control Circuit

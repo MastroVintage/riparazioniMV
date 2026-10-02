@@ -1,0 +1,65 @@
+(3) CLV servo
+
+Microcomputer (MN1554CAF)
+
+CLV mode CLV Optical servo
+setting contir- control
+
+mation ontro
+pos] aa)
+
+fal dys
+O-O O) @
+peefeofeorfone
+(8) C1) (10)
+
+yr
+Microcomputer
+CLV control
+j=
+
+~o
+
+EC
+
+P82
+
+PLL (AN8371S) LSI(MN6617)
+
+Data slice
+
+Dropout
+detector
+
+Direction
+discrimi-
+nator
+
+O)
+
+g Drive
+circuit
+Spindle
+motor
+g Drive co (I
+circuit
+
+Hall
+element
+
+Reference voltage
+
+R507
+
+Control
+voltage
+
+JO42U09 BALIG
+
+R506
+Spindle control (AN8281S)
+
+Fig. 9-17 CLV Servo Circuit
+
+—49—
+

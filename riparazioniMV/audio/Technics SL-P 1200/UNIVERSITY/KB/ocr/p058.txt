@@ -1,0 +1,60 @@
+Battery 5V BAT
+
+e
+
+S] 9
+@
+QE
+ii
+
+(PA1 for starting; PAO for holding) and con-
+trols the loading motor in the forward direc-
+tion.
+\f the microprocessor produces no control out-
+put, check the power circuit for the micro-
+computer because the microcomputer is likely
+to be not operating.
+
+roo 7
+I ! (OV) fw
+! PAG Ke) 2 fe) Fon
+— ; (L) ot ; Ss/ 06 i _\14.4v
+Falling in detecting SW — — — — — ——— ~O P91 | Solenoid @ | (4)
+' olenoi
+' | | l :
+SsW2 —-— — — — — — (L) -~O P92 | | Solenoid
+I
+(L) ! | Battery 5V ; =
+SW3—— —— — — ——"-» P93 rd =
+| | a on | I S
+| PA1O i“) a9 Co Solenoid SC | 6) 1 (OV)
+| | ES) 08 a
+i \ (OV-5V) I i
+I | |
+1 |
+I ic10.— I |
+an
+. |
+IC5 1 (Microcomputer) } Battery5V +10V *tov
+!
+| I |
+|
+From door SW——= 12_(5V)_& pg3 ; 12 (10V) (10) | !
+I i fy (OV) (4) (5) Loading | 1 (OV) Loading motor
+I p (6)
+120 (> i
+1 (5v) SAK) @)
+| | 013 |
+l | |
+! ! |
+I 1 IC11 (™)
+*High voltage from the door switch is applied to! ; Battery 5V +10V
+the microcomputer at the same time as the I (OV) |
+power circuit controls power on, and a micro- | ; |
+computer command turns the solenoids on I O I
+I
+i )
+—_
+
+Fig. 2-1-2. Loading Motor and Solenoid Driver Circuit
+(Circuit voltages apply where door is open and loading is under way.)

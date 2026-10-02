@@ -1,0 +1,27 @@
+7. TRAVERSE SERVO CIRCUIT OPERATION
+
+The traverse servo detects the inclination of the objective lens, moves the optical pickup, and thus keeps the objective lens within the range
+
+of tracking servo.
+The traverse servo circuit is shown in Fig. 7-1. It consists of a traverse detector circuit, mode select circuit, and traverse drive circuit
+
+1C10
+P11 ORE) TRVR
+
+. TRVF. |
+P10
+iC601
++10V +10V
+1C601 IC603 (5) e)
+3 bs
++10V
+TP13
+O
+1C601
+3
+
+Tr ® Tal >
+
+CLVS 10501
+
+Fig. 7-1 Traverse Servo Circuit

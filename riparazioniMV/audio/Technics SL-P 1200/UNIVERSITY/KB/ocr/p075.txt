@@ -1,0 +1,39 @@
+5V accessory
+
+Main amplifier mute output
+
+1C10 14.4V accessory
+
+(Microcomputer) Right output
+
+O5 Left output
+
+14.4V accessory
+0201(14.4V)
+
+5V digital
+
+*State of relay ON
+
+. Check microcomputer PC1 that it is low in the play mode and high when the set is not operating.
+
+Check microcomputer PC2 that it is low in the play mode and high during pause.
+
+. Check DINpin @) voltage.
+
+(Q204, 0202, 0201)
+
+. Check DINpin(@) voltage.
+
+(IC5, Q1)
+
+. Check DIN pin() and @) for short-circuit.
+
+(RY201, Q5)
+
+Fig. 2-7-2 Mute and System Control Circuits (Circuit voltages apply where the play mode is in effect.)
+
+~— —
+
+Low pass
+filter
