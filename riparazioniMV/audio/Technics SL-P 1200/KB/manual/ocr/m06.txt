@@ -1,0 +1,49 @@
+_ et
+
+Line out terminals
+
+(LINE OUT)
+
+Remote control
+
+Numeric buttons (0~9)
+Asterisk (* ) button
+
+Index button
+
+Repeat button
+
+Music scan button
+
+Forward and backward
+search buttons
+
+Stop button
+
+WIRED REMOTE SUBCODE
+
+Subcode socket
+(SUBCODE)
+
+Wired remote control terminal
+
+(WIRED REMOTE)
+
+EUR64185....U.S.A. and Canada
+EUR64186....Others
+
+Clear button
+
+Memory button
+
+Time mode select buttons
+
+Digital volume attenuation
+buttons
+
+Forward and backward skip
+buttons
+
+Play button
+
+Pause button

@@ -1,0 +1,62 @@
+TURNTABLE HEIGHT ADJUSTMENT
+
+1.
+
+Wh
+
+MECHANICAL ADJUSTMENT
+1.
+
+Connect CH1 of the oscilloscope to ga DPa (+)
+and chassis (—) of main P.C.B.
+
+Oscilloscope setting: VOLT ........ 100 mV
+SWEEP ...... 5 msec.
+INPUT ....... DC
+
+. Set the DC ground level of the osciloscope.
+. Turn “on” the power switch and play the test disc
+
+(SZZP1014F or SZZP1054C).
+
+. Turn the adjusting screw so that the voltage at the
+
+waveform center of the oscilloscope is 0+50 mV.
+(As shown in the figure at right, adjust the screw
+on the bottom panel using a screwdriver (—).)
+
+. After the adjustment, apply screw-lock paint
+
+(RZZOLO01) to the adjusting screw.
+
+Connect CH1 of the oscilloscope to INE (-+)
+and BBEIEKE (—) of the main P.C.B.
+
+Oscilloscope setting: VOLT ........ 500 mV
+SWEEP ...... 0.5 wsec.
+INPUT ....... AC
+
+. Turn “on” the power switch and play Track No. 9
+
+of the test disc (SZZP1056C).
+If any track other than No. 9 is played back, this
+adjustment cannot be made.
+
+. Alternately turn the 2 optical pickup adjusting
+
+screws with the hexagonal wrench (SZZP1044C)
+so that the vertical fluctuation of RF signal is
+minimized and the eye pattern most open.
+
+. After the adjustment, apply screw-lock paint
+
+(RZZOLO1) to the adjusting screw.
+
+i: Adjusting
+screw hole
+Front
+
+Adjusting
+screws
+
+— 40 —

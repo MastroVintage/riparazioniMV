@@ -1,0 +1,69 @@
+Ref. No. How to remove the traverse unit
+12 assembly
+
+Procedure
+%
+Refer to “HANDLING PRECAUTIONS FOR OPTICAL
+PICKUP” on page 15.
+
+1. Remove the 4 setscrews.
+
+2. Remove the 3 connectors (CN104, CN303, CN451).
+
+3. Remove the flexible board (CN105).
+
+Note: To prevent damage to the laser diode, insert
+the shorting pin into the flexible board.
+
+How to remove the traverse deck
+
+® Remove the 4 nuts.
+
+Note: The 4 springs are different colors and must be
+reinstalled in their original positions.
+
+Refer to “HANDLING PRECAUTIONS FOR OPTICAL
+PICKUP” on page 15.
+
+Black ——
+
+oO
+
+Procedure
+12913
+
+2. Remove the 4
+setscrews and
+lift off the
+traverse cover.
+
+How to remove the optical pickup
+
+Procedure
+13614
+
+@ Remove in the numbered order shown in the figure.
+
+1. Remove the
+2 setscrews. 5. Remove the
+
+3 setscrews.
+
+traverse cover
+
+3. Remove the
+setscrew and
+take out the
+resistance
+unit.
+
+6 Remove the
+* guide shaft in
+the direction
+shown by the
+arrows.
+
+Refer to “HANDLING PRECAUTIONS FOR OPTICAL
+PICKUP” on page 15.
+
+— 20 —

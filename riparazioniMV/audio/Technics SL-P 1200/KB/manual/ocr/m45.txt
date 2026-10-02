@@ -1,0 +1,66 @@
+@ MN51005PDN (Digital Signal Processing, Serial/Parallel Converter)
+
+|
+
+|
+
+Not connected
+
+GND terminal
+
+Power supply (+5V)
+
+L-channel parallel data output
+
+R-channel parallel data output
+
+Not connected
+
+Power supply (+5V)
+
+GND terminat
+
+Pin vo . Pin : vo .
+i M
+No. Mark Signal Devision Function No. ark Signal Devision Function
+1 Bit re)
+t t DATA L-channel parallel data output NC — — Not connected
+6 | BEL 42
+7 NC Not connected 43 B12R DATA R-channel parallel data o1
+8 VDD —- Power supply (+5V) 44
+NC — Not connected
+9 vss GND I GND terminal 46
+10 47 B13R
+NC — —_— Not connected DATA 0 R-channel parallel data ot
+11 48 B14R
+12 B7L 49 NC —— —_— sree connected
+i DATA oO L-channel parallel data output
+16 | BIL . 50 | BISR
+-———— DATA @) R-channel parallei data ot
+51 Bi6R
+— Not connected ; ;
+Deglitch signal output
+(e) L-channel parallel data output Auto cue control
+
+— Not connected
+
+I Power supply (+5V)
+
+GND terminal
+
+Phase change control
+
+Not connected
+
+I | Serial data input
+
+J Serial data input clock
+
+16-bit latch clock
+
+.
+
+— 45 —
+
+8-bit shift register clock
+

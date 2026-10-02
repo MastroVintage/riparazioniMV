@@ -1,0 +1,17 @@
+# IC301 EHDGA1243 - Data Slice and PLL (hybrid). Main P.C.B.(D). Source: manual p.43
+pin	mark	io	function
+1	PCK	O	Clock output extracted from SRF
+2	EFM	O	EFM signal output synchronized with PCK
+3	D-GND	I	GND digital
+4	SRF	O	RF signal data-sliced into digital value
+5	SLC	I	Slice level control signal input
+6	DO	O	Drop-out detection pulse output
+7	FPC	I	Frequency comparison error signal input
+8	VCC	I	Power supply (+5V)
+9	VA	I	VCO free-run frequency adjusting current input
+10	VR	I	Resistor for VCO oscillation frequency
+11	VEE	I	Power supply (-5V)
+12	VC1	I	Capacitor for VCO oscillator frequency
+13	VC2	I	Capacitor for VCO oscillator frequency
+14	A-GND	I	GND analog
+15	RF	I	RF signal input

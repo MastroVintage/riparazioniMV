@@ -1,0 +1,89 @@
+7 Time mode display function
+
+(During play or in the pause mode.)
+
+eThe appropriate time mode indicators illuminate to show which
+time mode display has been selected.
+
+Pressing the elapsed/remain button will change the mode from
+elapsed time to remaining time or vice versa.
+
+point 2 min.
+
+woo
+
+emain
+
+Note:
+
+mode 3.
+
+®Pressing the track/total button will change the mode from
+
+time to total (disc or programmed) time or vice versa
+eWhen changing the time display mode, use the time
+indicators to confirm selection of the desired time d
+mode.
+
+remote sensor
+
+o O
+
+[standby ] [ level ]
+
+elapsed
+
+©] [auto cue] [M.scan]
+
+remain
+
+10 sec. after the beginning of track 5:
+
+Illuminated
+time mode
+indicators
+
+®During random access play, skip play and search play, the
+total time from the beginning of the first track is displayed in
+
+5 min. | mi. | 21 min. 58.3 sec.
+
+j<—________ 7 tracks, 49 min. 58.3 sec. ———________»}
+
+(“emphasis ] emphasis
+
+Time mode indicators
+
+@ For example, if the time mode select button is pressed when playing a disc of 49 min. 58.3 sec. |
+
+{ Teen Track 2 Track 3 Track 4 [rees| nes | a7 |
+| oS
+| @ pn
+| O) H
+Time display Display panel
+
+Elapsed playing time from the beginning
+of the current track.
+
+Remaining playing time of the current
+track.
+
+Playing time from the beginning of the
+
+first track.
+
+During program play, the total remain-
+ing programmed playing time is display-
+ed.
+
+Disc remaining playing time.
+eDuring program play, the total elapsed
+programmed playing time is displayed.
+
+(This is not an actual elapsed playing time.)
+
+—13—
+
+Tracks skipped during program play are not included i
+
+elapsed playing time.

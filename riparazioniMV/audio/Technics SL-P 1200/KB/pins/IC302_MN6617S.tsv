@@ -1,0 +1,69 @@
+# IC302 MN6617S - DSP: EFM decoder, error correction, CLV servo. Main P.C.B.(D). Source: manual p.41 (m41.png). Schematic: S4_sch_2 tile r1c3 (pin voltages there)
+pin	mark	io	function
+1	BLKCK	O	Sub-code block (Q) clock 75Hz
+2	/CLDCK	O	Sub-code frame (Q) clock 7.35kHz
+3	/SUBQ	O	Sub-code Q data output
+4	CRC	O	Sub-code Q CRC check (not used, open)
+5	/RST	I	Reset input (reset at L)
+6	MLD	I	Command load input
+7	MCLK	I	Command clock input
+8	MDATA	I	Command data input
+9	DMUTE	I	Muting control (not used, GND)
+10	/TRON	I	Tracking servo ON (L=on)
+11	STAT	O	Status output (CRC, OTC, CLVOK, TT STOP)
+12	SMCK	O	Clock output 4.2336MHz
+13	PMCK	O	Pitch control clock output
+14	ITC	I	Track counter input
+15	/TEST	I	Test mode (not used, +5V)
+16	X2	O	Clock output (crystal)
+17	X1	I	Clock input (crystal)
+18	SEL	I	DA output parallel/serial select (serial at L)
+19	LDG/WDC	O	L-ch deglitch / serial data word clock
+20	RDG	O	Clock signal for spindle motor control (schematic label PDG)
+21	DEMPH	O	De-emphasis ON (H)
+22	IPFLAG	O	Interpolation flag (H)
+23	FLAG0	O	Error flag (H)
+24	FLAG6	O	16K RAM address reset (H)
+25	XCK	O	Clock 16.9344MHz output
+26	SRDATA	O	Serial data output MSB first
+27	SRDATAX	O	Serial data output LSB first
+28	SRCK	O	Serial data bit clock
+29	WDCK	O	Serial word clock (not used)
+30	BYTCK	O	Serial byte clock (not used)
+31	GND	I	GND
+32	R/L	O	R/L signal
+33	RESY	O	Resynchronizing signal
+34	FCLV	O	Sync detection (not used)
+35	IPSEL	O	Interpolation flag per byte (not used)
+36	IPBYTE	I/O	Interpolation prohibited (not used, GND)
+37	FLAG5	O	C2 correction flag 3 (not used)
+38	FLAG4	O	C2 correction flag 2 (not used)
+39	FLAG3	O	C2 correction flag 1 (not used)
+40	FLAG2	O	C1 correction flag 2 (not used)
+41	FLAG1	O	C1 correction flag 1 (not used)
+42	FLCK0	O	Crystal frame clock
+43-50	D7..D0	I/O	16K RAM data
+51	RAMOE	O	16K RAM /OE
+52	RAMWE	O	16K RAM /WE
+53-63	RAMA0..RAMA10	O	16K RAM address (A0 LSB)
+64	PC	O	Spindle motor ON (L)  -> IC501
+65	EC	O	Spindle motor drive signal -> IC501
+66	FG	I	Spindle FG input (not used, open)
+67	VCNT	-	not used, GND
+68	REXT	-	not used, GND
+69	VDD	I	+5V
+70	PD	-	not used, open
+71	PCKO	-	not used, open
+72	PCK	I	PLL extracted clock input (from IC301-1)
+73	VDD	I	+5V
+74	EFM	I	EFM input (PLL) (from IC301-2)
+75	SRF	I	EFM input (DSL) (from IC301-4)
+76	DO	I	Drop-out (H)
+77	CLVS	O	11T servo OK (H)
+78	FPC	O	PLL frequency comparison signal (-> IC301-7)
+79	BSSEL	O	PLL frequency pull-in operation signal
+80	SRFO	-	not used, open
+81	NSRF	-	not used, open
+82	RF	-	not used, open
+83	SUBC	O	Sub-code serial output data
+84	SBCK	I	Clock for sub-code serial output

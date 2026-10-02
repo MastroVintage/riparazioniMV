@@ -1,0 +1,48 @@
+m@ DISASSEMBLY INSTRUCTIONS
+
+® Cautions for laser diode light emission
+
+In this unit, the compact disc information is read by the iaser beam diffused from the laser diode in the optical pickup. It is
+dangerous to directly look at the laser beam or to let it touch your body. During the normal operation of this unit, the laser diode
+will not emit light unless the disc holder is closed and $101 (laser ON/OFF switch) is turned ON. When servicing the unit, note that
+the laser diode emits lights if power switch is turned on with S101 ON.
+
+© This unit uses FPC and care should be taken during assembly and disassembly.
+
+How to remove the front panel and
+check the main unit
+Procedure
+1 1. Remove the 5 setscrews. 2. Lift the front panel and pull out the power switch
+
+connector (CN1).
+
+3. Remove the lead wire (headphone, pitch control VR)
+from its holder on the front panel. Cut off the lead wire
+clamper.
+
+Lead wire holder
+
+_- Lead wire
+clamper
+
+4. Check the main unit as shown in the figure below.
+
+Note: When checking the main unit power on. Caution regarding laser radiation
+
+a. Pull out the connector CN451 on the laser switch It is extremely dangerous to look at or touch laser
+control P.C.B. and short it with a clip. radiation. Care must be taken when handling to prevent
+
+b. Remove the disc clamper magnet. (See page 18, radiation exposure.
+
+Ref. No. 6.)
+c. Place a disc on the disc tray, and then, place the
+disc clamper magnet on it.
+d. Connect CN1 on the power P.C.B. with the lead
+wire.
+
+Lead wire
+
+Laser switch control
+P.C.B.
+
+— 16 —

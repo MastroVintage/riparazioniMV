@@ -1,0 +1,213 @@
+Litof of  }| | ft | Lief | | | | |] | | ft | | | | |
+
+¢ MN15261PDK (System Control and FL Drive)
+
+Optical servo IC control signal
+(KICKF: Kick direction
+[Forward] command)
+
+Optical servo IC control signal
+(TRON: Tracking servo)
+
+Optical servo IC control signal
+(FOON: Focus servo)
+
+GND terminal
+
+Not used (Open)
+
+Optical servo condition input
+
+NI
+
+AS.LED Auto space LED drive
+
+y 2
+z 4
+q o
+
+a
+m
+Zz
+7)
+m
+
+M DATA Command data output
+
+Key input strobe and
+processing status input from
+signal processing LSI traverse
+position detection.
+
+MCLK Command clock output
+
+MLD Command load output
+
+31%
+o wo
+
+COMP TOC read control (ON at “L”)
+
+Optical servo condition
+(focus) input
+
+Optical servo condition
+{track cross) input
+Muting control
+
+Auto cue control
+
+Play LED drive
+Pause LED drive
+
+FL drive power supply
+(connected to —33V)
+
+FL grid signal and key
+scan signal
+
+Search dial control
+
+Search dial control FLOCK
+
+FADER.S Fader start signal input
+
+CUEDET Auto cue ON signal input
+
+Y
+
+n
+<
+z
+oO
+
+=
+°
+
+Not used (Open)
+
+Reset signa! input
+
+RES (reset at “L”)
+
+Sub-code block (Q data)
+
+BLKCK clock (75Hz) input
+
+PAUSE
+
+ql
+4
+
+A
+
+co]
+
+37
+
+vin
+Biel] al} =
+<;| abl ec
+
+Key scan input
+
+Sub-code frame clock
+(7.35 kHz)
+
+n
+
+BT CLOCK
+
+i*]
+o
+
+a
+np
+
+Sub-code Q data input
+
+2 x
+m m
+x <
+
+a
+i“)
+
+Traverse servo control
+
+FL anode signal
+
+Clock terminal
+Clock input
+
+Power supply
+(connected to +5V) :
+
+uv
+i
+io)
+a
+pare
+
+Plunger drive
+
+SC2
+
+Traverse reverse command
+signal
+
+2D
+m
+<
+
+SC
+Traverse forward command
+signal
+
+Optical servo IC control signal
+(KICKR: Kick direction
+[Reverse] command)
+
+=
+3|
+is)
+
+a
+z
+4
+a
+
+¢ MN1550PDM (Remote Control Signal Processing)
+
+Remote control LED drive
+
+Power supply .
+(connected to +5V)
+
+Clock input Data
+
+Key strobe
+
+Fo | GND terminal
+
+Not used, open
+
+Not used, open Data
+
+a vin viv
+~ OC ee
+S~8/°S~sle
+
+Reset signal input
+
+<
+a
+a
+
+Not used, open
+Remote control signal input
+
+Program enable/de-enable
+control
+
+— 44 —

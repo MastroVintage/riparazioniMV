@@ -1,0 +1,14 @@
+# IC402 MN1550PDM - Remote Control Signal Processing. Main P.C.B.(D). Source: manual p.44
+pin	mark	signal	io	function
+1	VDD	-	I	+5V
+2	OSC1	SMCK	I	Clock input (SMCK 4.2336MHz from IC302-12)
+3	OSC2	-	-	not used, open
+4	P22	-	-	not used, open
+5	RST	RESET	I	Reset input
+6	P21	-	-	not used, open
+7	P20	-	I	Remote control signal input (from IC601 receiver / wired remote)
+8	IRQ	-	I	Program enable/disable control
+9	P31	-	O	Remote control LED drive
+10-13	P13-P10	Data	I	Key strobe
+14-17	P03-P00	Data	I	Key strobe
+18	VSS	GND	I	GND

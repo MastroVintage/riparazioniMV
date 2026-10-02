@@ -1,0 +1,27 @@
+# IC501 AN8290S - Spindle Motor Drive (3-phase brushless, Hall H501/H502). Spindle Motor Drive P.C.B.(C). Source: manual p.42 (m42.png)
+# Supply: GND/PGND tied to VEE -8.0V; DCR=2.5V reference. Control from IC302 MN6617S pin64 PC / pin65 EC (via spindle control PCB G?)
+pin	mark	io	function
+1	GND	I	Min potential IC control (here = VEE -8.0V)
+2	DCR	I	Reference voltage for FAI, PC, CLK (here 2.5V)
+3	FAI	I	Torque command filter amp input (normal rotation when FAI<DCR)
+4	FAO	O	Filter amp output
+5	DI	I	Absolute value circuit input
+6	LPF	I	Capacitor for LPF of current feedback loop
+7	A1	O	Drive output phase 1
+8	A2	O	Drive output phase 2
+9	A3	O	Drive output phase 3
+10	PGND	I	Min potential IC power (here = VEE -8.0V)
+11	CS	I	Drive current detection resistor
+12	PVCC	I	Power input (power stage)
+13	NC	I	not used
+14	NC	I	not used
+15	H2-	I	Hall 2 negative
+16	H2+	I	Hall 2 positive
+17	H1-	I	Hall 1 negative
+18	H1+	I	Hall 1 positive
+19	HSW	I	Hall bias switch (OFF when PC>DCR)
+20	HB	I	Hall bias power
+21	VCC	I	Power input IC control
+22	PC	I	Power control (power-down when PC>DCR)
+23	CLK	I	Clock input (DCR standard, rising edge)
+24	TC	I	Triangular wave generation capacitor

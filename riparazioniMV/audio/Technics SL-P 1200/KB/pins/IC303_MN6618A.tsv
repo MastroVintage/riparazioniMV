@@ -1,0 +1,44 @@
+# IC303 MN6618A - Digital Filter (oversampling). Main P.C.B.(D). Source: manual p.42 (m42.png)
+pin	mark	io	function
+1	NC	-	not connected
+2	D012	O	16-bit data out (not used, open)
+3	D011	O	16-bit data out (not used, open)
+4	D010	O	16-bit data out (not used, open)
+5	GND	I	GND
+6	D09	O	(not used, open)
+7	NC	-	not connected
+8	D08	O	(not used, open)
+9	D07	O	(not used, open)
+10	NC	-	not connected
+11	NC	-	not connected
+12	D06	O	(not used, open)
+13	D05	O	(not used, open)
+14	D04	O	(not used, open)
+15	LRCK	O	Clock output
+16	NC	-	not connected
+17	NC	-	not connected
+18	D02/WDCK	O	data/clock out (not used, open)
+19	D01/SRCK	O	serial data bit clock out
+20	D00/SRDATA	O	serial data output
+21	MDATA	I	Command data input
+22	NC	-	not connected
+23	MCLK	I	Command clock input
+24	MLD	I	Command load input
+25	NC	-	not connected
+26	/RST	I	Reset (L)
+27	NC	-	not connected
+28	LRCK	I	L/R channel changeover signal
+29	NC	-	not connected
+30	SFT	I	Serial data input clock
+31	SIN	I	Serial data input
+32	NC	-	not connected
+33	X OUT	O	Clock output (not used)
+34	X IN	I	Clock input 16.9344MHz
+35	OSEL	I	DA output parallel/serial (serial at H)
+36	LDGL	O	L channel deglitch signal
+37	RDGL	O	R channel deglitch signal
+38	VDD	I	+5V
+39	D015	O	MSB (not used, open)
+40	D014	O	(not used, open)
+41	NC	-	not connected
+42	D013	O	(not used, open)

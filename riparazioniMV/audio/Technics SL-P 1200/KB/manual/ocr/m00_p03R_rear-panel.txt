@@ -1,0 +1,53 @@
+IE
+
+Rear Panel of this unit
+
+on WIRED REMOTE SUBCODE
+
+ee | |
+r 7
+
+SRNZO010S01
+
+LASER PRODUCT
+
+SANZO10BOT
+
+Obs:
+Apparaten innehaller laser
+
+Komponent av hoger laserklass
+an klass 1.
+
+Back side of disc compartment
+
+sty precaution” is applied only in U.S.A.)
+
+stric shock.
+
+Jed components for safety.
+
+yr damage ts evident.
+
+1 barriers, insulation papers, shields, etc.
+
+er, be sure to make the following insulation resistance test to
+rd.
+
+ug with a Jumper wire.
+
+e jumpered AC plug and each exposed metal cabinet part, such as
+Equipment with antenna terminals should read between 3MQ
+vithout antenna terminals should read approximately infinity to
+
+s by design. These will read infinity.
+
+Exposed
+metal
+part
+
+Ohmmeter
+(Fig. B)
+Resistance = Approx 00
+e is a possibility of a shock hazard. The equipment should be
+er,

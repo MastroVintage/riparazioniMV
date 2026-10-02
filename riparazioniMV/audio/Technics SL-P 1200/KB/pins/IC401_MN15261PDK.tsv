@@ -1,0 +1,42 @@
+# IC401 MN15261PDK - System Control and FL Drive (main microcontroller). Main P.C.B.(D). Source: manual p.44 (m44.png)
+pin	mark	signal	io	function
+1	VSS	GND	I	GND
+2	XO	-	O	not used (open)
+3	X1	SENSE	I	Optical servo condition input
+4	P00	AS.LED	O	Auto space LED drive
+5	P01	MDATA	O	Command data output (-> IC302-8, IC303-21)
+6	P02	MCLK	O	Command clock output
+7	P03	MLD	O	Command load output
+8	P10	phi0	I	Search dial control
+9	P11	phi1	I	Search dial control
+10	P12	FADER.S	I	Fader start signal input
+11	P13	CUEDET	I	Auto cue ON signal input
+12	/SYNC	-	O	not used (open)
+13	/RST	RESET	I	Reset (L)  (from IC403 MN1280-R)
+14	/IRQ	BLKCK	I	Sub-code block clock 75Hz input
+15-18	P50-P53	KEY	I	Key scan input
+19	/SBT	/CLDCK	I	Sub-code frame clock 7.35kHz
+20	/SBD	SUBQ	I	Sub-code Q data input
+21	P20	/SEEK	O	Traverse servo control
+22	P21	PLC	O	Plunger drive
+23	P22	/REV	O	Traverse reverse command
+24	P23	/FWD	O	Traverse forward command
+25	P30	CNT4	O	Optical servo IC ctrl KICKR (-> IC101-25)
+26	P31	CNT3	O	Optical servo IC ctrl KICKF (-> IC101-24)
+27	P32	CNT2	O	Optical servo IC ctrl /TRON (-> IC101-23)
+28	P33	CNT1	O	Optical servo IC ctrl /FOON (-> IC101-22)
+29	P40	START	I	Key strobe & processing status from DSP (STAT), traverse position detect
+30	P41	COMP	O	TOC read control (ON at L)
+31	P42	/FLOCK	I	Optical servo condition (focus) (<- IC101-26)
+32	P43	SENSE	I	Optical servo condition (track cross) (<- IC101-14)
+33	PE0	/M.RLY	O	Muting control (relay)
+34	PE1	/FRST	O	Auto cue control
+35	P60	PLAY	O	Play LED drive
+36	P61	PAUSE	O	Pause LED drive
+37	DAC	DAC	O	Traverse servo control
+38	VPP	-	I	FL drive supply (-33V)
+39-52	D0-DD	-	O	FL grid signal and key scan
+53-61	S8-S0	-	O	FL anode signal
+62	OSC2	-	I	Clock terminal
+63	OSC1	-	I	Clock input
+64	VDD	-	I	+5V

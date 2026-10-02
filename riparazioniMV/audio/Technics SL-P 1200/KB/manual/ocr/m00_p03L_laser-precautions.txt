@@ -1,0 +1,93 @@
+m PRECAUTION OF LASER DIOI
+
+Caution: This product utilizes a laser diode.
+ADVARSEL: | dette a apparat anvendes laser.
+
+e Use of caution labels
+Note: © Mark is used, X Mark is not used.
+
+Areas | sRNzo10C01 | sRNZOt0S01 SRNZ010S02 SAINZ05080" |
+; ome | o | x x x |
+[E], [EK], [XL],
+
+[EG], [EB], [EH),
+
+[EF], [Ei], [XA], x fe) re) O
+
+[XB]
+
+“CAUTION-Mazarpous LASER, AND ELEC-
+
+TROMAGNETIC RADIATION WHEN OPEN AND. IN-
+
+TERLOCK DEFEATED"
+
+‘““ATTENTION-RravonneMeNT LASER ET ELEC-
+
+TROMAGNETIQUE DANGEREUX $I OUVERT AVEC
+
+L'ENCLENCHEMENT DE SECURITE ANNULE”’
+
+SRNZO10C01
+
+DANGER-Invisible laser
+radiation when open
+and interlock defeated.
+AVOID DIREC EX-
+POSURE
+
+ADVARSEL-Der Vil udstrales
+osynlig laser nar apparatet
+Aabnes og aflasningsme-
+kanismen frigores.
+UNDGAAT BLIVE UDSET
+FOR LASERBESTRALING.
+
+SRNZ050S01
+
+A
+
+M SAFETY PRECAUTION oe ttis sat
+
+Before servicing, unplug the power cord to prevent an elec
+. When replacing parts, use only manufacturer’s recommen
+. Check the condition of the power cord. Replace if wear «
+. After servicing, be sure to restore the lead dress, insulatior
+. Before returning the serviced equipment to the custom
+prevent the customer from being exposed to a shock haza
+
+e INSULATION RESISTANCE TEST
+
+1. Unplug the power cord and short the two prongs of the pI
+
+2. Turn on the power switch.
+
+3. Measure the resistance value with ohmmeter between th:
+screwheads antenna, control shafts, handle brackets, etc.
+and 5.2MQ to all exposed parts. (Fig. A) Equipment v
+all exposed parts. (Fig. B)
+
+Note: Some exposed parts may be isolated from the chassi
+
+VAROITUS! Laite sisaltaa
+laserdiodin, joka lahettaa
+nakymatonta silmille
+vaarallista lasersateilya
+
+OPhWN =
+
+Antenna
+terminal
+
+Exposed
+metal
+part
+
+Ohmmeter
+
+(Fig. A)
+Resistance = 3M2—5.2MQ
+4. If the measurement is outside the specified limits, ther
+
+repaired and rechecked before it is returned to the custom
+—3

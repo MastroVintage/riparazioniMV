@@ -1,0 +1,77 @@
+@ TERMINAL FUNCTION OF LSI
+
+e MN6617S (Digital Signal Processing: EFM Decoder, Error Correction, CLV Servo)
+
+RESY
+
+—A4—
+
+Vo 1/0 :
+Sub-code block (Q data) clock Synchronizing detection signal
+BLKCK
+(75 Hz) FCLV ° | (Not used)
+CIDCKe Sub-code frame (Q data) clock Interpolation flag for each byte
+2 CLOCK 0 (7.35 kHz) 36 IPSEL oO (Not used)
+SUBQ Sub-code (Q data) output 36 iPBYTE VO interpolation prohibited
++— (Not used, connected to GND)
+4 crc re) Sub-code (Q data) CRC check
+_| (Not used, open) 37 FLAGS 0 G2 decoder correction flag 3
+__ (Not used)
+5 RST i Reset signal input (reset at “L’’) |
+C2 decoder correction flag 2
+MLD Command Ioad input 38 FLAG4 oO (Not used)
+MCLK Command clock input 39 FLAG3 o C2 decoder correction flag 1
+(Not used)
+8 MDATA Command data input
+| | { C1 decod tion flag 2
+9 DMUTE ' Muting control 40 FLAG2 ie) (Not used) correction Nag
+— (Not used, connected to GND) _ |
+meet Tracking servo ON signal C1 decoder correction flag 1
+10 TRON | (tracking servo ON at “'L’’) 4 FLAG) Oo (Not used)
+11. | STAT fe) CLv Ok tr etob oom, 42 | FLCKO fe) Crystal frame clock
+SMCK Clock output (4.2336 MHz) 43 D7
++ 1 5 S 1/0 16 K RAM data output
+13 PMCK (0) Pitch control clock output 50 bo
+51 RAMOE 16 K RAM OE signal
+14 ITC | Track counter input signal 52 RAMWE i O 16 K RAM WE signal
+army Test mode selection 53 RAMA 0 .
+15 TEST I 16 K RAM address signal
+(Not used, connected to +5V) 5 5 ie) : mM
+63 RAMA10 (RAMAO: LSB, RAMA10: M:
+16 X2 Clock output
+Spindte motor ON signal
+17 x1 \ Clock input 64 | PC | 90 (ON at “L”)
+18 SEL 1 DA output paratlel/serial selection 65 EC (e) Spindle motor drive signal
+(serial at “L"’) EG 1 Spindle motor FG signal input
+19 LDG/Wwoc O L channel deglitch signal/serial — (Not used, open)
+data word clock, VCNT — (Not used, connected to GND)
+> ry +~
+20 | ROG Oo Clock signal output for spindle REXT —— __ | (Not used, connected to GND)
+De-emphasis ON signal VDD | Power supply (+5V)
+a1 DEMPH Oo (de-emphasis ON at ‘H’’)
+; PD — (Not used, open)
+Interpolation flag
+22 IPFLAG ° (interpolation at H’’) PCKO — (Not used, open)
+1 L
+f mae
+23 L FLAGO Oo 4 Error flag (error at "H") PCK | PLL extract clock input
+16 K RAM address reset signal
+24 | FLAG6 .°) (reset at “H’’) VDD | Power supply (connected to +5V)
+25 xcK Clock (16.9344 MHz) output EFM | EFM signal input (PLL)
+, SRF I EFM signal input (DSL)
+26 RDATA o Serial data output
+| s (MSB first) DO \ Drop-out signal (Drop-out at "H”
+Serial data output CLvs 11T servo OK signal (OK at “H")
+27 | SRDATA ° (LSB first) -
+FPC ie) PLL frequency comparision signal
+. a
+28 SRCK 0 Serial data beat clock. PLL frequency in take operation
+BSSEL fe) signal
+Serial data word clock .
+29 | WDCK O (Not used) 80 | SRFO L — (Not used, open)
+Serial data byte clock NSREF — | (Not used, open)
+30 [ BYTCK | Oo (Not used) jo
+RF —_ (Not used, open)
+31 GND I GND terminal
+| 32 | R/L fo) R/L signal SUBC io) | Sub-code serial output data
+33 | fe) Resynchronizing signal Clock for sub-code serial output

@@ -1,0 +1,142 @@
+6 Search play (forward/backward)
+
+(Search play can be performed when the player
+is in the play or in the pause mode.)
+
+This function allows search to any desired point on the disc.
+
+Search play can be performed by using either the forward and
+
+backward rocking/search buttons @ or the search dial ©.
+
+©The position of the pickup is confirmed by watching the display
+panel or listening to the sound from the compact disc.
+
+@® Search play using the forward
+and backward rocking/search
+
+buttons (Button search)
+
+Forward and backward
+rocking/search buttons @
+
+afbcking/ = searqh
+
+“ae repeat
+track skip auto space|
+a
+ro) ~
+7 8 9 adex
+J
+4 5 6 recal!
+F > 3 clear
+EK
+7 imemory]
+0 * I seca
+Jd 4
+stop pause [play
+|
+: | " | >
+
+Depending on how these buttons are pressed, search with three
+
+different speeds is possible.
+[=| Forward button Backward button
+
+1 Press one of these buttons momentarily to
+move the pickup by one pit-track (one disc
+rotation). This allows very fine rocking search.
+
+2 When one of these buttons is held down, the
+pickup will move slowly at first.
+
+3 When one of these buttons is held down for
+more than about 3 seconds, the pickup will
+move rapidly.
+
+Release the button when the desired point has been reached
+(as shown by the display).
+
+elf these buttons are pressed during play, sound can be heard
+during the search operation.
+During steps 2 and 3, the output level is decreased by —12 dB
+(1/4) compared with the normal level.
+
+About rocking search
+
+When two or more CD players are used at a time, as often
+happens in a studio for example, fade-in and fade-out of
+the units have to be timed exactly. The rocking search
+
+function is useful for this because it permits movement of
+the pickup across one pit-track (at inner diameter in about
+0.13 second) each time either button is pressed momen-
+tarily.
+
+@ Search play using the search
+
+dial (Dial search)
+
+Dial search indicator
+
+aoff on lime mode
+auto cue
+Gon elapsed track
+
+(om iremain _ otal
+
+search
+on
+
+= search Dial search button
+reverse forward
+— Ne
+
+Search dial ®
+
+search
+
+a Osiow}
+-Otast Dial search speed indicator
+
+(Cee search speed selector
+
+eUsually no sound can be heard while the unit is in the pause
+mode. However, if the dial search button is in the ‘‘on” position,
+sound can also be heard during the pause mode.
+
+Dial search can be performed at two different speeds depend-
+ing upon the position (slow and fast).
+
+elf the search dial is turned clockwise the pickup performs
+forward search, and if it is turned counterclockwise, the pickup
+performs, backward search.
+
+However, when the dial search button is not in the ‘“‘on”
+position and the dial search indicator (MM) is not illuminated,
+dial search is not possible.
+
+1 Press the dial search button ‘‘on”.
+The dial search indicator (MMM) illuminates.
+The dial search speed indicator (MMM) for ‘‘slow” or ‘fast’
+illuminates also.
+
+2 Press the dial search speed selector to change
+the selected search speed.
+
+@Perform search while watching the display panel or listening to
+the sound frdm the disc.
+The sound level is not reduced during dial search.
+
+Notes:
+
+eThe search speed changes according to the speed at which the
+search dial is turned. However, you can not force the pickup to
+search faster or slower than its predetermined limits.
+
+@When dial search is performed with the unit in the play mode,
+the normal play speed of the pickup is added to (forward
+search) or subtracted from (backward search) the dial search
+speed.
+
+—12—

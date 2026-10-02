@@ -1,0 +1,61 @@
+CHECK OF PLAY OPERATION AFTER ADJUSTMENT
+
+© Skip search check © Check for defects
+
+1. Play an ordinary disc. 1. Play black spot portion of the test disc to
+
+2. Push the skip button to check the skip check that there is no sound skip or noise.
+search (both in forward and reverse 2. Play the fingerprint portion of the test disc
+modes). to check that there is no sound skip or
+
+® Manual search check noise.
+
+1. Play an ordinary disc.
+
+2. Push the manual search button to check
+that manual search can be smoothly made
+at low and high speeds (both in forward and
+reverse modes).
+
+OPTICAL PICKUP ADJUSTMENT
+
+:
+
+Equipment used
+
+@ Two-channel oscilloscope (with trigger) of @ Hexagonal wrench (SZZP1044C)
+30 MHz or over.
+
+® Test disc (SZZP1014F, SZZP1054C,
+SZZP1056C).
+
+Adjustment Procedure
+*If the optical pickup is replaced, adjust it following the procedure below.
+
+Assemble the set to
+
+Mechanical
+
+Step 1: make it ready for Step 4: adjustment 93s J ctv Page 40
+power-on check ¥
+Vv Electri
+Step 5: a wnat to | teeters Page 35
+Step 2: Temporary setting Paae 34 y
+Pz: ofeachVR. 20] ee ag
+Vv
+. Turntable height
+Step 3: adjustment. =| ttt Page 40
+Adjustment Points
+© Traverse unit (rear side) ® Optical pickup
+
+Mechanical adjustment screw
+
+=)
+
+HII
+
+©)
+
+Turntable height adjustment screw
+
+— 39 —

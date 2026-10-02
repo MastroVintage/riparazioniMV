@@ -1,0 +1,94 @@
+track
+
+mode
+splay
+
+at a
+
+1 the
+
+8 Auto space function
+
+Auto space function
+
+When this function is activated, a silent interval of 3 seconds is
+created between all tracks.
+
+This 3 seconds interval occurs instead of, not in addition to, any
+pause interval recorded on the disc.
+
+ePress the auto space button.
+Auto space indicator (MM) on the display panel illuminates.
+
+eThe following diagram shows the silent interval between all
+songs is about 3 seconds.
+Seconds display of
+auto space function
+
+eAt the beginning of each track —3, —2 and then —1 is
+displayed.
+
+@ Press this button again to cancel the auto space function.
+The auto space indicator (MB) goes out.
+
+Note:
+
+When the auto cue function is used together with auto space the
+auto space indicator illuminates, but only the auto cue function
+operates.
+
+9 Auto cue function
+(automatic standby)
+
+Auto cue function
+
+At the beginning of each track on most discs, a silent interval of
+about one second is recorded. Therefore, when play is started
+from Q min. 00 sec, music is not heard immediately.
+
+When the auto cue function is activated, the unit automatically
+detects the beginning of the music on each track and then
+switches to standby mode.
+
+When play is started from this point (by pressing the play button)
+music is heard immediately.
+
+1 Press the auto cue button (Hu m).
+The auto cue indicator (HB) above the button and the auto
+cue indicator on the display panel illuminate.
+
+Press the play button.
+The standby indicator on the display panel illuminates and
+the unit switches to the standby mode.
+
+To start disc play, press the play button.
+The next track will begin immediately.
+
+The standby indicator will go out, but both auto cue
+indicators will remain illuminated.
+
+Notes:
+
+ein this mode, the unit will switch to standby at the beginning of
+each track. It is therefore necessary to press the play button to
+resume play at the beginning of every track.
+
+®This function can also be used during program play.
+The unit will then switch to standby at the beginning of each
+programmed track.
+
+eThe illustration below shows that the unit is in the standby
+mode at the beginning of the music portion of track 1.
+
+Display of the actual point
+at which play will begin.
+
+Standby indicator Auto cue indicator
+
+elf the auto cue button is pressed during play, this function is
+activated at the beginning of the next track.
+
+B When not using this function, press the auto cue button again
+to release it (mH). The standby and both auto cue
+indicators will go out.
+

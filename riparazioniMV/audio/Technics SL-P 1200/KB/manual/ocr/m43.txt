@@ -1,0 +1,167 @@
+e AN8370S (Optical Servo Control)
+
+0 0 :
+Power supply (connected to —5V) Control input
+23 CNT2 (TRON : Tracking servo ON signal)
+
+Phase difference input (A)
+Control input
+GND termina! 24 CNT3 (KICKF : Kick direction [forward]
+command)
+Control input
+25 CNT4 | (KICKR : Kick direction [reverse]
+command}
+
+Tracking error signal output
+
+Pin
+No.
+
+ale
+m
+m
+
+n n
+2
+Dlo|>
+
+>
+S:)
+io)
+
+H
+
+EOQUT
+
+Focus Jock signal output
+
+4
+m
+7)
+
+Tracking error gain adjusting input
+
+Capacitor connection for inversion
+RF high speed detection
+
+Phase difference-voltage
+conversion
+
+Capacitor connection for inversion
+Phase difference-voltage RF low speed detection
+
+conversion
+
+Capacitor connection for non-
+
+Laser power inversion input inversion RF low speed detection
+
+Capacitor connection for non-
+inversion RF high speed detection
+
+Capacitor connection for phase
+
+"MEM difference memory
+
+4
+m
+
+PC + Laser power non-inversion input RF signal output
+
+Reference current generation 32 BDO | o | Drop-out detection output
+
+=/o
+nN
+
+w
+
+<|> ?) > o
+wD vu m
+m ie)
+n i
+
+| 14 | SENSE oO Selector output (track-crossed) 33 RFIN | RF signal input
+
+Fis; un | 1 | Tracking hold circuit input 34 S-OUT Focus search signal output
+
+HOUT Oo Tracking hoid circuit output | 35 C-LW \ Capacitor connection for
+triangular wave generation
+
+x
+:
+
+SPCNT Track-cross speed control output 36 FE-OUT re) Focus error signal output
+F . oo
+Track-cross reference speed setting 37 Pres | 1 | Ocus error gain adjusting input
+!
+!
+ie)
+
+18 C-MSP | : :
+capacitor connection 38 FE-REF Focus error comparison voltage
+generation
+19 C-AF Auto focus timer capacitor
+connection 39 PDB Photo detector current input (B)
+
+Current/voltage conversion
+output (B}
+
+IVA Current/voltage conversion
+output (A)
+
+Photo detector current input (A)
+
+Track kick signal output _| 40 IVB
+
+Power supply (connected to +5V)
+
+Control input
+(FOON : Focus servo ON signal)
+
+Function
+
+Te)
+Devision
+
+Clock output extracted from SRF
+
+EFM signal output synchronized
+GND terminal (digital system)
+
+SRF RF signal output data-sliced into
+digital value
+
+Slice level control signal input
+
+|s [oo [| o | Drop-out detection pulse output
+
+Frequency comparison error signal
+Fee po input.
+Po | Power supply (connected to +5V)
+
+VCO free ran frequency adjusting
+current input.
+
+u
+x
+
+Resistor connection for VCO
+oscillation frequency
+
+Power supply (connected to —5V)
+
+Capacitor connection for VCO
+oscillator frequency
+
+2)
+Cc
+5
+
+Capacitor connection for VCO
+oscillator frequency
+
+GND terminal (analog system)
+
+RF signal input
+
+— 43 —

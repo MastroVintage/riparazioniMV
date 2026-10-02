@@ -1,0 +1,21 @@
+e Traverse deck parts
+RZZOLO5
+
+: 5
+| 9 —-N2
+RZZOLOSS4,.
+; 8
+
+ae
+
+*
+
+Sey zzaL08
+OR | 0
+
+Note: When changing mechanism parts,
+apply the specified grease to the
+areas marked “XX” shown in the
+drawing.
+
+—31—

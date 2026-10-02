@@ -1,0 +1,66 @@
+Service
+
+ISte DIGIV/IL.
+
+oS aC
+Compact Disc Player
+
+(K)...... Black Type
+
+SPECI FICATI O NS [*Measured by EIAJ (CP-3(
+
+@ Audio
+
+No. of channels: 2 (left and right, stereo)
+Frequency response: 4—20,000 Hz +0.1 dB*
+Dynamic range: More than 96 dB*
+
+S/N ratio: More than 106 dB*
+Harmonic distortion: 0.0012% (1 kHz, 0 dB)
+Total harmonic distortion: 0.0025% (1 kHz, 0 dB)*
+Channel separation: More than 106 dB (1 KHz)*
+Channel phase balance: Less than 5°”
+
+Wow and flutter: Below measurable limit*
+Low-pass filter: High-resolution digital filter
+
+Digital: Double over sampling
+96th order FIR (Finite Impulse
+Response) type
+
+Analog: GIC (Generalized
+Impedance Converter) active
+
+type
+
+@ Signal Format
+
+Sampling frequency: 44.1 kHz
+
+Correction system: Technics Super Decoding
+
+Algorithm
+
+D-A conversion: 16-bit linear
+
+@ Pickup
+
+Type: Fine-focus, one beam
+FFI
+
+Light source: Semiconductor laser
+
+Wavelength: 780 nm
+
+Matsushita Se
+50 Meadowlar
+Secaucus, Ne
+
+bud Panasonic Sal
+chnics =:
+of Puerto Rice
+
+Ave. 65 De Inf
+
+Victoria Indus
+Carolina, Puer

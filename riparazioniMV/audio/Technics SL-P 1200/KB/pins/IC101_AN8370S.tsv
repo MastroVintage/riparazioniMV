@@ -1,0 +1,44 @@
+# IC101 AN8370S - Optical Servo Control (focus/tracking servo, laser APC, RF amp). Main P.C.B.(D). Source: manual p.43 (KB/manual/img/m43.png)
+pin	mark	io	function
+1	VEE	I	Power supply (-5V)
+2	LSA	I	Phase difference input (A)
+3	GND	I	GND
+4	LSB	I	Phase difference input (B)
+5	APC	O	Auto laser power control output
+6	TEOUT	O	Tracking error signal output
+7	TEG	I	Tracking error gain adjusting input
+8	TE	I	Phase difference-voltage conversion
+9	TE	I	Phase difference-voltage conversion
+10	APC-	O	Laser power inversion input
+11	C-MEM	I	Capacitor for phase difference memory
+12	APC+	I	Laser power non-inversion input
+13	VREF	O	Reference current generation
+14	SENSE	O	Selector output (track-crossed)
+15	HIN	I	Tracking hold circuit input
+16	HOUT	O	Tracking hold circuit output
+17	SPCNT	O	Track-cross speed control output
+18	C-MSP	I	Track-cross reference speed setting capacitor
+19	C-AF	I	Auto focus timer capacitor
+20	KICK R/F	O	Track kick signal output
+21	VCC	I	Power supply (+5V)
+22	CNT1	I	Control input /FOON focus servo ON
+23	CNT2	I	Control input /TRON tracking servo ON
+24	CNT3	I	Control input KICKF kick direction forward
+25	CNT4	I	Control input KICKR kick direction reverse
+26	/F-LOCK	O	Focus lock signal output
+27	C-FBDO	O	Cap for inversion RF high speed detection
+28	C-SBDO	O	Cap for inversion RF low speed detection
+29	C-SBRT	O	Cap for non-inversion RF low speed detection
+30	C-FBRT	O	Cap for non-inversion RF high speed detection
+31	RF OUT	O	RF signal output
+32	BDO	O	Drop-out detection output
+33	RFIN	I	RF signal input
+34	S-OUT	O	Focus search signal output
+35	C-LW	I	Cap for triangular wave generation
+36	FE-OUT	O	Focus error signal output
+37	FEG	I	Focus error gain adjusting input
+38	FE-REF	I	Focus error comparison voltage generation
+39	PDB	I	Photo detector current input (B)
+40	IVB	O	Current/voltage conversion output (B)
+41	IVA	O	Current/voltage conversion output (A)
+42	PDA	I	Photo detector current input (A)

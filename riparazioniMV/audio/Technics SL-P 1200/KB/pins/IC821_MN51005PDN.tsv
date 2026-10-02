@@ -1,0 +1,36 @@
+# IC821 MN51005PDN - Serial/Parallel Converter (feeds parallel DACs IC822/IC823 PCM54KP). Audio P.C.B.(I). Source: manual p.45 (m45.png)
+pin	mark	signal	io	function
+1-6	B1L-B6L	DATA	O	L-ch parallel data out
+7	NC	-	-	not connected
+8	VDD	-	I	+5V
+9	VSS	GND	I	GND
+10-11	NC	-	-	not connected
+12-16	B7L-B11L	DATA	O	L-ch parallel data out
+17-18	NC	-	-	not connected
+19-22	B12L-B15L	DATA	O	L-ch parallel data out
+23	NC	-	-	not connected
+24	VSS	GND	I	GND
+25	VDD	-	I	+5V
+26	B16L	DATA	O	L-ch parallel data out
+27-37	B1R-B11R	DATA	O	R-ch parallel data out
+38	NC	-	-	not connected
+39	VDD	-	I	+5V
+40	VSS	GND	I	GND
+41-42	NC	-	-	not connected
+43	B12R	DATA	O	R-ch parallel data out
+44-46	NC	-	-	not connected
+47-48	B13R-B14R	DATA	O	R-ch parallel data out
+49	NC	-	-	not connected
+50-51	B15R-B16R	DATA	O	R-ch parallel data out
+52	DEG	-	O	Deglitch signal output
+53	AQOUT	-	O	Auto cue control
+54	AQRST	-	I	Auto cue control
+55	NC	-	-	not connected
+56	VDD	-	I	+5V
+57	VSS	GND	I	GND
+58	PHASE	-	I	Phase change control
+59-60	NC	-	-	not connected
+61	SRDATA	DATA	I	Serial data input
+62	SRCLK	CLOCK	I	Serial data input clock
+63	LRCK	CLOCK	I	16-bit latch clock
+64	RDG	CLOCK	I	8-bit shift register clock

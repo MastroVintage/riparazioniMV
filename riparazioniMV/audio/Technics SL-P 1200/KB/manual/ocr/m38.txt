@@ -1,0 +1,76 @@
+wee
+
+——
+
+TRACKING OFFSET ADJUSTMENT
+
+1. Connect CH1 of the oscilloscope to NERA (+) and §UBEMERof the
+main P.C.B. Connect CH2 togiiithiand BgkiRg.
+
+Oscilloscope setting: VOLT ........ 500 mV (CH1)
+100 mV (CH2)
+SWEEP ...... 0.5 msec.
+INPUT ....... AC (CH1)
+DC (CH2) RF depression
+
+MODE ....... NORM (Trigger on CH1)
+
+2. Turn “on” the power and play Track No. 9 (0.5 mm black spot) of (i
+the test disc (SZZP1057C). CHt
+
+3. Trigger so that the waveform as shown appears on the
+
+oscilloscope, and adjust VR103 to minimize the RF depression
+on CH1 and the wave amplitude on CH2. CH2
+
+A
+
+{ B
+Minimize the amplitude or
+
+make A=B.
+
+NG . OK
+
+TRACKING ERROR COMPENSATION ADJUSTMENT
+1. Connect CH1 of the oscilloscope to the 2. Turn “on” the power switch and play Track
+tracking error compensation test point (+) No. 1 of the test disc (SZZP1014F or
+and chassis (—) SZZP1054C).
+Oscilloscope setting: VOLT ........ 500 mV __—s3«.. Check the waveform on the oscilloscope
+SWEEP.... 1 msec. and adjust VR106 so that the waveform at
+INPUT ..... DC DC level is 0£5 mV.
+PLL ADJUSTMENT
+
+1. Connect CH1 of the oscilloscope to the line out terminal (+) and
+
+chassis (—). ° NG
+
+Oscilloscope setting: VOLT ........ 1V
+SWEEP ...... 1 msec.
+INPUT ....... DC
+
+2. Turn “on” the power and play Track No. 7 (0.5 mm black spot) of
+the test disc (SZZP1054C).
+
+3. Adjust VR301 while observing the oscilloscope and set it in the
+middle of the range where the waveform is stable.
+
+@® Slowly turn VR301 clockwise and observe the point at which
+the waveform on the oscilloscope begins to be disturbed as
+shown in NG.
+
+Slowly turn VR301 counterclockwise and observe the pointat °OK
+which the waveform on the oscilloscope begins to be
+disturbed.
+
+© Set VR301 in the middle between the points observed in
+
+above 2 steps “@ and@®”. Set-point
+
+Waveform is
+
+disturbed “ Waveform is
+
+disturbed
+
+— 38 —

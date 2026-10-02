@@ -1,0 +1,46 @@
+# Fonte: parts list p.23 (m23.png) + schemi. tile = sheet:tile in KB/sheets/<sheet>/<tile>.png (300dpi). Funzioni "inferred" dove non scritte nel manuale (vedi colonna note)
+ref	part	function	board	schematic_tile	pins_file
+IC11	AN78M05	+5V regulator	E Regulator	S4_sch_2:r0c5	-
+IC12	AN79N05	-5V regulator	E Regulator	S4_sch_2:r0c5	-
+IC13	AN78N12	+12V regulator	D Main	S4_sch_2:r1c4	-
+IC14	AN79L12	-12V regulator	D Main	S4_sch_2:r1c4	-
+IC101	AN8370S	Optical servo control: focus/tracking error, servo, laser APC, RF amp, drop-out	D Main	S4_sch_2:r0c4/r1c4	IC101_AN8370S.tsv
+IC102	AN6554NS	Quad op-amp: tracking & focus coil drive	D Main	S4_sch_2:r0c2	-
+IC103	AN6554NS	Quad op-amp: traverse coil drive / traverse servo	D Main	S4_sch_2:r0c1	-
+IC104	AN6552S	Dual op-amp (FE amp / TE amp)	D Main	S4_sch_2:r0c2/r1c2	-
+IC105	AN6914S	Dual comparator	D Main	S4_sch_2:r0c2/r1c2	-
+IC106	uPD4053BC	Analog switch (CMOS triple 2ch)	D Main	S4_sch_2:r0c1/r1c1	-
+IC301	EHDGA1243	Data slice and PLL (hybrid, SIL15)	D Main	S4_sch_2:r0c3	IC301_EHDGA1243.tsv
+IC302	MN6617S	DSP: EFM decoder, error correction, CLV servo (84p QFP)	D Main	S4_sch_2:r1c3	IC302_MN6617S.tsv
+IC303	MN6618A	Digital filter (42p QFP)	D Main	S4_sch_2:r1c4	IC303_MN6618A.tsv
+IC304	MN4416S-12	16K RAM (2Kx8 SRAM) for DSP	D Main	S4_sch_2:r1c2	-
+IC331	AN6914	Dual comparator - spindle control	G Spindle control	S5_sch_3:r0c0	-
+IC351	MN74HCU04S	Hex inverter (unbuffered) - pitch control oscillator	K Pitch control	S3_sch_1:r1c3	-
+IC352	MN74HCU04S	Hex inverter - pitch control	K Pitch control	S3_sch_1:r0c2/r0c3	-
+IC353	MN74HC74S	Dual D flip-flop - pitch control	K Pitch control	S3_sch_1:r0c3	-
+IC354	MN74HC00S	Quad NAND - pitch control	K Pitch control	S3_sch_1:r0c3	-
+IC355	AN6564NS	Quad op-amp - pitch control VCO/PLL	K Pitch control	S3_sch_1:r1c3	-
+IC401	MN15261PDK	System control & FL drive microcontroller (64p)	D Main	S4_sch_2:r1c1	IC401_MN15261PDK.tsv
+IC402	MN1550PDM	Remote control signal processing micro (18p)	D Main	S4_sch_2:r0c0	IC402_MN1550PDM.tsv
+IC403	MN1280-R	Reset signal generator (voltage detector)	D Main	S4_sch_2:r1c2	-
+IC501	AN8290S	Spindle motor drive, 3-phase brushless with Hall H501/H502 (24p)	C Spindle motor drive	S3_sch_1:r1c3	IC501_AN8290S.tsv
+IC601	BX1438M (M,MC) / BX1439E (others)	IR remote receiver module	A FL	S3_sch_1:r0c5	-
+IC801	AN78M15	+15V regulator (audio)	I Audio	S5_sch_3:r0c3	-
+IC802	AN79N15	-15V regulator (audio)	I Audio	S5_sch_3:r0c3	-
+IC803	AN78M15	+15V regulator (audio)	I Audio	S5_sch_3:r0c3	-
+IC804	AN79N15	-15V regulator (audio)	I Audio	S5_sch_3:r0c3	-
+IC805	AN78M12	+12V regulator	I Audio	S5_sch_3:r0c3/r0c4	-
+IC806	AN79N12	-12V regulator	I Audio	S5_sch_3:r0c3/r0c4	-
+IC821	MN51005PDN	Serial/parallel converter for DACs (64p)	I Audio	S5_sch_3:r1c2	IC821_MN51005PDN.tsv
+IC822	PCM54KP-M	16-bit parallel DAC, L ch	I Audio	S5_sch_3:r1c2	-
+IC823	PCM54KP-M	16-bit parallel DAC, R ch	I Audio	S5_sch_3:r1c1/r1c2	-
+IC824	uPD4053BC	Analog switch - class-AA sample/hold (deglitch)	I Audio	S5_sch_3:r1c2/r1c3	-
+IC825	uPD4053BC	Analog switch - class-AA sample/hold (deglitch)	I Audio	S5_sch_3:r0c2/r0c3/r1c2/r1c3	-
+IC826	M5238P	Dual op-amp - sample/hold buffer	I Audio	S5_sch_3:r1c2/r1c3	-
+IC827	M5238P	Dual op-amp - sample/hold buffer	I Audio	S5_sch_3:r1c2/r1c3	-
+IC828	NJM5532DD	Dual op-amp - class-AA output buffer	I Audio	S5_sch_3:r1c3	-
+IC829	NJM5532DD	Dual op-amp - class-AA output buffer	I Audio	S5_sch_3:r1c3	-
+IC830	AL079 (SIL10 module)	LPF filter module	I Audio	S5_sch_3:r1c3	-
+IC831	AL079 (SIL10 module)	LPF filter module	I Audio	S5_sch_3:r0c3	-
+IC851	NJM4556SA	Headphone amplifier (SIL9)	M Headphone amp	S5_sch_3:r1c4	-
+IC1001	MN6030	Remote control transmitter IC (handset)	Remote control unit	S3_sch_1:r0c2/r1c2	-

@@ -1,0 +1,45 @@
+TEMPORARY ADJUSTMENT OF FOCUS AND TRACKING OFFSET
+
+(Temporary adjustment of focus offset) (Temporary adjustment of tracking offset)
+
+1. Connect CH1 of the oscilloscope to (I 1. Connect CH1 of the oscilloscope to [GH
+(+) and chassis (—) of the main P.C.B. (+) and chassis (—) of the main P.C.B.
+Oscilloscope setting: Oscilloscope setting:
+
+VOLT ........ 100 mV VOLT ........ 100 mV
+SWEEP ...... 5 msec. SWEEP ...... 5 msec.
+INPUT ....... DC INPUT ....... DC
+
+2. Turn “on” the power switch and play the 2. Turn “on” the power switch and play the
+test disc (SZZP1057C). test disc (SZZP1057C).
+
+3. After reading TOC, set the mode to “stop”. 3. After reading TOC, set the mode to “stop”.
+
+4. Adjust VR105 so that the DC level shown on 4. Adjust VR103 so that the DC level shown on
+
+the oscilloscope is at the ground level (0 V). the oscilloscope is at the ground level (OV).
+
+FOCUS OFFSET ADJUSTMENT
+
+1. Connect CH1 of the oscilloscope toBKi4a( +) and UBER (—) of
+the main P.C.B. Connect CH2 to —yghitv4a(+) and MBELER(—).
+
+Oscilloscope setting: VOLT ........ 500 mV (CH1)
+100 mV (CH2)
+SWEEP ...... 0.5 msec.
+INPUT ....... AC (CH1)
+DC (CH2)
+MODE ....... NORM (Trigger on CH1) RF depression
+2. Turn “on” the power and play Track No. 9 (0.5 mm black spot)of fo
+the test disc (SZZP1057C). CH1 / Wl
+3. Trigger so that the waveform as shown appears on the
+
+oscilloscope, and adjust VR105 to minimize the RF depression
+
+on CH1 and the wave amplitude on CH2. ee eee
+CH2
+
+Minimize the amplitude or
+make A=B.
+
+— 37 —

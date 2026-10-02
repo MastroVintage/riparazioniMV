@@ -1,0 +1,56 @@
+Dimensions (WXDXH): 43X38X16.8 cm
+(16-15/16"X14-3/32”6-5/8")
+When disc compartment is open.
+23 cm (9-1/16") height
+
+Weight: 14.5 kg (32 Ibs)
+
+@ Infrared remote control unit
+Remote control buttons: Basic buttons: 7
+Program buttons: 12
+Time mode select buttons: 2
+Index button: 1
+Music scan button: 1
+Repeat button: 1
+Asterisk button: 1
+Digital volume attenuation
+
+buttons: 2
+Dimensions
+(WXHXD): 6.4X15.5X1.8 cm
+Batteries: UM-3 “AA” batteries or IEC R6
+or equivalent (1.5 VX2)
+Weight: 140 g (0.3 Ib.)
+
+(including batteries)
+
+Specifications are subject to change without notice for further
+improvement.
+Weight and dimensions are approximate.
+
+Page
+PACKING ...0 0c cee cece cece ect eaeeneenee 32
+HOW TO REPLACE IC’S (Small outline type) .............. 33
+MEASUREMENTS AND ADJUSTMENTS .................. 34
+TERMINAL FUNCTION OF LSI ....................05..008 41
+TERMINAL GUIDE OF IC’s,
+TRANSISTORS AND DIODES .......................... 46
+PRINTED CIRCUIT BOARD AND
+WIRING CONNECTION DIAGRAM ..................... 47
+PRINTED CIRCUIT BOARDS ......................00.0008 49
+SCHEMATIC DIAGRAM................. 00. 0c cece cee eeee 55
+BLOCK DIAGRAM .......0. 200... ccc cece cee eee eee 67
+
+NOTE:
+
+IF THE UNIT IS TRANSPORTED AGAIN, PERFORM
+THE FOLLOWING STEPS:
+
+1) Remove the disc from the holder.
+
+2) Pull the lock shaft to the out (LOCK) position (am _. HL).
+CAUTION:
+
+Do not transport the unit without locking the lock shaft.
+SEVERE DAMAGE WILL RESULT.
+

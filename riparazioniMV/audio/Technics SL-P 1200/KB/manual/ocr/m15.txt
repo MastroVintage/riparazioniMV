@@ -1,0 +1,110 @@
+@ CLEANING OF LENS
+
+If the lens is stained causing sound skip.or operation failure,
+open the top cover by pressing the open button, and clean
+the lens.
+
+e To remove dust or dirt
+Blow the lens with the blower provided in the cleaning kit
+
+to remove dust or dirt.
+
+Cautions:
+@ Do not directly apply the cleaner solution to the lens.
+
+Do not apply too much solution to the cotton rod or
+otherwise the solution will flow into the player.
+
+@ Wipe the lens carefully. Do not give too much stress to
+the lens or otherwise it may scratch the lens or cause
+optical pickup trouble.
+
+@ if the solution should be too much applied, wipe the
+
+Blower
+
+Nozzle rod
+Lens Lens > Lens
+Dust or dirt Fingerprint
+
+© To remove fingerprint
+
+If the blower is not enough, moisten the cotton rod
+with the lens cleaner solution and wipe the lens with it
+from center of the lens to outside.
+
+lens with a dry cotton rod.
+
+Lens cleaning kit (Part No. : SZZP1038C)
+
+Cleaner
+
+Biower
+
+@ HANDLING PRECAUTIONS FOR OPTICAL PICKUP
+
+The laser diode in the optical pickup may break down due to potential difference caused by static electricity of
+
+clothes or human body.
+So, be careful of electrostatic breakdown during repair of the optical pickup.
+
+Optical pickup
+
+® Handling of optical pickup
+
+1. Do not give excessive shock to the optical pickup
+because it is of extremely precise structure.
+To prevent the breakdown of the laser diode, an anti-
+Static shorting pin is inserted into the flexible board.
+(FPC board)
+When removing or connecting the short pin, finish the
+job in as short time as possible.
+
+. Take care not to apply excessive stress to the flexible
+board. (FPC board)
+
+. Do notturn the variable resistor (laser power adjust-
+ment). It has already been adjusted.
+
+2.
+
+(Do not turn)
+
+® Grounding for electrostatic breakdown prevention
+1 Human body grounding
+
+Use the anti-static wrist strap to relieve the static
+electricity from your body.
+
+Work table grounding
+
+Put a conductive material (sheet) or steel sheet on the
+area where the optical pickup is placed, and ground the
+sheet.
+
+Caution:
+
+The static electricity of your clothes will not be grounded
+through the wrist strap. So, take care not to let your
+clothes touch the optical pickup.
+
+— 15 —
+
+Variable resistor
+
+FPC board
+(Handle it carefully)
+
+Be sure to short this portio
+(Use the shorting pin or clit
+
+Clip Shorting pin
+preeenee 5 peewee cee
+Fee i! Pi
+io: :
+
+Wrist strap
+(Anti-static bracelet)
+
+tron plate or some metals
+to conduct electricity.

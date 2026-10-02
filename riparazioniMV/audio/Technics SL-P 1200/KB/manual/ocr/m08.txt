@@ -1,0 +1,98 @@
+2 Random access play
+
+@ Starting disc play from a specific place on the @ From this page onward the following basic operations
+disc. are omitted:
+Power on/off
+Disc compartment open/close
+elnterrupting play
+Stopping play
+
+2-2. To play a disc from a specific index
+
+(This is possible only on discs having indexes.)
+
+™@ Press the buttons in the order shown by the arrows.
+
+2-1. To start disc play from a specific
+track
+
+m@ For example, to play from the begin-
+ning of track [3] to the end of the disc.
+
+track 1 [rac | track 3 track4 | track 5 | track 6 track 7
+TT > track t | track 2 track 3 track 4 track 6
+i]
+
+14min.
+
+m@ For example, to play from the begin-
+ning of index 2 of track 3 to the end of
+the disc.
+
+5 min. H 4 min. i 4min. ! .6 min.
+
+The display below shows track 3 is specified.
+
+Track display
+
+Specify (2) [3] (4) (5) 1
+1} £2] [3} [4] [s :
+track no. Glu a | Specify
+ie] track track no.
+= |
+When the play button is pressed, play begins from
+Ss track 3. eWhen playing discs having only one track, re-
+aE member to enter track number 1, then specify the
+
+index number.
+
+Specify 4S
+
+index
+
+—— 1) (2) [3] [4 [5] a] p
+6] ~! dos
+index
+
+track
+
+Specify
+
+The border of the track being played flashes on
+and off.
+
+Flashes on and off
+
+~
+
+~
+
+merry
+fo bede. ¢
+
+lame
+
+3[r-
+
+sec
+
+{elapsed} [track
+
+¢The player switches to the stop mode when play index no. = = IG -| Poa
+has finished. aha on index
+L J
+
+elndex numbers up to 99 can be specified.
+
+mm play ¢When the play button is pressed, disc play begins
+(7) from index 2 of track 3.
+
+Flashes on and off
+
+sec
+
+elapsed
+
+When the end of the disc is reached, the player
+switches to the stop mode.
+

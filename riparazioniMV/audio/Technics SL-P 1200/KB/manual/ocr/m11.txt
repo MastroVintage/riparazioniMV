@@ -1,0 +1,126 @@
+4 Pitch control
+
+This function allows fine adjustment of pifth (up to +8%).
+
+1. Press the pitch control switch to ‘‘on”.
+The pitch control indicator illuminates.
+
+2. Slide the pitch control knob upward or downward
+to the desired setting.
+
+@When not using this function, press the pitch control switch
+again to release it (off).
+
+Note:
+
+In the center position (>) a “click” can be perceived.
+
+This position is the 0% standard pitch.
+
+The +5.9% position is a half tone sharp (+ ).
+
+The —5.6% position is a half tone flat ( b).
+
+When the pitch has been changed, the elapsed or remaining
+playing time readings will differ from the actual times by the
+amount of pitch adjustment.
+
+5 Skip play
+
+(Skip play can be performed when the player is
+in the play or pause mode.)
+
+This function allows quick access to the beginning of a track.
+Note: Index skip play is not possible.
+
+Forward skip
+
+eThe pickup skips the same number of tracks as the number of
+times the button is pressed.
+
+During automatic play, the pickup skips to the beginning of the
+next track each time the button is pressed.
+
+eDuring program play or program repeat play, the pickup skips
+to the beginning of the next programmed track each time the
+button is pressed.
+
+While watching the track number display, press the forward
+skip button until the desired track has been located.
+
+m@ Example: To advance to the beginning of the
+fourth track and then to the beginning of the fifth
+track while listening to the third track.
+
+[vase [vee [racks tack Jae [vacve | ack |
+
+————F
+
+Pressed here. Pressed again.
+
+Forward skip
+
+Press
+
+pitch controt
+a in
+
+Pitch control indicator
+
++8—
+
+Pitch control switch t=
+s=
+4
+
+3—
+
+Pitch control knob
+
+edit di iit
+
+NT
+
+\
+
+| Backward skip
+
+¢During automatic play, the pickup skips to the beginning of the
+current track. If pressed again quickly, the pickup skips to the
+beginning of the previous track.
+
+eDuring program play (repeat function not activated), the pickup
+skips backward only to the beginning of the current track.
+
+®During program repeat play, the pickup skips to the beginning
+of the current track. If pressed again quickly, the pickup skips to
+the beginning of the previous programmed track.
+
+The pickup skips the same number of tracks as the number of
+times the button is pressed.
+
+While watching the track number display, press the backward
+skip button until the desired track has been located.
+
+Remember that for backward skip, the present track is
+included in the count.
+
+@ Example: To return to the beginning of the third
+track and then to the beginning of the second
+track, while listening to the third track.
+
+| aces | track 2 track 4 | track 5 | track6
+
+1 '
+4 U
+
+track 3
+
+“~~ Pressed here.
+Pressed again.
+
+Backward skip
+
+Press
+
+—~W—-—

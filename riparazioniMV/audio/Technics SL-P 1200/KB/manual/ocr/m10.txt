@@ -1,0 +1,53 @@
+3 Program play
+Using the program play function a maximum of 20 selections can
+
+be programmed in any sequence.
+Index numbers can not be programmed.
+
+3-1. Track program play (in any order)
+
+@ For example, to play track [3], track [5] Note 1) (error) will be displayed momentarily if a track
+: number not on the disc is specified.
+and track [1 in that order. if more than 20 selections are entered ‘‘ — ”’ (full) is
+shown in the display panel and no further selections
+track 3 track 4 track 5 | track 6 track 7 can be programmed.
+
+le if an incorrect entry is made while the unit is in the
+
+stop mode, pressing the clear button will cancel the
+last program entry.
+
+However, if the clear button is pressed during disc
+play or in the pause mode, all memory contents are
+cleared and disc play continues from the current
+point to the end of the disc (memory clear function).
+
+eProgramming two tracks in a row.
+For example, if tracks 3-5-5-1 are programmed in
+that order, press the memory button twice, as shown
+j below. The double numeric button operation may be
+Programmed track abbreviated.
+
+memory 1 2 f3] 4°95
+6 7
+
+(Note 1)
+
+4
+
+Specify track no.
+
+ax May be omitted
+
+i
+
+| memory
+
+a When the play button is pressed, disc play begins
+mm play from track 3.
+eAfter a track has been played its border goes out.
+
+(elapsed) Strack eThe player switches to the stop mode when the last pro-
+grammed track has been played.
+
+—10—

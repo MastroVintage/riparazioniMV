@@ -1,0 +1,64 @@
+ELECTRICAL ADJUSTMENT
+
+Equipment used
+
+Servo gain adjuster (SZZP1017F) Ordinary disc
+
+*Test discs: ¢Two-channel oscilloscope (with trigger) of 30 MHz
+Test disc (SZZP1014F) or over
+Inspection test disc (SZZP1054C) eLow-frequency osciilator
+Uneven disc (SZZP1056C) Conversion connector (SZZP1032F)
+
+Black band disc (SZZP1057C)
+
+Adjustment Procedure
+
+— a
+Step 1: Remove the front Page 16 Temporary
+“panel Step 7: adjustment of focus | ......... Page 37
+and tracking offset
+_ Connect the servo
+Step 2: gain adjuster. | “7777 Page 35
+Step 8: Focus offset Page 37
+adjustment jf "C77"
+Step 3; [emporarysetting jo Page 34
+of each VR. ;
+Step 9: Tracking offset Page 38
+p 9: adjustment | g
+Best eye (PD
+step 4: ae rn Page 36 [—
+balance) adjustment Tracking error
+Step 10: compensation | ......... Page 38
+: djustment
+_ Focus gain a
+Step 5: adjustment oJ Page 36
+Step 11: PLL adjustment | ......... Page 38
+Tracking gain
+Step 6: ene Page 36 Check of play
+adjustment .
+—_ Step 12: operation after =| --- +--+ Page 39
+| adjustment
+Servo Gain Adjuster and Its Connection
+Low-frequency oscillator
+OO909d
+Servo gain adjuster J]
+(SZZP1017F) GND OSC Oscillator connection terminals
+ON/OFF switch
+©5 ON swite @ Conversion connector
+GND @ e (SZZP1032F)
+Selector }
+O 1 Osc @
+a
+Tpatp2
+@@® TPI
+@® 7 »> |
+|
+Oscilloscope Oscilloscope connection |
+[lo terminals
+o ©, TP2 TP3 TPI
+cry _poHe f t To CN103
+@
+—t2V GND +12V “ Remove the shorting connector
+(Main) (Chassis) (Main) CN103 from main P.C.B.
+
+— 35 —

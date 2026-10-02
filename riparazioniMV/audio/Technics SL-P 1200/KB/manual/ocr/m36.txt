@@ -1,0 +1,74 @@
+BEST EYE (PD BALANCE) ADJUSTMENT
+
+1. Connect CH1 of the oscilloscope to fAE(-+) and RW
+(—) of the main P.C.B.
+
+Oscilloscope setting: VOLT ........ 500 mV ; oe
+SWEEP ...... 0.5 usec. . make this.
+INPUT ....... AC i ie on rn nn part widest
+2. Turn “on” the power switch and play the 0.5 mm black Po yo polo Sr: Seeiell
+
+spot of the test disc (SZZP1014F or SZZP1054C).
+
+3. Adjust VR101 so that the eye pattern of the RF signal is
+widest open.
+
+FOCUS GAIN ADJUSTMENT
+
+1. Adjust the low-frequency oscillator to 750 Hz fre-
+quency and 150 mVp-p output voltage, and connect it
+to OSC and GND of servo gain adjuster.
+
+2. Connect CH1 and CH2 of the oscilloscope to TP1 and
+TP2 of the servo gain adjuster (TP3 to ground).
+Oscilloscope setting: VOLT ........ 100 mV
+
+cH1 4
+
+(both channels)
+SWEEP ...... 1 msec.
+INPUT ....... DC
+
+3. Set the servo gain selector switch to “2”.
+(Set the ON-OFF switch to “on”.) :
+
+4. Turn “on” the power switch and play the test disc CH2 4)
+(SZZP1014F or SZZP1054F).
+
+5. With the selector set to “1” a 750 Hz signal appears on
+the oscilloscope. Then adjust VR104 so that the
+waveform amplitudes on both channels are equal to * Make a=b
+each other.
+
+TRACKING GAIN ADJUSTMENT
+
+1. Adjust the low-frequency oscillator to 1.2 kHz fre-
+quency and 150 mVp-p output voltage. Connect to
+OSC and GND of servo gain adjuster.
+
+. Connect CH1 and CH2 of the oscilloscope to TP1 and
+TP2 of the servo gain adjuster (TP3 to ground).
+
+Oscilloscope setting: VOLT ........ 100 mV
+(both channels) i
+SWEEP ...... 1 msec. CH1 § a
+INPUT ....... DC /
+
+. Set the servo gain selector switch to “2”.
+(Set the ON-OFF switch to “on”.)
+
+. Turn “on” the power switch and play the test disc
+(SZZP1014F or SZZP1054C). CHo |
+. With the selector set to “3”, a 1.2 kHz signal appears on
+the oscilloscope. Then adjust VR102 so that the
+waveform amplitudes on both channels are equal to
+each other. * Make a=b
+. The servo gain adjuster is not necessary for other
+
+adjustments, so discount the adjuster, and insert the
+
+short connector of CN103 to the original position.
+
+lon
+
+— 36 —

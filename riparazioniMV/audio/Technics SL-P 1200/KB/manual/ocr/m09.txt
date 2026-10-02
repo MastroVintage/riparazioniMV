@@ -1,0 +1,85 @@
+2-3. To play a disc from a specific = pause
+
+. . fj)
+starting time
+
+m@ For example, to play from the 2 min. —
+
+38.7 sec. point of track [5]. $ When the play button is pressed, disc play be
+from the 2 min. 38.7 sec. point of track 5.
+
+2 min. 38.7 sec.
+[st 4 | rae 5 | track6 track 7
+
+15) “]-
+: 1 i - .
+elapsed traci
+
+Specify
+track no. Note 1)
+
+Wee wis When no minutes are to be specified, for example
+ic] i) play is to begin at the 38.7 sec. point of track 5, pre
+——— the numeric button ‘‘0” or press the asterisk but
+
+4S twice in a row, as shown below.
+
+Separate
+track from
+minutes
+
+(Note 1)
+
++
+
+Specify
+minutes
+
+4 elf the starting time is specified while the unit is in |
+Separate pause mode, press the pause button once and th
+minutes : press the play button to resume play.
+from seconds : BIGIE : Not pressing the pause button will cause a sh
+delay before sound is heard.
+
+eAn already specified time will be cancelled wher
+new time is entered or the clear button is press
+
+a
+
+Specify sec.
+
+7, 1
+iz
+Restarting play from the same point
+
+]
+
+|
+
+|
+
+it
+
+€] of time
+
+——)) (By means of starting time
+
+aE confirmation.)
+
+Separate
+whole . .
+seconds eThe starting time is shown for about 20 seconds on the
+from tenths of display panel. During that time play continues.
+
+a second
+
+ePress the time recall button during play.
+
++
+
+Specify
+0.7 sec.
+
+lf the play button is pressed during that time, play begins
+again from the location indicated on the display.
+

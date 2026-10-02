@@ -1,0 +1,59 @@
+Darts.
+
+ip
+
+ly
+h-
+
+@ MEASUREMENTS AND ADJUSTMENTS
+
+Caution:
+It is very dangerous to look at or touch the laser beam. (Laser radiation is
+invisible.) With the unit turned “on”, laser radiation is emitted from the
+pick-up lens. Be careful during adjustments in particular.
+
+© Line out P.C.B.
+
+(L) R)
+
+| ADJUSTMENT POINTS |
+
+PLL adjustment
+test point
+© Main P.C.B. (Focus offset adjustment) (Tracking offset adjustment) (Tracking gain adjustment)
+
+(Tracking error compensation
+adjustment)
+
+(Focus gain
+
+adjustment) (Best eye adjustment)
+
+CN408/ |
+
+CN305|
+CNI060 et |
+CN103 —_—
+54321 J CN302 CN407
+es cn301 L___] cn303
+CN101 A J
+TJ302 1€ 301
+
+Test point for tracking
+error compensation
+adjustment (Jumper wire
+
+@® Connect the blue lead wire (PLL)
+R116
+NY a of servo gain adjuster (—12V)
+J IC106
+
+@ Connect the red lead wire of servo gain adjuster (+12V)
+
+TEMPORARY SETTING OF EACH VR
+
+\
+
+| 4 4 4
+
+(VR1T06) (VR105)

@@ -1,0 +1,218 @@
+oo
+
+Qj=eQ z
+S158 ro)
+Son
+
+xa
+
+SB)
+
+Lit it
+
+© MN6618A (Digital Filter)
+
+1/0
+Device
+| — | Not connected
+
+16-bit data output (Not used, open)
+
+| o | 16-bit data output (Not used, open)
+
+Not connected
+
+TT eommanscoee |
+[eens
+Trevcomeses
+a
+=
+—
+—
+
+N
+N
+
+vce)
+Device
+
+CLK
+
+Z/2);2/2
+oO
+
+16-bit data output (Not used, open)
+
+N
+for]
+Ps)
+7)
+4
+
+DA output parallel/serial
+changeover (Serial at “H’”)
+
+L channel deglitch signal
+R channel deglitch signal
+Power supply (connected to +5V)
+
+16-bit data output (MSB)
+(Not used, open)
+
+nN
+~~
+
+GND terminal
+
+(2) Zz
+2 oO
+o
+
+16-bit data output (Not used, open) 28 RCK
+
+Not connected
+
+ZicCi2z
+
+n
+n
+4
+
+16-bit data output (Not used, open)
+
+16-bit data output (Not used, open)
+
+Not connected
+
+wo
+z
+il
+
+x
+le)
+Cc
+4
+
+Not connected
+
+16-bit data output (Not used, open)
+
+16-bit data output (Not used, open)
+
+35 SEL
+
+x
+2
+
+16-bit data output (Not used, open)
+OGL
+
+RCK Clock output
+
+Cc Z1Z2/9/9)/24
+O1O;1/9]/8/0
+
+37 DGL
+
+wOlwflw
+& | _wlrnit —
+
+Not connected
+
+2
+[e)
+
+Not connected
+
+w
+©
+
+16-bit data output/clock output
+(Not used, open)
+
+16-bit data output/serial data
+output beat clock
+
+16-bit data output/serial data output
+
+16-bit data output (Not used, open)
+
+16-bit data output (Not used, open)
+
+SRCK
+DO0/SRDATA
+
+wo
+
+%
+oO;2z;,0 < |] Di r (o}
+2}O;eS i=]
+rm) rs Oo
+
+42
+
+MDATA Command data input
+
+e AN8290S (Spindle Motor Drive)
+
+vo
+
+Devision
+Minimum potential of IC control.
+(In this unit, it is connected to
+VEE [-—8.0V])
+
+DCR Standard voltage of FAI, PC, CLK.
+
+(in this unit, it is connected to 2.5V.)
+Torque command filter amp. input.
+(Normal rotation command
+when FAI < DCR.)
+
+Ps fo 6 6[ 1 Absolute value circuit input.
+
+LPF Capacitor terminal for low pass filter
+of current feedback loop.
+
+Drive signal output.
+
+0
+Devision
+
+Not used In this unit.
+
+Negative output of Hall element
+is input.
+Positive output of Halt element is input.
+
+Negative output of Hall element
+is input.
+
+H2+
+
+Hi+
+
+(OFF when PC > DCR)
+
+Power control.
+(Power down mode when PC > DCR)
+Clock input.
+CLK (DCR standard, operated at the
+) edge of rise.)
+
+Drive current detection resistor Tc Triangular wave generation
+terminal. capacitor terminal.
+
+Power input for IC power.
+
+— 42 —
+
+21
+
+< Zi2z
+°
+
+Minimum potential of I1C power.
+(In this unit, it is connected to
+VEE [—8.0V}
+
