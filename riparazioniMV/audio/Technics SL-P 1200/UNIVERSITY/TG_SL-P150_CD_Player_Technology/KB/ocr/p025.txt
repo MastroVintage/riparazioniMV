@@ -1,0 +1,108 @@
+14. Description of the CD Subcode
+
+1. What is the Subcode
+
+The information on the CD is contained
+in the ca. 20000 tracks, whereas each
+track is subdivided in frames. The
+"framerate"equals 7350 Hz, which means
+that every second, 7350 of these frames
+are processed in the CD player. After
+EFM demodulation. a frame look as
+follows: (again, data are expressed as 8
+bits words)
+
+A an
+
+ey eer Or
+
+8 bits 32 words of 8 bit, containing audio
+
+data & error correction info for CH-1
+and CH-2
+
+of subcode
+information
+
+Figure 14-1
+
+NOTE
+
+A 60 minutes CD contains: 60 x 60 x 7350
+= 26,460,000 frames
+
+The each frame holds 8 bits of subcode
+
+information, this means the subcode area
+
+of CD stores 211,680,000 data bits ( ca.
+
+200 Megabits).
+
+The 8 bits of the subcode word are used
+for 8 different subcode channels (P, Q,
+R, S, TT, U, V and W). Presently, only
+channel P and channel Q are defined. The
+content and the format of the channels
+R, S, T, V and W is still under
+discussion.
+
+The 8 bits of the subcode word have no
+meaning at the frame level, Only when a
+block of 98 frames is read by the
+player, the 8 subcode channels (98 bits
+each) get a specific content. The
+content of the channels is refreshed on
+updated for each new block of 98 frames
+( or 75 times a second).
+
+— 25 —
+
+2. Description of the P and Q Channels |
+
+a)Channel P is a simple music. track
+separator flag, Simple search systems
+can be implemented using only this P
+flag.
+
+b)Channel Q is used for control purposs
+of more sophisiticated player, using
+an 8 bits microromputer. The channel Q
+stores data such as track number,
+time, and others.
+
+3. The Frame Structure
+
+One subcoding block consists of 98
+subcoding symbols. The repetition
+frequency of one block is 75 Hz. The
+first two subcoding symbols are the
+subcoding sync patterns SO and Sl.
+
+SYNC PATTERN SO
+SYNC PATTERN S1
+
+(00100000000001 )
+(00000000010010)
+
+| |
+Cl c14
+
+Figure 14-2
+
+The channel P is a flag bit that
+
+indicates the start of a track with the
+following code rules;
+
+Music >: P=0
+
+Start flag: P=1
+
+The minimum length of the encoded start
+flag in channel P is 2 seconds, the end
+of the encoded start flag gives the
+start of the next track. If the actual
+pause exceeds 2 seconds, the length of
+the start flag gives the actual pause
+length.

@@ -1,0 +1,67 @@
+(6) SEL
+
+(7) KICK
+
+SENSE Signal Change Command
+This command changes the SENSE
+signal (Confirm the status of
+the optical servo) transmitted
+from AN8370S to the system
+CPU.
+
+The content of the SENSE
+
+signal is changed according to
+the mode of the system.
+
+Track KICK Command
+
+This command controls’ the
+track KICK output signal. The
+
+Input Logic
+CNT 1 | cnt 2 | cnt 3
+
+KICK is classified to KICK FWD
+(inside to outside) and KICK
+REV (outside to inside). They
+are further divided to one
+track, 10 tracks, and 100
+tracks mode according to the
+distance of KICK.
+
+The logic circuit is provided with 16
+modes of decoding function (24 = 16) but
+only 8 modes are used by object model as
+shows in table 17-1.
+
+Control Logic
+TR ON | HOLD | BR ON | KICK
+
+0
+
+0
+
+—F
+
+ON OFF | OFF
+
+ON OFF ON
+
+| OFF ON
+
+_|
+
+OFF ON
+
+OFF
+
+ON OFF
+
+T
+
+ON OFF
+
+Table 17-1 4 Bits Parallel Control Data Functions
+
+— 49 —

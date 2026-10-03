@@ -1,0 +1,120 @@
+(3) 6T Mode
+
+The 6T mode is used for coarse servo
+control for high-speed access. During
+traverse head movement, the 11T mode is
+not available since the RF signal is
+
+shut down for an interval of more than
+11T.
+
+Instead, the pulse width of Tmin (6T) of
+the divide-by-two SRF is counted with
+XCK/2 and the minimum value of pulse
+width is determined at every 8 frames.
+The count obtained is used as velocity
+information:
+** SRF's 6T is divided by two.
+*k XCK/2 = 0.059 ns x 2 = 0.118 ns
+*k 6T's pulse width= 0.23ns x 6 = 1.38ns
+*k Tf 6T is counted by XCK/2:
+
+= 1.38 ns / 0.118 ns = 11.7 counts
+
+Since 6T's pulse width is nearly 11 x
+XCK/2, the EC output provides:
+** BR low (acceleration) if N6 (obtained
+count) is greater than 11.
+** KR high (deceleration)
+smaller than 11.
+In any other case,
+high impedance.
+
+if N6 is
+
+the EC is set to
+
+6T divided by two:
+
+Example
+When 6T's pulse width= 12x XCK/2
+
+Pp 3T + 3T +
+
+|}—sr—-|
+
+SRF
+fe—er=12 XCK
+
+Hi-—imo
+
+EC +2.5V
+TFCLK/16
+TFCLK
+
+(136us)
+
+(Example] When 6T's pulse width = 12 x XCK/2
+
+Figure 18-10
+
+— 83 —
+
+(4) 6T Brake Mode
+
+The 6T brake mode is used to stop the
+turntable rotation. The device enters
+this mode when it receives a TTOFF
+command from system IC-401 by MDATA pin
+59.
+
+The device first places its EC pin in
+the forced deceleration mode. When the
+minimum pulse width (6T) of the divide—
+by-two SRF is reduced to approx, 7 times
+that at the normal rotation rate, the
+device sets the EC output to high
+impedance and set the PC output high.
+
+If a dropout occurs, the device does not
+select brake release, so that the
+turntable continues decelerating. A
+dropout with a duration of less than 4.3
+pis is however ignored, The figure 18-11
+shows 6T brake mode.
+
+Example: 6TBK
+
+TTON
+
+7 times
+
+6T pulse width Normal
+
+Free run
+EC cv -—~>
+
+Motor rotation
+
+Figure 18-11
+
+(5) Speed Limiter
+
+When the player uses a motor with FG,
+the user can let the device control the
+upper and lower limiter of motor speed
+by applying the FG signal to the FG
+input of the device.
+
+When it is more than 77 Hz, the EC pin
+is set high (forced deceleration).
+
+If the FG generates 6 pulses’ per
+
+rotation:
+
+** EC provides forced acceleration at
+140 rpm or less.
+
+** EC provides forced deceleration at
+770 rpm or more.

@@ -1,0 +1,83 @@
+17. Servo Circuit
+
+The servo IC AN8370S must satisfy the
+proper control needs for the optical
+pickup functions. In addition, it must
+also include the following functions,
+which are not directly related to the
+optical servo circuit functions.
+
+1) Focus servo pull-in
+2) Trick play
+3) Laser power control
+
+Before we begin a description of the
+servo circuit operation, let's take a
+look at the servo IC (AN8370S) which
+integrates all the related
+servo functions (see the block diagram
+figure 17-1). And the servo IC contains
+the following functional blocks:
+
+1) Laser power control
+
+2) RF amplifier
+
+3) Focus servo head amplifier
+
+4) Focus servo pull-in logic
+
+5) Tracking servo head amplifier
+6) system logic control
+
+7) Trick play logic
+
+8) Traverse speed control
+
+***The focus servo pull-in logic is a
+completely local function of the
+servo IC and can drastically reduce
+the load on the system controller
+CPU.
+
+***The tracking servo head amplifier,
+which is based on the digital accu-
+servo system is comprised of high-
+speed ECL devices, and is capable of
+detecting phase differences of
+approx, 20 through 30 ns.
+
+***The trick play logic controls the
+high-speed access operation
+characteristic of the CD player. It
+consists of a KICK pulse generator,
+tracking actuator holding circuit,
+servo pull-in stabilizer, cross-track
+
+count detector, and some other
+related logic.
+***The traverse speed controller
+
+regulates the optical pickup track
+crossing speed. It is compatible with
+high-speed traverse mechanism that
+use a linear motor( most CD player
+used linear motor operation).
+
+1) Block Diagram of AN8370S
+
+The optical servo reads the = signal
+recorded on the disc by the laser beam,
+And the AN8370S is the main IC of the
+optical servo system and comprises a
+
+laser APC, RF signal amplifier, Focus
+Servo (including automatic focus
+function), Tracking servo (including
+
+KICK function), Drop out detector, and
+also Control logic for controlling the
+optical servo of IC. The block diagram
+of IC (AN8370S) is shows figure 17-1.
+
+— 46 —

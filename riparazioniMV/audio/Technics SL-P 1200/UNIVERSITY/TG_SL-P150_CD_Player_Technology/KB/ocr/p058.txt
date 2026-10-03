@@ -1,0 +1,141 @@
+Coasting oe
+—
+
+|
+Acce leration-e—e! jetideceleration
+
+|
+
++0.1V | I
+—0.1V |
+eee ees
+
+: !
+RF signal [| ll ! |
+!
+
+TE ne
+
+0 0
+
+Pit
+(a) Kick signal and RF signal
+
+KICK REV
+(Outward KICK REV J ts
+
+to inward)
+
+KICK FWD
+
+(Inward to KICK FWD ~ ft
+outward)
+
+(c) 10,100 tracks kick
+
++(b) One track kicking
+
+Figure 17-12 KICK Signal and RF Signal
+
+During kick
+—
+
+Control logic
+Control output signal
+
+Hi
+|
+
+:
+
+TEG i/N
+Pin | i Real tracking error
+
+|
+
+i i
+TE OU :
+®Pin FE switches turn to off
+
+and output becomes zero
+
+H. OUT 1 4
+@Pin a ieee Oe Preceding value Hold
+
+1 ' 1
+
+Signal sl
+4
+
+signal RETA TNR TY,
+, ! ;
+
+TE
+CROSS
+
+1
+1
+
+detection | |
+a) Kick FWD
+
+(3) Braking Circuit
+
+The brake circuit brakes the tracking
+actuator after quick traverse or KICK
+(10 or 100 track) for rapidly locking
+the tracking servo. The principle of the
+brack circuit as shows in figure 17-14.
+
+Kick soa
+|
+
+KICK ! BRAKE PLAY
+
+TE signal
+
+TE SW
+
+Figure 17-14 Brake Timing
+
+In braking, the TE signal is limited on
+one side (the continuous line shows in
+figure 17-14) to absord energy (of the
+actuator) after KICK.
+
+The figure 17-14 shows braking in the
+KICK REV mode. In the KICK FWD mode, the
+braking is made by reversing the
+polarity of the sideband limiter.
+Whereas, the brake circuit requires a
+signal for discriminating the direction
+of KICK.
+
+The KICK direction discriminating signal
+is formed by the tracking cross (CROSS)
+Signal and off-track signal as shows in
+figure 17-15.
+
+'
+| |
+i |
+t
+
+' |
+bo. f.-.VWo wif __/f.
+\ \
+
+]
+! I 1
+
+' ; Pickup direction is detected
+
+1
+; i ; by phase difference and brak
+f 1 ' f | | ing direction is determined.
+' !
+
+b) Kick REV
+
+Figure 17-15 KICK Direction Discrimination
+

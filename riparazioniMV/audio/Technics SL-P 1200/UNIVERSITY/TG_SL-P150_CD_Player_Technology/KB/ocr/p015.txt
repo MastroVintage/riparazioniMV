@@ -1,0 +1,105 @@
+Therefore, in practice, other types of
+networks are used for high resolution
+converters, called ladder networks by
+which some of these tremendous
+
+problems can be simplified. As example
+of a D/A converter using a_ ladder
+network is shown in figure 11-2.
+
+Figure 11-2 Ladder Network D/A Converter
+
+The following is an example of D/A
+conversion using a 4 bits word with
+ladder network. When the digital pulse
+train is converted to a digital word,
+switch A  (MSB) through D_ (LSB)
+correspond to each bit. Incase of 1 is
+represented by a closed switch and 0
+by an open switch. The sum of the
+currents of the closed switches flows
+through R/L and corresponding voltage
+is developed at the output. These
+voltages are used to construct the
+pulse amplitude modulation (PAM)
+signal.
+
+The ladder network is used two types
+of resistors (R and 2R), if I=24mA the
+following conditions exist.
+
+Current Flowing
+to each switch
+
+Th= 1/3x1I
+
+IL= 1/3x1Ix1/2
+IL= 1/3x1Ix1/4
+IL= 1/3xIx1/8
+
+Table 11-1
+
+—~15—
+
+12. Cannel Modulation for CD Recording
+
+1. Basic Requirements
+
+After the sampling and quantization
+circuitry in the A/D converter a 16 bits
+sample signal is obtained.
+
+These signal are in the NRZ format (NON-
+Return to Zero); they may have a high DC
+content and are not self-clocking, as
+the run length (distance between
+transients in the signal) is not
+limited. Therefore, they are not suited
+for direct recording and have to be
+converted into another code which should
+meet special requirements:
+
+A. Correct Reabout at High Information
+Densities
+
+The modulation transfer function or
+frequency characteristic of the CD-
+reabout system can be modelled as a low-
+pass filter with linear phase.
+
+The cut-off frequency (ideal optics) is
+simply given by 2NA/?.V (where ?
+wavelength, NA : numerical aperture of
+the objective lense, V : liniar scanning
+velocity).
+
+A typical frequency characteristic is :
+fc = 2xNA/\ x V = 1.4423MHz
+Note
+
+V =1.25 m/s
+
+NA=0.45
+
+ =0.78m
+
+Non ideal optics, due to defocusing or
+disc skewing with respect to the optical
+axis, will degrade the phase and
+amplitude charactristic. A nodulation
+system should satisfy the requirement of
+low sensitivity to tolerances of the
+optical light path even at high
+information densities.
+
+The bit clock is one of the most
+important signals in the CD system. It
+is used for the synchronization of the
+digital data and the motor control. The
+bit clock must be regenerated from the
+reabout signal itself by detecting the
+pit edges. The signal must, therefore
+have a sufficient number of transitions
+and T max (the maximum distance between
+transitions pit/ land or land/pit) must
+be as small as possible.

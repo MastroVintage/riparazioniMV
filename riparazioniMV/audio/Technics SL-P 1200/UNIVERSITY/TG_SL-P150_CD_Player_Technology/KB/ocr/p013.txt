@@ -1,0 +1,85 @@
+3) Digital Filter:
+Digital filter techniques allow to
+design almost ideal characteristics
+with relative ease. Their use for
+digital audio coding, however,
+implements an increased complexity of
+the related circuitry (initial gentle
+analog filtering with linear phase
+response followed by conversion and
+then digital filtering).
+In practical CD players, active analog
+filters are used in most _ players;
+however, the latest generation deck
+players use digital filters combined
+with an oversampling D/A conversion
+circuit.
+
+10-4 Principles of Quantization
+
+1. Outline
+
+Even after sampling an audio signal, we
+are still in the analog domain: indeed,
+the amplitued of each sample can vary
+infinitely between minus and plus a
+certain maximum value.
+
+The decisive step to the digital domain
+is now taken by quantization, see figure
+10-6. Replacing the theoretically
+
+infinite number of sample by a finite
+number of values.
+
+Sample {to fer [tz [eo fee fis fee fer feo [es eo fen J
+value |r [2 [s | |s fp fs fe fs fe a fs
+a
+
+Figure 10-6 Principle of Quantization
+
+4-bit code 0001
+(2°S compiement)
+
+— 13 —
+
+In a practical system the analog signal
+range is divided (quantized) in a number
+of regions, and the samples of the
+signal are assigned a certain value
+according to the region in which they
+fall. These values are then converted
+into digital (binary) numbers; in our
+example, 4 bits are needed to indicate
+the 16 regions (16 combinations).
+
+The example shows a bipolar system in
+which the input voltage can be either
+positive or negative (the normal case
+for audio). In this case, the coding
+system is often the socalled 2's
+complement code (LSB= 2, 1SB= 2'1,
+2SB=2'2, etc),while negative numbers are
+indicated by simple complementing the
+positive codes (i.e. changing the state
+of all bits) and adding 1LSB.
+
+In such a system, one bit (the MSB) is
+used as a sign bit: generally, it is
+zero for positive values, but one for
+negative values. More on the’ several
+coding system is given in further
+chapter.
+
+The regions in which the signal range is
+divided are called quantization
+intervals, mostly represented by the
+letter Q. A digital word assignedto a
+certain quantization interval is assumed
+to represent the voltage at the center
+of this quantization interval.The figure
+10-7 shows a typical step-wise quantizer
+characteristic.
+
+Figure 10-7 Quantizer Characteristic
+

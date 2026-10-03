@@ -1,0 +1,115 @@
+15. Calculation of the Different Bit Rates
+
+1. Analog to Digital Conversion
+
+Fs = 44.000 KHz
+q = 16 bits
+n = 2 Channels
+
+Bits Rate = Fs x q x n = 1.411200 MHz
+
+2. CIRC Encoding
+
+6 words (of 16 bits) of the L-channel
+A/D converter and 6 words (of 16 bits)
+of the R-channel A/D converter are fed
+to the "C2" encoder. These 12 words of
+16 bits are broken into 24 words of 8
+bits. This is the input of the encoder
+
+The "C2" encoder adds 4 words of 8
+bits, and its output is 28 words of 8
+bits. The :C2" encoder is called a
+(24, 28) encoder. and The "C1" encoder
+receives these 28 words at the input
+and adds again 4 words of 8 bits. Its
+output is 32 words of 8 bits and the
+"C1" encoder is called a (28, 32)
+encoder.
+
+The extra words ( 8 words x 8 bit = 64
+bits ) are called redundant words and
+are used for the error correction.
+
+The new bit rate now equals:
+1.411200 x 32/24 = 1.881600 MHz
+
+3. The Control Word
+
+One control word ( 1 word x 8 bits) is
+added to every 32 words of the
+encoder.
+
+The new bit rate becomes:
+1.881600 x 33/32 = 1.940400 MHz
+
+4. EFM Encoeding
+
+Every word of 8 bits is replaced by a
+"symbol" of 14 bits. To thaca 14 bite
+3 extra junction bits are added. The
+resultant operation transforms 8 data
+bits into 17 (14 + 3) channel bits.
+
+The new bit rate is:
+1.940400 x 17/8 = 4.123350 MHz
+
+eee
+
+5. The Sync Word
+
+The 33 symbols of 17 bits (= 561 bits)
+are preceded by one sync word (24
+bits) and its 3 junction bits. Every
+561 bits are complemented with 27 (24
++ 3) bits, giving 588 bits in total.
+These 588 bits make one "frame".
+
+The final bit rate (on the CD) become:
+4.123350 x 588/561 = 4.321800 MHz
+
+NOTE
+
+(1).The frame frequency equals:
+Fframe =4.321800/588 = 7350 Hz
+and the period Tframe= 136 ys
+
+(2).The subcode is divided in blocks
+of 98 frames, The subcode
+frequency is:
+Fsc = 7350/ 98 = 75 Hz (13.33 ms)
+
+(3).The playing time is calculated by
+counting these blocks:
+
+75 blocks = 1 sec (00-74)
+
+minimum 2 ¢'s
+
+CMM
+
+es
+
+Tmin = 3T, where T = 1/4.3218 us = 231.39 ns
+dmin (at V = 1.2m/s) = 3T x V1.2 = 0.833 um
+(at V = 1.4m/s) = 3T x V1.4 = 0.972 um
+
+Figure 15-1 Minimum Pit Length
+
+maximum 10 ¢'s
+
+—_ =
+
+um 11T
+ULL
+
+d
+
+max
+
+dmax (at V = 1.2m/s) = 117 x V1.2 = 3.05 um
+lat V = 1.4m/e) = ttm x vt.4 - 3.56 um
+
+Figura 15-2 Maxtmm pit Length
+
+aN,

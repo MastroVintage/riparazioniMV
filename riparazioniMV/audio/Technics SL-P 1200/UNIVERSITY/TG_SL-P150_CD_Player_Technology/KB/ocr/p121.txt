@@ -1,0 +1,62 @@
+22. Reference
+
+1. Mechanism Adjustment
+
+When the optical pickup and peripheral
+mechanism parts incorporated in the
+traverse deck are replaced or removed,
+such as the spindle motor, it is
+necessary to confirm the adjustment
+related to the optical pickup and then
+readjust as required.
+
+A.Turntable Height Adjustment
+
+a) Purpose
+The output from the laser diode is
+focused on the signal side of the
+disc, via the focus lens. Focussing is
+
+accomplished by moving the focus lens
+vertically. The focus servo is used to
+control such vertical movement.
+
+Since the focus servo is designed to
+Operate within a limited range, it is
+necessary to adjust the lens at the
+mechanical midpoint position of the
+servo's respective operating range. If
+this adjustment should be deviated,
+skipping may occur during play mode or
+in an extreme case, no turntable
+rotation, etc.
+
+b)Positional relation between optical
+pickup and disc surface
+
+es es Adjust this distance
+<t—— CCF lens |
+
+Half mirror
+
+Semitranslucent lens ——m
+
+\
+
+Raising sensitivity eA
+
+\
+
+Photo detector ty
+
+Focus Lens
+
+Focus servo
+
+Laser diode
+
+Lens Operating Range
+
+Figure 22-1 Beam Method
+
+— 121 —

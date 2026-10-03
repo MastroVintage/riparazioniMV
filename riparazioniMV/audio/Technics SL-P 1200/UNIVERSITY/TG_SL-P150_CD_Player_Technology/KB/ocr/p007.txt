@@ -1,0 +1,76 @@
+Because of the constant linear velocity
+principle (constant scanning velocity)
+the disc speed has to be adjusted during
+
+laser beam
+clamping area
+
+play. This is done by the CLV servo
+system.
+
+Lead-Out Track (d=116mm)
+
+Label Side
+(This Surface is Coated)
+
+Pit=Also called bump
+Looks like a bump from
+the reading side
+
+coating layer
+
+surface transparent disc base
+(refractive index=1.5)
+
+Chart 7-3 Compact Disc Specification
+
+7-2 Audio Parameters
+
+The information area on the CD is
+divided in three parts:
+-The lead-in track;
+
+-The audio program area;
+-The lead-out track;
+
+The audio program area consists of 16-
+bits wide words, encoded as 2's
+complement numbers. The lead-in and
+lead-out tracks consist of digital
+zero's.
+
+The audio information can be recorded
+with a linear frequency characteristic
+(no emphasis), ora first-order pre-
+emphasis characteristic. In the latter
+case, the time constants are 50 microsec
+and 15 microsec.
+
+The player detects via 4 control bits in
+the data stream whether or not emphasis
+is applied and switch the de-emphasis
+circuit accordingly.
+
+po Ap dt 72 +-—16—
+
+“mm ome “es
+TROL
+
+|,.____________9g pits——_______
+
+—_—— time
+
+S0,S1: Part of sync pattern
+CONTROL: Indicates channel number and pre-emphasis
+ON/OFF
+Output from MSB
+0000 - 2CH,no pre-emphasis
+1000 - 4CH,no pre-emphasis
+0001 —- 2CH,pre-emphasis
+1001 - 4CH,pre-emphasis
+LSB=0 at the lead-in and lead-out portions
+ADR: Control bit for DATA-Q Output from MSB
+DATA-Q: 72 bits of data output from MSB
+CRC: CRC for CONTROL,ADR and DATA-Q
+
+Table 7-1 Channel QO Structure

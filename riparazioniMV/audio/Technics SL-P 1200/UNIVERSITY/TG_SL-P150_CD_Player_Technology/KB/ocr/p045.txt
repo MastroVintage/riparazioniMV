@@ -1,0 +1,44 @@
+A phase defference is produced between
+the output signals of (Al + A2) and (A3
++ A4) in proportion to the degree of
+deviation of the track. The phase
+difference is detected by the phase
+
+(a) Track Deviating Left
+
+| |
+y i
+~ | r
+I
+V(A3+A4) \ ;
+|
+
+' tot
+Phase (+)
+difference
+0 0———————__——
+
+(~)
+
+(b) On track
+
+detector and passed through the low pass
+filter for generating the tracking error
+signal, as shows figure 16-31 how a
+phase difference is detected.
+
+(c) Track deviating right
+
+! 1
+' !
+(+) !
+| 1
+|
+
+Positive pulses are generated if V(A1+A2) leads V(A3+A4), and
+
+negative pulses if vice versa,
+
+Figure 16-31 Detection of Tracking Error
+
+— 45 —

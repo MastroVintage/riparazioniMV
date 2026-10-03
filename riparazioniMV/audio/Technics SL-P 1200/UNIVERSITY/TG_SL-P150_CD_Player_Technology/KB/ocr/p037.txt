@@ -1,0 +1,78 @@
+The whole lens system is designed so,
+that the angle of the incident light
+in the center of the beam has a
+critical value. If a parallel beam
+enters, the incident angle for the
+whole beam will be the critical
+angle, so all light will be
+
+When distance between _
+disc and objective lens
+is too short
+
+disc reflection
+plans position
+
+reflected. However, when a convergent
+or divergent light beam enters, only
+part of the light will be reflected.
+The critical angle prism is designed
+so, that the light beam is reflected
+three time in the prism as shows in
+figure 16-14.
+
+4-section detector
+
+4-section detector
+e D} horizontal projection
+
+The light amount received by
+
+light source critical angle detects C and D is greater
+3 prism than A and B
+
+focused state ——-
+
+disc reflection plane
+
+when distance between disc _
+and objective lens is too long
+
+light source disc reflection plane
+
+position
+
+The light amount received by
+A,B,C,D is equal.
+
+The light amount received
+by detectors C and D is
+less than A and B.
+
+Figure 16-14 Focus Error Detection
+
+As the whole optical system is
+designed to obtain only P-polarised
+light, and as the beam is reflected
+three time, the disc surface position
+can be detected with extremely high
+precision.
+
+— 37 —
+
+3. Optical Pickup Construction and
+Operation
+
+Theoptical pickup is the heart of the CD
+player. It pickup modulated laser beam
+bounced of the disc pits and converts it
+into electrical data. The pickup
+(including the traverse mechanism)
+requires special precision design. On
+the Technics CD player series, the
+pickup is integrated onto a_ single
+assemly board and is mechanically
+isolated from the player chassis by a
+suspention mechanism to prevent floor
+viarations and acoustic feedback fron
+the loudspeakers.

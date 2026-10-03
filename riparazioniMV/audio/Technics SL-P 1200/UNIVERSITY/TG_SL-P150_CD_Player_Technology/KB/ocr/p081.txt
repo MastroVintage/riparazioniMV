@@ -1,0 +1,60 @@
+5) Error Correction
+
+The error correction logic provides Cl-
+double correction and C2-triple
+correction.
+
+Cl correction logic produces 4 types of
+Cl flags (no error, single correction,
+double correction, and triple or more
+correction).
+
+C2 correction logic selects either
+double or triple correction depending on
+the types and number of Cl flags and
+executes the selected correction. It
+also determines whether interpolation is
+
+needed or not depending on the positions
+and types of Cl flags.
+
+If the logic has indicated that
+interpolation is needed, it transfers to
+the interpolation logic the C2 flag
+indicating which Cl flag is to be used
+for the interpolation. The interpolation
+logic selects the type of the Cl flag
+according to C2 flag, and provides
+interpolation only for the symbol for
+which the Cl flag is set.
+
+The error correction states can be
+monitored with flags 1 through 5.
+
+FLAG | FLAG | FLAG | FLAG |FLAG | Meaning
+5 4 3 2 1
+
+Tee Ta
+
+EEE C2 - Double error incorrectable.
+
+cl
+
+ape fe fe larwe
+
+- Single error corrected.
+- Double error corrected.
+- Error incorrectable.
+
+- No error
+
+- Single error corrected.
+
+- Double error corrected.
+
+ae ee | [ee seats ener erase
+pa }oo fa] x |x| C2 - Triple error incorrectable.
+
+Table 18-1
+
+— 81 —

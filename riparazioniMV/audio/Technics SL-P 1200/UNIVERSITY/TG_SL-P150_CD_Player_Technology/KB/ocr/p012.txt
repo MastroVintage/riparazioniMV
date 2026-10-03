@@ -1,0 +1,95 @@
+10-2 Sample Hold Circuit
+
+In the practice of analog to digital
+conversion, the sampling operation is
+performed by so called sample hold
+circuit which, once the sample has been
+taken, store the sample analog voltage
+for the time during which it can be
+converted into a digital code by the A/D
+converter, The principle of the sample
+hold circuit is relatively simple.
+
+A basic sample hold circuit is in fact a
+voltage .memory device that stores a
+given voltage in a high-quality
+capacitor. To sample the input voltage,
+switch S closes momentarily; when §
+opens, capacitor C holds the voltage
+until S closes again and passes the next
+sample, see figure 10-5,
+
+Figure 10-5 Basic Sample-Hold Principle
+
+The sample hold circuit are not only
+used in A/D conversion to sample an
+analog input signal, but also in the
+reverse stage, after the D/A conversion,
+to remove transients from the output of
+the D/A converter and thus facilitate
+the task of the low pass filter. In this
+case, it is often called deglitcher.
+
+10-3 Filtering
+
+In the foregoing, we have seen that low
+pass filtering is required at two places
+in a digital audio system:
+
+1) During recording, in the A/D stage
+before the input sampler, we need
+an anti-aliasing filter that
+drastically suppresses all input
+frequencies higher than the Nyquist
+
+frequency.
+
+2) During playback, i.e. in the compact
+disc player, we need a
+reconstruction filter after the
+
+sample hold in the D/A stage to
+separate the sample audio signal
+from its images sround the harmonics
+of the sampling frequency.
+
+Consequently, both filters must be very
+linear within the passband, and have a
+very high rejection out of it; this will
+unavoidably bring along phase and group
+delay distortions within the audio
+passband as well as ripple and ringing.
+Apart from that, the noise and THD
+performance of these filters has to be
+better than the limits posed by the
+quantization process itself. In practice
+this means that 100dB S/N ratio have to
+be attained.
+
+For the practical realization of such
+low pass filter, there are serveral
+approaches possible:
+
+1) Passive Filter:
+
+7th to 9th order filters must be used
+to obtain the required rejection. The
+coils which must be used give
+problemss because of non-linearity,
+size andcost. Noise, however, is
+hardly a problem in this type of
+filters.
+
+2) Active Filter:
+Can also be used but the
+specifications are more stringent
+than usually encountered with active-
+filter designs; therefore, a very
+careful design is necessary. The
+distortion can be made better than
+
+with passive filters, but the noise
+worse.
+
+— 12 —
+

@@ -1,0 +1,67 @@
+9) MN6623 Actual Operation
+
+The MN6623 D/A converter system is
+composed of a digital filter, MASH, and
+PWM blocks as shows in figure 19-9.
+
+ae (384 fs)
+
+[pigital Fitter |
+
+85 TAP
+2 Times O.S
+FIR Filter
+
+Single
+
+Integration
+17bit| Noise
+
+Shaper
+
+Integration
+Noise
+
+|
+|
+| Double
+| Shaper
+
+X'TAL 768fs
+
+2 Times 0.S
+FIR Filter
+
+Lch PWM
+
+Rch PWM |
+
+|
+
+Figure 19-9 MN6623 Block Diagram
+
+The MASH block operates at 32fs, where
+fs is the sampled input _— signal
+frequency. This means that a 32 fold
+oversampling filter is required. On the
+MN6623, however, the first digital
+filter oversamples the fs signal into a
+4fs signal. The following MASH block
+then performs zero-order holding on the
+4fs signal to convert it into a 32fs
+signal.
+
+The digital filter and MASH blocks use
+384fs and 64fs clocks, respectively, to
+perform time-division multiplexing on
+the left and right channel signals. The
+PWM block uses a 768fs clock to process
+the left and right signals
+independently. The MASH block converts
+the 16 bits, 32fs signal into 11 values,
+which after Pulse-Width Modulation in
+the PWM block become analog signals. The
+following section describe the function
+of each MN6623 block,
+
+— 93 —

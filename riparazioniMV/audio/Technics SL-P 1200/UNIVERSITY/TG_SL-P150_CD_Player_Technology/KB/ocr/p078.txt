@@ -1,0 +1,106 @@
+2) Subcode Detecter
+
+(1) Qdata demodulation
+
+The device inputs the demodulated data
+from the subcode-block and sync signals
+(SO,S1) are transferred from the EFM
+demodulator with the frame clock (CLDCK)
+timing.
+
+The BLKCK signal indicating the block
+period is made active only if SO and S1
+are detected consecutively.
+
+Q data is inverted and output as the
+SUBQ is synchronization with the CLDCK.
+
+(2) CRC check on Q data
+
+Q data is subjected to CRC check, and
+the check result is output to the CRC
+and STAT pins of the device.
+
+If an error is detected, both CRC and
+STAT are set high, if no CRC error is
+detected, both CRC and STAT are set low.
+
+When the TRON input is high, the CRC
+check result output are forced high.
+
+(3) P to W data
+
+The 8 bits data, (P, Q, R, S, T, U, V,
+and W) are subjected to subcode
+demodulation and loaded into an 8 bits
+parallel to serial register at the CLDCK
+timing. It is then shifted out in series
+through the SUBC pin at an external SBCK
+shift clock timing.
+
+(4) De-emphasis detection
+
+The device extracts one bit, which
+indicates if emphasis is on or off from
+the Q data and supplies it to the DEMPH
+pin. De-emphasis is on when the DEMPH is
+high. To suppress rapid output
+transistions, the DEMPH output holds the
+previous state if a CRC error has’ been
+detected.
+
+CLOCK $ l J l J | j
+Oata
+svsa “Tosi fala fas) esion
+
+BLKCK J ] ub j i
+
+crc _ | X “H" © NG
+DEMPH eS aD a HON
+
+Figure 18-3 SUBQ, CRC and DEMPH Timing
+
+* SUBC is set low if 8 or more SBCK clocks are input.
+
+Figure 18-4 SUBC and SBCK Timing
+
+The MN6617 accesses the external 16K
+byte RAM for the following read and
+write functions of the modulated EFM
+data:
+
+** Cl unscramble
+
+** Deinterleave
+
+** C2 unscramble
+
+**kError correction flags
+
+To make these RAM accesses efficient,
+the RAM address controller assigns
+different levels of priority to RAM
+access. The level of priority is
+identified by the interrupt acknowledge
+logic so that the relevant address is
+supplied to RAM.
+
+Each frame contains 2304 clocks of XCK
+(16.9344 MHz), and every RAM access
+cycle requires 12 XCK clocks (709 ns).
+So each frame contains up to 192 access
+slots.
+
+(1) RAM address generation
+
+The effective addresses for the 16K byte
+SRAM (static RAM) are given by an 11
+bits read frame counter and an 11 bits
+write frame counter. The read frame
+counter is incremented by a crystal
+controlled frame clock. The write frame
+counter is incremented each time one
+frame (32 symbols) of EFM data is
+written into the RAM,
+
+— 78 —

@@ -1,0 +1,27 @@
+Contents
+
+1. Analog VS Digital ..... ccc cc ccc ccc ccc cece eens 1
+2. Digital System .......... cece cece cece ccc ccee woeee 2
+3. Compact Disc Features ...........2.. 2. eee eee eee eee 3
+4. PCM Features ............ cece c cree ccccccncccceces 3
+5. PCM Process for CD ...... 2. cece ccc ence ccc cccccscce 3
+6. Disc Mastering Procedure ........ cece eee cece ee eee 3
+7. Disc Structure and Specification ...........eeeees 5
+8. Advantages of the CD Player .............c cece eens 8
+9. Analog Signal Versus Digital Signal .............. 9
+10. Analog to Digital Conversion ....... eee eee ce eeee 10
+11. Architecture of D/A Converter ........eeeceecceees 14
+12. Channel Modulation for CD Recording .............. 15
+13. Error Correction BaSicS 1.2.2... . cece ecw cere ec eeee 19
+14. Description of the CD Sub-code ........... cece eeee 25
+15. Calculation of the Different Bit Rates ........... 30
+16. Optical Pick-up ......... cece cece cece cece cece ecees 31
+17. Servo Circuit 2.2.2... cece ccc ce ccc cece reece nee 46
+(Included new servo IC's)
+18. Digital Circuit ........ cc cece cece cect ee eeceeees 76
+19. Digital Filter and D/A Converter ................. 89
+20. Analog Circuit ........ cece cece eee e cece cence eees 102
+21. CD Changer's Operation and Description ........... 103
+22. Reference (Adjustment) ....... 0. cc cece cece eee e ees 121
+(Included some information)
+23. CD Changer's Troubleshooting Flow Chart .......... 137

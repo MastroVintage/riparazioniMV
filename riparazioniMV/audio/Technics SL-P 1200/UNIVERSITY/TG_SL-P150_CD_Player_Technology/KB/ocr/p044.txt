@@ -1,0 +1,33 @@
+The voltage from opposite sections of
+the detector is added and subtracted
+from the other sections (Al + A2) - (A3
++ A4). The result is a focus error
+voltage that is used to drive the focus
+lens to the correct focusing point.
+
+7) Tracking Error Signal
+
+The figure 16-30 shows the _ basic
+arrangement of the one beam method (the
+phase difference detection method).
+Suppose that the image of a pit in a
+track runs over the four-segment PD (Al, Figure 16-29 Focus Servo Response Curve
+A2, A3, A4) deviating rightwards or
+
+leftwards.
+
+(AL+A2)
+
+Phase Tracking
+
+(Comparator) difference P. error
+
+detector signal
+
+(A3+A4)
+
+Figure 16-30 Basic Arrangement
+
+(Cts,
+
+— 44 —

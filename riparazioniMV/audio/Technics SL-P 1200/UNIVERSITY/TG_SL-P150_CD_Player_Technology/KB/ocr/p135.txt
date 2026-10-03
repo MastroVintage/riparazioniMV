@@ -1,0 +1,73 @@
+Tracking Servo Adjustment
+
+1. Adjust the input level for the CD
+player with the OSC level
+controller @ on the unit panel
+
+(Refer to the service manual for
+the input level).
+
+2. Select the frequency of the
+oscillator with the frequency
+switches (@ and @) on the unit
+panel (Refer to the service
+manual for the frequency).
+
+3. Set the mode selector switch @ on
+the unit panel to position "1" (for
+tracking servo adjustment) and
+adjust the semi fixed volume for
+the tracking gain of the CD player
+until the GOOD LED of the servo
+gain indicator @ lights up.
+
+NOTE
+
+First adjust the semi fixed volume
+for tracking gain control so that
+the LOW LED on the servo gain
+INDICATOR panel lights up and then
+make further adjustments until the
+GOOD LED lights up.
+
+— 135 —
+
+Tracking Balance Adjustment
+
+1.
+
+Select the frequency of the
+oscillator with the frequency
+switches (@ and @) on the unit
+
+panel (Refer to the service manual
+for the frequency).
+
+Adjust the input level for the CD
+player by adjusting the OSC level
+controller @ on the panel (Refer
+to the service manual for the input
+level).
+
+Set the mode selector switch @ to
+position "1". The frequency of the
+RF signal will be output as shows
+below. Adjust the tracking balance
+adjustment semi fixed volume so
+that amplitude X becomes minimum.
+
+Ali
+
+tie
+ae i a
+
+4
+iV, f) x <«<— Keep this amplitude minimum.
+Ld IInd i ‘| >
+
+Thad bal Ih 98 9, et is hdl Al
+ia ii i ik
+rt all ft +t tet |
+
+Ll
+

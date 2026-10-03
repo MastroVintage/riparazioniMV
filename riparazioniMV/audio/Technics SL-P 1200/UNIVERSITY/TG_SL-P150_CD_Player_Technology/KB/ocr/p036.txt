@@ -1,0 +1,82 @@
+c) The Half Mirror
+prism is an optical transparent body
+used to refract, disperse or reflect
+an optical beam. The simplest prism
+is the angle prism.
+
+An optical ray striking one of the
+shorter faces of the prism at the
+normal angle is totally internally
+reflected at the hypotenuse,
+undergoes a 90 degree deviation, and ae
+
+emerges from the second shorter face. LINEAR POLARIZATION CIRCULAR POLARIZATION
+Orthogonal components Orthogonal components are
+are in phase in phase quadrative
+
+Figure 16-12
+
+The next figure gives the
+relationship between the reflection
+confficient of P-polarized light, Rp,
+and the reflection confficient of S-
+polarized light, Rs. The shows in
+figure 16-13 it can be seen that in
+Incident the case where the incident angle is
+ray : slightly smaller than the critical
+angle (42 degree), the reflection
+coefficients will change drastically
+and there will be an important
+difference between the reflection
+Deviated ray coefficients Rp and Rs.
+
+reflectivity (Rp-Rs)
+
+Fig 16-11 © reflection
+7.0
+x plane
+0.3tpy © 7 KS
+Operation of a totally internally ost Rs PUN
+
+reflecting prism is dependent upon
+the fact that a ray impinging upon
+the surface of a material having a
+refractive index (n) smaller than the
+refractive index (n') of the medium
+in which the ray is propagating, will
+be totally internally reflected when
+the angle of incidence is greater
+than a certain critical angle (0)
+given by:
+
+0.7} p polarized light
+s polarized light
+
+critical angle
+(41.8°)\\|
+47° ae
+
+angle of incidence @
+
+. 40°
+sin fc = n'/n
+
+d) The Critical Angle Prism Figure 16-13
+When light gose over from a medium
+with a high refractive index to a This means that, with a small
+medium with a low refractive index, deviation of the incident angle, an
+
+important change in reflection can be
+detected, and an important difference
+in reflection op P-polarised and S-
+polarised light. As can be seen in
+the figure, the change in
+refloctivity besomes more important
+for P-polarized light (Rp).
+
+the relationship between the angle of
+incidence and the angle of reflection
+at the transition plane is as_ shows
+in figure 16-12.
+
+— 36 —

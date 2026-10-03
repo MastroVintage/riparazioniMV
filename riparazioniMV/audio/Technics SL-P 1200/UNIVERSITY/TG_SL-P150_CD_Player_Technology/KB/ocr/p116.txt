@@ -1,0 +1,117 @@
+—9LL—
+
+Symptom
+
+At power on, the disc loader is
+lowered to the lowest position and
+remains there.
+
+At power on, the disc loader
+continues elevation for about
+10 seconds.
+
+Disc magazine is ejected soon after
+it is inserted.
+
+Disc tray is pulled out twice and
+"No Disc" indication appears.
+When the Play switch is pressed,
+message "-E" appears.
+
+The same disc is pulled out then
+returned repeatedly at about 10
+second interval.
+
+When the magazine is ejected, the
+player displays loading indication
+for about 10 sec., then returns to
+the normal state.
+
+At power on, all the display digits
+and indicators momentarily come on,
+then immediately go to the loading
+message. However, key entry is
+disabled after mechanism reset
+operation is completed.
+
+"No Disc" message appears 3 seconds
+after a disc is clamped, then the
+disc is returned to the magazine.
+
+5 Problem Solving
+Possible cause Check point
+
+Rest switch is defective.
+Elevation motor has been stopped by
+an ON signal from the rest switch.
+
+Height sensor signal is not applied
+to the CPU. The CPU cannot compute
+disc loader height from the sensor
+
+pulses.
+
+Magazine switch remains off.
+
+Draw switch remained off when the
+disc tray was pulled out. The CPU
+
+identifies it as no disc and returns
+
+the tray.
+
+(1) Mechanism operation is impeded
+in the pulling process.
+
+(2) Loading switch remains off at
+the fully pulled position.
+
+Mechanism operation is impeded
+in the eject process.
+
+Eject or Loading switch remains
+off when the magazine is
+ejected.
+
+Any of the key switches is left
+closed, causing CPU runaway.
+
+Optical pickup is unfocused.
+
+Nese
+ewe
+
+Check the Rest Position Sense switch (S454)
+
+for correct ON state.
+
+Check the sensor (D451) output while the
+elevation motor is rotating.
+
+Check the Magazine switch (S462)
+
+ON state.
+
+for proper
+
+Press the Draw switch (S453) and check for
+
+correct ON state.
+
+Manually rotate the loading motor to
+check for smooth mechanism movement.
+Check the Loading switch (S452) for
+correct ON state.
+
+Manually rotate the loading motor to
+check for smooth mechanism movement.
+Check the Eject switch (S451) and
+Loading switch (S452) for correct ON
+State.
+
+Check for defective key switch.
+
+Check for optical deck misalignment.
+Rest position height error or disc clamp
+error due to height sensor signal error.
+

@@ -1,0 +1,80 @@
+2) Control Logic Circuit
+
+The control data needed for optical
+servo system control is supplied from
+the system CPU in 4 bits parallel lines
+(CNT1L -CNT4). The control logic within
+
+System
+
+Optical Servo Control
+Control logic
+
+the servo IC-101 decodes the input
+control data to provide control commands
+to the optical servo system, The control
+logic block diagram shows in figure 17-2
+
+Servo IC-101 (AN8370S)
+
+Laser turn-on command
+
+APC (Q203)
+APC
+
+Auto focus command FE OUT
+_ in 3
+AF ON (IC-104 pin 3)
+Tracking servo command TE OUT
+TR ON (Ic-105 pin 3)
+Tracking hold command H OUT
+HOLD (IC-106 pin 3)
+Brake command
+BR ON
+Track kick command
+KICK
+
+KICK OUT
+(IC-106 pin 2)
+
+Figure 17-2 Control Logic Block Diagram
+
+The command name and functions as
+follows:
+
+(1)LD ON: Laser Ignition Command
+This command controls the
+turning on and off of the
+laser APC circuit.
+
+(2)AF ON: Auto Focus Command
+This command controls the
+opening and closing of the
+focus servo loop, and the on
+and off of the search
+oscillation switch.
+
+(3)TR ON: Tracking Servo Command
+
+This command controls the
+
+switched of the tracking servo
+
+loop open and close.
+
+Tracking Hold Command
+
+The preceding tracking error
+
+is hold in tracking.
+
+(5)BR ON: Tracking Brake Command
+The tracking actuator is
+braked after quick traverse or
+KICK for eliminating unwanted
+vibration in a short time and
+making looking easy.
+
+(4)HOLD
+
+— 48 —

@@ -1,0 +1,45 @@
+(2)Mode-2 least 1 out of 100 successive
+ADR = 2 = (0010) subcoding blocks.
+If mode-2 is present, it occupies at The data format in mode-2 as follows;
+
+CONTROL Nl N2 N3 N4 NS N6 N7 N8 NO N1O NLL N12 N13] ZERO | AFRAME
+
+52 bits
+
+Figure 14-7
+
+N1-N13: Catalogue number of the disc (3)Mode-3
+expressed in 13 digits BCD
+(Binary Code Decimal). Used is ADR = 3 = (ool1)
+the UPC/EAN code (BAR coding). If mode-3 is present, it occupies at
+The catalogue number does not least 1 out of 100 successive
+change on a disc. Incase no subcoding blocks. The mode-3 used to
+catalogue number is encoded give a unique number to a music
+according to the UPC/EAN code, track. This is done by means of the
+N1-N13 are all zero, or mode-2 International Standard Recording Code
+can be deleted from the disc. (ISRC). The ISRC is defined in DIN-
+
+31-621.
+
+ZERO : These 12 bits are zero.
+
+AFRAME: The continuation of AFRAME in
+mode-1 (two digits BCD running If no ISRC code is used, mode-3 must
+from 00 to 74). During the lead- be deleted. During the lead-in and
+in area (TNO= 00), these 8 bits lead-out tracks, mode-3 is not
+are zero. present on the disc. The ISRC code
+
+can only change immediately after the
+
+Note : UPC ... Universal Product Code track number (TNO) has been changed.
+
+EAN ... European Artical Number The data format in mode-3 as follows;
+
+$0, $1} CONTROL 11 12 13 14 15 00 16 17 18 19 110 111 112 | ZERO | AFRAME
+
+R code
+60 bits
+
+Figure 14-8
+
+— 29 —

@@ -1,0 +1,46 @@
+c)Adjustment method
+balance control is to be adjusted for
+The 1 KHz signal is fed through the minimum and balanced level on the RF
+tracking servo. The tracking offset waveform.
+
+14+24+3+4+5+6
+
+Tracking servo circuit
+
+Connector
+
+8
+
+Lens
+
+Phase Filter Driver
+Comparator Tracking coil
+
+Tracking
+offset O
+belance Wy 1KHZ
+
+control
+
+Servo Gain Adjuster
+S$ZZP1017F (without oscillator)
+SZZP1094C (with oscillator)
+
+Figure 22-24
+
+G.PLL Adjustment
+a)Purpose
+
+The purpose of the PLL adjustment is
+to set the VCO (Voltage Controlled
+Oscillator) circuit such that the
+4.3218 MHz clock will lock within its
+operating range.
+
+4.3218 MHZ
+
+Af = 430 KHZ
+
+Figure 22-25
+
+— 131 —

@@ -1,0 +1,67 @@
+4) RF Amplifier and Dropout Detector
+Circuit
+
+(1) RF Amplifier pin 33 of the servo IC-101, via
+The RF signal is a summation transistor, where it is amplified by
+(A1+A2+A3+A4+A5+A6) of the ounput of an RF amplifier having gain of
+all the 6 segment photodetector approx, 34dB. The output of the RF
+elements. Summation is performed amplifier appears at pin 31 of IC-
+within the optical pickup. The 101 and couples to the PLL/DATA
+resulting RF signal is applied to SLICE circuit IC-501 pin 15.
+
+J PLL/oaTA sice |
+
+5V 5V
+@--4 4 1 C117
+29) ——{(89)
+
+RF OUT
+
+Cee”
+I
+
+Li
+
+Wave shaper
+
+a |
+| Phase
+Camparator ]
+
+C114
+
+c115
+0.0018 0.0068
+| !¢501
+5V 5V
+
+PLL/DATA SLKE
+LC J
+
+Figure 17-4 RF Amplifier Circuit
+
+(2) Dropout Detector The Process of detecting dropout is
+The dropout detector detects signal shows in figure 17-5.
+dropouts in the RF signal,
+stabilizes the tracking servo
+
+against dropouts, and provides the
+detection signal to pin 32 of IC-
+101.
+
+Tf a dropout occurrs in the RF
+signal, the dropout detector detects
+it using different time constants
+condensers connected to pin 27
+(0.0018 pF) and pin 28 (0.0068 pF),
+The dropout signal level is "H" to
+
+hold error signal before dropout. Dropout detection | |
+The dropout signal is applied to pin signal
+
+32 of IC-101 to IC-501 pin 19.
+
+Figure 17-5 Dropout Detection Signal
+
+—F1—
+

@@ -1,0 +1,68 @@
+The above section a) and b) suggests
+that a larger photodetector is
+preferable for RF signal pickup,
+whereas a smaller photodetector is
+pecterabla far sarvo cignal pickup. In
+order to satisfy these incompatible
+requirements, the most CD player has
+replaced the conventional 4 segment PD
+
+Thetol
+
+-
+
+4-split PD
+
+with a 6 segment PD to successfully
+achieve more stable play performance.
+
+The figure 16-22 shows the size
+comparison between the 4 segment PD
+and 6 segment PD for the single beam
+system.
+
+6-split PD
+
+Figure 16-22
+
+c)Signal Output of the 4 Segment and 6
+Segment Photodetector.
+
+4—SEGMENT PD
+
+6—SEGMENT PD
+
+Al + A2 + A3 + A4
+
+Al + A2 + A3 + A4 + A5 + AG
+
+(Al + A2) - (A3 + A4)
+
+Atl + a2 Reece
+At2=A3+A4
+
+(Al + A2) - (A3 + A4)
+“| atit at2(Atl=Al+a2)
+At2=A3+A4
+
+Figure 16-23
+
+CONCLUSION
+
+1.The PD section for RF signal pickup
+should preferably have a larger
+detection surface area.
+
+2.The PD section for servo signal
+pickup should preferably have a
+smaller detection surface area.
+
+—~ 414 —
+
+The PD used in the most CDplayer has
+achieved the superior RF signal
+pickup perfermance of the single bean
+system for discs with fingerprints,
+and a stable servo performance
+comparable to the three beam system
+for scratched discs.

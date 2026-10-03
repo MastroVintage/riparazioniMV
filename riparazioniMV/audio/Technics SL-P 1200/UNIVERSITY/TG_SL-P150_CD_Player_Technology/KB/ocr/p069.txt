@@ -1,0 +1,148 @@
+14) Pin Description of MN1554PEP
+
+@ 10401: MN1554PEP (System Control)
+
+v0
+Division
+
+Pin
+
+No. Mark
+
+°
+4 BRECV — (Not used, open)
+
+Function
+
+2 BSEND _ (Not used, open) 30
+
+3 SYNC [@) (Not used, open)
+
+4
+5 BLKCK
+
+1
+SIRQ Not used (connected to +5V) 32
+
+Sub-code block (Q data) clock input
+(75 Hz) 33
+
+Sub-code block (Q data) clock input
+$ CLOCK (7.35 kHz) 34
+
+(Not used, open)
+35
+
+Sub-code (Q data) input
+
+1
+
+Reset signal Input
+
+Not used (connected to +5V)
+
+3 | P23
+14. | CLOSE Loading motor “Close” command
+
+15 | OPEN Loading motor “Open” command
+40
+
+{
+
+16 SLOW (Not used, open)
+7
+
+a 41
+Muting control 5
+44
+Traverse servo control
+
+(Not used, open)
+Not connected
+
+Traverse “Reverse” command
+signal
+
+Traverse “Forward” command
+signal
+
+Optical servo IC control signal
+(KICKR: Kick direction [reverse]
+command)
+
+Optical servo IC control signal
+(KICKF: Kick direction [forward]
+command)
+
+Optical servo IC control
+(TRON: Tracking servo)
+
+Power supply (connected to +5V)
+(Not used, open)
+(Not used, open)
+
+Optical servo IC control signal
+(FOON: Focus servo)
+
+29 | CLOSE
+
+OPEN
+
+3 BCLK
+
+BDATA
+
+STAT
+COMP
+FLOCK
+
+SENSE
+
+RECV
+
+DATA3
+
+Tre)
+Division Function
+\ Disc holder “Open” detection
+
+Disc holder “Close” detection
+
+! (Not used, connected to GND)
+| (Not used, connected to GND)
+
+Processing status Input from signal
+processing LSI
+
+TOC reading control (ON at “L”)
+(connected to GND)
+
+Optical servo condition (focus)
+Input
+
+Optical servo condition
+(track cross) Input
+
+[esmerconmeesin
+[essiromeoncomnene
+[eseaernmatn se
+ene
+
+Key scan signal
+
+| Not connected
+
+[asm
+Yeeace
+[enclose |
+eee
+
+Data clock output (command clock)
+
+Data output (command load)
+
+Optical output control signal
+(Not used, open)
+
+Emphasis signal output
+

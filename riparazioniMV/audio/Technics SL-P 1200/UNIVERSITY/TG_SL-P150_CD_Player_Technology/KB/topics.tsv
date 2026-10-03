@@ -1,0 +1,21 @@
+# Indice argomenti (Contents + titoli interni verificati da OCR). Pagine = numeri stampati. File: pages/pNNN.png, ocr/pNNN.txt
+section	title	pages
+1-9	Analog vs digital, digital system, CD/PCM features, PCM process, disc mastering, disc structure & spec (7), advantages, analog vs digital signal	1-9
+10	Analog to digital conversion (sampling, quantization)	10-13
+11	Architecture of D/A converter	14
+12	Channel modulation for CD recording (EFM, merging bits, DSV)	15-18
+13	Error correction basics (CIRC, C1/C2, Reed-Solomon, interleave)	19-24
+14	CD sub-code (P/Q channel, Q structure, TOC)	25-29
+15	Calculation of the different bit rates (4.3218 MHz etc.)	30
+16	Optical pick-up: laser diode, opto-electronics, single beam system, focus lens, focus/tracking error detection (4-split PD, critical angle prism), RF, FE, TE	31-45
+17.1-7	Servo circuit (AN8370S IC-101): focus pull-in, trick play, control logic(48), APC(50), RF amp & dropout(51), focus servo(52-55), tracking servo/kick/brake(56-59), relation servo IC-CPU(59)	46-59
+17.8-10	Traverse servo(60), linear motor(61-62), spindle CLV servo(63-65)	60-65
+17.11	PLL servo circuit, AN8371S data slice/PLL (EFM, PCK, SRF, FPC signals; Fig.17-27 block, 17-28..31 waveforms)	66-67
+17.12-14	Pin description AN8370S (68), MN1554PEP system control (69)	68-69
+17.15	Modified servo circuit (AN8373S servo amp, MN8374S/AN8374S servo controller, servo driver) for SL-P150/200/250 later production; block, focus/tracking op, auto focus, braking, pin tables AN8373S(74) AN8374S(75)	70-75
+18	Digital circuit MN6617: block (76), EFM demod(77), subcode(78), interpolation & D/A interface(79), error correction(81), spindle servo control incl. FG limiter(82-85), CPU interface(84), FPC interface(86), pin description MN6617 (87, Table 18-5), digital block diagram IC101/IC501/IC301/IC302/MN6618A/MN4416S (88, Fig.18-16)	76-88
+19	Digital filter and D/A: principles, S/N vs bits, oversampling, noise shaping, MASH (MN6623) block, PWM D/A	89-101
+20	Analog circuit	102
+21	CD changer operation (magazine, elevator, timing charts, problem solving, apparent faults, mechanism check points)	103-120
+22	Reference: mechanism adjustment (121-123), electrical adjustment (124-), servo gain adjuster SZZP1094C (127-134, procedure p134), disc defects & RF (132), part numbers (133-136)	121-136
+23	CD changer troubleshooting flow chart	137-141

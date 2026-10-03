@@ -1,0 +1,97 @@
+This type of actuator is insensitive
+to vibration because it is almost free
+from friction or play. In addition,
+Since the four wires also serve as
+electrical leads for the moving coil,
+the probability of wire break failure
+is minimized. These features in
+combination ensure a high reliability
+for the assembly.
+
+Focusing lens
+
+Coil bobbin
+Rubber damper
+
+Figure 16-17 Wire Actuator Construction
+
+3) Focusing Lens
+The focusing lens availability include
+the infinite magnification type for
+ues in parallel beams, and the finite
+magnification type for use indivergent
+beams emitted from a _ semiconductor
+laser.
+a)Infinite Magnification type:
+This type has no limitation in the
+designed optical path length.
+b)Finite Magnification type:
+This type has a fixed distance from
+the semiconductor laser to the disc
+surface,and hence requires a lens
+that matches the construction of the
+individual optical pickup in which
+it is used. However this type of
+focusing lens requires no collimate
+lens, and renders stable performance
+
+due to simple optical system
+configuration, In addition, the
+distance from the — semiconductor
+
+laser to the disc surface can be
+considerably reduced when compared
+with the infinite magnification type
+However , to compensate for
+variations of magnification or view
+angle resulting fromfocusing lens
+movement , the finitemagnification
+
+type normally requires = stricter
+
+specifications than required for the
+finite magnification type.
+
+Infinite Finite ;
+magnification magnification
+type type
+
+Figure 16-18
+
+4) Focus and Tracking Error Detection
+The optical pickup (photodetector
+section) yields two basic output
+Signals. One is the musical data signal
+(RF Signal) which is coupled to the
+signal processing circuit. The other one
+is the servo signal used for optical
+servo control (focusing and tracking
+servos). This is coupled to the servo
+circuit. These signals are affected
+differently by contamination or
+scratches on the disc surface, as
+described below:
+
+Signal
+processing
+circuit
+
+Optical pickup
+
+Focus Error
+Tracking Error
+
+Servo circuit
+
+Figure 16-19 Servo Detection
+
+a)Fingerprints and Other Contaminations
+on disc:
+If the disc surface is contaminated
+with fingerprints or any other
+contaminations, the laser beam bounced
+of the disc surface diverges as shows
+in figure 16-20, this also leads to
+diverged signal energy.
+
+— 39 —

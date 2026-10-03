@@ -50,3 +50,4 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 
 ## Materiale formativo collegato
 - ..\UNIVERSITY\KB\00_INDEX.md : Technical Guide Vol.17 (SL-XP7) - teoria AN8370S (sez.6 pp.20-31), AN8371S data slice/PLL (= funzioni EHDGA1243), MN6617 (sez.9 pp.36-50), troubleshooting pp.55-86. Ref IC del libro = SL-XP7, non SL-P1200.
+- ..\UNIVERSITY\TG_SL-P150_CD_Player_Technology\KB\00_INDEX.md : Technical Guide CD Player Technology (SL-P150/SL-P405C, AD8812333T0) - ALTA rilevanza: stessa catena AN8370S/AN8371S/MN6617/MN6618A/MN4416S; servo cap.17 pp.46-69, MN6617 cap.18 pp.76-88, tarature cap.22. Catalogo: ..\UNIVERSITY\00_CATALOGO.md

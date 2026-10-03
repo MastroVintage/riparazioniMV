@@ -1,0 +1,81 @@
+(6) Operation upon generation of dropout
+
+**The device ignores a dropout (DO)
+
+signal pulse width of less than 4.3us.
+**T£ the DO pulse width exceeds 4.3us:;
+
+1.The EC is set to high impedance
+(free run) when in CLV mode.
+
+2.The EC is set to high impedance
+(free run) when in 11T mode.
+
+3.DO is ignored when in 6T mode.
+
+4.Brake is not released when in 6T
+brake mode.
+
+7) System CPU Interface
+
+(1) Signal Name
+
+The various device modes can be set from
+the system CPU by inputting a 4 bits
+address and 4 bits data (both MSB first)
+the device with the
+
+Signal into
+
+(7) Operation upon off tracking
+
+If off-tracking occurs, the device dose
+not operate normally in any mode other
+than the 6T mode. It must be placed in
+
+the free-run mode by the DO signal or
+system control command.
+
+X Mode setup
+
+Figure 18-12
+
+following timing of the MDATA,
+MLD lines as shows figure 18-12.
+
+MCK, and
+
+(2)Description of MDATA commands
+The details of MDATA shows in table 18-2
+
+eye
+
+McHapd4HM) wmMAZCON ANOPIAH
+“|
+
+BS ee ee
+
+Count
+enable (se)
+oS S
+
+Remarks
+
+0O STOP Tree Run
+O01 acc
+
+10 Brake
+
+No operation
+
+Middle
+low
+
+Middle
+high
+
+Table 18-2
+
+— 84 —
+
+ee

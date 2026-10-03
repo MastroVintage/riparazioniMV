@@ -1,0 +1,76 @@
+The phase of the CROSS signal leads in
+the KICK FWD mode and lage in the KICK
+REV mode. The brake direction is
+determined by the detection of the above
+phase difference.
+
+(4) Tracking Drive Circuit
+
+The TE signal appearing at pin 16 of IC-
+101 is applied to an amplifier (with
+low-frequency complifier) comprised of
+IC-106, R105, C164, and R167. The output
+
+of the amplifier couples to the current
+feedback type tracking drive circuit
+
+TE Cross
+detector
+Off track
+detector
+RF
+detector
+S curve
+detector
+
+Optical Servo System
+
+Figure 17-16 Connection Diagram of
+
+(a)Output signal from system:
+-Control logic signals (CNT1 -CNT4)
+
+(b)Input signal from system:
+-RF detection signal (FLOCK)......---
+.»-Active "L"
+
+comprised of Q161, and Q162 which then
+drive the tracking drive coil.
+
+7) Relation with Servo IC and
+System CPU
+
+The figure 17-16 shows the
+interconnection diagram of servo IC-101
+(AN8370S) amd system IC-401. There are
+four beses for carrying signals from the
+system IC to AN8370S and two buses for
+carrying signal from AN8370S to the
+system IC.
+
+Check of
+optical
+servosystem
+status
+
+System
+control
+
+Mode
+setting
+
+of Optical
+servosystem|
+
+System CPU
+(MN15845)
+
+System CPU and Optical Servo System
+
+-Servo system status signal (SENSE)..
+Type of SENCE signal:
+(1)0ff-track signal
+(2)Tracking cross signal
+(3)Waveshaped tracking cross signal
+(4)Focus S curve detection signal.
+

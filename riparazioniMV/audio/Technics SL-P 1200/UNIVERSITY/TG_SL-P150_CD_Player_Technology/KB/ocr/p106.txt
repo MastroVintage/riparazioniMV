@@ -1,0 +1,101 @@
+3. Control Logic a
+
+| 3-1. Magazine Loading Operation |
+
+(1). The SL-P405C mechanism is equipped
+
+with five sensing switches and a
+height sensor. Four of the sensing
+switches along with the height
+sensor. Four of the sensing switches
+along with the height sensor
+contribute to the disc magazine
+loading operation shows figure 21-9.
+Their purpose is described as
+follows.
+
+S462 Magazine Detection Switch:
+Normally open. Alerts the CPU that a
+magazine is being loaded.
+
+$451 Eject Switch:
+
+Normally closed. Stops the loading
+motor operation and senses the "Eject"
+or (outermost ) position of the
+magazine.
+
+S452 Loading Switch:
+
+Normally closed. Detects the
+completion of the magazine insertion
+and activates the loading motor.
+
+S453 Draw Switch:
+Normally open. Detects the disc tray's
+innermost pozition.
+
+ELEVATOR
+tan Ae
+
+Wy,
+
+$453
+(Draw Switch)
+
+Loading Slider fh $452
+r i(Loading Switch)
+’
+(Rest Position
+Switch)
+
+$454
+
+ue S462
+(Magazine
+
+; aE
+0451 Detection
+Zz > (Height Switch)
+(Eject Sensor)
+S$455-S460 Switch)
+Disc Detection
+
+Switches.
+Used only on
+selected models
+
+Front
+
+Figure 21-9 Sensing switches location
+
+E. S454 Rest Position:
+Normally open. Detects the elevator
+unit's lowest position.
+
+F. D451 Height Sensor:
+Detects the elevator's position.
+
+The sensing switches are interfaced with
+the CPU (IC-401) input, pin 15. shows
+figure 21-10.
+
+The CPU controls the loading motor and
+the elevator motor via its output pins 8
+through 11, connected to the motor drive
+circuit of Ic-401.
+
+an(pa)
+
+4208)
+
+0454
+{HEIGHT
+SENSOR)
+
+ee en re 4
+
+Figure 21-10 Switch sensing and motor drive circuit interface
+
+— 106 —
+

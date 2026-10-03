@@ -1,0 +1,13 @@
+# chip -> ruolo in questo libro (SL-P150/SL-P405C/FF-1) -> equivalente SL-P1200 -> pagine (da OCR, verificate a campione)
+chip	role	SL-P1200_equivalent	pages
+AN8370S	optical servo control (IC-101): focus/tracking, APC, RF, dropout, kick/hold	IC101 AN8370S (STESSO CHIP, stessa tabella pin p68)	46-59,68,88
+AN8371S	data slice + PLL (EFM/PCK/SRF/FPC/DO)	IC301 EHDGA1243 (funzione equivalente)	66,67,68
+MN6617	DSP: EFM demod, CIRC, CLV servo (IC-301 in questo libro)	IC302 MN6617S (STESSO CHIP); pin table p87	1,76-88
+MN6618A	digital filter	IC303 MN6618A (STESSO CHIP)	88
+MN4416S-12	16K RAM	IC304 MN4416S-12 (STESSO CHIP)	88
+MN1554PEP	system control CPU (IC-401)	IC401 MN15261PDK (diverso)	50,69
+AN8373S	servo amplifier (servo modificato, IC-101)	nessuno (P1200 usa AN8370S)	70-74
+AN8374S/MN8374S	servo controller digitale (servo modificato, IC-102)	nessuno	70,71,75
+MN6622	DSP variante citata	-	1
+MN6623/MN6623A	digital filter + MASH 1-bit D/A (SL-P405C ecc.)	diverso (P1200: MN6618A + PCM54)	93-101
+MN15283PJB/PER	changer CPU	-	120

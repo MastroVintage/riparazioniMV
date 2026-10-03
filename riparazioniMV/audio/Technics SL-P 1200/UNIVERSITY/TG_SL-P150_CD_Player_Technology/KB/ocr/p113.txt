@@ -1,0 +1,53 @@
+© Circled edges indicates detection timing.
+
+Fast-in Slow-in agent
+in
+6r Aer ro
+SF Brake
+ab (6ms) ||
+Height 3h +
+2
+1
+0
+cl
+upc
+Elevation
+motor
+voltage
+down
+Pull out-—
+position
+Neutral
+Ejecth
+outer
+Loading 7,
+motor Y % 4
+>?
+ink YW
+SW1 (EJECT) ff on off} jon
+SW2 (LOAD) — [on hd
+SW3 (DRAW)
+Sw4 (REST) off
+High sensor H | LH {L
+
+Figure 21-16 Timing Chart
+
+— 113 —
+
+Fast-dow
+
+Hit fH [L
+
+Brake ;
+(300 ms)
+
+Ze
+
+H[L JH IL
+
+Fast-up! Slow-up
+
+—_
+
+On loff
+

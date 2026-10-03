@@ -1,0 +1,129 @@
+8. Advantages of the CD Player
+
+Table 8-1 is a comparison chart of the
+LP and CD player system. It proves that
+the CD player is far superior to the LP
+player in every aspect of dynamic range,
+distortion, frequency response, and wow
+and flutter specifications. Especially,
+the CD player exhibits a remarkably wide
+90dB of dynamic range throughout the
+entire audible frequency spectrum. In
+contrast, the dynamic range of the LP
+player is 70dB at its best.
+
+In the low and high frequency range,
+this figure becomes even worse and only
+40 —- 50dB of dynamic range is reported.
+Harmonic distortion of the CD system is
+never worse than 0.01%, which is less
+than one hundredth of that of the LP
+player. In addition, wow and flutter are
+simply too minute to be measured. This
+is because, in playback, digital data
+
+CD System
+
+are once stored in a RAM and _ then
+released in perfect, uniform sequence
+determined by a refernce clock of quartz
+precision.
+
+The CD player also offers a number of
+convenience features. Though manual
+access to a piece of music on the disc
+is simply impossible since the track
+pitch is as fine as 1.6um, the CD player
+enables total electronic control using
+the built-in CPU and the eight control
+bits inserted after the sync bits on the
+disc. The control bits are equivalent to
+approximately 2.7% of the total digital
+codes recorded on the disc. Presently,
+using two of these control bits, the
+information described below can be
+recorded for increased operating
+convenience.
+
+Conventional LP Player
+
+Specifications
+
+Frequency response
+
+Dynamic Range More than 90 dB
+
+S/N 90 dB (with MSB)
+Harmonic distortion
+Separation
+
+Wow & Flutter
+
+Less than0.01 %
+More than 90 dB
+Quartz precision
+
+20 Hz-20 kHz + 0.5 dB
+
+30 Hz~-20 kHz + 3 dB
+70 dB (at 1 kHz}
+
+60 dB
+
+1-2%
+
+25-30 dB
+
+0.03 %
+
+Dimensions
+
+Disc 12 cm (dia.)
+Playing Time 60 minutes
+(on one side) (max. 74 min.)
+
+Operation/Reliability
+
+Durability Disc Semi-permanent
+
+Durability Stylus Over 5,000 hours
+
+30 cm (dia.)
+20-25 minutes
+
+High-frequency response is degraded
+after being played several tens of
+times
+
+500-600 hours
+
+Operation
+
+Maintenance
+
+Table
+
+- Quick and easy access due to
+micro computer control
+
+- Avariety of programmed play
+possible
+
+~ Increased resistivity to external
+
+vibration
+
+Dust, scratches, and fingerprints are
+
+made almost insignificant
+
+- Needs stylus pressure adjustment
+
+~ Easily affected by external vibration
+
+Dust and scratches cause noise
+
+8-1 Comparison Between CD and LP System
+
+a
+

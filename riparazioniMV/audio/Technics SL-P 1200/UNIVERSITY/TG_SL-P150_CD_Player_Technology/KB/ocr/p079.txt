@@ -1,0 +1,130 @@
+(2) Jitter absorption and RAM address
+reset
+
+The demodulated EFM data is synchronous
+with the PCK signal produced by the
+clock extraction logic and contains disc
+wow and flutter components that cause
+signal jitter. In order to eliminate
+this jitter, the EFM data is written
+into the 16K byte S-RAM, then read out
+of it at acrystal controlled clock
+timing.
+
+The mragin for jitter is 13 frames. If
+the difference between the contents of
+the 11 bits read and write frame
+counters exceeds +4 frames, a RAM
+address reset occurs, and the write
+frame counter value is loaded into the
+read frame counter (at the dame time
+FLAG 6 is set).
+
+For a forced RAM address reset, the
+device uses the TRON signal. This
+enables each track access to have the
+maximum jitter margin.
+
+The figure 18-5 and 18-6 shows read and
+write timing.
+
+Read cycte
+
+type 709ns
+XCK
+
+Address
+hold time
+
+Data
+hold time
+
+Write timing
+Write cycle time
+
+typ 709ns
+
+XCK
+
+RAMAO ~ A10
+
+Data Address hold time
+
+Dataholdtime
+
+semen |
+
+Output enable pulse width
+
+Figure 18-6
+
+— 79 —
+
+4) Interpolation and D/A Interface
+
+Data is first subjected to error
+correction by the C2 decoder, the
+undergoes C2 unscramble. Incorrect data
+
+(16 bits) is subjected to error
+interpolation.
+For an independent data error
+
+interpolation replaces the error with
+the average of the data items that
+precedes and succeeds the error data
+(average interpolation). For consecutive
+data errors, it replaces them with the
+
+preceding correct data (preposition
+interpolation) .
+The IPFLAG is set high for’ the
+
+interpolated data to indicate that the
+data has been interpolated. It is output
+in synchronously with both serial and
+parallel data.
+
+The data, after being subjected to
+interpolation, appears at the D/A output
+and a serial output. The D/A output
+includes parallel output anda_ serial
+output, either of which is choosen by
+controlling the SEL input pin:
+
+** SEL is high: Parallel output DAO -
+
+DA15 (offset binary
+data).
+** SEL is low : Serial D/A output
+
+appearing at SRDATA.
+
+The serial data at SRDATA is MSB-first,
+
+two's complement data, and is
+
+interpolated under the control of the
+
+IPSEL input.
+
+** TPSEL is low :Selects normal
+interpolation mode, in
+which both perposition
+
+and average
+interpolation are
+performed.
+
+** IPSEL is high:All error data is
+interpolated by
+reposition
+interpolation.
+
+The L/R channel discrimination for the
+serial output is indicated by the R/L
+output pin.
+
+** L/R is low : Left channel
+
+** L/R is high: Right channel

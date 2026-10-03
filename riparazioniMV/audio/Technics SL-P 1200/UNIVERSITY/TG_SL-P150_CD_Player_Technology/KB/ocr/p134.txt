@@ -1,0 +1,117 @@
+@ Mode Selector Switch
+
+Used to set the modes for tracking
+and focus servo adjustments.
+
+1. Setting for tracking servo
+adjustment.
+
+2. DEFEATED (through)
+
+3. Setting for focus servo
+adjustment.
+
+NOTE
+
+The adjustment settings (1 2 or 3)
+will depend on the model being
+used. Pleasr refer to respective
+service manual.
+
+© Tracking Switch
+
+Used to turn on and off the tracking
+servo.
+
+© Power Switch
+
+Top View
+
+TEST BOINTS
+
+© ©
+
+TPA GND TP2
+
+SERVO GAIN INDICATOR
+
+700 $2ZP1094C
+
+TOO
+LOW GOOD HIGH
+
+@ Test Points
+
+These are the in/output terminals for
+monitoring the servo amplifier. (Same
+T.P.s in the original servo gain
+adjuster).
+
+@ Servo Gain Indicator
+
+Displays the condition of the servo
+amplifier's gain during adjustment.
+
+Condition of the Servo
+Amplifier's Gain
+
+Gain is low
+Gain is correct
+Gain is high
+
+| 4. Servo Gain Adjustment
+
+Procedures
+
+4
+
+1. Connect the 5-pin code supplied
+
+with this unit to the 5-pin
+connector on the rear panel.
+2. Disconnected the short—jumper
+
+connected to the servo adjustment
+connector on a CD player and
+connect the other end of the 5-pin
+code to the servo adjustment
+connector.
+
+3. Set the modes selector switch @
+on the unit panel to position "2"
+(DEFEATED) and turn on the CD
+player to read the TOC.
+
+Focus Servo Gain Adjustment
+
+1. Adjust the input level for the CD
+player with the osc level.
+controller 1) on the unit
+panel.(Refer to the service manual
+for the input level).
+
+2. Select the frequency of the
+oscillator with the frequency
+switches (@ and @). (Refer to
+
+service manual for the frequency).
+
+3. Set the mode selector switch @ on
+the panel of the unit to position
+"3" and adjust the semi fixed
+volume for focus gain control on
+the CD player so that the LED
+"GOOD" on the servo gain INDICATOR
+panel lights up.
+
+NOTE
+
+First adjust the volune for focus
+gain control so that LOW LED on the
+servo gain INDICATOR panel lights
+
+up and then make further
+adjustments until the GOOD LED
+lights up.
+
+— 134 —

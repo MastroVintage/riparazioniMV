@@ -1,0 +1,81 @@
+| 3-2. Disc Loading Operation
+
+After the magazine has been loaded, the
+
+elevator unit remains in the "standby"
+mode, until a disc is selected. The
+following example will describe the
+
+operation sequence to select the third
+disc and play it shows figure 21-12.
+
+(1). Magazine
+operation:
+
+loading to standby
+
+The magazine is inserted and the
+unit enters the "standby" mode as
+described in the previous section.
+
+(2). Disc loading operation:
+
+When "Disc 3" is selected, the CPU
+(Ic-401) energizes the elevation
+motor to lift the disc loader. At
+this time the elevator gear
+generates two pulses per rotation.
+
+The CPU monitors the rising edge of
+the height sensor (D451) signal.
+
+The disc loader elevates from one
+disc to the next each time the CPU
+detects a complete rotation. When
+the CPU detects the target pulse
+(Target - 1/2), it issues a command
+to reduce the supply voltage to the
+elevator motor (slow lift command).
+At the target disc the CPU shuts off
+the elevator motor current.
+
+(3).
+
+(5).
+
+— 108 —
+
+Disc tray "pull-out" sequence:
+
+The loading motor is energized to
+pull out the third disc tray. When
+the CPU detects that the draw switch
+(S453) is closed, it reduces the
+supply voltage to the loading motor.
+When the CPU subsequently detects
+that the loading switch (S452) is
+closed, it shuts off the loading
+motor current.
+
+. Disc clamp operation:
+
+Since the optical deck is located
+two disc span below the first disc,
+the loading units must be lowered to
+the C (clamp) position. To do this,
+the CPU energizes the elevator motor
+so that it will lower the disc
+loader. This time, the CPU counts
+the falling edge of the height
+sensor pulses. When the CPU counts 8
+pulses, it brakes the elevation
+motor, and when it detects the
+falling edge of the 9th pulse, it
+stops the motor.
+
+Play operation:
+
+The disc clamper secures the disc on
+the turntable and the optical deck
+starts playing the disc.
+

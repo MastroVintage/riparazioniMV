@@ -1,0 +1,112 @@
+21. CD Changer’s Operation
+
+This section explains the SI,P405C CD
+changer's mechanism operation's and
+mechanism logic control operations
+(including SL-P400C etc).
+
+[Se 7
+
+The SL-P405C incorporates a
+recently-developed disc loading unit with
+an elevating mechanism which enables the
+user to load up to six compact discs in a
+magazine and play them in the desired
+sequence. The SL-P405C uses the One Beam
+system (FF-1MK2) for its optical (laser)
+pick-up.
+
+The disc magazine allows loading and
+unloading of individual discs. The disc
+detection mechanism (provided only on
+selected models) provides disc search and
+displays the presence of discs on the
+player's display.
+
+The mechanism section uses three DC
+motors for: Disc Loading, Elevator, and
+the Spindle. These motors are controlled
+by the system CPU (ICc-401).
+
+The SL-P405Cc signal processing logic and
+audio circuit are almost identical to
+those used in our comparable CD players.
+
+2. Mechanism Orientation
+
+The mechanism can be divided in three
+basic sections: The magazine holder, the
+Disc Loader, and the Optical Deck. See
+figure 21-1.
+
+Disc
+
+der.
+Loa er .. .
+Rg gs “A,
+
+Holder 4
+
+Cer
+
+wo?
+
+Optical Deck
+(Located below the
+Disc Loader)
+
+Figure 21-1 Mechanism
+
+— 103 —
+
+* The magazine holder is located at the
+front-end of the mechanism. It holds
+the magazine in place, containing six
+discs (on trays), ready to be accessed
+by the disc holder.
+
+* The disc loader is located behind the
+magazine holder. Its function is to
+access the selected disc tray from the
+magazine and lower it on the optical
+deck's turntable.
+
+* The optical deck is located below the
+disc loader. Its function is to control
+the optics used to read the disc's data
+for Audio signal reproduction. The
+optical deck is the heart of the CD
+player. Its operation is explained on
+page 31.
+
+2-1. Costruction of Disc Magazine
+
+Figure 21-1 shows the construction of the
+disc magazine. The magazine can store up
+to six disc at a time.
+
+Disc Sense Window
+
+Disc Tray
+Lock
+
+Figure 21-2 Disc Magazine
+(1). Hook Catch:
+The disc loader accesses a tray by
+latching onto the HOOK CATCH of the
+disc tray.
+
+(2). Disc Sense Window:
+This window is provided so that the
+six disc sensing switches (provided
+only on selected models) detect the
+presence or absence of a disc.
+
+(3). Disc Tray Lock:
+The DISC TRAY LOCK retains the DISC
+TRAYS in place so that they will not
+drop out of the magazine
+accidentally. When replacing a disc,
+the user pushes this lock while
+pulling the DISC TRAY.
+

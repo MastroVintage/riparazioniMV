@@ -1,0 +1,121 @@
+13. Braking Circuit
+
+The braking circuit applies a brake to The direction of actuator movement is
+the tracking actuator so as to speed the detected by the OFTR DET (off track
+tracking servo pull-in sequence required detection), CROSS (tracking cross) and
+
+after a SKIP or KICK operation. DIRECTION signals from IC-102 and a brake
+Signal is added to the tracking error
+signal.
+
+16. Pin Description of AN8373S
+
+5 tet | on |
+
+Division
+
+RF signal input (X30 amp.)
+
+2 Photo detector current input (A2)
+| Ppa | Photo detector current input (A1)
+Photo detector current input (A4)
+
+PDA
+PDB Photo detector current input (A3)
+LPD
+LD
+
+| veo | Non-inverting laser power input
+
+N
+i)
+
+Tracking error signal output
+
+Focus error signal output
+
+Focus gain up signal input
+
+(Not used, connected to GND)
+Tracking gain up signal input
+(Not used, connected to GND)
+Focus/tracking down signal input
+(Not used, connected to GND)
+Position detecting amp. output
+Position detecting amp. input
+
+V0
+Division
+
+N
+w
+
+N
+o
+Q
+oO
+
+N
+~
+
+N
+
+N
+7
+a)
+a
+
+Laser power auto control output
+
+N
+Ke}
+
+Position detecting buffer output
+Position detecting buffer input
+
+Dropout detection output
+
+PD balance adjustment
+
+w
+o
+
+oO
+
+Tracking balance adjustment
+
+:
+
+RF detection signal output
+
+io}
+
+Focus offset adjustment Dropout detection pulse output
+
+Current/voltage conversion
+output (A)
+
+Current/voltage conversion
+output (B)
+
+Dropout detecting capacitor input
+
+RF signal output
+Focus gain adjustment output AGC detecting capacitor input
+
+Focus error signal input Power supply (+5 V input)
+
+Tracking error signal input Laser power control input
+
+RE signal input
+
+RF signal output
+Reference voltage output
+Ground terminal
+
+Tracking error filter capacitor
+input
+
+Focus error filter capacitor input
+
+— 74—

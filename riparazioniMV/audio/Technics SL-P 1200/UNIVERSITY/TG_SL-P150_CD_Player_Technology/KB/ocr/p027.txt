@@ -1,0 +1,52 @@
+a
+
+During the music and lead-out tracks follows;
+on a disc, the data format as
+
+Figure 14-5
+TNO: Track number expressed in 2 digits MIN Running time within a_ track
+BCD (8-4-2-1 code). SEC expressed in 6 digits. BCD MIN,
+00: Lead-in track FRAME:SEC and FRAME each 2 digits.
+The end of the lead-in track is at The time is set to zero at the
+the starting diameter of the start of track. Time increases in
+— program area. the music and decreases in the
+pause, ending with the value zero
+01-99: Track numbers at the end of the pause. In the
+A track can be preceded by a pause lead-in and the lead-out tracks
+with the same track number. The the time increases. The minutes
+track numbering has to start the are stored in MIN, the seconds in
+value 01 and has to incrment by SEC. One second is subdivided into
+one. In case a program is stroed on 75 FRAMES (running from 00 - 74)
+several discs, the numbering may be
+— continued. AMIN Running time on_ the disc
+ASEC expressed in 6 digits BCD. AMIN,
+AA: Lead-out track AFRAME:ASEC, and AFRAME each 2 digits.
+The lead-out track starts at the At the starting diameter of the
+end of the last music track on a program area, the running time is
+disc, without a preceding pause set to zero and TNO takes the
+encoding. value of the first track on the
+disc. The minutes are stored in
+X: Index to TNO, 2 digits BCD, AMIN, the seconds in ASEC. One
+During the lead-in track, the index second is subdivided into 75
+— X is not available. AFRAME (running from 00 -74).
+00: Pause encoding
+The pause encoding in channel Q POINT During the lead-in track, a table
+gives the pause length like it is PMIN of contents (TOC) is stored into
+in the music. The first piece of PSEC these locations. This table of
+music is preceded by a_ pause PFRAME:contents is continuously repeated
+encoding of 2-3 seconds. The lead- in the lead-in area (TNO = 00).
+out track is encoded as music. In each table of contents, _the
+items are repeated three times
+01-99: Subdivision number (see table 14-1). At the end of
+During the lead-out track X is Ol. the lead-in area, the table of
+without a music tarck (TNO=01-99 contents can be ended with any
+and X 00) the first value of X is yatue of POINT. eMIN, PSEC 4
+mi The value o , , oan
+ol. The b value oF % can only PFRAME gives the starting point
+increment by one. of the track number pointed to by
+= ZERO: These 8 bits are zero. POINT. These values give the
+
+start position of the track on
+the absolute time scale (AMIN,
+
+—~277—

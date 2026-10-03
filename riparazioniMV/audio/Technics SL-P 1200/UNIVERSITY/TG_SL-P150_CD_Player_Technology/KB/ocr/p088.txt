@@ -1,0 +1,39 @@
+10) Block Diagram of Digital Circuit
+
+r
+| 1C101
+
+| Optical Servo
+I
+
+1C501
+
+Spindle Motor
+
+Digital Slice & PLL
+
+(AN8370S)
+
+C801
+
+(MN6618A)
+
+1C302
+(MN6617)
+
+Digital Signal Processing
+
+System
+
+Controt Digital
+
+Filter
+
+1C302
+(MN4416S— 12)
+
+16K RAM
+
+Figure 18-16
+
+— 88 —

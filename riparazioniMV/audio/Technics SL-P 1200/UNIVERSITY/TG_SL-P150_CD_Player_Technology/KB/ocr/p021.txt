@@ -1,0 +1,111 @@
+4. Error Correction CIRC
+
+The CIRC is a code developed
+
+atliniant data error detection
+correction on the CD.
+
+for
+
+and
+
+Most of the error which occur on the CD
+are random, but during playback burst
+
+errors may be generated due to
+fingerprints, dust or scratches on the
+disc surface. To recover the data
+
+efficiently, the CIRC is used.
+
+interleave delay
+
+Pan Fo (Wan, Wantt)
+QO 1 Faq (Wap, W2n—4. P2n—1!
+
+(Fp. FQ express functions)
+
+Figure 13-3 Cross Interleave Encoder
+
+The actual operation content of CIRC has
+not been made public, so only the
+outline is summarized as follows; The
+CIRC is a type of cross interleave code,
+
+Encoder
+
+1 frame symbol data
+
+C2 scramble
+
+as can be derived from its name. The
+Cross-interleave coding was developed by
+other manufacture and it has been used
+already in many digital audio products.
+The following figures are some examples.
+
+r
+7
+
+Q-6 W-4 W-3,“P-47
+7 7
+
+N
+
+4 +
+Q-4 W-2r W-v P-2
+7 7
+
+nk car a
+C2 , Q2 7Wo WI
+a
+
+f+
+¢/ 207 W2 W3
+Ci Y
+
+Figure 13-4 Cross Interleave Code Series
+
+C2 and Cl are optional encorders, and on
+this example test words P2n and Q2n are
+
+geberated by (3,2), (4,3) codes. By
+decording Cl, C2 alternately, error can
+be corrected successively during
+playback.
+
+The CIRC generate 4 test symbols each
+for Pm, Qm by (32,28), (28,24) codes.
+
+The error correction process by CIRC
+uses generating polynominal,
+multiplication and subtraction, the same
+as that introduced in the PCM operation
+description, but this has not been
+publicly released either, also compared
+to PCM, the processing is much more
+complicated.
+
+cl
+scramble
+
+[> Disc cutting
+
+uo)
+wo
+3
+a)
+iJ
+2)
+2
+>
+n
+io]
+=
+Ww
+Ww
+
+Figure 13-5 Signal Processing in Recording System
+
+—~ 4 —
+

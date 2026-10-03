@@ -1,0 +1,111 @@
+17. Pin Description of AN8374S
+
+Vo VO
+Division Division
+Track crossing speed control output
+he Phase difference input (B) BE SPCNT ———— output (Not used, open)
+= TEOFS = Tracking offset adjustment SENSE | 0 | Selector output (track crossing
+p= fe a
+Tracking gain adjustment
+FLOCK | oo | Focus lock signal output
+27 KICK Track kick signal output
+28 LDON Laser power control output
+Focus/tracking gain up output
+Control input (FOON: Focus
+
+Control input (TRON: Tracking
+CNT2 servo ON N signal)
+
+mE
+EN
+
+2
+se [vec [1 [Porn cov |
+| oo | Traverse position detecting
+|
+=
+te
+
+Tracking error signal output
+
+Tracking error gain detecting filter
+(Not used, open)
+
+pepe res
+FE OUT vf eo Focus error signal output
+
+Triangular wave oscillator
+capacitor output
+
+Reference voltage input
+
+RF signal input
+CDSL Data slice filter capacitor input
+FPC Frequency difference signal input
+wef © Cc. PLL PLL loop filter constant
+Frequency pull-in clock signal
+
+ee cuk = (82 er input
+
+Sliced and digitized RF signal
+
+output
+
+Clock output extracted from SRF
+
+EFM signal output synchronous
+with PCK
+
+=
+~
+
+resistor/capacitor inputs
+
+Tracking drive control output
+Tracking error signal input
+
+18. Pin Description of AN8377
+
+1/0
+
+nears Function
+Division
+
+VO
+Division
+Inverting output of tracking
+TD-— P
+
+driver
+
+Non-inverting output of
+a
+Par | Foe | | 0 | Inverting output of focus driver
+
+12 FD+ Non-inverting output of
+
+focus driver
+| Inverting output of traverse | output of traverse
+
+| craven ouput oF averse
+[wor [> Seca
+
+traverse driver
+RESET | oo | Reset signal output
+a
+
+Driver power supply (+5 V input)
+
+External transistor base
+driving output
+
+Voltage (+5 V) output
+
+Traverse error signal input
+
+Focus error signal input
+
+Tracking error signal input
+
+Reference voltage input
+

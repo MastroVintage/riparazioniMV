@@ -1,0 +1,101 @@
+Although the sampling operation may seem
+to introduce a rather drastic
+modification of the input signal:
+
+-Since it ignores all the signal changes
+that occur between the sampling times.
+-It can be shown that the sampling
+process itself, in principle, removes
+no information whatsoever, as long as
+the sampling frequency is at least
+twice the highest frequency that is
+
+present in the input signal.
+
+This is the famous Nyquist criterion on
+sampling (also called shannon criterion
+or shannon theorem).
+
+Since the highest frequency found in an
+audio signal is approximately 20KHz, and
+as selecting an unnecessary high
+sampling frequency would increase both
+complexity and cost of the conversion
+circuitry, a frequency of 44.1KHz has
+been chosen as the standard for the
+compact disc.
+
+The correctness of the Nyquist cirterion
+can be understood when we consider the
+spectra of the input and output signals,
+see figure 10-3.
+
+If we consider an input signal i(t)
+Which has a maximum frequency f max, its
+spectrum may have any from between 0 Hz
+and f max (1); the sampling signal's(t),
+having a fixed frequency fs, can be
+represented by one signal line at fs
+(2). The sampling process is equivalent
+to multiplication of i(t) ands (t), and
+
+the spectrum of the output signal, as
+shown in figure 10-2, can be seen to
+contain the same spectrum as the input
+signal, together with the repetition of
+the same spectrum, modulated around
+multiples of the sampling frequency.
+
+AS a consequence, proper low-pass
+filtering can completely isolate and
+thus completely recover the input
+signal.
+
+#1 fs
+ts “¢5
+
+O(t) = ict) x S(t) O(f) = icf) XS(f)
+
+fax: fs i! 2fs if
+" 2fs-fmax
+fs-fmax  f5+fmax
+
+(b)
+
+2fs+fmax
+
+Figure 10-3 Time Domain (a) and Frequency
+Domain in Representation (b)
+of Sampling Process
+
+From figure 10-3 it can also be
+understood easily that f must be greater
+than 2 x f max. If this would not be the
+case, the original spectrum would
+overlap with the modulated part of the
+spectrum, and consequently be
+inseparable from is, see figure 10-4.
+
+For example, a 20KHz signal sampled at
+35 KHz would produce a 5 KHz difference
+frequency. This phenomenon is known as
+aliasing and must be avoided by all
+means.
+
+Aliasing components
+
+fs-fmax fmax fs
+
+Figure 10-4 Principle of Aliasing
+
+For this reason, a very sharp cut-off
+filter (anti-aliasing filter) is
+absolutely required in the signal path
+to remove all the unwanted harmonics out
+of the input signal before the sampling
+is performed. If this is not done,
+aliasing will cause unremovable
+
+distortion components.
+
+—-W—

@@ -1,0 +1,87 @@
+a) Lead-in track:
+In the lead-in track channel P is
+encoded as music. The first piece of
+music is preceded by a start flag of
+2-3 seconds.
+
+b) Lead-out track:
+
+The lead-out track is preceded by a
+start flag of 2-3 seconds (during the
+last music track on the disc). The end
+of the start flag gives the begin of
+the lead-out track. The channel zero
+for 2-3 seconds after the start of the
+lead-out track, next P switches
+between 0 and 1 ina 2Hz + 22 rhythm
+(duty cycle 50+ 103).
+
+The channel P can only change after the
+subcoding sync pattern SO and Sl. The
+encoding of channel P is one subcoding
+block delayed to the encoding of channel
+Q.
+
+The general data format of channel Q is
+as follows;
+
+SO, Sl | CONTROL DATA-Q SO, Sl
+
+a 96 bits ———______>
+
+———~ time
+
+Figure 14-3
+
+a) Control:
+4 flag bits for the number of channels
+
+and preemphasis on/off, MSB is first
+
+out.
+
+0000 - 2 audio channels is whthout
+preemphasis.
+
+1000 ~ 4 audio channels is without
+preemphasis.
+
+0001 - 2 audio channels with
+preemphasis of 50/51 ps.
+
+1001 - 4 audio channels with
+
+preemphasis of 50/51 ys.
+The preemphasis flag (bit 4 of the
+CONTROL block) can only change during
+an actual pause of at least 2 seconds.
+b) ADR:
+4 control bits for DATA-Q,
+first out.
+
+MSB is
+
+c) DATA-Q:
+72 bits data, always MSB first out.
+
+d) cRc:
+A 16 bits CRC on CONTROL, ADR and
+DATA-Q, MSB first out. On the disc the
+parity bits are inverted. The
+remainder have to be checked at zero.
+
+e)The following three modes are defined
+for DATA-Q:
+
+(1)Mode-1
+ADR = 1 = (0001)
+Mode-1 occupies at least 9 out of 10
+successive subcoding blocks.
+Two different data formats are
+possible in mode-1, and during the
+lead-in track, the data format as
+follows;
+
+Figure 14-4
+
+— 26 —

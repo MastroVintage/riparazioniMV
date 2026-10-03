@@ -1,0 +1,46 @@
+O Circled edges indicates detection timing.
+
+Stand-by Fast-eject Magazine Slow-in
+
+h¥—"1 Brake Brake
+(300 ms) (300 ms)
+
+Oo] nv W BaD
+
+Cc
+nod
+“71
+
+Elevation
+
+motor
+
+voltage
+downt
+
+Pull outr
+
+Horizontal
+position
+
+Neutral
+Eject
+out
+
+Loading
+motor
+voltage
+
+sw (EJECT)
+
+SW2 (LOAD)
+
+Sw3 (DRAW)
+
+sw4 (REST)
+
+High sensor
+
+Figure 21-17 Timing Chart
+
+—114—

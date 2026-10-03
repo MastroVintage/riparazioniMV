@@ -1,0 +1,67 @@
+c)Basic principle of height adjustment
+of turntable height
+
+Disc retainer
+
+So Disc
+Adjust this distance by the
+= turntable height adjusting screw
+
+Optical pick-up
+
+Turntable
+—~*— Guide bar
+
+Spindle PCB
+oo 2
+
+Turntable height adjusting screw
+
+Figure 22-1 DD Motor
+
+Height adjusting screw
+
+Adjust this distance by the
+0.9 mm i | —
+
+VSEEEA 0.9 mm height adjusting screw
+
+feeler gauge
+
+(RZZ0297)
+Optical pick-up
+
+Figure 22-3 DC Motor
+
+B.Mechanical Adjustment the lens is at an optimum
+perpendicular position.
+
+a)Purpose
+Unless the lens is perpendicular to b)Basic principle of mechanical
+the disc surface, the laser beam may adjustment
+not be focused. The mechanical To accomplish the above condition, it
+alignment is therefore necessary to is necessary to adjust Hex screws (A)
+adjust the optical pickup lens so that and (B) as shows in figure 22-4.
+
+Focus lens
+a——— Disc
+Actuator
+
+Actuator
+Focus lens
+Optical pick-up base
+
+Optical pick-up base
+
+A SL Adiusting screw (A)
+
+Adjusting screw
+Adjusting screw (B)
+
+><
+4 I~
+
+Adjusting direction with screw (B) Adjusting direction with screw (A)
+
+Figure 22-4
+— 122 —

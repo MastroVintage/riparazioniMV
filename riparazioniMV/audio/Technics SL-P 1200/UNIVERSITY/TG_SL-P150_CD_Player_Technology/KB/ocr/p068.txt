@@ -1,0 +1,129 @@
+12) Pin Description of AN8370S
+
+@ 1C101: AN8370S (Optical Servo Control)
+
+HO
+Division
+
+Function
+
+Power supply (connected to —5V)
+
+Phase difference input (A)
+GND terminal
+
+Phase difference input (B)
+
+Auto laser power control output
+
+Tracking error signal output
+
+Tracking error gain adjusting input
+
+Phase difference to voltage
+conversion (+)
+
+Phase difference to voltage
+conversion (—)
+
+Laser power inversion input
+
+Capacitor connection for phase
+difference memory
+
+i¥re) .
+Re | Mark Division Function
+Control input
+23 CNT2 (TRON Tracking servo ON signal)
++
+24 | ONTS ! Control input (KICKF Kick direction
+[Foward] command)
+Control input (KICKR Kick direction
+25 CNT4 |
+[Reverse] command)
+26 F.LOCK fe) Focus lock signal output
+Capacitor connection for inversion
+27 | C.FBDO ° RF high detection
+ee
+Capacitor connection for inversion
+28 | C.SBDO ° RF low detection
+re) Capacitor connection for
+
+non-inversion RF slow detection
+
+Capacitor connection for
+non-inversion RF fast detection
+
+Auto focus timer capacitor
+connection
+
+Track kick signal output
+
+Power supply (connected to +5V)
+
+Control input
+(FOON Focus servo “ON” signal)
+
+13) Pin Description of AN8371S
+
+@ 10501: AN8371S (Data slice and PLL)
+
+31 RF OUT 10) RF signal output
+Laser power non inversion input
+- 32 BDO ie) Drop-out detection output
+Reference current generation
+Selector output (track-crossed) 33 RF IN | RF signal input
+Tracking hold circuit Input 34 S.OUT (6) Focus search signal output
+Tracking hold circuit output 35 | C.LW | Capacitor connection for triangular
+‘ wave generation
+Trackcrossing speed control output
+(Not used, open) 36 FE.OUT ie) Focus error signal output
+Trackcrossing reference speed 37 | FEG | Focus error gain adjusting input
+setting capacitor connection
+(Not used, open) 38 FE.REF \ Focus error comparison voltage
+. generation
+
+Photo detection current input (B)
+
+Current/voltage conversion (B)
+
+Current/voltage conversion (A)
+
+Photo detection current input (A)
+
+Pin HO . Pin Ho .
+No. Mark Division Function : Mark Division Function
+1 VEE | Power supply (connected to --5V) 13 PL2 I PLL loop filter connection
+| RF signal output data-sliced into “| Frequency comparison error signal
+2 SRF ce) FPC !
+digital value input
+3 EFM re) EFM signal output synchronized RF signa! input
+with PCK , ,
+RF signal output with AGC output
+4 D.GND | GND terminal (digital system)
+ARF signal input for AGF drop-out
+5 PCK [@) Clock output extracted from SRF detection input
+6 vcc I Power supply (connected to +5V) Loop filter for AGC connected
+7 VA F VCO free run frequency adjusting ie) Drop-out detection pulse output
+current input (not connected)
+GND terminal (analog system)
+Capacitor connection for VCO
+8,9 | VC1, 2 | oscillator frequency RF signal input for data slicing
+10 VR Resistor connection for VCO Slicing level control signal input
+
+oscillator frequency
+
+Capacitor connection for PLL DO
+protection
+
+PLL loop filter connection
+
++ Nee
+Filter capacitor for data slicer
+connected
+
+— 68 —
+
+Filter capacitor for data slicer
+connected
+

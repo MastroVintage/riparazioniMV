@@ -1,0 +1,92 @@
+2. Digital Systems
+
+In recent years, various committees have
+convened to discuss the standardization
+of both hardware and software for the
+new digital audio systems. The following
+chart2-1 is outlines of the digital audio
+
+systems that have been accepted and are
+being manufactured, and also the table2-1
+is a compares some features of the two
+playback only systems like a CD (compact
+disc) and AHD (audio high density).
+
+DIGITAL AUDIO SYSTEMS
+
+Record/Playback FUNCTION Playback Only
+
+Disc
+~~ _ 1
+
+Compact disc Audio high
+(CD) density
+12cm DIA (AHD) 26cm DIA
+
+uni-booy_| uni-body
+
+contact type
+non-contact yp
+. electrostatic
+semiconductor ae
+capacitive
+laser
+stylus
+
+Tape (VTR)
+Video
+
+Medium
+
+Separate unit
+PCM processor/adaptor
+
+(outboard video
+recorder needed}
+
+VHS .
+
+Chart 2-1 Camparison of Digital Audio System
+
+Construction
+
+Data
+Retrieval
+System
+
+Playback
+
+Time 60 min
+
+Name of system
+
+Compact Disc (CD)
+
+Audio high density (AHD)
+
+Proposed by
+Disc diameter
+
+Channels
+
+Philips, Holland
+
+Victor, Japan
+26 cm
+
+Stereo 2ch or 4ch
+
+Ach (3ch & color still image)
+
+Play time
+
+74 min. (2ch)/side
+
+Disc Speed
+
+200~500 r.p.m.
+Constant Linear velocity
+
+Constant angular velocity
+
+Table 2-1 Comparison of CD and AHD System

@@ -1,0 +1,32 @@
+6) Focus Error Signal (pit size), the focus lens must move up
+The laser must always be focused on the and down (following the disc) to
+pit area. Since it is impossible to make maintain proper focusing.
+
+a disc that has less than 0.11 ym warp
+
+Focus fens
+
+Photo diodes
+
+,
+Cylindrical
+lens
+Focus error
+QO voltage
+
+(a) Disc is too far. (b) Focused to pit (c) Disc is too closed.
+
+Figure 16-27 Focusing Condition .
+
+They cylindrical lens affects the laser eliptical shaped spot,The spot falls on
+beam in sucha way that if it is not a 4 segment photodetector (Al, A2, A3,
+focused properly it  preduces an A4).
+
+Photo detector (A1+A2)—(A3+A4)
+
+Tracking Error Output
+Tracking Coil
+
+Figure 16-28 Head Amplifier Circuit
+
+— 43 —

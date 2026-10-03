@@ -1,0 +1,44 @@
+(3) Off-Track Detector
+The off-track detector detects the
+laser beam being off track. When
+
+tracking servo is turned off, the RF signal
+laser beam makes a traverse movement 4% Pin
+across the tracks during SEARCH, ° \
+
+SKIP, mode even track-jump due to
+
+condition of the disc surface etc.
+Off track
+
+: ‘onal
+As the beam crosses track, the off- detection signa
+
+track signal is turned on and off in
+relation to the RF signal, as shows
+in figure 17-6,
+
+Figure 17-6 Off-Track Detection Signal
+
+The off-track detector detects off- servo IC-101 internal control and as
+track using differents time the sense signal for the system CPU.
+constants condenser connected to pin
+29 (0.033 pF) and pin 30 (220 pF).
+5) Focus Servo Circuit
+
+The off-track signal is used for the
+
+IC-101 (AN8370S)
+
+{A1+A2)+(A3+A4)
+(+)
+
+S-Shape
+curve
+Detector
+
+R150 R152
+
+Figure 17-7 Focus Servo Circuit
+
+— 52 —

@@ -1,0 +1,117 @@
+C. Low Frequency
+
+As the signal of the Compact Disc is
+covered by a 1.2 mm thick transparent
+plastic layer, it is protected sgainst
+dirt change the envelope of the reabout
+signal., giving rise to low frequency
+noise. These low frequency disturbances
+can be filtered out provided that the
+Signal contains no low frequency
+components of its own. Another reason
+for imposing the low frequency
+constraint is the use of.servo system in
+the Compact Disc.
+
+The low frequency components cause
+interference in the servo system making
+them unstable.
+
+D. Error Propagation
+
+The error propagation of the modulation
+system must be as small as possible and
+should match the CIRC error correction
+
+ERROR
+CORRECTION
+
+(5) connection |S
+
+CIRC ENCODER
+16 DATA BIT TWO 8-BIT
+ENCODER SYMBOLS
+ROM
+LOOK-UP
+TABLE
+Sample
+MSB--------
+Two symbols symbol 1
+dl----- d8
+Example
+(NRZ notation) 00101111
+
+Channel bits
+after modulation
+
+EFM
+
+XXX | 90100001001000 XXX
+
+system that treats 8 data bits as a
+unit. The error propagation should
+consequently be limited to the eight
+consecutive data bits forming a symbol.
+In this way, error correction can work
+in an optimal way.
+
+The above requirements have led to the
+adoption of the Eight to Fourteen
+Modulation (EFM) method for the CD. This
+code converts eight consecutive data
+bits into fourteen channel bits which
+are then sent to the cutting laser. In
+the CD player, the reverss takes place
+with the detected signal.
+
+2. Explanation of EFM Modulation
+
+Starting from the 16 bits code, the
+sample word is split in two 8 bits
+symbols. Each symbol consists of 8 data
+bits, and these 8 bits are converted
+
+into 14 channel bits.
+
+MERGING
+BIT
+GENERATOR
+
+14 CHANNEL
+BIT
+
+16-bit sample from ADC
+
+wee eenne- LSB*
+
+symbol 2
+
+00001011
+
+100010010U0000 xxx
+
+|
+i
+(KRZ-1 notation) I Cl---2e-2-- c14 Cl--------- c14
+I ]
+merging merging merging
+bits | bits bits |
+Channel - 7 7 2 i ‘ > 6 7 Oy 9 r° 7 i i i Q ie i 1 Oy 3 _ > -
+bits
+Modulated
+signal
+Transition -~{0O 0 ol 10000 10 010 00 0 140 0 0 Y -
+(NRZ-I*
+notation) —
+merging and LF information
+
+Suppressionbits
+
+bits
+
+* A signal which represents the position of the transition of the NRZ signal.
+
+Figure 12-1 Block Schematic
+
+— 16
+

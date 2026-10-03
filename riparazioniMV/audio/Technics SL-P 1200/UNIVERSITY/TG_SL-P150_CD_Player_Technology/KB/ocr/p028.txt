@@ -1,0 +1,96 @@
+ASEC, and  AFRAME) with an
+accuracy of +/- one secand, the
+start position of a track is the
+first position with the new track
+number and X 00.
+
+If POINT= AO;
+
+The value of PMIN gives the track
+number of the first piece of
+music on the disc, PSEC and
+PFRAME are zero,
+
+Frame number Point PMIN, PSEC, PFRAME
+
+is
+
+n
+nt+1
+n+2
+nt+3
+n+4
+nt+5
+n+6
+nt+7
+n+8
+nt+9
+nt+10
+ntl1l1
+nt+12
+n+13
+n+14
+nt15
+
+Table 14-1
+
+(a)This point can be determined by the
+software maker.
+(b)The stop point of track in the player
+
+the location where the TNO
+
+changes.
+
+(c)The start point of track in the
+player is the first location with the
+new TNO and X 00. The accuracy of the
+
+1ST PIECE OF MUSIC
+|
+
+2s '
+TRACK 2 TRACK 3 TRACK 4
+a ae
+
+SET TO 0
+
+If POINT= Al;
+
+tne valué of PMIN gives the track
+number of the last track on the
+disc, PSEC and PFRAME are zero.
+
+If POINT= A2;
+
+In PMIN, PSEC
+starting point
+track is given.
+
+and PFRAME the
+of the lead-out
+
+start and stop points depends on the
+
+player design.
+
+The switch delay of
+
+the deemphasis depends on the player
+design.
+
+During the lead-in track,
+
+ATIME and X
+
+are not available.
+
+INFORMATION AREA
+
+PROGRAM AREA
+
+— 28 —
+
+Figure 14-6 Example of Encoding in the P and Q Channels
+
+ae

@@ -1,0 +1,131 @@
+8 Pin Description of MN15283PJB
+
+e MN15283PER (System Control)
+
+Function
+
+GN terminal
+
+Not used, open
+
+Optical servo condition input
+
+Muting control
+
+Command data output
+
+Command clock output
+
+Command load output
+
+Optical servo IC control signal
+(KICKF: Kick direction [Forward] command)
+
+Function
+
+Optical servo IC control signal
+(TRON: Tracking servo)
+
+Motor drive control
+
+Motor drive control
+
+Key input strobe and processing status input
+from signal processing LSI travers position
+
+detector
+
+Optical servo IC control signal
+(FOON: Focus servo)
+
+Elevator height
+
+signal input
+
+Motor drive control
+
+Optical servo condition (Track cross) input
+
+Optical servo condition (Focus) input
+
+Motor drive control
+
+Not used, open
+
+Not used, open
+
+Not used, open
+
+Rosel signal input (reset at “L")
+
+Sub-code block (Q-data) clock (75kKHz) input
+
+t
+
+Key scan input
+
+Sub-code frame clock (7.35kHz)
+
+Sub-code “Q" data input
+
+—
+oO
+
+wo
+
+ny
+3]
+
+Not used, open
+
+mo pnw
+n J —
+
+Not used, open
+
+Not used, open
+
+FL glide signa! and key scan signa!
+
+FL drive power supply (connected to -32V)
+
+FL anode signal
+
+Power supply (connected to +5V)
+
+nm
+Ww
+
+Traverse reverse command signal
+
+Clock terminal
+
+Traverse forward command signal
+
+Optical servo IC control signal
+(KIKCR: Kick direction [Reverse] commana)
+
+eT ware Singnal oe On Functlon
+
+Ps fv f— | | amt |
+(connected to +5V)
+SMCK | Clock input
+
+Not used, open
+
+Not used, open
+
+Reset signal input
+Not used, open
+Remote control signal input
+
+Program enable/de-enable
+control
+
+— 120 —
+
+Clock input
+
+Key strobe
+
+| GND terminal

@@ -1,0 +1,45 @@
+Drop-out Signal FLOCK Signal
+(IC-501 pin 19) (IC-401 pin 35)
+
+RF Signal
+(IC-501 pin 15)
+
+im discrim-
+
+lastor
+
+< Search Signal >
+(IC-104 pin 6)
+
+<SENSE Signal>
+(Ic-401 pin 36)
+
+<Focus Error Signab
+(IC-104 pin 3)
+
+<Tracking Error
+Signal>
+(IC-105 pin 3)
+
+<Hold Input Signal>
+(IC-105 pin 7)
+
+<Hold Output Signal>
+(IC-106 pin 3)
+
+<KICK Signal?
+
+fare | Control fconerot tnt |
+(IC-106 pin 2)
+VREF TE | TE
+
+mid
+
+Control ~ signal
+
+System CPU
+(Ic-401)
+
+Figure 17-1 Block Diagram of AN8370S (Optical Servo IC)
+
+— 47 —

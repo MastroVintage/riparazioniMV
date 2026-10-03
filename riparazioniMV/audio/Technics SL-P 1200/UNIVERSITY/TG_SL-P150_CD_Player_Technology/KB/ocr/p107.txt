@@ -1,0 +1,119 @@
+(2). As the magazine is loaded in its After a second pause of
+
+compartment, S462 is first activated approximately 0.24 sec, the CPU sets
+alerting the CPU that the magazine pins 8 through 11 so that the
+is being loaded. elevator motor is selected and
+As it is further inserted, the rotates in a clockwise direction.
+LOADING SLIDER bar first activates The elevator unit moves fast in the
+$451 and then $452. This causes the upward direction for approximately
+
+0.16 sec. and then slowly for about
+0.08 sec, until the "standby"
+position (dise 1) is reached.
+
+loading motor to rotate clockwise
+and moves the loading slider
+forward. As the loading slider bar
+moves forward, PART (A) of the bar The above sequence completes the
+comes in contact with S451. operation from magazine insertion to
+"standby" position.
+
+- “EF
+
+After a pause of approximately 0.24
+sec. (Determined by the CPU, the CPU
+sets pins 8 through 11 so that the
+elevator motor is selected and
+rotates in a counterclockwise
+direction, moving the elevator unit
+downward) .
+
+MOTOR DRIVE 08) aanalitattt ie OUTPUT
+OUTPUT (14
+
+The elevator unit hits S454 and sets
+it to the closed position, causing
+the elevator motor to stop shows
+figure 21-11. ©
+
+Table 1 Truth table of microprocessor -
+motor drive circuit
+
+open
+
+0.52 sec
+$451 —_— s Eject Sw,
+
+I
+es ae Loading sw.
+$452 (closed) |
+
+t
+1C401 Pin 8 at | (4)
+
+we— 0.4 sec 0.16 - 0.24 sec—#i0.16 sec
+|
+l
+
+i |
+
+1C401 Pin 9 — 7 (H)
+0.24 sec | |
+1
+
+IC401 Pin 10 . t | | | \
+
+aL)
+| | | [
+| | |
+|
+
+1C401 Pin 11 H)
+| 0.2 sec—
+|
+1
+
+8458 Rest
+| | 0.36 sec. | | Position Sw.
+| | |
+| OV | |
+1 |
+
+1C404 Pin Bm -10V ;
+
+| ov
+-5V | I
+1C404 Pin 3 -10V
+|
+i
+
+!
+I
+i
+1 | | \ |
+|
+'
+
+0,V
+ee
+
+| ' |
+"Loading No ; l elevator No | 1
+‘motor Operation Imotor ! Operation !elevatorl Elevator
+Pull- | | down \ jmotor up| motor up
+|
+
+10404 Pin 10—
+
+\
+i)
+|
+|
+| out" | | , (Fast) | (Slow)
+
++ (Slow) | | i '
+
+Figure 21-11 Mechanism operation sequence from magazine loading to “standby”
+
+— 107 —
+

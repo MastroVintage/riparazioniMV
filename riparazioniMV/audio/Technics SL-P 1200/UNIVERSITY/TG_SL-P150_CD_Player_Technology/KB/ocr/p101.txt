@@ -1,0 +1,81 @@
+£ DA Processing
+
+Pulse Width Modulates the
+4 level data from the MASH
+block at a rate of 768fs,
+
+oe eee ith, 326s 76MIN Tt
+
+channel
+
+clock. The L and R channel
+outputs of the PWM have 304s [a
+
+the same phase, and are
+applied to the next stage
+at the rising edge of the
+32fs clock.
+
+10) Pin Description of MN6623A
+
+@ 1C801: MN6623A (Digital Filter and D/A Converter)
+
+0
+Pin Mark 0 Function Division Function
+
+No. Division
+AVDD1 Power supply (connected to +5V)
+
+Power supply (connected to +5V)
+
+Command load input (load: L)
+
+Reset signal input (reset at “L”)
+
+I | eno terminal (digital system)
+
+(e) Clock output
+
+—
+! Clock input
+
+2S select terminal (“H”=I?S)
+
+TEST terminal (Not connected)
+
+Not connected
+
+TEST terminal 1 (connected to GND)
+
+TEST terminal 2 (connected to GND) Power supply (connected to +5V)
+
+Not connected GND terminal (digital system)
+
+Not connected Not used (connected to GND)
+
+10 | AVDD4 I Power supply (connected to +5V) 768 fs (Not used)
+
+11 OUTR(—) (0) Rech data output, (—) terminal jefe |e 192 fs (Not used)
+12 AVSS4 I GND terminal LR clock selector (Not used)
+13 AVSS3 ! GND terminal L/R clock
+
+fare
+
+14 OUTR(+) (e) Rch data output, (+) terminal | Serial data best clock
+
+15 | AVDD3 I Power supply (connected to +5V) SRDATA | T serial data input (MSB first)
+
+16 NC | — Not connected DVSS 3 | GND terminal (digital system)
+_+—
+
+17 AVDD2 | Power supply (connected to +5V) NC Not connected
+
+19 OUTL(—) fo) Lch data output, (—) terminal 384 fs (16.9344 MHz) output
+
+19 AVSS2 1 GND terminal (analog system) Power down terminal
+
+20 AVSS1 I GND terminal (analog system) Command data input
+
+21 OUTL(+) oO Lch data output, (+) terminal | Command clock input
+
+— 101 —

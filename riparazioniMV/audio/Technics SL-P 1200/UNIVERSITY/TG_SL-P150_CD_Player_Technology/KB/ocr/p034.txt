@@ -1,0 +1,99 @@
+Reflection from a surface may he
+either diffuse, specular or both. A
+diffuse reflector has a surface which
+is rough when compared to the
+wavelength of the impinging
+radiation.
+
+Incident beam Diffuse
+reflector
+
+Figure 16-5 Diffuse Reflector
+
+A speular reflection has a_ surface
+which is smooth when compared to the
+wavelength of the impinging
+radiation. A perfect specular
+reflector will reflect an incident
+beam without altering the divergence
+of the beam. A narrow beam of optical
+radiation impinging upon a_ specular
+reflector obeys two rules:
+
+(1)The angle of reflection is equal
+to the angle of incidence.
+
+(2)The incident ray and the reflected
+ray lie in the same plane as
+normal line extending
+perpendicularly from the surface.
+
+Reflected beam
+Normal
+
+~
+“22
+.
+
+Incldent beam 0,
+
+Specular reflector
+
+Figure 16-6
+
+— 94 —
+
+b) Absorptance
+
+Some of the optical radiation
+impinging upon any substance is
+absorbed by the substance.
+Absorptance varies according to the
+properties of the substance and the
+wavelength and in real circumstances
+may range from less than 1% to more
+than 98% ("lampblack" body).
+
+c) Transmittance
+
+Some of the optical radiation
+impinging upon a substance is
+transmitted into the substance. The
+penetration depth may be © slight
+(transmittance = 0) or deep
+(transmittance more than 753%).
+
+The reflectance (9), the absorptance
+(y), and the transmittance (7)
+corrsepond to :
+
+p+ 9+ 7 = 1 (10038)
+
+d) Refraction
+
+A ray of optical radiation passing
+from one medium to another is bent at
+the interface of the two mediums if
+the angle of incidence is 90 degree.
+The index of refraction is the sine
+of the angle of incidence divided by
+the sine of the angle of refraction.
+Refractive index varies with
+wavelength and ranges from 1.0003 to
+2.7.
+
+Refracted ray
+
+Incldent ray
+
+Figure 16-7 Refraction
+
+3) Optical Components
+
+Optical components are used to
+manipulate and = control optical
+radiation and to provide optical
+
+access to various sources and
+sensors,
+

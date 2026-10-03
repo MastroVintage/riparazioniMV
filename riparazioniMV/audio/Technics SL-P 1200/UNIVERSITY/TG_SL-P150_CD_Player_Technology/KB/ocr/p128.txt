@@ -1,0 +1,37 @@
+D. Focus Offset Adjustment
+
+a) Purpose
+Without proper focus the tracking
+The CD player must be able to servo is affected as well, causing the
+compensate for manufacturing pickup to move to a different track.
+imperfections of disc and dust or any
+other contaminants on the signal side. When the lens detects imperfections as
+mentions above, the focus servo is
+As the pickup traces the track, if enabled in order to maintain proper
+dust or disc imperfections are focusing within the operating range of
+present, the focusing depth changes. the servo.
+
+Laser beam
+
+When the offset adjustment is suitable,
+
+laser beam returns to the original track
+after passing the black band.
+
+Servo is not applied.
+
+Lens moves to a different track when the offset
+
+is not adjusted properly.
+
+Figure 22-18
+b)Test disc, RF waveform and FE signal causing the RF to appear as in figure
+A black band disc is used to simulate 22-21 (a) and (b).
+
+disc imperfection or dust particles,
+
+Black band
+
+Figure 22-19 Test Disc (SZZP1057C) Figure 22-20 RF Waveform When Ad7justed
+
+— 128 —

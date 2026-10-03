@@ -1,0 +1,67 @@
+— 6 —
+
+Irsufficient disc clamp stroke
+
+Clamp plate
+
+Clamp base
+
+Unstable tray open operation
+
+Tray hook
+
+Loading base Loading base
+
+Unstable tray loading
+(draw switch actuation error)
+
+Tray switch
+lever
+
+When the mechanism is lowered (in the Play position),
+the <Lamp plate "lug" must rest in the recess of the clamp
+base (marked with an asterisk).
+
+If there is any clearance
+between the two, tilt the
+spring on the clamp plate in
+the direction of arrow (B)
+to increase the stroke.
+
+Clamp plate
+
+Diagonal rear view of clamp plate
+
+Majcr causes will include:
+
+1) Tray hook skew.
+
+2) loading base height defect.
+
+Verify that the distance between the top surface of the tray
+hook and that of loading base is 4.3 mm.
+
+If necessary, adjust with (A) or replace the tray hook
+(SLID75) .
+
+—+— $$$ $e
+
+The tray switch lever activation stroke is mechanically
+limited. So it is likely that draw switch (S453) activation
+failure will be due to the tray switch end pins failing to
+catch the tray edge (deformed tray switch lever).
+
+Action: Replace tray hook, S1RD71.
+
+|° Disc does not rotate.
+
+° Mechanism noise heard dur g disc
+rotation.
+
+Disc tray fails to close.
+
+Failing to enter Play mode
+(the mechanism attempts tray close
+drive twice for all of six disc
+trays, and finally stops if the
+neutral state).

@@ -1,0 +1,67 @@
+Step 4:
+
+When developing the exposed photo-resist
+layer the pits of information are
+revealed.
+
+Step 5:
+The surface is silvered to protect the
+pits.
+
+@A glass plate base is
+(cleaned and polished)
+
+®A photo resistive coat-
+ing is applied.
+
+©The digital pulse train
+modulates the laser
+beam.
+
+@The coating is develop-
+ed and a metal is
+deposit. The exposed
+part is removed.
+
+@A nickel master is
+made.
+
+@A mother is made
+from the master.
+
+@ A stamper is made
+from the mother.
+
+Step 7. eThe disc is made
+from the stamper.
+
+Step 6:
+The surface is plated with nickel to
+make a metal master.
+
+Step 7:
+
+The metal master is the used to multiply
+mother plates. These mothers are in turn
+used to multiply metal master, or
+stampers.
+
+| Photo resistive coating
+
+Glass
+
+Laser | Pulse train
+
+Mother
+
+eee, Hamden eT an
+Ni masler
+
+Stamper
+
+I Mother |
+
+Ni master
+
+Chart 6-1 Disc Mastering Process
+

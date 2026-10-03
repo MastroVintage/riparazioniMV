@@ -1,0 +1,216 @@
+9) Pin Description of MN6617
+
+@ 1C301: MN6617 (Digital Signal Processing: EFM Decoder, Error Correction, CLV Servo)
+
+Pin
+No.
+
+ie)
+
+Mark Division
+
+Sub-code block (Q data) clock
+(75 Hz)
+
+Mark
+
+0
+Resynchronizing signal
+(Not used, open)
+
+33 | RESY
+
+Sub-code frame (Q data) clock
+(7.35 KHz)
+
+Sub-code (Q data) output
+
+Sub-code (Q data) CRC check
+(Not used, open)
+
+5 Reset signal input (reset at “L’”)
+6 MLD Command load input
+7 MCLK Command clock input
+8 MDATA I Command data input
+Muting control
+9 DMUTE (Not used, connected to GND)
+10 TRON { Tracking servo ON signal
+(tracking servo ON at “L”)
+Processing condition (CRC, OTC,
+" STAT ° CLVOK, TT STOP) output
+12 SMCK ie) Clock output (4.2336 MHz)
+
+13 | PMCK O Pitch control clock output
+(Not used, open)
+“|
+
+15
+
+Track counter input signal
+
+ITC (Not used, open)
+
+\ Test mode selection
+(Not used, connected to +5V)
+
+16 x2 [e) Clock output (Nct used, open)
+7 | X41 I
+
+{
+
+TEST
+
+Clock input
+
+DA output parallel/serial selection
+(serial at “L”)
+(Not used, connected to GND)
+
+18 | SEL
+
+L channel deglitch signal/serial
+
+LOG/WDG data word clock. (Not used, open)
+
+Clock signal output for spindle
+motor control (Not used, open)
+
+De-emphasis ON signal
+(de-emphasis ON at ‘“H”)
+(Not used, open)
+
+Interpolation flag (interpolation at
+“H") (Not used, open)
+
+IPFLAG
+
+23 FLAGO O Error flag (error at “H”)
+(Not used, open)
+16K RAM address reset signal
+24 FLAGE ° (reset at “H”) (Not used, open)
+{
+25 XCK ral Clock (16.9344 MHz) output
+(Not used, open)
+| r
+26 SRDATA [e) Serial data output (MSB first)
+27 SRDATA O Serlal data output (LSB first)
+| (Not used, open)
+28 | SRCK ie) Serial data beat clock.
+29 WDCK { Serial data word clock (Not used)
+20 | BYTCK oO Serial data byte clock
+(Not used, open)
+34 GND { GND terminal
+32 R/L ie) R/L signal
+
+Table 18-5
+
+~ lw
+ro)
+
+34 FCLV
+
+Synchronizing detection signal
+(Not used, open)
+
+Interpolation flag for each byte
+(Not used, open)
+
+Interpolation prohibited
+
+(Not used, connected to GND)
+C2 decoder correction flag 3
+(Not used, open)
+C2 decoder correction flag 2
+(Not used, open)
+C2 decoder correction flag 1
+(Not used, open)
+Ci decoder correction flag 2
+(Not used, open)
+C1 decoder correction flag 1
+(Not used, open)
+Crystal frame clock
+
+§ 16K RAM data output
+50 DO
+
+ra [awe [0
+
+7 RAMAO
+63 RAMA10
+fe fro |
+Cc
+
+65 | E
+
+35 IPBYTE
+
+36 PSEL |
+
+37
+
+mn
+
+LAGS
+
+/
+38 LAG4 ce)
+
+:
+
+39 FLAG3
+
+40 | FLAG2 ie)
+
+ie)
+ie)
+
+41 FLAG1
+
+42 FLCK
+
+43 o7
+
+VO
+
+16K RAM WE signal
+
+16K RAM address signal
+(RAMAO: LSB, RAMA10: MSB)
+
+Spindle motor ON signal (ON at “L”)
+
+(Not used, open)
+4 FM
+
+vu < < nn
+is] @
+Oo
+
+67 CNT
+
+REXT
+
+1 CKO
+
+SRF EFM signal input (DSL)
+76 1 Drop-out signal (Drop-out at “H”)
+
+11T servo OK signal (OK at “H”)
+(Not used, open)
+
+PLL frequency comparision signal
+
+PLL frequency in take operation
+signal. (Not used, open)
+
+| — | (Not used, open)
+81 NSRF —_— (Not used, open)
+
+Sub-code serial output data
+(Not used, open)
+
+80 SRFO
+
+Clock for sub-code serial output
+(Not used, open)
+

@@ -1,0 +1,122 @@
+The idea behind this technique is as
+follows:
+
+An 8 bits code can represent 256 (=28 )
+possible combinations, as shown in the
+following table 12-1.
+
+MSB 7SB 6SB 5SB 4SB 3SB 2S5B 15B
+0 0 0 0 0 0 0
+0 ) 0 0 0 1
+0
+
+Table 12-1
+A 14 bits code, on the other hand, can
+represent 16,384 (=214 ) different
+combinations, as shown in the following
+table 12-2.
+
+MSB 13SB 12SB 3SB 2SB 1SB No
+
+0 oO O
+
+Oo oO 1
+Oo 1 0
+
+Table 12-2
+
+Out of these 16,384 possible patterns,
+the patterns are selected in which more
+than two, but less than ten zeros appear
+continuously (there must be at least two
+"0" and no less than ten "0" between
+each "1").
+
+That means, only 267 patterns satisfy
+this condition without 16,384 possible
+patterns.
+
+The 11 more patterns out of these 267
+are elminated and the 256 remaining
+combinations are used.
+
+aS g | 8 | 8
+A Aan po
+
+|
+
+A look-up table (in a ROM for instance)
+is used to assign the 256 combinations
+(of the 8 bits code) to the 156
+combinations (of the 14 bits code).
+
+Examples
+
+14-bit word
+
+00100100000000
+01000001001000
+10010001000100
+00000010001001
+
+Table 12-3
+
+The advantages of converting from 8 bits
+
+to 14 bits are followings:
+
+1.The number of bit inversions ( 1 to 0,
+0 to 1) is reduced. This impies that
+the frequency range (bandwidth) is
+reduced.
+
+2.The DC content is reduced,
+
+8-bit word
+00000011
+01001110
+
+10101010
+11110010
+
+which is
+
+imperative for tracking and clock
+extraction.
+3.The number of clock elements’ is
+
+increased (at least one clock element
+for one symbol of 8 bits is required).
+
+4.The data processing can be done
+easier.
+
+3. Junction Bits
+
+To each block of 14 channel bits, 3
+extra bits are added, 2 bits for
+junction the blocks and 1 redundancy bit
+for LF suppression.
+
+As these three merging bits do not
+contain any data, one of them can be
+used to reduce the DC component in the
+signal. To select the merging bits, the
+DSV (Digital Sum Value) is used. The DSV
+is calculated as follows:
+
+mee
+0110021 vil
+
+EFM DECODING
+ih 3 Junction BITS
+DATA fl
+14 3
+«(if
+
+aa ein
+
+oni eal
+
+ZB EZ
+

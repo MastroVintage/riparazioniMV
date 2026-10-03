@@ -1,0 +1,65 @@
+The figure 17-18 shows traverse servo
+circuit.
+
+C183
+
+Tracking Error
+. C184 «R191
+
+TE
+1C-102 62
+
+C1
+82 R192
+
+Speed 1C-103(A) R182 0
+
+1
+Position R181 C181
+senser ¢
+
+| C186
+
+R186 D183
+
+q
+1C401 R195
+(21) 0184 |R189 R198
+>
+
+1C-103(D)
+SEARCH
+
+Figure 17-18 Traverse Servo Circuit
+
+9) Linear Motor Operation the optical pickup transportation
+
+mechanism. The linear motor drive coil
+(traverse coil) is a part of the optical
+
+pickup and performs transportation
+operation.
+
+iy,
+
+q R184 Q181
+Paar > a
+
+R183 Q182 Oo
+I ed Traverse
+
+coil
+
+A linear motor is used for the optical
+pickup transportation mechanism in the
+new CD players. The figure 17-19 shows
+
+Optical Pickup
+
+Slide Shaft
+
+Spindle Motor
+
+Figure 17-19 Optical Pickup Transportation Mechanism
+
+~ 61 —

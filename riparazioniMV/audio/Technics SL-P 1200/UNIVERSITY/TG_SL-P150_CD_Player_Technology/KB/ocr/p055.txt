@@ -1,0 +1,13 @@
+IC-101 (AN8370S)
+
+{A1+A2)+(A3+A4)
+(+)
+
+$Shape
+curve
+Oetector
+
+R150 R152
+
+Figure 17-10 Focus Servo Circuit
+

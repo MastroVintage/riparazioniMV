@@ -1,0 +1,125 @@
+A typical operating curve is shows as
+follows figure 16-4,
+
+Optical power
+output (mW)
+
+rt
+6
+
+Jf
+‘
+
+3
+
+2
+
+1
+
+50 6 Laser current
+
+(mA)
+
+Figure 16-4
+
+In an (Ga Al) As ILD with a double
+heterostructure (DH), a very narrow PN-
+
+junction layer (GaAs) is sandwiched
+between layers of a different
+semiconductor (Al Ga As). The properties
+of this semiconductor confine the
+
+electrons and holes to the very narrow
+junction layer, leading to an inverted
+population at a low input current. It
+oscillaters at a 780nm_ wavelength,
+_generating a monochromatic lightbeam.
+
+2. Opto-Electronics
+
+The technological marriage of the fields
+of optics and electronics is called
+"opto-electronic". It is a remarkable
+diverse field involving such topics at
+
+the nature of optical radiation, the
+interaction of light with matter,
+radiometry, photometry and the
+
+characteristics of various sorces and
+sensors.
+
+1) The Optical Spectrum
+By convention, electromagnetic
+radiation is generally = specified
+according to its metric wavelength
+
+(x). The frequency of a specific
+electromagnetic wavelenght can be
+found from:
+
+f = c/d
+
+Where f is frequency in Hz:
+c is frequency of light (=3x10m/sec)
+is wavelength in m
+
+The optical portion of the
+electromagnetic spectrum extends from
+10 nm (100 A) to 10°nm and is divided
+into three major categories:
+ultraviolet (UV), visible and
+infrared (IR).
+
+Ultraviolet are those wavelengths,
+falling below the visible spectrum
+and above x-rays.
+
+UV is classified according to its
+wavelength as extreme or short wave
+UV (10 - 200 nm), far (200 - 300 nm)
+ane near or long wave UV (300 - 370
+nm).
+
+Visible are those wavelengths between
+370 - 750 nm and they can be
+perceived by the human eye. Visible
+light is classified according to the
+various colours its wavelengths
+elicit in the mind of a_ standard
+observer.
+
+The major colour categories. are:
+violet (370 - 455 nm), blue (456
+492 nm), green (493 - 577 nm), yellow
+(578 - 597 nm), orange (598 - 622 nm)
+and red (623 - 750 nm).
+
+Infrared (IR) are those wavelengths
+above the visible spectrum and below
+microwaves. IR is classified
+according to its wavelength as near
+(750 -1500 nm) middle (1600 -6000 nm)
+, far (6100 - 40000 nm) and far-far
+(41000 - 10 nm).
+
+2) Optical Waves with Matter
+An optical wave may interact with
+matter by being reflected, refracted,
+absorbed or transmitted. The
+interaction normally involves two or
+more of the these effects.
+
+a) Reflectance
+
+Some of the optical radiation
+impinging upon any surface is
+reflected away from the — surface.
+
+reflectance varies according to the
+
+properties of the surface and the
+wavelength and in real circumstances
+may range from more than 98% to less
+than 1% (lampblank body).

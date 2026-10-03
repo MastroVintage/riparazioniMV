@@ -1,0 +1,91 @@
+b) Previous word holding:
+
+AS it is name implies, the value of
+the word before the erroneous word is
+with held so that there is almost no
+
+audible difference. The previous word
+holding is a memory operation since
+the preceding value is repeated. This
+
+method is used in combination with the
+linear interpolation in case of two
+missing subsequent words.
+
+Figure 13-8
+
+c) Linear interpolation:
+
+This is the most accurate method of
+concealing errors. The word including
+errors is replaced by the average
+value of the preceding and succeeding
+words which are supposed to be
+correct. The compensation capability
+of this interpolation is of course
+superior to that of the previous word
+holding.
+
+Wn-] Wn
+
+| tf emtor ||
+
++ Wnt+l
+
+(= ADDER AND SHIFTREGISTER)
+
+Figure 13-9
+
+The linear interpolation requires an
+"adder" circuit and a shift register.
+The sum Wn-1 + Wntl is made in an
+adder circuit. The result is stored in
+a shift register. By shifting the bits
+(word) 1 bit to the right, the value
+is divided by two as shows figure 13-9
+Linear interpolation is used in case
+one word is missing or erroneous, this
+means when correction is not possible
+in the C2 decoder.
+
+[a fo fa fifo [ofr fo]
+
+= 178),
+
+[ef folififojofifo = a,
+
+1 SHIFT TO THE RIGHT
+
+Figure 13-10
+
+da) Previous word hold with interpolation:
+
+— 24 —
+
+In this method previous value is
+with held and replaces the first
+erroneous word. This new value will be
+used to calculate the average value of
+the preceding and succeeding words.
+
+This operation needs two circuits. The
+first step is a memory operation, and
+the next step requires an "adder and
+shift register". This method is used
+in case 4 successive symbols, which
+means 2 successive words can not be
+
+corrected.
+
+f (MEMORY)
+
+9+ i (ADDER and SHIFT REGISTER)
+
+Wn-1 Wn Wn+] Wn+2
+Cia Lee [PD
+Wn = Wn-l (= MEMORY)
+wnt ion (= ADDER AND SHIFTREGISTER)
+= Wn-1
+
+Figure 13-11
+

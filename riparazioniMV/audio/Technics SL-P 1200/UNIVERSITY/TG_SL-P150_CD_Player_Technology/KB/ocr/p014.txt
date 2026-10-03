@@ -1,0 +1,111 @@
+The following table shows the output
+code for a 2's complement’ 6-bits
+quantization.
+
+0111111111111111
+0111111111111110
+0111111111111101
+0111111111111100
+
++32767
++32766
++32765
++32764
+
+ou ou tt
+
+0000000000000011
+0000000000000010
+0000000000000001
+0000000000000000
+1111111111111111
+1111111111111110
+1111111111111101
+1111111111111100
+
+1000000000000011
+1000000000000010
+1000000000000001
+1000000000000000
+
+hou ou dl
+
+Table 10-1
+
+2. Quantization Error or Noise
+
+in fact, quantization can be regarded as
+a mechanism in which some information is
+thrown away, keeping only as much as is
+required to retain a certain accuracy as
+is needed in a certain application.
+
+By definition, since all voltages in a
+certain quantization interval are
+represented by the voltage at the center
+of this interval, the process of
+quantization is a non-linear process and
+creates anerror, called quantization
+error.
+
+This error can be perceived s a kind of
+noise, and therefore the quantization
+error is also called quantization noise.
+It is clear that, the smaller the
+quantization intervals, the smaller this
+quantization noise will be.
+
+With a 16 bits system, s&s used in
+Compact Disc, a theoretic 98dB S/N ratio
+possible as following calculation:
+
+S/N (dB) = 6.02 x n +1.76
+
+* n = number of bits
+
+11. Architecture of D/A Converter
+
+1. Introduction
+
+Obviously, one of the most important
+components in a D/A conversion system
+is the converter itself. From the
+foregoing it has become clear that
+very high resolution is needed to
+obtain a satisfactory signal to noise
+ratio.
+
+Compact Disc system use a 16 bits
+resolution (compared toe.g. 8 bits
+for digital video applications).
+
+2. D/A Converters
+
+The principle of the best known, so
+called weighted current, D/A converter
+is shown in figure 11-1.
+
+Each bit of the input word controls a
+switch in the circuit that turns on or
+off aspecified current. The problem
+in this apparently simple circuit is
+the number of precision resistors
+needed : an n-bit converter requires n
+precision resistors overall : 2n-l
+value range.
+
+Figure 11-1 Weighted Current D/A
+Converter
+
+Also the required accuracy in the
+resistors for the nighest bits is
+extremely high as the accuracy of its
+current switched by the LSB (which, in
+a 16 bits converter, is 1/32,768 of
+the current switched by the MSB; this
+means an accuracy better than 0.003%).
+Also, this accuracy must be maintained
+over a long periode of time and
+temperature range.
+
+— 14—

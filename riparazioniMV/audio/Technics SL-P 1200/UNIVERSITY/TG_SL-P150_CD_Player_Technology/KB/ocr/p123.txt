@@ -1,0 +1,71 @@
+c)Basic principle of adjustment method
+
+The worped TEST DISC (SZZP1056C) is
+used to simulate the non-perpendicular
+condition. While playing the disc, the
+RF amplitued's vertical fluctuation is
+to be minimized; at which point the
+most perpendicular point is set.
+
+(1)RF waveform at use of the TEST DISC
+
+(SZZP1056C)
+
+A thin piece of metal is mounted to
+the part where the disc touches. the
+turntable. The RF waveform is
+fluctuated vertically  (amplitued
+fluctuated).
+
+Test disc
+
+Thin piece of metal
+
+_ Metal piece
+Turntable
+
+| Vertically Fluctuated
+
+while rotating
+
+Uneven Test Disc (SZZP1056C)
+
+Figure 22-5
+
+(2)RF waveform when properly aligned
+
+RF Waveform
+
+Ce
+
+ez
+NN O,0,0,0,00.0.0.0.0 9.0)
+Turntable No Amplitude fk OTEK ERR
+fluctuation YT \UROCOSOEX OOK ICY
+7 HKD OOO)
+|_|
+|
+
+RRR
+
+RF waveform is stable,
+
+free of vertical amplitude fluctuation.
+
+Figure 22-6
+
+RF waveform
+
+results in amplitude fluctuation RF Waveform
+
+SAVY), 9,0,0,9,0,.0.0,0.0.0.0 9,
+AVR RRSR
+TL \ RANA AD XY) XX?
+RRR RSRAMY
+
+My
+
+Waveform before alignment Waveform of optimum alignment
+
+Figure 22-7
+— 123 —

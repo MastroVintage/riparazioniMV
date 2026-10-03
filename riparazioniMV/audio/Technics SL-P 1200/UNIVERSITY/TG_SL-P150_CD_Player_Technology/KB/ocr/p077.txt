@@ -1,0 +1,124 @@
+The PCK (bit period clock= 4.3218 MHz)
+is used to time signal processings
+during 16K RAM write. RAM read and
+subsequent operations are timed by a
+clock which is a derived from the
+crystal-controlled master clock,
+
+The jitter contained in the play signal
+is absorbed by the RAM. The basic
+internal operations of the digital
+processing circuit are explained on the
+following pages.
+
+1) EFM Demodulation
+
+(1)Sync signal detectio, protection, and
+interpolation:
+
+The EFM signal read off the disc (under
+optical system servo control) is coupled
+to the data slice/clock sampling
+circuit, where it is converted into a
+logic-level signal, separated into the
+EFM and PCK signals, and applied to the
+EFM demodulator.
+
+The input EFM signal is first converted
+into NZRZI data (inverted for every one;
+non-inverted for every zero), then is
+applied to a 24 bits shift register,
+where the sync, signal is extracted from
+the data.
+
+Interpolation is required to cope with
+sync, Signal dropout or pseudo sync,
+signal generated due to defects on the
+disc. In order to prevent the
+synchronization system being disturbed
+by the pseudo sync, signal a small sync.
+Detection window is provided each time
+the sync, signal should be found, so
+that sync detection is performed only
+within the window.
+
+If no sync signal is detected in the
+window, interpolation is done by an
+internal 588 increment counter (which
+counts 588 PCK pulses). Also the number
+of sync detection failures is counted,
+and the width of the detection window is
+automatically controlled according to
+the count value.
+
+The FCLV signal status changes depending
+
+on whether the sync signal has been
+
+detected or not:
+
+*In every frame where on sync signal was
+detected, the FCLV is set low.
+
+—77—
+
+*In every frame where the sync signal
+was detected, the FCLV is set
+
+high. (the sync detection failure
+counter is reset at a high transition
+
+of the FCLV)
+
+If no sync signal has been detected for
+eight consecutive frames, it is
+considered an off-synchronization. The
+RESY output of the device is set low,
+which fully opens the window to attempt
+synchronization:
+
+**If a step out occurred, the RESY is
+set low.
+**When the device attempts a
+
+synchronization, the RESY is set high.
+
+The MN6617 can use the TRON (tracking
+
+on) signal for external synchronization
+
+control. When the tracking servo is off
+
+(TRON = high), the device always fully
+
+opens the window, so that it is ready
+
+for synchronization as soon as_ the
+
+tracking servo is turned on:
+
+**When tracking servo is on, TRON is set
+low.
+
+**When tracking servo is off, TRON is
+set high.
+
+This enables reduced syncronization time
+when the player is accessing the next
+track.
+
+(2)EFM demodulation
+
+The output of the sync, detector's 24
+bits shift register is coupled toa 14
+to 8 decoder, where it is decoded into
+the original 8 bit data. Also subcodes
+SO and Sl are decoded and transferred to
+the subcode decoder.
+
+231 nsec
+
+PCK
+EFM
+
+Figure 18-2 PCK and EFM Input Timing

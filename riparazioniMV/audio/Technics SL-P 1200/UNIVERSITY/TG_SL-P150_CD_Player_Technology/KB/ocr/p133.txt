@@ -1,0 +1,128 @@
+We would like to inform you that we have
+developed new test fixture of New Servo
+
+Gain Adjuster. This new servo gain
+adjuster is improved version of former
+servo gain adjuster in order to adjust CD
+player quicker and accurately. To use
+this new servo gain adjuster, we believe
+CD player can be repaired much easier and
+repair time will decrease very much.
+
+(1). Employed internal oscillator and
+power supply:
+eIt is not necessary to look for
+the power line on the main unit
+for connecting and prepare of
+external oscillator. The servo
+gain can be adjusted with just
+one connection of connector.
+
+(2). Equipped servo gain judgment
+circuit:
+
+e3 LED indicate the condition of
+the servo gain and servo can be
+adjusted by monitoring those LED
+indication without connecting
+oscilloscope.
+
+(3). Can be used any of Technics and
+Panasonic CD player:
+
+e Including products beeing
+introduced in the future, all of
+CD players are applicable to this
+new servo gain adjuster (except
+SL-P10, SL-P7 and SL-P8)
+
+(4). Others:
+
+¢8 kind of different frequency are
+available. and equipped test
+points for signal waveform
+monitoring.
+
+2. Name and Part Number
+
+New Servo Gain Adjuster .... SZZP1094C
+
+We are convinced that new test fixture
+
+is very useful and helpful for
+servicing of CD play |
+
+“SUN
+
+~ 13% -
+
+We would like ask you to study to use
+it in your service network and place
+an order necessary quantity to us
+through normal spare parts order route
+
+Furthermore, we would like to supply
+this new servo gain adjuster in future
+instead of former servo gain adjuster
+(SZZP1017F). and it will be
+discontinued after consumed all of our
+stock.
+
+3. Controls and Their Functions
+
+Front View
+
+. Cy Cy MODE SELECTOR
+2
+- - x1 x14 3 cant al
+orF (Cs)
+’ S
+\ sant a
+ow ‘03 307 DEFEATED TRACKING
+VOLTS \=oee z
+PP 150072
+
+@ OSCLEVEL SERVO|GAIN ADJUSTER
+
+@ osc Level Control
+Used to adjust the output level of
+
+the built-in low frequency
+oscillator.
+
+At minimum position
+(fully-—counterclockwise rotated
+position):
+
+A 0.1 Vp-p level signal is
+delivered.
+
+At center position:
+
+A 0.2 Vp-p level signal is
+
+delivered.
+At maximum position
+(fully-clockwise rotated
+position):
+
+A 0.3 Vp-p level signal is
+delivered.
+
+@ © Frequency Control and Switch x1
+and x1.1
+
+Used to select the oscillation
+frequency.
+
+Frequency _| 98Cillation/ Frequency
+x1 x1.1
+750Hz
+
+Ui
+toot
+
+1,500Hz
+
+15008,
+

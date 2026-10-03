@@ -1,0 +1,48 @@
+2. Electrical Adjustment
+
+These adjustments are so important to operating range. The purpose of this
+the extent to the performance of the CD adjustment is to set the focus servo's
+player depends mainly on their accuracy. reference voltage (zero); at which
+
+point the lens focusing depth is set.
+A.Best Eye (PD Balance) Adjustment
+
+a)Purpose
+
+Due to fluctuations of as described
+
+earlier, under "turntable height
+adjustment" the focus servo is
+designed to work within a certain (a) . (b) (c)
+
+Figure 22-8 Beam Shaps Received by the
+Photodetector
+
+b)Basie principle of best eye adjustment
+and best point
+
+RF output
+14+2+3+445+6
+
+Best-eye control With the best-eye adjustment,
+the servo is to be set to allow
+this point to be zero volts.
+
+Figure 22-9 Focus Servo Loop
+
+Maximum amplitude of the RF waveform is achieved
+
+WARK AX AMAA & 0.8v P.
+XRD NK 0.8V P.P
+
+when the best eye adjustment is properly set,
+L_ RNA YY ARERR , i as described above,
+) ('
+EAARRRARKRY apn
+Pit ET
+
+RRR
+
+Figure 22-10 RF Waveform
+
+— 124 —

@@ -1,0 +1,108 @@
+(1) Principle of the Linear Motor
+
+As can be seen from figure 17-20, a
+linear DC motor is in fact a coil
+suspended in a magnetic field.
+
+When a current I is sent through the
+coil, a force will be applied onto the
+coil and the latter will move
+accordingly. The direction of the motion
+according to the force applied, is
+determined by flemings left hand rule.
+
+CLL LL
+MOOWOA
+
+LAO LL LL
+F DOWN
+
+® current direction down
+into paper plane
+
+© Current direction out
+of paper plane
+
+Figure 17-22 Linear Motor Principle
+
+The index finger point in the direction
+of the magnetic field, whereas’ the
+middle finger points in the direction of
+the current through the coil, and the
+thumb indicates the direction of the
+motion of the coil as shows figure 17-22
+and figure 17-23.
+
+direction of the wire motion
+
+{ ® direction of
+
+magnetic lines
+
+direction of the
+fleming's left hand rule current
+
+rotor direction of magnetic lines
+
+magnet . . direction of the
+direction of current
+
+@-{ the current OT -
+Cd
+
+~_
+. : direction of the
+direction of the coil motion
+
+coil motion
+
+Figure 17-23
+
+— 63 —
+
+10) Spindle (CLV) Servo Circuit
+
+Since length is
+different between
+inner and outer
+peripheries, it is
+necessary to
+make the speed
+slower at the
+outer periphery.
+
+Chart 17-1 Arc Length at Different Radii
+
+What is a Linear Velocity?
+
+The compact disc uses a constant linear
+veloocity (CLV) drive system. This means
+that the disc speed changes to maintain
+a constant reading speed approx 1.3 m/s.
+In figure 17-1. shows the distance from
+A to B is shorter than from C to D.
+
+To read this data at a constant speed
+the disc must rotate slower at the outer
+periphery. The range is 500 rpm through
+
+200 rpm from inner to outer periphery.
+The proper speed is maintained by
+reading the synchronizing signal
+(7.35KHz) and comparing it to a
+reference signal.
+
+As pointed out before, the data on the
+disc is recorded in blocks, which we
+called "frame". Each frame starts with a
+unique sync word, which is used to
+cntrol the spindle motor.
+
+The frequency of these sync words is
+compared against a fixed frequency
+
+(derived from a crystal oscillator) ina
+phase comparator and the motor is driven
+according to any frequency or phase
+difference.
+

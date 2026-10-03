@@ -1,0 +1,129 @@
+Incase of the figure 12-2 c, the
+junction bits combination 010 is added.
+The counting of the DSV will give : (-3)
++ (+1) + (-4) + (+4) + (-6) + (42) = -6.
+
+The result become more negative which
+means a worser case, aS a more negative
+DC component is present in the output
+signal. This example shows that the DC
+level of the output signal can be
+influenced by the junction bits. During
+the EFM modulation, the computer will
+add the three junction bits so, that an
+optimum result will be obtained. In the
+example no other combination is possible
+as 100 dose not allow two zeros between
+to transients, i.e. the last bits of the
+previous symbol and the actual Junction
+bits.
+
+4. Modulated Signal
+
+The signal now obtained after "Eight to
+Fourteen" modulation is still not
+usable, as for 1 bit there are 2
+transients. This signal, the most simple
+and basic from of modulation is called
+NRG (NON-Return to Zero) see figure 12-
+3. In order to fulfil the requirements
+of the EFM code, praticularly the
+
+minimum of three bits (3T) and the
+maximum of 11 channel bits (11T),
+between two transients, the NEZ signal
+
+is converted into a NRZI modulated
+signal.
+
+NRZT stands for "Non-Return to Zero
+Inverted". This signal has only one
+transition for al bit plulse, which
+means the polarity of the signal changes
+for each 1 encountered. As a result, the
+polarity of the signal is not important,
+as only transients indicate the presence
+of al in the signal. It is this signal
+which is reflected on the disc by the
+pits.
+
+13. Error Correction Basics
+
+1. Nature and Causes of Code Error
+
+The error correction scheme iS an
+essential part of the CD system. With
+analog techniques, the effort of error
+such as dropouts is that the sound is
+merely skipped, and the listener may not
+
+hear it, unless he is very attentive.
+However, with digital audio, the
+dropouts are heard in the form of
+
+irritating pulse noise.
+
+— 19 —
+
+Roughly categorized, there are two types
+
+of code error:
+
+a) The first type are random error,
+caused in disc production by
+inaccurate photo-resist coating,
+cutting, microscope bubbles, etc.
+
+b) The second type are the burst error
+resulting from scratches, dust and
+fingerprints on the disc surface;
+when these error occur, some bits or
+even bytes may be missing, this means
+dropouts are produced and this leads
+to critical reabout error in the
+digital data.
+
+2. Error Detection
+
+First of all, it is necessary to detect
+whether there is a code error. The error
+detection code is used for this purpose:
+extra bits are added to the data bits
+under certain rules, and then, by
+finding out whether this rule is being
+kept or not in playback, error can be
+detected.
+a) Parity Check:
+The simplest way for error detection,
+a single bit is added to a word
+during recording so that the sum of 1
+in the word and its corresponding
+parity bit. Let us assume that there
+is an error in one of the bits during
+playback as shows figure 13-1 (a).
+Then, the number of "1"s in total
+become an odd number and this
+indicates that there is an error.
+However, in the next example as shows
+figure 13-1 (b), there are two error
+but the total number of "1"s is an
+even number. As shown in the second
+example, the parity method cannot be
+used to detect multiple error which
+occur within a short period of time.
+
+Parity Totale of "1"s
+: O- even
+
+odd (ertoneous)
+
+even
+
+even (but
+ertoneous )
+Figure 13-1
+By adding more parity bits (extended
+parity checking), misdetection
+
+probability can be further reduced (for
+n parity bits, it is 1/2n).

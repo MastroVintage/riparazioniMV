@@ -1,0 +1,145 @@
+16. Optical Pickup
+
+1. Basic Operation of the Laser Diode
+
+The basic operation of any laser
+consists of pumping the atoms into a
+stimulated state from which the
+electrons can escape and fall to the
+lower energy ground state by giving up a
+photo of the appropriate energy. In a
+solid-state laser such as the laser
+diodes used in CD player, this principle
+is applied to a PN-junction, as will be
+explained below.
+
+First, let us review the energy band
+diagrams as shows figure 16-1.
+
+. conduction
+conduction band
+
+band. NX
+
+electron : N \
+SS SS forbidden |
+
+energy
+forbidden bend Eg | band
+
+conduction
+band
+
+hs
+RESCH ICSCICR
+[7
+
+Eg:energy , Wy
+gap valency band
+
+a >
+OD Seon
+
+‘valency “band
+
+(a) metal (b) semiconductor (c) insulator
+
+Figure 16-1 Energy Band
+
+As is commonly known, the energy state
+of electrons falls within a certain
+range or energy band.
+
+The energy bands required for electrical
+
+conductivity are:
+
+(a)The "valency band", indicating the
+energy level of the valency electron
+and:
+
+(b)The "conduction band", indicating the
+energy level of the free electron.
+
+In a metal, the valency band and
+
+conduction band overlap each other in
+
+part, so that the valency electron can
+enter the conduction band and move
+freely, which causes conductivity.
+
+In a semiconductor or insulator, there
+is an energy gap between the valency
+band and the conduction band; this band
+is called the forbidden band. In case of
+an insulator, the forbidden or energy
+gap "Eg" is large.
+
+For a semiconductor, the energy gap is
+rather small, so that it can become a
+conductor by applying some external
+energy.
+
+P-type and N-type semiconductors can be
+made by inserting impurities into the
+semiconductor crystal. In the P-type
+semiconductor, positive holes are
+generated, which can move freely within
+the valency band, and in the N-type
+semiconductor, electrons are generated
+which can move freely in the conduction
+band.
+
+If both types of semiconductors are
+combined into one crystal, i.e. in a PN
+junction, a natural electrical field is
+created in this PN-junction section, but
+the free electrons and positive holes
+are kept in the respective areas, and do
+not move to the other area, as they do
+not have enough energy to cross the Eg
+level. However, by applying energy from
+outside, e.g. a voltage or current, to
+the PN junction, the electrons and
+positive holes start moving into the
+other area as showns figure 16-2. Asa
+
+result, electrons and positive holes,
+coexisting in the PN junction, are now
+recombined, and natural light is
+
+emitted.
+
+(a)
+n type p type
+
+896,48 O®@
+
+tion =
+(positio Y) stectric field
+
+Ec
+
+Li
+
+Figure 16-2 Light Emission
+
+1
+\
+'
+\
+EF1 '
+
+FI -=---
+fos
+anv
+
+|
+
+EEE, ©
+
+(energy ee
+
+(position jon x)
+

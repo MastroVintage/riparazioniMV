@@ -1,0 +1,89 @@
+As the length of the tracks increases
+linearly from the linner (lead-in) track
+to the outer (lead-out) track, the
+number of frames per track increases in
+the same respect. This means that the
+frequency of the sync words’ also
+increases, which causes the motor speed
+to decrease, resulting in a constant
+linear velocity. The angular velocity
+typically decreases from 500 RPM (lead-
+in track) to 200 RPM (lead-out track).
+
+A run-up circuit is activated when the
+disc is initially located to set the
+motor speed at about 500 RPM. This makes
+it possible to read the sync words and
+hence to enable the servo circuit.
+
+(1) Correlation with IC-301, IC—401,ICc-501
+
+The CLV servo circuit controls disc
+rotation to a constant linear velocity.
+It includes three servo modes, i.e. CVL
+(fine), the 11T, and 6T.
+
+** 6T = Traverse Tracking
+** 11T = Coarse Servo Control
+** CLV = Provides Fine Servo Control
+
+The major block of the Spindle Servo
+Circuit are implemented in the Digital
+Signal Processor IC-301, System CPU IC-
+401, Data Slice & PLL IC-501 as shows in
+figure 17-24
+
+Ic-401 (System CPU)
+
+Ic-501
+Data Slice &
+PLL
+
+CLV Mode Select
+
+Opucal
+Servo Control
+
+Ic-301
+Digital
+Signal
+Processing
+
+MCK Timing
+
+Figure 17-24 Connection Diagram of System CPU, Digital Signal Processing
+
+and PLL/Data Slice
+
+(2) CLV Servo Stepping with Play Mode
+(a): 11T Servo
+The 11T servo controls the SRF
+signal (data-sliced RF signal)
+
+so that the signal's maximum
+period is 11T time the reference
+clock ( 1T=4.3MHz) period.
+(b): CLV Servo
+
+The CLV servo initiates its
+operation after IC-301 is made
+ready for internal digital
+processing by the 11T servo.
+
+(3) CLV Servo Stepping with SKIP Mode
+
+(a): 6T Servo
+The 6T servo regulates the
+linear velocity by tracking
+traverse position during SKIP
+traverse mode.
+
+(b): 11T Servo
+Same as above (a)
+
+(c): CLV Servo
+Same as above (b)
+
+— 64 —
+
+Nee

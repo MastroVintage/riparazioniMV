@@ -1,0 +1,108 @@
+(4) Spindle Motor Drive Circuit
+
+Figure 17-25 shows the actual spindle
+motor drive circuit.
+
+Ic-401 System CPU
+
+CLV Mode Setting
+
+oS _
+mr oe
+Digital Signal
+ps :
+1C-501 rocessing
+
+Microcomputer coconut
+PLL/Data Slice
+
+Drop-Out
+Detector
+
+Q351
+R355 R.
+
+Figure 17-25 Spindle Motor Drive Circuit
+
+During the process, from start-up to
+CLV, the servo steps through three
+stages:
+
+(a) Constant Rotation (Start-up)
+
+(b) 11T Servo (Coarse Control)
+
+(c) CLV Servo (Fine Control)
+
+1).Operation from Start-Up to Play:
+(a)The MDATA line from pin 59 of IC-
+401 issues a command (TTON) to
+pin 8 of IC-301 to start rotation
+of the spindle motor via the CLV
+servo within IC-301.
+
+The MDATA signal is a serial data
+line consisting of a 4 bits
+address and 4 bits data.
+
+Mode = CLV
+Address = A4 A3 A? Al
+
+0 0 1 0
+Date = D4 D3 D2 D1
+
+H:W/FG 4H:TTIN 00 STOP
+L:W/O FG L:TTOF 01 ACC
+10 BRAKE
+11 NO-Ope
+(b)Pin 64 of ICc-301 is set "L"
+activating the spindle motor
+drive circuit, then 9351 turned
+on,the 5 voltage will be divided
+2.5 voltage by R355 and R356 and
+into the pin 5 of IC-402.
+The 2.5 volts is reference
+voltage for the spindle motor
+drive circuit.
+
+— 65 —
+
+(e
+
+(c
+
+The 11T servo mode is selected
+when the tracking servo is active
+(TRON signal/CONT2 is "Low") and
+the PLL is unlocked.
+
+)Until the frequencies are
+synchronized, the EC signal at
+pin 65 of IC-301 provides
+accelleration or deceleration
+comands to the spindle motor
+drive circuit as shows in figure
+17-26.
+
+)The synchronization circuit
+within IC-301 compares the disc's
+sync frequency clock CLDCK
+generated from EFM and the PCK
+signal from pin 5 of IC-501.
+
+Tf the PCK frequency is higher or
+lower than that of EFM, the FPC
+signal (pin 78 of IC-301) is set
+"High" or "Low" respectively.
+
+(The PLL circuit within IC-501
+adjust the PCK frequency
+according to the FPC level)
+
+(d)The "Rough Servo" within IC-301
+
+switches from the constant
+rotation servo to the 11T servo.
+Depending on the status of the
+SRF signal derived from pin 2 of
+Tc-501.

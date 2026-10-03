@@ -1,0 +1,32 @@
+1.Input Signal
+
+L/R Clock | | |
+SR Data _ aT
+SR Clock JUL
+
+2.S/P Conversion
+
+Converts serial L/R
+data into parallel See a ee
+L/R data
+
+3.D/F Processing
+
+st LJ
+wet LL LL
+
+4-hold PS oe
+oversamp]ing
+
+4.MASH Processing
+
+Performs MASH processing on
+the L channel data from the
+first stage to determine 4
+levels out of 11 levels and
+transfers them to the PwM
+block. Does the same
+processing for the R
+channel data.
+
+— 100 —

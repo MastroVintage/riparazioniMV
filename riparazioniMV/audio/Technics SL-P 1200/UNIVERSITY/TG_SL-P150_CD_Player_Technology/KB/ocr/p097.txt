@@ -1,0 +1,96 @@
+The double integration noise shaper thus
+provides a greater attenuation of
+quantization noise than that obtained
+with the single integration type, as
+shows in figure 19-14.
+
+The MASH block combines the single and
+double integration noise shapers in
+tandem so that the quantization error
+contained in the output of the first
+stage can be quantized again in the
+second stage further reduced.
+
+Figure 19-15 is a block diagram of the
+MASH logic used on the MN6623 D/A
+converter. The MASH logic uses a single
+integration noise shaper in the first
+stage and a double integration noise
+shaper in the second stage. The outputs
+of the first and second stages of noise
+shaper, Yl and Y2 are given by the
+following equations:
+
+Yl =X + (1 -Z ).Vql ............. (5)
+Y2 = -Vql + (1-2) .Vq ......... (6)
+Were
+X = Input data
+
+Val= Quantization exror of local quantizer Ql
+Vo2= Quantizaticn error of local quantizer Q2
+¥1 = Output of single integration noise shaper
+Y¥2 = Output of single
+
+Y2 = Output of double intergration noise shaper
+
+Single Integration Noise Shaper
+r
+
+Integration|
+i
+
+Ql, Q2 = Quantizer
+
+Figure 19-15 MASH Block Diagram
+
+— 97 —
+
+If we multiply both members of Eq.(5) by
+(1 - Z ) and add them to those of Eq.
+(6), we find that the quantization error
+is cancelled out.
+
+Applying the output (¥2) of the second
+noise shaper to the differentiator and
+then adding the differentiator'’s output
+to the first noise shaper's output gives
+an overall MASH output, Y as represented
+by:
+
+Eq.(7) indicates that the quantization
+error, Vq, iS given in a third-order
+differentiation response (-18 dB/oct),
+which gives further reduction in
+quantization noise
+
+Table 19-1 lists the quantization levels
+at the first and second local quantizers,
+Ql and Q2.
+
+Q1 OUTPUT Q2 OUTPUT
+
+Table 19-1 Quantization Levels at
+Local Quantizers
+
+The first quantizer (Q1) quantizes the
+Signal into 7 levels. and the second
+quantizer (02) quantizes it into 3
+levels. Actually, the values which are
+obtained by normalizing by 11264. The
+output values listed in Table 19-1 appear
+at Yl and Y2. i.e. values +-3, +-2, +-1,
+and +-0 appear at Yl and values +- and
++-0 appear ay Y2. Since the output of the
+second local quantizer (Q2) is
+differentiated and added to the output of
+the first local quantizer (Q1), output Y
+yields 11 different values.
+
+A high output level and wide dynamic
+
+range are thus achieved by quantizing the
+
+16 bit, 4fs data from the digital filter
+
+ot pampling frequency 8 times as high
+Ss).

@@ -1,0 +1,86 @@
+B.Focus Gain Adjustment
+
+a)Purpose
+
+Regardless of disc warpage (+/- 0.4mm)
+due to manufacturing tolerances, the
+focus servo must operate to constantly
+keep the lens focused on the disc's
+pits. The greater the servo's gain,
+the easier the lens can focus on the
+disc; however it becomes unstable due
+
+Total Gain
+
+Head amp — Connector
+
+Focus gain Filler Driver
+
+control Focus coil
+
+Figure 22-13 Focus Servo Loop
+
+b)Principle of the focus gain adjustment
+
+The focus servo loop is opened, at
+which point a 750 Hz signal is applied
+to simulate the acceptable condition.
+This point is TP2 on the "Servo Gain
+Adjuster".
+
+The signal, once through the focus
+servo, appears at TPl. The focus gain
+
+Head amp Connector
+
+Filter
+
+——7 Servo
+TP2| Gain Adjuster
+
+to unwanted signals. The gain is
+therefore set to untiy (0 dB=1, 750Hz)
+at which point stability is acceptable
+and the gain is adequate.
+
+Total Gain
+(dB)
+
+(HZ)
+
+Gain cross— .
+point 750 HZ (Frequency varies by model)
+
+Figure 22-14 Focus Gain Characteristic
+
+variable resistor is used to set the
+voltage at TP1l to equal the level at
+TP2; at which point the gain is one
+(0dB)
+
+The reason why the focus servo must be
+adusted using a 750 Hz tone is because
+this is the frequency that causes the
+gain to become unity (0dB=1)
+
+Total gain
+
+Focus coil
+
+| SZZP1017F (without oscillator)
+| SZzP1094C (with oscillator)
+
+750Hz!
+4
+
+Figure 22-15
+
+(Note)
+Explanation was made based on 750 Hz
+gain cross-point frequency. This
+
+frequency may differ depend on model.
+Please refer to the service manual of
+the corresponding model for frequency.
+
+— 126 —

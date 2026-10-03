@@ -1,0 +1,69 @@
+3-3. Stop and Eject Operation
+
+Figure 21-13 shows a timing of transition
+from play to stop and back to play modes.
+During the tray return sequence, the
+loading motor is driven in the reverse
+direction to release the tray loading
+hook from the hook catch.
+
+Playing
+
+Slow,
+
+Tray Magazine
+Disc louder move i returned. eject
+
+Slow
+Slow move ' Quick change change
+Quick move
+}
+Braking
+
+(200ms) Braking (ams) || 8° Braking (200ms)
+
+Al
+
+Height
+motor voltage
+
+[4
+BOO NwWSEAD
+
+ao
+
+Elev.
+
+—
+™ “ ——TrF
+Pull out
+‘
+
+Horizontal
+position Neutral
+
+Eject
+
+out
+Loading
+motor voltage
+in
+
+H
+S451 (EJECT) s
+
+H
+sas2icoan) Ly
+$453 (DRAW) :
+$454 (REST) a
+Height sensor a
+
+te a
+
+theses button pressed.
+To return high of Dise 1
+{Wait condition)
+
+Figure 21-13 Timing chart
+
+— 110 —

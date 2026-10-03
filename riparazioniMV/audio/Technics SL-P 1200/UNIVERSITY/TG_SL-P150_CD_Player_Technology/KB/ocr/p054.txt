@@ -1,0 +1,102 @@
+(1) Autofocus Circuit
+
+The autofocus circuit is operated by the
+AF ON (autofocus command) signal output
+from the control logic circuit. Two
+signals (RF detection signal and S-curve
+detection signal) are input to the
+autofocus circuit which regulates the
+search switch and FE (focus error)
+switch.
+
+1 At detection of the disc
+
+On the receipt of the AF ON
+(autofocus on) signal, at first the
+search switch is turned on and next
+the focus error switch is turned off.
+In this situation, the search signal
+(sawtooth waves) drives the focus
+coil forcedly to move the lens up and
+down.
+
+When the distance between the disc
+and the lens nears the focus length
+(lock-in focus range), the FE signal
+shows an "S" curve, with the search
+switch is turned off and the focus
+error switch is turned on to close
+the focus servo loop, as shows in
+figure 17-9.
+
+Focus
+~ocooCoooP
+
+| Lock in
+
+Search
+(Sawtooth wave)
+
+"s' curve
+detection
+
+Figure 17-9 Focus On Timing
+
+2 Re-locking in focus
+
+The autofocus circuit checks the
+servo status by RF detection when the
+focus servo loop is closed. If the
+disc deviates from the focal point
+and RF search oscillation is started.
+The search oscillation signal is
+input to the system CPU. Whether or
+not autofocus is working is known by
+the voltage at the pin 26 (FLOCK) of
+Ic-101. The voltage level is active
+"L" when locked in focus.
+
+(2) Focus Error Circuit
+
+The sums of output signals from pair of
+diagonal segments each (A1+A2) and
+(A3+A4) of the 4 segment PD are applied
+to the pin 39 and 42 of Ic-101. The I/V
+converter converts the output currents
+of PD to voltages.
+
+The gain is set by an exterior resistor,
+and VR101 is the best eye adjuster for
+setting off the sensitivity difference
+of PD.
+
+The difference between the converted two
+signal (A1+A2) -— (A3+A4) is focus error
+signal (FE). The FE signal applied to
+the pin 36 (FE OUT) of IC-101 via the FE
+amplifier and FE switch, and applied to
+the pin 3 of IC-104 (A).
+
+VR104 is the adjuster of focus gain (FO
+GAIN) and VR105 is the adjuster of focus
+off set (FO OFFSET).
+
+The FE signal applied to the focus drive
+circuit from pin 36 of IC-101, The first
+subjected to phase compensation by
+R142,R141, and cCl4l. It then goes
+through a low-pass filter comprised of
+IC-104 (B), R144, C142, and C143, and
+then an amplifier (with low frequency
+
+compensation) comprised of  IC-106,
+R149, C144, and R148.
+
+The output of the amplifier is applied
+to current-feedback focus drive, Q141
+and Q142, which then drives the focusing
+lens drive coil as required, as shows in
+figure 17-10.
+
+— 54 —
+

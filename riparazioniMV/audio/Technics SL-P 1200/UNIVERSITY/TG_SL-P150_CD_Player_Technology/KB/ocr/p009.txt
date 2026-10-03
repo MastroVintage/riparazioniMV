@@ -1,0 +1,105 @@
+8-1 Lead-in and Lead-out Signals
+
+The lead-in signal is located just in
+front of where the signal area starts,
+while the lead-out signals appears right
+after the end of the signal area. These
+two signals are used to control the
+movement of the optical pick-up.
+
+8-2 Table of Contents (TOC)
+
+Written in the lead-in area is the time
+information on control codes including
+the start time of each selection as well
+as the total number and playing time of
+selections, which can be read out before
+performance starts for the convenience
+of program search and so on. Such
+information can also be displayed.
+
+8-3 Control Codes
+
+These codes distinguish between 2-
+channel recording and 4—channel
+recording. They can also detect whether
+
+preemphasis is given to a particular
+recording. Furthermore, they can even
+change the circuit connections of the
+player automatically according to the
+detected conditions of the disc.
+
+| 8-4 Music Start Flag
+
+The music start flag is provided in the
+blank space between selections. By
+counting this flag, therefore it is
+possible to locate any desired selection
+on the disc. Even when the end of a
+selection fades in to the beginning of
+the next, the flag can be inserted a
+minimum of two seconds in front of the
+second selection so that such selections
+can be recognized not as a single piece
+of music but as two separate selections.
+
+8-5 Track Number and Index
+
+Selections recorded on the disc can be
+numbered from 1 to 99. Each bar in a
+piece of music can also be addressed up
+to 99.
+
+With the time code function, you can
+tell the time lapse from the beginning
+of each slection in minutes, seconds,
+and 1/75 of a second. During the blank
+
+Space between selections, the time is
+counted down.
+
+As exemplified above, the control bits
+can be used in a variety of ways. They
+not only let you locate any portion of
+music exactly and quickly but also allow
+random playback in any order you set.
+And despite the long playing time of an
+hour on one side, access to the desired
+point can be achieved almost instantly.
+This is one of the greatest advantages
+of the CD system which cannot be found
+
+in any other system.
+
+9. Analog Signal Versus Digital Signal
+
+An analog signal is a continuous signal
+in two respects: value and time.
+
+A digital signal is discrete, both in
+value and in time. Discrete in time
+means that the signal is defined on
+discrete intervals of time. Discrete in
+value means that the signal has finite
+number of possible values.
+
+A digital signal is a sequence of words,
+each representing the value of a sample.
+The value of a word or digital signal,
+the binary code, is a combination of "1"
+(on) and "0" (off). The composing parts
+of the binary code are the bits.
+
+Bit is an abbreviation for "binary
+digit". It is the smallest unit that can
+have a meaning in binary notation, and
+that can only have two values, "ON" or
+"OFF", represented as "1" or "0".
+
+The higher the number of bits used in
+the binary code, the higher the
+resolution and the combination of bits,
+which means the higher the accuracy to
+describe the value of the sample.
+

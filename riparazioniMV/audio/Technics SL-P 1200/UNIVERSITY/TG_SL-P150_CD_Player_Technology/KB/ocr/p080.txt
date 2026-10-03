@@ -1,0 +1,42 @@
+Note
+
+The following pins are exclusively used
+
+for CD ROM.
+
+SRDATAX: LSR—first, two's complement
+output.
+
+Top of a frame
+
+WDCKS
+
+SRCK
+
+SRDATA
+(2's complement)
+
+IPFLAG/S
+
+LOG
+ROG
+
+DA15~0O
+(MSB) ~ (LSB)
+
+IPFLAG/P
+
+Parallel data output timing
+
+IPBYTE
+
+BYTCK
+
+Figure 18-7
+
+— 80 —
+
+Flag indicating the reliability
+of a symbol in SRDATAX.
+Indicates the top of a_ symbol
+in SRDATAX.

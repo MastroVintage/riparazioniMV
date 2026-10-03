@@ -1,0 +1,57 @@
+This servo circuit controls the vertical
+movement of the 2-axis device and
+guarantees that the focus point of the
+laser beam is precisely on the mirror
+surface of the compact disc.
+
+Figure 17-8 shows the three possible
+situations and the resultant output from
+
+Diffraction
+
+Laser diode grating Beam splitter
+
+lens
+
+\
+iy
+\
+\
+\
+‘
+\
+'
+\
+
+~
+
+IN
+
+—
+
+Collimation lens
+
+the main spot detector. This
+photodetector actually is an array of
+four photo-diocdes, which are Al, A2, A3,
+and A4. The reflected laser beam hits
+these four diodes and generates a fours
+error signal:
+
+Focus Error (F.E) = (A1+A2)-(A3+A4)
+
+2-axis device
+
+1/4 Wave plate Disk
+
+Detector ——» UN (A+C) - (B+D):0
+
+BA
+
+Main spot detector
+
+Disk
+
+_ (A+C) - (B+D)>0
+
+Figure 17-8 Detection of Focus Error

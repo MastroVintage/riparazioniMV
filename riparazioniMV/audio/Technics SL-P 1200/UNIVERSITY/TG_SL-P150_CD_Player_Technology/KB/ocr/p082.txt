@@ -1,0 +1,95 @@
+6) Spindle Servo Control
+
+The spindle servo control logic has four
+modes: CVL, 11T, 6T, and 6T break modes.
+
+(1) 11T Mode
+This mode is selected when the tracking
+servo is active (TRON = low) and the PLL
+is unlocked.
+
+Since XCK=16.9344 MHz, the SRF frame
+sync signal pulse width is approximately
+43XCK.
+**Frame sync signal pattern:
+
+= (1000000000010000000000100)
+*kChannel bit frequency/Pulse width:
+
+= 4.3218 MHz/ 0.32 ns
+**XCK frequency/Pulse width:
+
+= 16.9344 MHz/ 0.059 ns
+**XCK pulse cont par 11T:
+
+= 0.23 x 11/ 0.059 = 43
+
+If no dropout exists in RF, 11T becomes
+the maximum pulse width. In the 11T
+mode, this maximum pulse width is
+determined by counting the XCK. The
+logic judges whether the obtained N11 is
+43XCK or not and provides the following
+control functions:
+** N11 is equal to 43XCK:
+
+= EC is set to high impedance.
+** N11 is greater than 43XCK:
+
+= EC provides a low for every frame.
+**k N11 is smaller than 43XCK:
+
+= EC provides a high for every frame.
+
+[Example]
+
+When N11 = 45XCK:
+
+T{CLK 2136u5
+
+T{CLK/8
+
+Figure 18-8
+
+EC's pulse width varies with the
+deviation of 43XCK (max.TFCLK/2).
+TFCLK = 1/7350 = 136 ps
+
+When N11 = 43XCK, spindle motor rotation
+is controlled at an accuracy of approx,
+£1.16 = of the normal rotation rate.
+
+(2) CLV Mode
+
+The CLV mode is selected if the PLL is
+locked when the spindle motor rotation
+rate is less than approx, 4.6% of the
+normal rotation rate. Either the 11T or
+CLV mode is automatically selected
+
+provided the tracking servo is active
+(TRON = low).
+
+The device compares the FCLK's phase
+with CLDCK's phase by comparing the
+value of the RAM read counter (which is
+synchronous with the reference frame
+sync signal (FCLK) with that of the RAM
+write counter (which is synchronous with
+the frame sync signal, CLDCK, extracted
+from the EFM pattern), and provides a
+phase error signal at its EC pin.
+
+The EC signal's pulse width varies with
+the phase error,
+CLDCK and FCLK:
+** Tf CLDCK lags behind FCLK:
+
+= EC is set low (acceleration)
+** Tf CLDCK leads FCLK:
+
+= EC is set high (deceleration)
+
+TPE (sec), between the
+
+— 82 —

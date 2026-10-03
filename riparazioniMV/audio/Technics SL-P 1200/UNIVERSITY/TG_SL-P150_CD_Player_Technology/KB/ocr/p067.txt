@@ -1,0 +1,80 @@
+(a) EFM Signal
+
+The RF signal is an analog, continuous
+signal as shows in figure 17-28. For
+succeeding digital signal processing,
+the RF signal is wave-shaped by the data
+slicing circuit to a digital form
+
+signal. The signal output from the data
+slicing circuit is the EFM signal
+
+Figure 17-28 RF Signal
+(b) PCK Signal
+
+The PCK signal is a clock signal in
+synchronous with the EFM signal. The EFM
+signal includes a jitter component to
+some degree. Therefore the clock signal
+in synchronous with the EFM signal is
+required for transmitting the EFM signal
+exactly to the digital signal processing
+circuit.
+
+The PLL circuit receives the EFM signal
+and forms the PCK signal. Figure 17-29
+shows the timing chart of the EFM signal
+and the PCK signal.
+
+EFM signal
+
+@® Pin
+EFM
+@Pin
+PCK.
+
+AN8371S
+
+Figure 17-29 EFM and PCK Signal
+
+— 67 —
+
+(c) SRF Signal
+
+The SRF signal is a signal obtained by
+data-slicing the RF signal. The DO
+Signal is the detection signal of
+dropout in the RF signal (DO signal is
+active "High").
+
+11T or over
+
+11T |
+SRF.
+
+LS!
+
+@ Pin | |
+Do
+
+Figure 17-30 SRF Signal
+
+(d) FPC Signal
+
+The FPC signal is the VCO control signal
+of the PLL circuit and is fed back pin
+78 of Ic-301.
+
+PLL
+Pull-in conipletion (2.5V Constant)
+2.5V
+OV
+
+LSI @ Pin
+
+FPC PLL
+In pull-in
+2.5V
+
+Figure 17-31 FPC Signal
+

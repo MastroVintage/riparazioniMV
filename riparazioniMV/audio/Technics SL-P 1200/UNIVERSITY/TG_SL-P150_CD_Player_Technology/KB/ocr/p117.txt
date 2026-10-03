@@ -1,0 +1,48 @@
+—ZbE—
+
+6 Apparent Fault
+
+The changer’s auto changing system may exhibit the following malfunctions but they may not be
+
+derived from mechanism or logic failure:
+
+Program numbers which do not exist
+on the discs can be programmed in
+the Program mode but nothing is
+played in Play mode. (e.g. the
+25th track was programmed for a
+
+CD containing only 12 tracks.)
+
+Disc trays were loaded only in
+slots 1, 2, and 5 in the disc
+magazine, and the player was
+turned off when it was playing
+Disk 5. When the player was
+subsequently turned on, Disc 5 was
+returned to the tray for Disk 3
+(disk position has changed in
+
+the magazine).
+
+Possible cause
+
+Other CD players first read the TOC just after a disc is loaded, th*n enter the
+Pause mode to wait for the next command. They can verify the valid-ty of the
+programmed contents by comparing the number of tracks on the disc wth that in
+the program. However, the SL-P600C takes so much time to read the [OCs on all
+of the six discs that it ignores invalid track numbers in the progrim,
+
+As long as the player is left turned on, the CPU memorizes which slot the disc
+now on the playing deck came from. However, once the player has been turned
+off, the CPU loses its memory and cannot determine to which slot the disc
+should be returned. In such a case, the CPU sequentially searches for a vacant
+slot from bottom to top, and returns the disc into the first vacant Slot found.
+At an occupied slot, the Load switch remains off. The CPU checks the time
+until the Load switch is turned on after a return sequence was started (Draw
+switch S453 was turned off). If it is too long (more than ms), the CPU
+identifies that the slot is occupied.
+
+* This problem can be avoided if all of the six trays are always loaded in the
+magazine (discs need not be loaded in all of the six slots), or if trays are
+loaded from slot 1 with no intermediate vacant slot left in the magazine.

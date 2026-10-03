@@ -1,0 +1,113 @@
+b) CRCC: .
+A CRCC code (Cyclic Redundancy Check 3. Error Correction and CIRC
+
+Code) is a more complicated but more
+effective way of error detection than
+parity checking. It would lead us too
+far to explain its operation
+principles indetail; the principle is
+to multiply the data bits by another
+digital signal, and to transmit the
+resulting code. A subsequent division
+at the receiving end can then show us
+whether an error has occurred or not.
+Although this may seem rather
+complicated. Such an operation can
+easily be incorporated in an LSI such
+as used in CD decoding.
+
+An error correction code not only
+detects the code errors but also
+perfectly corrects them. This type of
+code is extremely complex, and so a
+simplified description will be given in
+figure 13-2. To correct code errors, it
+is essential to find out where and how
+the code errors have occurred.
+
+RECORDING
+Data
+
+The numbers which when added,
+make 20 both in the
+horizontal and vertical rows
+are recorded together. These
+numbers are equivalent to
+error correction codes.
+
+|
+
+Recording
+
+Ht: et
+[s]~} [o|
+
+—4
+BON
+
+R di
+ee
+PLAYBACK Hy) 1
+LEA |
+
+Correction
+Equal 18 when added
+
+Boe
+7 [a2] 5 [14] Error occurs in the first word
+
+It can be seen that the shadowed
+word is incorrect. Also, despite
+the fact that the figure should
+add up to 20 according to the
+rule adopted at the time of
+recording, the top horizontal row
+and the leftside vertical row add
+up to only 18. So, by
+
+verification, it is found out
+Equal 18 when added Equal 20 when added that 10 is 2’ short.
+
+104+2=12
+Playback! 12 |) 1 The correct word is
+reproduced.
+
+NOTE:All words and the correction codes are expressed by ordinary decimal figures
+instead of binary codes to facilitate your understanding.
+
+42
+‘en
+18)
+3
+=
+5
+|
+3
+3 |
+Ld
+
+pase
+(ap)
+
+EaGcinl
+is]
+
+Equal 20 when added
+
+5
+
+fo] el
+[=e]
+
+Figure 13-2
+It can be seen that mst error The error correction system used in the
+correction schemes (which are much more CD system is CIRC (Cross Interleave Reed
+compley than the example) also entail a Solomon Code). In specifying the
+rather i1arge redundancy. This, however, performance of a cording system for disc
+is unavoidable. apprications both the burst error
+correcting and the random error
+
+correcting capability are important.
+
+— 20 —
+

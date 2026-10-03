@@ -1,0 +1,77 @@
+3) The Effect of the Sampling
+Frequency
+
+Another important factor is sampling
+frequency, for efficiency in digital
+operations, this is kept low (44.1KHz)
+
+at a little over twice the maximum audio
+frequency (20.0KHz). During the sampling
+process this frequency and its harmonics
+or multiples become modulated with the
+original waveform in a series of
+frequency bands as shows figure 19-2.
+
+The bottom end of the lowest band is
+rather close to the top of the audio
+frequency range.
+
+Figure 19-2
+
+Figure 19-2 shows the frequency spectrum
+produced by sampling showing’ the
+periodic repetitions of the audio band.
+The bottom end of the lowest band is
+close to the audio frequency range.
+
+4) Quantization Noise
+
+In a digital audio system the audible
+noise has a different character to the
+familiar noise in an analogue audio
+system. The digital audio system
+background noise is called quantization
+noise.
+
+The quantization noise of a system can
+be defined as the error signal between
+the original waveform before the
+analogue to digital conversion process,
+and the restored waveform after the
+digital to analogue conversion process.
+This error signal can be considered as
+both noise and distortion at the same
+time.
+
+Figure 19-3
+
+Figure 19-3 shows the quantization
+noise, The difference between the
+original audio waveform = and the
+
+regenerated wave after D/A conversion
+(a) causes quantization noise (b).
+
+The 16 bits analogue to digital
+conversion at the recording’ stage
+delivers a 16 bits digital signal with
+an intrinsic accuracy or signal to noise
+ration of maximum 96dB.
+
+An ideal digital to analogue converter
+(D/A) would deliver an analogue output
+signal without adding noise to it.
+However, ideal D/A do not exist a small
+but finite electronic inaccuracy adds
+noise to the quantization noise of the
+digital signal.
+
+The inaccuracy of a 16 bits D/A (the
+resolution limit of half the least
+
+significant bit) can be interpreted as a
+noise source that reduces the signal to
+noise ratio of the D/A to 96dB.
+
+— 9 —
+

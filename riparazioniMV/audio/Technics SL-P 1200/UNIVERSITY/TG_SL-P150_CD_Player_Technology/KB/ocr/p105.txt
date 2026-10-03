@@ -1,0 +1,96 @@
+When the disc tray comes in contact with
+PART (B) of the TRAY SWITCH LEVER, PART
+DRAW SWITCH S453,
+tray's
+
+(C) activates the
+detecting the disc
+position.
+
+innermost
+
+Lever
+
+Part (B)
+
+Connection Disc
+( rm Loader
+Loading
+Hook
+Magazine
+Holder
+
+Loading Loading
+
+Slider Motor Anise Tray
+Figure 21-5
+Spring
+Loading
+Hook Base Part (1)
+
+— 105 —
+
+2-4. Disc Loader Elevation Mechanism
+
+The function of the elevation mechanism
+is to drive the disc loader to the
+selected disc tray.
+
+After a disc has been specified, the
+ELEVATOR MOTOR drives the ELEVATOR GEAR
+so that the LOADING UNIT is set at the
+height of the specified disc. shows
+figure 21-7.
+
+The bottom of the ELEVATOR GEAR has a
+SHUTTER with two openings which operate
+the optical sensing circuit shows figure
+21-8.
+
+Two pulses are generated for each
+rotation of the ELEVATOR GEAR. The DISC
+LOADER is elevated from one disc to the
+next each time the ELEVATOR GEAR makes a
+single revolution.
+
+The purpose of this sensing system is so
+that the system CPU can determine the
+location of the ELEVATOR UNIT.
+
+A REST POSITION switch (S454) is provided
+to sense the lowest position of the
+ELEVATOR UNIT. This position corresponds
+to the position at which the disc rests
+on the turntable.
+
+Loading Discs
+Hook £ .
+Disc
+f ———
+Disc
+Disc
+Cise
+Disc
+
+PNW AUD
+
+Elevator
+Unit
+
+$454 0451
+Rest Position (Photodetector) Elevator
+Switch Motor
+
+Elevator Gear
+
+Figure 21-7 Side view of the elevator
+unit
+
+“
+0451
+Photodetector
+
+— Shutter
+
+Figure 21-8 Bottom view of the elevator
+gear

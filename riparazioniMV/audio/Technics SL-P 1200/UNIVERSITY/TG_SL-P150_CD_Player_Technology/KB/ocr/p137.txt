@@ -1,0 +1,79 @@
+23. CD Changer Troubleshooting Flow Chart
+
+| PLAYBACK FLOW CHART
+
+Power switch ON
+
+Compulsory traverse
+return operation
+
+a
+
+All display light-up
+
+Mechanism reset operation
+
+Stop "STANDBY" illuminate
+
+Press the eject key
+
+Mechanism eject operation
+
+Insert the magazine
+case with disc
+
+“STANDBY" illuminate
+
+Press the play key
+
+Draw out of disc
+
+Disc clamp
+
+Read the TOC and start
+"PLAY"
+
+Laser diode (LD ON) turned |
+ON
+
+-
+
+FO (focus) lead-in
+operation
+
+Spindle motor rotation
+
+mode
+
+Lo
+
+— 137 —
+
+Press the stop key
+
+FO (focus) loop servo
+operation
+
+TR (tracking) servo
+operation
+
+TRV (traverse) servo
+operation
+
+DSL (data slice) operation
+
+PLL (phase loop lock)
+operation
+
+CLV (11T mode) operation
+
+CLV (fine servo mode)
+operation
+
+DATA demodulation
+
+Access control circuit
+operation
+
+Stop "STANDBY" illuminate
+

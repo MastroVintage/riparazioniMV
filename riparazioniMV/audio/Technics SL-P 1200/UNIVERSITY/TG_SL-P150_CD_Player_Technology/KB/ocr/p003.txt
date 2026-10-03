@@ -1,0 +1,116 @@
+3. Compact Disc Features
+
+1) Superior Sound Features
+
+To maintain master recorder quality,
+the information on the disc is recorded
+with 16 bits linear quantization.
+
+To improve recording density (playback
+time) eight to fourteen bits modulation
+(EFM) is used. This allows 2. channel
+playback for max 74 minutes.
+
+To realize stable data reproduction a
+special error correcting code called
+the Cross Interleave Reed-Solomon Code
+(CIRC) is used.
+
+2) Virtually Indestructible
+
+The non contact laser playback system
+allows repeated use with no degradation
+in quality.
+
+The plastic coating over the signal
+information protects it against
+scratches, dirt and fingerprints.
+
+3) Small Size
+The small size allows for easy compact
+strage (12cm and 8cm CD).
+
+4) Random Access
+
+The control information recorded on the
+disc allows random access and character
+display such as names of tunes, artists
+etc.
+
+4. PCM Features
+
+Using a PCM system for audio
+
+reproduction has certain advantages.
+
+1)Not affected by noise of the recording
+medium, The digital system only has
+detect two types of signals (0 and 1).
+This is much easier than trying to
+detect the infinite number of possible
+amplitudes and frequencies of an
+analog signal.
+
+2)Eliminates effects of uneven rotation
+of the playback equipment due to a
+quartz controlled reading clock.
+
+3)Able to correct errors, besides
+including the recorded signal, the
+
+digital data has error correction
+information. This allows the digital
+circuit to calculate what the
+
+information should be if the music
+signal can not be rear properly
+because the disc surface is marked by
+dirt or scratches etc.
+
+5. PCM Process for CD
+
+The PCM process has several fundamental
+
+steps regardless of whether the
+application is satelite data
+transmission or simply audio
+
+reproduction etc. A general description
+is given of the recording and playback
+procedures followed by an explanation of
+each steps.
+
+6. Disc Mastering
+
+6-1 Campact Disc Cutting
+
+In a Compact Disc Cutting System, the
+Digital Audio signal is sent through a
+CIRC encording modulator unit. In this
+way, EFM modulation is performed and
+control and sync bits are added. The
+modulated signal is then sent to a laser
+cutter to produce the metal master.
+
+The cutting of the metal master is not
+really a burning of the layer by the
+laser. In figure 6-1 the real cutting is
+represented.
+
+Step 1:
+A glass plate is polished for optimum
+smoothness of the surface.
+
+Step 2:
+
+The photo-resist liquid is coated on
+the surface. Theroughness of the glass
+surface and the thickness of the coating
+determine the depth of the pits on the
+compact disc.
+
+Step 3:
+
+The photo-resistive coating is then,
+exposed to a laser beam, modulated with
+digitized audio information.

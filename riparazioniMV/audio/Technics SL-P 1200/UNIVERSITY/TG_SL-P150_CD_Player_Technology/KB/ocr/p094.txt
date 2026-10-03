@@ -1,0 +1,23 @@
+Digital Filter Block | The ATT attenuates the input data ina
+1/64 increment by multipling the data by
+
+The digital filter block consists of any 6 bits data. FIR1 and FIR2 are
+three sub-blocks: ATT, FIR1, and FIR2 2-fold oversampling digital filters with
+as shows in figure 19-10. It performs 85 and 21 taps each.  Four-fold
+digital attenuation and oversampling to oversampling is accomplished by
+convert the input 16 bits, fs data into cascading the two fold oversampling
+a 16 bits, 4fs signal. filters.
+
+IN
+
+Figure 19-10 Digital Filter Block Diagram
+
+The digital filter block contains many
+memories (delay logics), as shows in the
+block diagram above, with ehich it
+computes ROM coefficients at high speed
+while summing the coefficients to
+interpolate them. For more detail, shows
+in figure 19-11.
+
+— 4 —

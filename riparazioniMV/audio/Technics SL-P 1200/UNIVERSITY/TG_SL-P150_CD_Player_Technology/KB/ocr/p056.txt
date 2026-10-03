@@ -1,0 +1,69 @@
+6) Tracking Servo Circuit
+
+IC-101 (AN8370S)
+
+Off track
+Detector
+
+Do
+Detector
+
+TE— TE+
+
+Naveform
+Shaper
+nator
+
+1C-105(B)
+
+Figure 17-11 Tracking Servo Circuit
+
+The tracking servo circuit accepts
+parallel 4 bits control data transferred
+from the system CPU of IC-401 and drives
+the entire tracking servo system,
+according to the CPU commands, after
+focus servo is established.
+
+After focus servo is established, the
+tracking error (TE) signal is created by
+applying the diagonal PD output signals
+(A1+A2), (A3+A4), into the servo system
+IC-101 pin 39 and pin 42 (same as focus
+servo).
+
+With this,
+identifies
+
+the tracking servo circuit
+whether the laser beam is on
+track or off track, by picking up an
+error signal that corresponds to the
+off-center span of the disc. The
+internal control logic closes the
+tracking servo loop switch (TE Switch)
+when the beam is on track.
+
+The specified track is sought with the
+track signal. Since the TE signal is not
+needed during the track KICK sequence,
+the circuit closes the Hold switch to
+temporarily hold the previous tracking
+error Signa.
+
+(1) Tracking Error Circuit
+
+The tracking error circuit applies the
+I/V converted signal as in the preceding
+paragraph to the pin 2 and pin4 of IC-
+101 via C102 and C103, and shapes the
+
+waveforms of the signals by the level
+shifter.
+
+As outlined in the para. , the
+difference in phase between the two
+Ssignalas is detected and pulses’ in
+proportion to the phase difference are
+generated as the tracking by the
+polarity of the pulses.

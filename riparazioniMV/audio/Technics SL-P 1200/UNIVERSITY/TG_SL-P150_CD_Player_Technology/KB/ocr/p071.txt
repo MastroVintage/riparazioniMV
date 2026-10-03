@@ -1,0 +1,145 @@
+4. Servo Circuit Block Diagram
+
+a
+(
+|
+
+TRAVERSE UNIT
+
+oO!
+
+PTICAL PICKUP
+
+Note) ——» P.
+
+B. signal
+
+ae er ee
+
+ipa --- ee - nn
+PO
+FT ee 7
+I
+TRV FOC TRK |
+aoe a o~ r
+|
+|
+ii 1
+AZ JAS Al A J
+TVD+| TVO-— FO+ FO- TOt+ TO-
+— foie on + + -— - _
+
+Vv REF
+
+6
+
+7
+I
+$1 +s
+Traverse Focus Tracking ie]
+coil drive coil drive coil drive
+i
+FD1
+
+Tot
++ --A
+7
+
+1C103
+FOCUS/TRACKING/
+TRAVERSE COIL DRIVE
+
++B v ReF Best eye
+Focus i adj. (VR101)
+! offset
+adj.
+(VR105)
+
+FE
+mixing
+
+Phase Shifter
+Iv Amp
+
+Addition («2)
+balance
+
+Loop filter
+
+TBL1
+
+Loop filter
+
++B
+Q101
+Auto power
+control +B
++B
+SPEED
+. POSITION
+Tracking SENSOR
+balance adj.
+(VR106)
+V REF
+WA
+1 6 7 30 29 28 27
+TeL2 ' 7
+. I
+APC driver Pot buffer Pot amp. Is7
+VCC—+—-O———- +B
+Tr
+balance AN8373S I
+
+TO D/A CONVERTER /AUDIO CIRCUIT
+
+—~7i—-
+
+den
+Vv REF V REF
+
+1€101
+SERVO AMP
+
+SERVO CONTROLLER
+
+Tracking
+offset adj.
+(VR103) V REF
++ mI
+Focus
+adi V REF Tracking
+. gain
+i (VR104) adj.
+V REF (VR102)
+—
++,
+37/8 9] |10 28 1
+—_——_— -— ah ae —— a --- oso -O—-—-- o——
+yy
+Search
+8 y detection "7 | i Aa ‘OSC Phase
+difference
+j I limiter
+SLC (TRON) mI Auto focus |
+f a 2
+OFTR Waveform CROSS Distinction
+[aH det. shaping det. direction
+detector
+ry ry
+(C102 Selactor Control logic
+AN8374S a a ee
+ts ir Wor TT TOO Var Ge Par or Sas 27
+— +
+——} Se oe +
+a A
+er Xd ie iy 2 on 6 Sf
+w i oO we c
+28 id =z & 2 x Ss Gi 2  & 5 & &
+ca a wi a a oO NA a oO o oO oO re Lol a
+rf | I | 1¢102
++ ’ h of 4 ’ 4 4 4 4
+VREF
+r
+'
+
+Figure 17-33 New Servo Circuit Block Diagram

@@ -1,0 +1,123 @@
+9. Tracking Servo Circuit Operation
+
+(1). The focus balance circuit output,
+Al + A2 and A3 + A4, are also
+transferred to the tracking
+balance circuit. The output of
+the tracking balance circuit are
+applied to the phase difference
+limiter within IC-102, where they
+are phase compared to produce a
+tracking error signal.
+
+The tracking error signal at
+IC-102 pin 4 is subjected to gain
+adjustment, then applied to the
+loop filter, within Ic-101 via
+the tracking switch.
+
+. The loop filter output appearing
+at IC-102 pin 22, is coupled to
+pin 42 (BR IN/ tracking error
+input) of IC-102, where it is fed
+into a braking circuit. The
+output of the braking circuit
+appears at pin 41 (BR OUT/
+tracking drive control signal)
+and couples to the tracking coil
+driver to drive the tracking
+actuator's.
+
+10. Traverse Servo Circuit. Operation
+
+(1). PLAY mode:
+
+The tracking error signal applied
+to IC-102 pin 42 goes through the
+traverse switch and TRV (traverse
+circuit) filter (for response
+compensation) and appears at pin
+
+39. This output is used to
+control the traverse actuator.
+(2). KICK mode:
+
+The KICK signal. decoded from the
+system CPU command by the control
+logic, appears at pin 27. It is
+used to control the tracking
+actuator which KICKs the pick-up
+by a span of 1, 10, or 100 tracks
+according to the system CPU
+command.
+
+Forced traverse mode:
+
+The TRVF, TRVR signals supplied
+from system CPU to pins 34 and
+35, respectively, are decoded to
+produce a traverse drive signal.
+The signal appears at pin 25 and
+drives the traverse coil.
+
+— 73 —
+
+(4). Speed sensor operation:
+
+The varying voltage output of the
+potentionmeter connected to
+IC-101 pin 30, is differentiated
+by the circuit at pin 27 to 29
+and fed into the traverse coil.
+Smooth traverse action is
+achieved by feeding back a
+control signal which reflects the
+traverse movements of the optical
+
+pick-up. (The potentionmeter
+yields a negative potential when
+the optical pick-up moves
+outward).
+
+11. RF Signal Detection and Auto Focus
+Circuit
+
+The auto focus circuit within IC-102
+performs focus search. If it detects an
+FE signal S-Curve it closes the focus
+switch contacts to close the focus servo
+loop. At this point the RF detector .
+within IC-101 detects the RF signal and
+supplies it to the F.LOCK DET. input at
+IC-102 pin 36.
+
+The F.LOCK signal is used to indicate to
+system CPU that focus is "IN". If focus
+goes "OUT" and the RF signal is no longer
+detected, the auto focus circuit opens
+the focus loop switch and starts focus
+search again.
+
+12. Dropout Detection Circuit
+(1). Black Band Dropout (BDO)
+
+Dropouts are detected from the RF
+signal within IC-101. In order to
+stabilize the tracking servo against
+dropout, the BDO signal is supplied
+from IC-102 pin 37 to the phase
+difference limitter and used to hold
+the tracking servo operation.
+
+. Signal Dropout (SDO)
+If an RF signal dropout is detected
+by the RF detector, or a BDO is
+detected, the SDO signal is supplied
+to the signal processor to stabilize
+the CLV servo operation.
+
+The SDO signal is supplied to the
+signal processor to stabilize the
+CLV servo operation. The SDO signal,
+produced within IC-102, is used to
+stabilize PLL circuit operation.

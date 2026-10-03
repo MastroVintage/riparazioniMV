@@ -1,0 +1,93 @@
+Today,our music sources consist of FM/AM
+tuners, recorded discs and tape.
+Recently, a new source has been added on
+PCM (pulse code modulation) technology.
+The new source that is attracting is
+
+1. Analog VS Digital
+
+1-1. Quality
+
+Analog recordings have undergone
+remarkable improvements to data, but
+they are still limited by distortion and
+in dynamic range. Digital recording, on
+the other hand, is a_ revolutionary
+
+technique which eliminates these
+limitations.
+Digital disc typically have a flat
+
+frequency response throughout the entire
+audible frequency range of 20 through
+20,000 Hz. Their wide dynamic range
+exceeds 90dB, as the digital signal can
+always be recovered and is identical to
+the original signal. Totally different
+from present analog turntable system,
+the digital discs never exhibit
+deterioration in sound reproduction
+quality no matter how many times it is
+played. Even more remarkably, they can
+include flexible, convenient automatic
+play and program search features that
+were never possible with conventional
+analog player designs.
+
+1-2. Advantages of Optical System
+
+a) Exceptional Durability
+
+With the mechanical system as in the
+
+current analog player system, the stylus
+must be in physical with the disc.
+
+Therefore both the stylus and the disc
+will wear out after a certain period of
+time, causing serious deterioration of
+sound quality.
+
+With the optical system, however , the
+lack of contact between the disc and the
+pick-up means that there is no sonic
+deterioration no matter how many times
+the disc is played.
+
+Digital Audio. This technical guide will
+cover the general principles of digital
+audio dealing with new compact disc
+format including objective circuit
+descriptions.
+
+b) Harmful Effect of Dust and Scratches
+Minimized
+
+Mechanical and variable capacitance
+system are easily affected by dust and
+scratches, since signals are impressed
+directly in the disc surface. The
+compact disc, on the other hand, has a
+Imm thick protective layer aver tha
+signal pits. More importantly, the spot
+size of the laser beam is only about 1mm
+in diameter at the surface of the disc,
+but is as small as lnm at the signal
+layer. This means that a dust particle
+or a scratch on the disc surface is
+actually only a millionth in size on the
+signal surface.
+
+Focal Point
+
+| d=1.7um Label Side
+(Reflector)
+
+Figure 1-1
+
+In addition, since the built in error
+correction circuit (MN6617 or MN6622)
+can cope with a burst error of 6,468
+bits on the signal surface, most dust
+and scratches become insignificant.
+

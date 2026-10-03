@@ -1,0 +1,32 @@
+1 .
+(1) ( Standby ) Lifts up to the 3rd diso.
+
+6
+5
+4
+Height 3
+2
+1
+0
+Cc
+up
+Elevation
+motor
+voltage
+
+SW1 (EJECT)
+
+SW2 (LOAD)
+
+Sw3 (DRAW)
+
+SW4 (REST)
+
+High sensor
+
+Figure 21-14 Timing Chart
+
+© Circled edges indicates detection timing.
+
+ast-out
+

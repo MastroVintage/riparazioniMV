@@ -1,0 +1,101 @@
+The number of combinations can be
+calculated by the involution of 2, as
+each bit has only 2 conditions.
+
+- 1 bit : 2 combinations
+
+- 2 bits : 4 combinations
+
+—- 3 bits : 8 combinations
+
+-16 bits :65,536 combinations
+
+The larger the number of bits, the
+larger the content which can _ be
+expressed. An additional bit doubles the
+number of combinations and, in case of
+digital audio, offers 16dB extra of
+dynamic range. A 14 bits more than
+assures a dynamic range of 85dB, while a
+16 bits system offers more than 90dB.
+
+LY —
+
+ANALOG SIGNAL
+
+1001031410
+
+o11 0
+
+oe ee SB
+
+8 bit sampling
+
+SAMPLED SIGNAL
+
+li
+
+DIGITAL SIGNAL
+
+Figure 9-1
+
+10. Analog to Digital Conversion
+
+For a better understanding of the
+conversion process ina compact disc
+player, the conversion from analog to
+digital, which is performed during the
+recording process, is described briefly.
+
+This conversion involves two distinct
+
+operations:
+
+1).The sampling process, which converts
+acontinuous-time signal into a
+discrete-time signal.
+
+Z).The quantization process, which
+converts a continuous-value signal
+into a discrete-value signal.
+
+The next block diagram shows these
+operations:
+
+1 : Analog signal =Continuous in time
+Continuous in value
+
+2 : Sampled signal =Distance in time
+Continuous in value
+
+3: Digital signal =Discrete in time
+Discrete in value
+
+INPUT one Sampling ~poantizing yen
+
+Figure 10-1 A/D Conversion
+
+The sampling process is performed by a
+sample and hold circuit. The
+quantization process is done by = an
+analog to digital converter. The digital
+output signal at 3 will then be coded to
+obtain a signal mutable for recording.
+
+By defination, an audio signal varies
+continuosly in time. To enable it to be
+converted into a digital signal, it is
+necessary that the signal is first
+sampled, i.e. at certain points in time
+a sample must be taken of the input
+cavlue which can be converted
+
+subsequently. The fixed time intervals
+between each sample are called sampling
+intervals (ts).
+
+Output signal
+
+Figure 10-2 Principle of Sampling
+
+— 10—

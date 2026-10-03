@@ -1,0 +1,125 @@
+5) Reading the Disc Information
+
+The figure 16-24 shows a cross sectional
+view of the disc and laser beam.
+
+When the laser beam hits the surface of
+the disc it is about Imm in diameter.
+The transparent layer has a refractive
+index of 1.5 and used as a lens to
+reduce the size of the beam to 1 um to
+focus on the pits.
+
+The ratio of the areas of the 1 mm spot
+on the surface eompared to the 1 um spot
+on the pit area 10 1,000,000 to 1.
+Therefore excessive dirt or scratches on
+the disc. surface may affect the reading
+accuracy.
+
+Aluminum
+
+for reflection 1.0um¢ (OPtical height
+surface (ot x 15= 0.65um)
+
+0.11pm
+
+TP pit height
+Transparent resin of
+refractive index 1.5
+
+Approx.
+Imm@ Disc surface
+Laser beam
+
+Side view
+
+There are 9 different Pit lengths
+0.9um
+
+p>
+
+GZ2>
+Pit
+
++3 3um
++ —@ Bazza Ze
+
+Laver beam
+
+2
+CD Co.
+
+cS Rotating direction
+
+of disc
+
+Top view
+
+Figure 16-24 Disc
+
+The actual height of a pit is 0.11 um.
+Looking from outside the disc, through
+the polycarbonate layer (refractive
+index = 1.5), the perceived height is
+165 um, this corresponds to about 1/4
+wavelength. Therefore, the light is 180
+degree out of phase (1/2 wavelength)
+with the light reflected from the non-
+pit area as shows in figure 16-25.
+
+Nearly 100% Only 30% reflection
+reflection due to diffraction
+
+(a) Plane area (b) Pit area
+
+Figure 16-25 Pit vs Output Signal
+
+Figure 16-26 shows the relationship
+between the disc surface and _ the
+waveform generated.
+
+— Moving direction of beam
+
+Beam spot = DP | CD
+Pit |
+
+i
+
+1
+
+{
+
+t
+'
+{
+'
+‘ 1
+‘
+t
+1
+1
+‘
+
+®
+mo}
+52
+=a
+o§&
+
+— Time
+(c) Pit & output signal
+
+Figure 16-26 Reflection from Disc
+
+When the beam hits the plane (non-pit)
+area, the light is reflected 100% and
+returns to the photo detector. This
+waveform is actually a continuous analog
+waveform from the digital signal of
+4.4218 MHz (bits/sec) recorded on the
+disc and is called an RP signal.
+
+— 42 —
+
+Swe

@@ -1,0 +1,53 @@
+18. Digital Circuit
+
+The digital processing circuit is the signal processing functions.
+heart of the CD player. Itaccepts EFM following figure 18-1 shows a digital
+data transferred from the RF data punch processing circuit's internal
+circuit (IC-501l:data slice & PLL) and diagram and correlations between the
+
+provides EFM demodulation, data blocks.
+interleave, error correction, and other
+
+Syndrome
+operation
+flag counter
+
+Syne,
+protect
+
+: interpolation
+oo. Subcode
+
+decoder/
+CRC check
+
+Track counter
+
+Figure 18-1 Block Diagram of MN6617
+
+— 7% —
+
+|
+
+|
+
+civ MCK timing Micro- |
+controller [>° logic computer |
+| interface |
+
+RF
+IPFLAG
+
+O0A0 ~ OA15
+SEL
+
+OMUTE
+
+1PFLAG
+
+RAMA 10
+RAMWE
+RAMCE
+
+block
+

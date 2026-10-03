@@ -1,0 +1,29 @@
+8) FPC Interface
+
+The FPC interface compares the EFM
+signal frequency with the PCK frequency
+(extracted PLL clock)
+
+(a).If PCK frequency is higher than EFM
+frequency the FPC is set to high.
+(b).I£ PCK frequency is lower than EFM
+frequency the FPC is set to low.
+(c).If the two frequencies are idnetical
+the FPC is set to high impedance.
+
+The EFM signal pulse width 1s counted
+using the PCK, and when 2T is detected,
+the FPC provides a low for the 16 PCK
+pulses interval.
+
+When 12T is detected, the FPC provides a
+high for 64 PCK pulses interval.
+
+If a dropout sense signal (DO = high) is
+received, the FPC is held at high
+impedance even while synchronization is
+maintained (in which BSSEL is high).
+
+Figure 18-15
+
+— 86 —

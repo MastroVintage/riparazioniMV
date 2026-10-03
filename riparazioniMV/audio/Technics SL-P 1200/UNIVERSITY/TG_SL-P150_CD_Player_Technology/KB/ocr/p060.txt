@@ -1,0 +1,114 @@
+8) Traverse Servo Circuit
+
+The 2-axis device can move horizintally
+and thus follows a limited number of
+tracks ( fine tracking ), Another servo
+circuit, which called the traverse servo
+circuit, is used to move the complete
+optical unit across the disc surface
+
+{ course tracking).
+
+This servo circuit uses the = same
+tracking error signal due to normal
+playing mode (insted of the SKIP
+mode only) as the feedback input, the
+output of the tracking servo circuit is
+linearly related to the tracking error
+signal, whereas the output of the
+traverse servo circuit has a built-in
+hysteresis.
+
+Only when the TE signal exceeds a fixed
+threshold level, the traverse servo
+drives the traverse linear motor. This
+is shows in figure 17-17.
+
+TE signal
+
+Traverse
+Motor Drive
+
+Figure 17-17
+
+(1) Traverse Servo Operation in Play Mode
+
+a) The TE signal is supplied from the
+tracking drive circuit to pin 2 of
+Ic-102.
+
+b) The TE signal selected by IC-102 due
+to play mode, incase of the search
+mode, the TE signal is ground by IC-
+102 pin 2 through pin 3.
+
+c) The incase of due to play mode, the
+TE signal into the IC-103 (C) pin 9
+via IC-102 pin
+
+d) The output of “ic-103 (Cc) pin 8 is
+used to set the base potential of the
+traverse driving transistors Q181 and
+Q182 to determine the direction of
+the traverse movement.
+
+e) The base potential of Q181 and 0182
+is set to positive or negative,
+according to the TE signal polarity
+to control the traverse drive
+current, so that in turn tracking
+error is minimized.
+
+e) The traverse drive mechanism has a
+speed position sensor (potentiometer )
+which tracks the optical pickup
+movement to provide pickup position
+information. The voltage range which
+varies with the speed position
+sensor, is set between 0 volt
+corresponding to the beginning of
+track one and 5 volts crresponding to
+the end of the last track.
+
+f£) The speed position sensor signal (0
+to 5 volts) that tracks the optical
+pickup movement is applied to pin 3
+of IC-103 (A) and then to pin 6 of
+Ic-103 (B), there it is voltage-
+differentiated. This voltage is used
+to brake for traverse movement, due
+to miss calculation of the tracks.
+
+(2) In KICK Mode
+
+The control signal coming from pin 20
+of ICc-101 either KICK REW or KICK
+FWD depend on KICK plus like 10 kick
+or 100 kic etc.
+
+The control signal applied pin 2 of
+Ic-102 via tracking servo circuit,
+when KICK mode is necessary, after
+that operation same as above c)
+through e).
+
+(3) In SKIP Mode
+
+The control signal coming from either
+pin 20 (TRV REV) or pin 21 (TRV FWD)
+of the system CPU IC-401, at that
+time even this signal selected IC-102
+
+analog switch to grouned the TE
+signal in normal play mode _ and,
+instead, applies either the FWD or
+
+REV SKIP signal to ICc-103 (D) to
+drive the traverse mechanism. The
+subsequent operations of the traverse
+mechanism are idetical to above
+
+step c) through e) in the previous
+paragraphs.
+
+— 60 —

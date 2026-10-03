@@ -1,0 +1,60 @@
+Figure 17-26
+
+When positive pulses are
+generated, the deceleration mode
+is selected, and when negative
+
+11) PLL Servo Circuit
+
+A clock component is extracted from the
+RF signal which is read off the disc.
+The clock is used to regenerate the
+digital musical signal. (The CLV servo
+controls the spindle motor so that the
+digital signal read off the disc is
+synchronized with a refernece quartz-
+controlled clock. It includes a coares
+servo which starts up until the PLL is
+locked, and a fine servo which brings
+the read signal into phase
+
+Reference
+voltage
+source
+
+BO
+detector
+
+Figure 17-27 Block Diagram of AN8371S
+
+Divide-by-two divider
+Buffer
+ic-501 PLL/Data Slice
+
+pulses are generated, the
+
+acceleration mode is slected.
+synchronization with the reference
+Clock)
+
+The PLL and CLV servo are ina _ parent-
+child relationship. The CLV servo
+absorbs slow speed variation resulting
+from the disc being off-center or other
+factors, whereas the PLL obsorbs finer
+jitter, so that an uninterrupted digital
+signal is regenerated from the disc
+pits.
+
+Figure 17-27 shows bolck diagram of PLL
+circuit.
+
+From system CPU
+Ee >
+
+IC-301 pin (5)
+
+IC-301 pin
+
+IC-301 pin G2)
+

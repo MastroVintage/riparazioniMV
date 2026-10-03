@@ -1,0 +1,94 @@
+erroneous word, the Cl decoder
+detects, regardless of the number of
+error, that it has received an
+uncorrigible block. In that case, it
+will let all 28 words pass’ through
+uncorrected, but an error flag is set
+for each symbol to mark that all those
+from Cl are unreliable at that moment.
+
+Because the internal delays between
+the Cl and C2 decoders are of unequal
+length, the symbols marked with an
+error flag at a specific moment, enter
+
+the C2 decoder can correct a maximum
+of 16 frames.
+
+In cases where even the C2 decoder can
+not correct, it will let the 24 words
+pass through uncorrected, but marked
+an error flag originally set by the Cl
+decoder.
+
+d)Next, the C2 output signals are
+unscrambled and the output
+words carrying the uneven words are
+given 2 words delay.
+
+the C2 decoder input at different
+moments.
+
+e)Finally, the CIRC decoder output
+sequence will correspond with the
+original input signal before CIRC
+
+Thus the C2 decoder has an indication encoding.
+
+for every word, whether it is anerror
+
+or not. If a word does not carry an The following table lists the most
+
+error flag it is error free. If no relevant specification of the CIRC
+
+more than 4 words carry an error flag, system;
+
+ASPECT
+
+MAX. FULLY CORRIGIBLE BURST LENGTH
+(BURST ERROR CORRIGIBILITY )
+
+SPECIFICATION
+UP TO 4000 BITS (2.5mm)
+
+SAMPLE INTERPOLATION RATE
+(RANDOM ERROR CORRIGIBILITY)
+
+1 SAMPLE/10 HRS AT BER = 10-4
+1000 SAMPLE/MIN. AT BER = 1073
+(WHICH IS 1 OUT of 2.6 MILLION
+ON THE AVERAGE)
+
+LESS THAN 1/750 HRS AT BER = 10-3
+NEGLIGIBLE AT BER = 10
+
+3 DATA BITS WILL RESULT INTO 4
+BITS AFTER ENCODING, ON THE
+AVERAGE
+
+NO CHANGES IN THE DECODER CHIP
+REQUIRED
+
+UNDETECTED ERRONEOUS SAMPLES
+(CLICKS)
+
+CODE-RATE (EFFICIENCY )
+
+COMPATIBILITY WITH FUTURE
+4 CHANNEL VERSIONS
+
+Table 13-1
+
+5. Error Concealment
+
+When errors are so big that they can not
+be corrected, some type of "concealment"
+is necessary.
+
+a) Muting:
+The erroneous word is muted (set to
+zero). This is a rather rough method
+
+which is not employed in CD player.
+
+— 23 —

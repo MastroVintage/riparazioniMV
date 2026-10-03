@@ -1,0 +1,87 @@
+In the 17 channel bits (three junction
+bits and 14 data bits) each channel bit
+counts +1 or -1, depending on the signal
+polarity.
+
+DATA
+
+By making the sum of +1 and -1, the DCV
+is obtained for one data block. The DCV
+should be as close to 0 as possible, as
+this indicates a DC free signal.
+
+1
+'
+i
+1
+if
+
+a) ee ee
+ma it mp ip a pt | a
+\ +5 +6
+
+psv(to)= -3
+
+DSv(t1)= a ne com
+
+psv(tl)= -6
+
+Figure 12-2 Selection of the Merging Bits
+
+The figure 12-2 gives an example of a
+signal with different DC contents,
+depending on the selection of the
+junction bits. Of course, this selection
+requires at least 2 zeros (3 channel
+bits) and a maximum of 10 zeres (11
+channel bits) between two transients.
+
+The table 12-4 gives all valid
+possibilities for one channel block. As
+a combination of 3 bits gives 8
+possibilities, the valid combination has
+to be selected, corresponding to the
+rules in EFM i.e at least two zeros
+between two ones, and maximum 10 zeros.
+
+PREREOOCOO
+
+0
+1
+0
+1
+0
+1
+0
+1
+
+Table 12-5
+
+Only the combinations indicated by an
+marked *** are valid in this example, as
+they allow two zeros between two ones.
+In the example it is assumed that the
+DSV of the previous block, DSV= -3.
+
+If three zeros 000 are selected as
+junction bits (see figure 12-2 a),
+counting starts with 5 positive channel
+bits, at transient 4 negative channel
+bits. The DSV (t1) of the data block is
+DSV (tl) = (-3) + (45) + (-4) + (46) +
+(-2) = +2
+
+In this case there is a positive DC
+level in the output signal.
+
+By adding the junction bits 001, and
+
+starting with the same DSV (to)= -3, the
+result become (-3) + (+2) + (-3) + (44)
++ (-6) + (+2) = -4 (see figure 12-2 b).
+
+Thus, the result becomes negative, so
+the DC content in the output signal will
+be negative too : DSV (tl) = -4.
+
+—~ 18 —

@@ -1,0 +1,46 @@
+The PLL (Phase Locked Loop) reference equal the PLL is locked. If the PLL is
+
+frequency is constantly compare to the not adjusted within its Operating
+disc's sync data (extracted from SRF) range it can cause incorrect disc
+representing a frequency Of 4.3218 rotation or dropout.
+
+MHz. When these two frequencies are
+
+SRF
+From disc
+
+Phase
+comparator
+
+1/2 dividing
+
+PCK 4.32MHZ
+
+PLL works so that the clock
+
+component corresponds to
+PCK.
+
+Figure 22-26
+3. Various Defects of Disc & RF
+Waveform
+Defects related to the disc are shows in waveform are shows in figure 22-27 (B).
+
+figure 22-27 (A). Their respective RF
+
+Label . .
+Finger Print Wedge
+side \ g Black Spot Hole
+
+= ~ — —<
+
+oe a ar are,
+y VY YY ¥
+“EE “Er a
+
+FP Wd BS
+
+Figure 22-27
+
+— 132 —
+

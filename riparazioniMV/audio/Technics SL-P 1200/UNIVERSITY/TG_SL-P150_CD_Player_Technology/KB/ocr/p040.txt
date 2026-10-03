@@ -1,0 +1,87 @@
+The beam, no matter how diverged,
+contains the RF signal component, and
+must be picked up completely and fed
+to the signal processing circuit. This
+requires the photodetector (PD) to
+
+have as large a surface area as
+possible. The larger PD elements, A5
+
+4-split PD:
+
+The large PD surface area
+prevents reduced RF signal
+level despite the diverged
+reflection beam, this is the
+reason why the single~beam
+system is resistant to finger-
+prints and other contaminants.
+
+and A6, used in the 6-segment PD (as
+shows figure 16-20) pick up the signal
+energy which has not been picked up by
+the inner 4 segment PD elements, thus
+serving to prevent reduced RF signal
+level.
+
+at | aa
+
+A4 | A2
+
+6-split PD:
+
+If the reflection beam diverges
+due to contamination, the smaller
+PD surface area leads to reduced
+RF signal level. To compensate
+for this, additional PDs, A5 and
+A6, are provided to increase the
+total PD surface area.
+
+Figure 16-20 Photodetector Construction
+
+b)Scratches and Foreign Objects
+
+The beam spot diameter on a normal
+disc surface is approximately 120 um.
+If the beam is irradiated at a scratch
+or other defects on the disc surface,
+whisker-like noise occurs around the
+beam spot as shows figure 16-21.
+
+This noise has a very random nature,
+and the conventional 4 segment PD with
+large surface area pickup all of this
+noise components added to the servo
+signal, leading to servo errors and
+hence degraded play performance.
+
+4-split PD
+
+a) Normal case b) At a scratch,
+
+etc.
+
+Whith the 6 segment PD, on the other
+hand, its 4 segment PD area (for servo
+signal pickup) is one fourth (250 um)
+compared to the conventional pickup
+detector area which has an area of
+1000 um, and so the affect of whisker-
+like noise can be considerably
+lessened as illustrated as shows in
+figure 16-21. For this reason, the 4
+segment PD (Al, A2, A3, A4) for servo
+signal pickup should preferably have
+as small an area as possible. Incase
+of music data should be detect all 6
+segment (Al, A2, A3, A4, A5, A6).
+
+6-split PD
+
+c) Beam spot of a 6-split PD
+at a surface defect
+
+Figure 16-21
+
+— 40 —

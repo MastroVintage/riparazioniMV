@@ -1,0 +1,152 @@
+The CIRC principle is as follows;
+
+a)The audio signal is samples at the A/D
+aomvyertear aid ttiaese sampies of 16 bits
+are split up into 2 words of 8 bits.
+
+6}6 symbols of 16 bits, from both the
+left and the right channel, are
+
+applied to the CIRC encoder. This
+means 12 symbols of 16 bits, which
+means 24 words of 8 bits are stored
+into a RAM memory.
+
+c)The first operation in the CIRC
+encoder is "scrambling", This
+
+scrambling operation consists of a 1-
+symbol delay 16 bits insertion for the
+even words andamixing up of the
+connections to the C2 encoder.
+
+d)The 24 scrambled 8 bits words are then
+applied to the C2 encoder’ which
+generates 4 Q words (control codes of
+8 bits). The C2 encoder inserts these
+4 Q words between the 24 incoming
+words, so that at the output of the C2
+encoder 28 words are available.
+
+e)Between the C2 and the Cl decoder, 28
+8 bits delay lines, with unequal
+length, are inserted. This generates
+
+De-
+
+Decoder
+1 Cl unscramble
+
+data
+
+Comal
+fe)
+Mw
+aw
+c
+3°
+e)
+r-)
+<
+°
+A
+YY
+fs]
+a
+3
+3
+ie)
+=
+v
+vo
+=
+fe
+=
+
+c
+3
+oa
+-
+cr)
+M
+i
+a
+2
+uw
+
+which
+
+Si ne -.-
+
+the "interleaving" of the data,
+
+weans that ane fA ue
+delays, the sequence of the data words
+
+will be changed compiciely avbvoraing
+to a determined pattern, so that the
+
+result will be a random pattern.
+
+f£)The next step in the CIRC encoding is
+the Cl encoder. The Cl encoder
+generates 4 new control words of 8
+bits from the 28 input 8 bits words,
+the P words issuing 32 8 bits words.
+
+g)After the Cl encoder another 1-word
+delay (8 bits) is inserted between the
+even words, and the control words, P
+and Q are inverted. The result, 32 x 8
+bits words, is a CIRC encoder signal
+and is applied to the EFM modulator.
+At the playback side, the CIRC
+decoding circuit has to restore, from
+the demodulated signal leaving the EFM
+demodulator, the original 16 bits
+samples which are then applied to the
+D/A converter.
+
+The random data must be lined up
+
+properly.
+
+interleave
+
+C2 decoder
+Unscramble
+
+C2
+
+C2 flag Signal for
+
+average value
+
+interpolation
+
+Figure 13-6 Playback Signal Processing
+
+The DECODER operates as follows;
+
+a)From the EFM demodulator, 32 words of
+8 bits are applied to the CIRC
+decoder.
+
+b)The first step delays the odd data
+words over 1 word (8 bits) and inverts
+the control words P and Q, so that the
+Cl decoder input coresponds to the Cl
+encoder output (at the recording
+side).
+
+c)The Cl decoder accepts 32 words of 8
+bits each, 4 parity words of which are
+used for Cl decoding. The parity has
+been generated at the recording side,
+according to the rules of the Reed
+Solomon encoding, and because of these
+parity words, the Cl decoder is able
+to correct a word error in every block
+of 32 words. If there is more than one
+
+— 29 —

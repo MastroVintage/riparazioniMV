@@ -1,0 +1,41 @@
+20. Analog Circuit
+
+c-801) uses independent +5
+Tee ea eee supplies for its digital and
+analog processing block. Either channel
+of the analog audio signals (+) and /-)
+at the output of the D/A converter have
+the signal formats as shows in figure
+20-1.
+
+The positive and negative output of the
+
+D/A converter are coupled ty ne
+
+differential inont of tie vemnpaanle
+(£0~603), where they are amplified into a
+single analog signal with an amplitude
+twice as large. The output of the
+comparater is then waveform shaped by the
+following ternary LPF (IC-805) into a
+
+complete analog audio signal.
+
+Figure 20-1
+
+1C-801 14 JUL L
+1C-801 11 “LI LJ
+
+——-—-— —-5V
+N/ -— 2.5V
+~--+
+1C-803 7 7 ov
+_ Nin
+
+Figure 20-2
+
+— 102 —
+
+“7
+\
+

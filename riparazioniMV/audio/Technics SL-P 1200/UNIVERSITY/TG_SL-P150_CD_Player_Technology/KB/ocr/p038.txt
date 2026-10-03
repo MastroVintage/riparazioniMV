@@ -1,0 +1,104 @@
+The following optical components in
+particular require careful design:
+
+- Single Beam System
+
+— 2-Dimension Actuator
+
+~ Focusing Lens
+
+~ Focus and Tracking Error Detection
+The detail of each sections of these
+components as follows:
+
+Focusing len
+
+2-D actuator
+
+Optical focus
+tracking error
+detector
+
+Beam splitter
+
+Figure 16-15 Optical Pickup Construction
+
+1) Single Beam System
+
+The single beam detection system
+includes the push-pull,
+phasedifference, heterodyne, and
+
+others. The push-pull type treats the
+pits string on the disc as a_ single
+track and detects tracking error from
+variation of the far-field pattern of
+the diffracted ray, whereas the phase-
+difference and heterodyne types detect
+the variation of far-field patterns of
+the beam defracted from individual
+pits.
+
+The push pull type requires a_ simpler
+optical system than the three beam
+technique, but is sensitive to the
+disc's tilt angle or pit depth and the
+error signal is affected by the focus
+lens position. For these reasons, it
+is rarely used for practical
+application.
+
+The phase difference and heterodyne
+typess eliminate the drawbacks found
+with the push pull technique. While
+the optical system is similar to that
+used in the push pull technique
+(except for a 4-split photodetector),
+they have different circuit
+configurations.
+
+The single beam technique requires a
+servo circuit a little more complex
+than that required for the three beam
+system, but depending on servo circuit
+design provides better playability
+than the latters.
+
+Pocusing lens
+
+Half mirror
+Photodetector
+
+Cylindrical lens
+
+Semiconductor laser
+
+Figure 16-16 Single Beam Construction
+
+2) 2 Dimension Actuator
+
+The 2-D actuator is the only movable
+component of the optical pickup. It
+requires precision design because it
+drives the focusing lens and same
+other pickup components requiring
+extreme positional accuracy. Recent 2-
+D actuators include three types: 4
+wire, rotary, and swing arm types. In
+here will explain the 4 wire actuator
+as follows;
+
+4 Wire Actuator:
+
+The 4 wire actuator uses four metallic
+wires to suspend a moving coil bobbin.
+When the coil is energized, the wires
+are slack, which lets the coil bobbin
+move in the focusing and tracking
+directions. The main point is to drive
+the bobbin's center of gravity and
+this gives the four wires and even
+deformation and keeps the optical axis
+of the lens straight.
+
+— vw —

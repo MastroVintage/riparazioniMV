@@ -1,0 +1,76 @@
+TOC READ OPERATION - PLAY OPERAT10N ]
+
+INDIVIDUAL CONDITIONS CONTROL BLOCK/MAJOR PART
+
+Vy
+
+Does laser diode
+illuminate?
+
+Yes
+
+Optical Pick-up
+Laser diode
+Control circuit
+
+IC-101, Q1O1. Q203
+System CPU
+IC-401
+
+Is focus lens moved System CPU circuit
+
+vertically for search | No IC-401
+operation? Servo control circuit
+(visual check) IC-101
+
+Focus error amplifier
+IC-104, 1IC-106
+Ql41, Q142
+
+Optical pickup
+
+Focus coil
+
+(none repairable)
+
+System CPU circuit
+IC-401
+
+Spindle drive circuit
+IC 301, 1C-402
+Q351, Q403, Q404
+
+DC spindle motor
+
+Does spindle motor
+start to rotate?
+
+Yes
+
+Focus error amplifier
+IC-101, IC-104
+
+Does focus loop servo | No
+operate?
+
+141 142
+Yes QUT, @
+Does tracking loop System CPU circuit
+servo operate? 1C-401
+Servo control circuit
+Yes
+
+IC-101
+Tracking error amplifier
+IC-105, !C-106
+
+Ql6l. Q162
+Optical pickup
+Tracking coil
+(none repairable)
+
+— 140 —
+
+OBSERVATION POINTS
+
+Vy

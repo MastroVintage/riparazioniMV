@@ -1,0 +1,118 @@
+Does traverse servo
+operate correctly?
+
+No System CPU circuit
+IC-401
+Traverse drive circuit
+IC-102, [IC-103
+Ol8l, Q18&2
+Traverse coil
+
+System CPU circuit
+1C-401
+
+Auto gain control
+No| circuit
+1C-501
+
+No
+
+Is DSL circuit in
+normal mode?
+Yes
+
+Is RF signal converted
+by the AGC circuit to
+on ARF signal with a
+conatant amp! i tude?
+
+Yes
+
+Is ARF signal converted
+by DSL circuit to SRF
+signal?
+
+Yes
+Is SRF signal synchronized|No
+with PCK signal?
+
+Yes
+
+Data slice circuit
+IC-501
+
+Phase loop circuit
+IC-301, IC-501
+
+No! CLV circuit
+1C-301
+
+Phase loop lock circuit
+1C-501
+
+Is CLV servo changed to
+phase-compar ison mode?
+
+Yes
+
+Are both EFM and PCK
+clock signal activated?
+
+No
+
+Yes
+
+Digital filter circuit
+IC-801
+Yes LPF circuit
+1C-803, IC-&804
+IC-805, IC- 806
+
+NORMAL OPERATION
+
+— 141 —
+
+=HOW TO CHECK PHASE COMPAR I SON=
+*Check waveform at IC-301 pin
+
+=HOW TO CHECK THE TRAVERSE=
+*The sound skips every
+few seconds in play mode.
+*Optical pickup moves
+outward or inward
+alternately.
+*Optical pickup sticks at
+inner or outer position.
+
+=HOW TO CHECK DSL CIRCUIT=
+*The level of IC-501 pin
+22 becomes low (L)
+
+=HOW TO CHECK AGC CIRCUIT=
+*The level of IC 501 pin
+
+16 (ARF signal) becomes
+O.8Vp-p.
+
+=HOW TO CHECK SRF CIRCUIT=
+*Check (SRF signal) at
+IC-501 pin 2
+
+=HOW TO CHECK SYNCHRON] ZE=
+*Check IC-501 pin 5 by
+oscilloscope in triggered
+mode with RF signal (TJ301
+and if output waveform at
+IC-501 pin 5 can be
+synchronized in-phase, the
+level IC-301 pin 7& become
+2.5 volts.
+
+65 (EC signal).
+
+=HOW TO CHECK EFM AND PCK=
+*Check IC 501 pin 3 for
+EFM waveform.
+
+*Check IC 501 pin 5 for
+PCK waveform,

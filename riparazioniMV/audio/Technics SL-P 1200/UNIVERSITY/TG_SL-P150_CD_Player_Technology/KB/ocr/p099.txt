@@ -1,0 +1,47 @@
+The PWM block performs Pulse-Width
+
+Modelation on the 11 value digital data
+from the MASH block to convert into
+analog signals with 11 different pulse
+widths which are precision controlled by
+a crystal controlled oscillator.
+
+Figure 19-17 PWM Block Diagram
+
+There are several different pulse
+modulation techniques available to
+convert analog signals into pulse
+signals.
+
+Overall MN6623 Operations
+
+L/R Clock
+
+With the PAM, PWM, and PPM techniques,
+the signal is sampled along the time axis
+but is not quantized along the amplitude
+axis. All of these techniques preserve
+the amplitude information exactly as it
+was the original analog signal. (see the
+following figure 19-18)
+
+Analog
+signal
+4
+
+Figure 19-18
+
+The pulse width modulation (PWM) samples
+the input signal along the time axis and
+yields pulses with pulse widths that
+correspond to sampled signal amplitudes.
+The resulting pulse signal contains
+frequency components similar to those
+obtained with the PAM technique.
+
+To next stage
+
+MN6623 Block Diagram
+
+— 99 —
+

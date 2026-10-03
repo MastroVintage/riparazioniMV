@@ -1,0 +1,61 @@
+Schematic Diagram (SZZP1094C) CAUTION
+
+The operating supply voltage is set to
+200 - 240 Volt; therefore when the
+operating supply voltage is 100 - 120
+Volt, change the transformer voltage
+according to the following procedure.
+
+C5 22p/16
+
+(C1 ~3
+AN6554
+D1~D10
+
+MAIS
+D11,MA4039H
+
+a= 0.6VP—P
+b= 0.1VP—P ce
+
+OSC fO f0 X1.1 C17 C14
+& ; aan ys
+= [one
+3
+| ss00 | 1650 |
+
+4
+
+Parts List
+
+1SR35-200A Diode D12, D13 | ERD25PJ223 Resistor 2 | R36,R29
+AN7812 Ic ; 7812 ERD25PJ224 Resistor 1 | R33
+
+IC 1 ERD25PJ335 Resistor 1
+
+Connector 1 ERD25PJ393 Resistor 1 | R22
+2SC16850 2 ERD25PJ472 Resistor 4 |R4,R7,R21
+AN6554 3 ERD25PJ473 Resister 3 |R11,R15
+ECCF1H101J 2 ERD25PJ682 Resistor 1 {R31
+ECEA1CS220 Capacitor | 2 ERD25PJ331 Resistor 2 |R14,R27
+ECEA1CS221 Capacitor | 2 ERD25CK105 Resistor 2 |R14,RB4
+ECEA1VS471 Capacitor | 2 ERO25CK1183 | Resistor 1 |Rc4
+ECQM1H103KZ Polyester 4 |C1,C2,C17 | ERO25CK1433 Resistor 1 |RC3
+
+c18 ERO25CK1583 Resistor 2 |RA2 RB2
+
+ECQMIH104KZ |Polyester | 4 |C3,C4,C0, | ERO25CK1743 | Resistor 1
+ECQP1H102FZ |Polyester | 3 |C5,C7,C10]) ERO25CK2103 |Resistor 2
+ECQP1H103FZ Polyester 3 |C6,C7,C8 || ERO25CK2323 Resistor 1
+ERD25PJ101 Resistor 1 | R9 ERO25CK1333 =| Resistor 2
+ERD25PJ103 Resistor 1 /R1 - EVHGHAF20-B13] VR 1
+ERD25PJ122 Resistor 3 |R20,R30 EVLTOA24 VR 2
+ERD25PJ123 Resistor 2 |R17,R18 LN252RPH LED 1
+ERD25PJ153 Resistor 4 |R19- LN352GPH LED 1
+ERD25PJ154 Resistor 1 LN452YPH LED 1
+BRD25PJ181 Resistor 1 | R35 MA150 Diode 0
+ERD25PJ184 Resistor 2 |R16,R27 MA4039 Diode 1
+ERD25PJ222 Resistor 2 |R39,R40
+
+— 136 —
+

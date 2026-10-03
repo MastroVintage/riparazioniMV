@@ -1,0 +1,86 @@
+Glass is the most common optical
+material at visible and near-infrared
+wavelengths, but other wavelengths
+require more exotic materials such as
+calcium aluminate glass, lithium
+fluoride etc.
+
+a) The Thin Simple Lens
+A thin simple lens refracts an
+optical ray passing through it as
+follows:
+
+Lens(diameter D) Figure 16-9
+
+The reletion of the focus length £)
+to the distances between the lens and
+the object being imaged (s) and the
+lens and the focused image (s') is
+given by the gaussian from of the
+thin lens equation:
+
+1/s + 1/s' = 1/f
+
+The combined focus length for the
+thin lenses in contact or close
+proximity and having the same optical
+axis is given by:
+
+1/£ = 1/£1 + 1/£2
+
+Optical axis
+
+Figure 16-8 Thin Lens
+
+A lens may be~ either positive
+(converging) or negative (diverging).
+The focus point of a lens is that
+point at which the image of an
+infinitely distant point source is
+reproduced.
+
+Both the source and the focus point
+lie on the lens axis. The focus
+length (f£) if the distance between
+the lens and the focus point. The
+f/number of a lens defines its light
+collecting ability and is given by;
+f/number = f£/D
+
+Where f is the focus length and D is
+the diameter of the lens.
+
+A small f/number denotes a large lens
+diameter for a specified focus length
+and a higher light collecting ability
+of faster "speed" than a _ large
+£/number.
+
+Numerical Aperture (NA) is a measure
+of the acceptance angle of a lens and
+is given by:
+
+NA =n. sin @
+
+Where n is the refractive index of
+the object or image medium and 0 is
+half the maximum acceptance angle.
+
+— 35 —
+
+The relationship between the focus
+length (f) and the refractive index
+(n) is :
+
+1/£ = (n-1) x (1/rl1 - 1/r2)
+Where rl is the radius on the left
+lens surface and r2 is the bradium on
+the right lens surface.
+
+b) The Cylinder Lens
+
+A cylinder lens is a section of a
+cylinder and therefore concentrates
+in only one plane.
+
+Figure 16-10 Cylindrical Lens Operation

@@ -1,0 +1,66 @@
+— 601 —
+
+Sensor switch and driving mechanism timing sequences from the
+standby state to the initiation of disc No. 3 play
+
+-Iz oambta
+
+Standby
+
+agaz ine osition Detecte Disc loader - ea. Disc whey out. Disc clamped.
+' :
+' ‘
+
+Fast-up| Slow-up Braking Braking i
+i . Brakin
+easeaiiy Braking @00ms) (200 ms) (200 ms) +
+
+Brake . a t (200 ms)
+inserted. 00 ms Quick lift Guick pulik Quick descent —————_—-_~+}- Slow descent—-~
+pul
+
+letockwe 7] HOO NU
+
+= = iim ; —
+™” a
+Pull out
+
+y fs
+oe AL
+vee (clockwise ‘)
+ll
+$451 (EJECT)
+a OA De
+—— or a a
+
+ist disc ee 3rd disc
+
+1172 2 30 2-1/2 2 1-1/2 1 V/2
+
+S453 (DRAW}
+
+S454 (REST)
+
+Le
+He
+L
+He
+i”
+He
+LP
+H
+L
+
+Height sensor (D451)
+
+|
+ON: Switch actuator is pressed. |
+|
+
+i Calculation formula for height sensor (incremental): 2n + 3 pulses =9
+| (n=disc No.).
+
+OSTp party} a jo ,Avtd, oF
+»Aqpue}s,, wory soonbes furwry sz0j0ui Buratap pue seyo rms butsues ¢T
+$3 z
+

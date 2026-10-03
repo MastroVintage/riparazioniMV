@@ -1,0 +1,65 @@
+3) Auto Power Control (APC) Circuit
+
+The APC circuit is difficult to check
+due to its circuit configuration. This
+section only describes the theory of its
+operation.
+
+Auto
+
+Power
+Logic Control
+Control
+
+Optical Servo
+AN8370S
+
+System CPU
+(MN1554PEP)
+
+The system CPU IC-401 yields a parallel
+4 bit command signal(see table 17-1) to
+
+IC-101 shich ultimately controls the APC
+circuit.
+
+Optical Pick-up
+
+R120,;-— — — — — — — — — —
+[~
+
+Figure 17-3 Auto Power Control Circuit
+
+When IC-101 receives a Laser On (LD ON)
+command (H,L,L,L), the logic controller
+issues a corresponding command to the
+internal APC block As a result, pin 5
+of IC-101 is set High, which turns 0203,
+and Q101 "on" and hence activates the LD
+(laser diode)
+
+A loop circuit is formed by Q101, LD (a
+pair of the laser and PIN diode), and
+APC of IC-101. APC is carried out by
+detecting the quality of laser by the
+PIN diode. If the beam of laser is
+intensified, the resistance of the PIN
+diode is lowered and the voltage at the
+
+pin 10 of IC-101 is raised (the voltage
+at the pin 12 of IC-101 is the refernce
+voltage) to diminish the intensity of
+the laser beam.
+
+The APC requlates the LD's output power
+by controlling the supply voltage
+according to the output light intensity.
+The LD's output light intensity is pre-
+set at the factpory with the
+potentiometer(VR) in the laser power
+control circuit. Therefore do not adjust
+this potentiometer as it requires
+precision adjustment (or the left of the
+LD may be shortened).
+
+— 50 —

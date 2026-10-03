@@ -1,0 +1,24 @@
+- ee
+
+a
+
+2) (Open postion
+
+O Circled edges indicates detection timing.
+
+Fast-down Slow-down Play
+
+}+—| Brake
+(300 ms)
+
+in
+Swi (EJECT) rs as Oe a
+SW2 (LOAD) nO
+
+SW3 (DRAW) on
+sw4 (REST) loft on
+
+High sensor
+H{L JH IL H Jt TH YL HL JH JL H JL TH IL H L
+
+Figure 21-15 Timing Chart

@@ -1,0 +1,103 @@
+MASH Block
+
+The MASH block consists of many noise
+shapers connected in series. The noise
+shapers include the signal and double
+integration types.
+
+* Single integration noise shaper
+
+The single integration noise saper uses
+only a single integrator for noise
+shaping as shows in figure 19-12. The
+block marked "Q" in this figure is a
+local quantizer which adds quantization
+error to the input data. The relationship
+between output (Y) and input (X) for this
+type of noise shaper is:
+
+Y=X+(1-2Z ). Vq............ (1)
+
+The quantization error, Vq is a random
+
+value and the factor (1 - Z ) in this
+equation represents a differentiation
+respons. Eq. (1) tells us, therefore,
+
+that the spectrum of the quantization
+error, Vq in the single integration noise
+shaper has an attenuation slope of -6
+dB/oct toward lower frequencies as shows
+in figure 19-14,
+
+Integration Input+Vq
+
+Delay
+
+Q= Quantizer
+
+Figure 19-12 Single Integration
+
+Noise Shaper
+
+* Double integration noise shaper
+
+The double integration noise shaper uses
+two integrations in tandem as shows in
+figure 19-13. When the circuit is viewed
+at point W toward the output Y, it is
+
+identical to the single integration noise
+shaper. Therefore, the relationship
+between Y and W is:
+
+W=W+(1-2Z ). Vq......ceeee (2)
+
+W expressed as a function of X is:
+
+w= 2 (XB. Y) ceccceeeeee (3)
+
+1-2
+
+From Eqs. (2) and (3) we obtain following
+overall output-input relationship:
+
+yY=x+(1-2 )
+
+If we compare this equation with Eq. (1),
+we find that the element (1 - Z ) is
+squared in the former equation.
+
+This means that with the double
+integration noise shaper, the spectrum of
+the quantization error, Vq, has an
+attenuation slope of 12 dB/oct toward
+lower frequencies.
+
+Input+Vq
+
+“Integration | “Integration
+-!
+
+Z
+
+Q= Quantizer
+
+Figure 19-13 Double Integration
+Noise Shaper
+
+4-4 Audio renge
+0 7 r
+
+Level (sB)
+
+trum of the single integration noise ® shaper
+) Output spectrum of the double integration noise shaper
+1G) Output spectrum of the HAS H :
+
+8h
+Frequency
+
+Figure 19-14 Noise Shaper Output
+Spectrum
+

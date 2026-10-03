@@ -1,0 +1,39 @@
+The linear motor consists of a coil move across the yoke depending on the
+wound around a yoke plate and a magnet direction of the current through the
+at both end. The coil undergoes an coil.
+
+infkuence froma force filed and will
+
+Magnetic Field
+
+YOKE(S)
+@® Moving Direction of coil
+
+Magnetic Field
+Magnet
+
+Output Lead of Coil
+Input Lead of Coil
+
+Figure 17-20 Liner Motor Principle
+
+The traverse servo circuit receives the To performa 1, 10, or 100 track jump,
+tracking error signal at pin 2 of IC- (SKIP) the command from the system IC-
+102, The servo circuit will output a 401 will be controlled at IC-103, the
+traverse signal to correct the position servo control, and this circuit will
+of the optical pickup to keep it on the drive the traverse motor. This allows a
+pit track. 1, 10, or 100 track jump to be executed
+
+very fast and smooth.
+
+Drive Circuit
+
+Sled Signal
+
+Focus/Tracking
+
+TE Signal Sled Servo
+Control
+
+Figure 17-21 Linear Motor Servo Circuit Principle
+

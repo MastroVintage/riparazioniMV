@@ -1,0 +1,112 @@
+(a)FG ARI
+
+The MN6617 has a motor speed limiter
+which uses the FG signal to be
+compatible also with motors having no
+FG, the device can deactivate the FG
+speed limiter by setting FG ARI is low.
+**FG ART is set high:
+
+= FG speed limiter is activated.
+**FG ARI is set low:
+
+= FG speed limiter is deactivated.
+
+(b) TTON
+
+This command is used for starting and
+stopping turntable operation:
+
+** TTON is set high = Turntable starts.
+*k TTON is set low = turntable stops.
+
+(c)Forced Turntable Control Mode
+
+Turntable forced free-run
+
+ACC Turntable forced acceleration
+
+Turntable forced deceleration
+
+Table 18-3
+
+(ad) ATT
+
+This command allows the D/A output data
+to be attenuated. It is effective for
+both parallel DAO - DA15 outpou and
+serial SRDATA output.
+
+Output is attenuated -12dB when ATT is
+set high. And attenuation is released
+when ATT is set low.
+
+(e)MUTE
+
+This command allows the D/A output data
+to be muted in case of dropout. The D/A
+output is muted to logical all zeros
+when MUTE is set high, muting is cleared
+when it is set low (only when DMUTE=low)
+
+The DMUTE pin may be used for direct
+muting since it is logically OR'’ed with
+the MUTE signal.
+
+— 85 —
+
+(£)Track Counter
+
+When an appropriate number N (the number
+of tracks to be counted, which is
+computed by the CPU) is furnished to the
+TCO-TCE inputs and the count enable pin
+is set high, the device counts the
+negative edge of the clock applied to
+the ITC pin (Track Counter Input). The
+
+TCO (internal) is set low when the ITC
+clock count reaches N+1.
+
+How to set number N
+
+The maximum number presettable for N is
+2  -l = 32767 (there are 15 bits from
+TCO through TCE)
+
+STAT + TOC
+
+Track counter setting
+
+Add. DATA] Add. pata|
+
+MOATA Pp GS C7 Ew 9 ec
+
+_ a
+Count starts
+
+Figure 18-13
+
+TCO output timing
+
+Counts up to N+1
+
+Figure 18-14
+
+(g)STAT Signal Switching
+
+At address 0111, the two low-order data
+bits provide the status signals. These
+Signals are transferred to the CPU,
+which then checks contents as required.
+
+CRC Result of the CRC H: NG
+Operation on the subcode L: OK
+CLVS Spindle Servo Phase Sync. H: CLV
+Status Signal L: Coarse servo
+fot | TTSTOP Stop signal TURNTABLE
+
+Table 18-4
+
+H: Rotating;
+L: Stationary

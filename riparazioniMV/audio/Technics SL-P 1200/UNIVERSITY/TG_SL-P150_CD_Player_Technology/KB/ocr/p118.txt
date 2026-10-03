@@ -1,0 +1,67 @@
+— sll —
+
+7 Mechanism Check Points for Servicing
+
+When disassembling or reassembling the deck mechanism, observe the following cautions:
+
+Item
+
+Caution
+
+Symptom caused by misalignment
+
+1 |Magazine base assembly
+
+The magazine base gear should have no sidewise deviation
+
+Tray open/close operation faijure-
+from the timing gear on the loading base.
+
+(* Sidewise gear 1. .
+deviation) Timing gear (right)
+
+Magazine base
+
+Check the sidewise deviation of the
+gear on the magazine base side, by
+
+using the projection on the gear as
+a guideline.
+
+Disc sensor switch assembly
+(S455-S460)
+
+If the disc sensor switches are skewed, they may fail to
+
+sense the discs. Swing shaft A in the longitudinal ‘direction
+to the following design height.
+
+Disc sensor failure
+
+—————|
+! | Design height:
+| ( 28.15 to 27.75 mm
+| I i
+: Magazine holder base
+A rn es
+Disc
+sensor
+
+Disc sensor switch
+
+switch
+
+3 |Elevation cam retention ° If the retention screws are loose, malfunction or mechanism
+
+Retention screws noise may occur due to insufficient elevation stroke.
+° Be sure to tighten them firmly.
+
+° Disc tray operation failure,
+° Mechanism noise.
+
+Loading base
+
+AGG
+
+if
+

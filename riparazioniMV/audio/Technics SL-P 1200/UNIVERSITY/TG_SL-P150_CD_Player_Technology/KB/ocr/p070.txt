@@ -1,0 +1,93 @@
+15) Description of Modified Servo Circuit
+(MN8373S and MN8374S)
+
+1. General
+
+The servo circuit in CD player with the
+standard mechanism (SL-P150, SL-P200,
+SL-P250, etc) has been entirely modified
+during production. The units containing
+modified servo circuit can be identified
+as follows:
+
+(1). Serial number suffix: Refer to
+supplement.
+(2). A caution label sticking: THE
+
+ORIGINAL DESIGN HAS BEEN CHANGED.
+
+2. Circuit Configuration
+
+The Servo circuit used in the
+conventional FF-1 CD players comprised a
+servo IC (AN8370S) and discrete circuit.
+In contrast, the modified servo circuit
+consists of three IC chips with on
+discrete circuit.
+
+(1). IC-101 (servo amprifier)
+=Processes analog servo signals.
+(2). IC-102 (servo controller)
+=Processes digital servo signals.
+(3). IC-103 (servo driver)
+
+=Drives the focus,
+traverse coils.
+
+The block diagram of IC-101 (AN8373S) and
+IC-102 (AN8374S) are shows figure 17-33.
+
+tracking, and
+
+3. Departures from the Conventional Servo
+Circuit and some Cautions
+
+While the new servo circuit replaces
+discrete components integrated circuits,
+the basic circuit configurations and
+Operations are almost identical to those
+of the conventional servo circuit, with
+the exception of the following details:
+
+(4).
+
+— 70 —
+
+PLL adjustment eliminated
+
+=Servo signals are automatically
+pulled into the PLL lock range by
+using the CLK (88.2KHz) signal.
+
+2.5V reference for tracking error
+and focus error signals
+
+=Because the new circuit operates on
+a Signal +5V supply, the reference
+voltage for the error signals has
+
+been changed to 2.5V as_ shows
+figure 17-32.
+NOTE
+
+The 2.5V reference is also used for
+turntable height adjustment.
+
+Figure 17-32
+Focus and Tracking Error Signal
+
+. RF signal polarity inverted
+
+=An inverted RF signal appears at
+J101. As a result, the RF and
+dropout waveforms have a polarity
+opposite to that of the
+conventional.as shows figure 17-34.
+
+Servo gain circuit and adjustment
+=Focus: 825 Hz 150 mV
+=Tracking: 1.2 KHz 150 mv
+=Tracking balance: 1.1 KHz 600 mv
+
+These voltages are input voltages
+required for adjustment.

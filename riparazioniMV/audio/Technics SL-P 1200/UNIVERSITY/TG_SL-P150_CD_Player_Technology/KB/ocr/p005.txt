@@ -1,0 +1,36 @@
+. ; The signal surface is then coated with a
+6-2 Compact Disc Stamping reflective material (by vaporizing
+aluminium) to enable optical read-out,
+
+The stamper is now ready to stamp and further protected with an eztra
+
+compact discs. The stamping process can coating which will also support the disc
+be injection molding, compression lable. Due to the dimensions of the pits
+molding or polynerisation to make the and the track pitch, special care has to
+impressions in the disc. be taken in stamping compact discs in
+
+order to limit tolerances.
+
+STAMPER
+
+REFLECTION LAYER
+
+SIGNAL SURFACE
+
+PROTECTION FILM
+
+Chart 6-2 Disc Stamping Process
+
+7. Disc Structure and Specification
+
+The digital signal is recorded as pits viewed from the playback laser they are
+on the glass plate surface, but as projections.
+
+Transparent
+polycarbonate
+
+reflective layer b (1)* Protection film
+Laser beam (2)* Al. reflector
+
+Chart 7-1 Disc Structure
+

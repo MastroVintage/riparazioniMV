@@ -1,0 +1,74 @@
+The analog tracking error (TE) signal is
+obtained by smoothing’ the above
+mentioned generated pulses with LPF. The
+above processes are carried out by the
+phase comparator and LPF.
+
+VR102 is the adjuster of the tracking
+
+gain (TR GAIN) and VR103 is the adjuster
+of the tracking offset (TR OFFSET).
+
+(a) Track Deviating Left
+
+A3+A4---1-\-----
+
+V(A1+A2) | |
+
+I
+|
+\
+1
+V(A3+A4) t
+’
+
+mt
+'
+rit
+
+Phase (+)
+difference
+0 0
+
+(-)
+
+(b) On track
+
+The TE signal sppears at pin 6 via TE
+switch. The output TE signal is first
+subject to phase compensation by R61,
+R162, and Clél1, then goes through a low-
+pass filter comprised of Ic-105
+(B),R165, R163, C162, and C163, after
+that finally couples to pin 15 of the
+servo IC-101, where it is applied to the
+KICK and HOLD circuit. As shows figure
+17-11.
+
+(c) Track deviating right
+
+Positive pulses are generated if V(A1+A2) leads V(A3+A4), and
+
+hegative pulses if vice versa.
+
+Figure 17-11
+
+(2) KICK/ HOLD Circuit
+
+The KICK signal is to skip the laser
+beam to other track in the pause or the
+manual search mode.
+
+The timing of KICK is set by the logic
+control signal from the system CPU IC-
+401, and the KICK signal appears at the
+pin 20 of IC-101. The waveform of KICK
+signal are as shows figure 17-12.
+
+— 57 —
+
+The HOLD circuit retains the preceding
+TE signal during KICK mode, also the TE
+switch is turned off during KICK mode,
+Figure 17-13 shows the waveform of
+signal in pause KICK.

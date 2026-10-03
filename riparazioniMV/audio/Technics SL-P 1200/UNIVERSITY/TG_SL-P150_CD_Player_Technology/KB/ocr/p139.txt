@@ -1,0 +1,61 @@
+Press the eject key
+
+Is mechanism eject
+operation activated?
+
+Eject operation key
+System CPU
+
+1C-401
+Motor
+
+M4OL, M&o2
+Drive IC
+
+1C-404
+Switch
+S451, S452, S462
+
+Insert the magazine case
+with disc?
+
+Yes
+
+Does indicator
+
+MAGAZINE illuminate? No
+
+Press the play key
+
+Does indicator
+illuminate?
+
+Play operation key
+System CPU
+1C-401
+
+Is mechanism No
+
+System CPU
+1C-401
+
+Drive IC
+1C-404
+
+Motor
+
+activated?
+
+Yes
+
+M401, M402
+Switch
+S451, S452, $453, S454
+S462
+Sensor
+D451
+
+Read the TOC, and play
+operation start
+
+— 139 —
