@@ -1,0 +1,45 @@
+From FWD pulse
+comparator REV pulse
+
+oO—-0 1C1501
+Traverse
+microcomputer
+1c111
+MN1400
+iC 109
+“PC4066
+J ji9
+3 O :
+g i)
++5V
+[ L a
+TE Hes |
+ot] > Y
+PY oo C132~0135 La
+R171 <a Lp
+(4) — \ Ge oad
+C110 Stator coil
+AN7676
+FWD time REV mode
+
+( inner periphery ——> outer periphery }
+
+70ms
+
+Eig. ‘SD
+
+55 —
+
+(outer periphery > inner periphery)
+
+ee ee a ee |
+DS pee a
+oe ee eon
+
+“LJ LI
+
+— UU
+
+70ms
+
+Stepping motor circuit

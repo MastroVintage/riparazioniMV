@@ -1,0 +1,83 @@
+to the Jumper (RF test Point).
+) on the main PCB as illustra-
+
+Check if APC signal level at ®@of Q101 is "H",
+
+Check of EC signal level at pin @of CN401 is "H",
+
+ipply switch of the Player and
+nen set to play mode.
+
+Focus servo works but
+TOC is not read, or
+noisy.
+
+Probably faulty location
+° PD balance setting
+
+° PLL setting
+
+(Refer to Page 8 and
+12.)
+
+Check RF signal.
+
+(Connect oscilloscope
+to the jumper (RF) test
+point) on the main PCB.
+
+Yes
+Laser diode may be faulty
+if amplitude is below 0.8
+Vp-p:
+
+(SOAD30A)
+
+Readjust PD balance. NO
+
+Yes
+Check best eye pattern. | NO
+(Refer to Page 8 )
+| Adjust tracking offset. | NO Readjust.
+(Refer to page 11. ) (Refer to Page 11. )
+Adjust PLL. No Adjust.
+(Refer to Page 12. ) (Refer to Page 12. )
+
+Must conduct following on
+completion of replacement
+procedure.
+
+° Optical pick-up adjustment
+© Electric adjustment
+
+Replace optical pick-up
+( SOAD30A ).
+
+Does tracking servo
+work?
+
+Check tracking offset.
+(Refer to Page 11.)
+Probably faulty location
+© Servo circuit
+
+Probably faulty location
+©1C101
+
+° Broken PU coil
+
+° Tracking servo driver
+
+Readjust tracking offset.
+(Refer to Page11. )
+
+© PD balance setting
+
+(Refer to Page 8 ) _ (Refer to Page 23. )
+
+Readjust Mechanical adjust-
+ment.
+
+Replace optical pick-up.
+{SOAD30A).
+

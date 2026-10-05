@@ -1,0 +1,19 @@
+. Digital signal processing circuit
+. Function of digital signal processing circuit
+. Configuration of the circuit
+. Signal processing in recording system
+. Shows the processes up to recording signal format
+. Playback signal processing
+. Playback Mode circuit
+10. D/A Conversion and Audio circuit 106 ~ 111
+10—1. D/A conversion and function of audio circuit
+10—2. D/A conversion and audio circuit configuration
+11. Operation control circuit 112 ~ 139
+11—1. Role of operation control circuit
+11—2. Configuration of operation control circuit
+11—3. Operation control circuit operation
+12. FL Display circuit
+12—1. Function of FL display
+12—2. Configuration of FL display
+12—3. FL display circuit operation
+

@@ -1,0 +1,92 @@
+—B DISASSEMBLY INSTRUCTIONS
+
+€
+
+1.
+2.
+
+WN @
+
+How to remove the cabinet
+
+Remove the 4 setscrews [Fig. 1: €8 ~ 8] of cabinet.
+Remove the cabinet in the direction of the arrow.
+[Fig 1]
+
+How to remove the servo P.C.B.
+
+. Remove the cabinet.
+. Release the 2 claws of the holder. [Fig. 2]
+. Hold the stopper with pincers or the like and raise
+
+the P.C.B. in the direction of arrow ® . [Fig. 2]
+
+. When the servo circuit, digital circuit and pitch control
+
+circuit boards are checked, they should be in positions
+as in Fig. 3.
+
+. Release the 3 claws of the holder, then the servo circuit
+
+P.C.B. can be removed. Fig. 3]
+
+¢ How to remove the pitch control P.C.B. and
+reset P.C.B.
+
+1. Remove the cabinet.
+
+2. Raise the servo P.C.B. as shown in Fig. 3.
+
+3. Remove the P.C.B. setscrew [Fig. 3: @ ].
+
+Note:
+Digital P.C.B. is grounded to chassis with ground termi-
+nal fastened with screw @. Connect ground terminal to
+chassis before power supply.
+
+e How to remove the regulator IC (1C81, 1C82)
+
+1. Remove the cabinet.
+
+2. Raise the servo P.C.B. as shown in Fig. 3.
+
+3. Remove the radiator setscrew [Fig. 3: @ ] of regulator
+IC.
+
+4. Completely remove solder from IC terminal.
+
+5. Remove the IC setscrew [Fig. 3: @ ].
+
+6. When fitting the IC, be sure to set t the insulator seat and
+bushing in place.
+[Insulator seat: SFDCCO7-01; Bushing: SFDBCO7-01]
+
+e How to remove the spindle motor drive P.C.B.
+
+1. Remove the cabinet.
+
+2. Hold the stoppers of P.C.B. with pincers or the like,
+
+then remove the P.C.B. in the direction of arrow®@ .
+[{Fig. 2]
+
+Digital P.C.B.
+
+aon
+
+Servo P.C.B.
+/
+
+©
+
+P.C.B.
+Insulator .
+
+Pitch control P.C.B.
+
+Fig. 3
+
+\ °
+BS |
+bushing ey
+

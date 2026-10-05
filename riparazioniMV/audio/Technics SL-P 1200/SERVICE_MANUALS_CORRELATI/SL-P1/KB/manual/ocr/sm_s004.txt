@@ -1,0 +1,204 @@
+DANGER-Invisible laser
+radiation when open.
+AVOID DIRECT EX—
+POSURE TO BEAM.
+
+SRNZO007S05
+
+ADVARSEL-Usynligt
+laserlys udstrdles ved
+
+Sbning. UNDGA DIR-
+°
+EKTE BESTRALING.
+
+“CAUTION-nazaroous Laser, AND ELECTROMAGNETIC a
+RADIATION WHEN OPEN ” a i
+
+"ATTENTION-RavONNEMENT LASER ET ELECTROMAGNETIOUE
+
+DANGEREUX S1 QUVERT” | | =
+$RNZ007C01 } \
+th
+VAROITUS! Laite sisaltaa laserdiodin, 2
+
+|
+
+| joka lahettaa nakymatonta, silmille
+| vaarallista infrapunasateilya. Laitteen
+|
+J
+
+ae ae)
+
+sisalla on laserdiodin laheisyydessa
+kuvan 1. mukainen varoitusmerkki.
+
+m LOCATION OF CONTROLS
+
+@® Play indicator
+@® Pause indicator
+@® Display panel
+© Repeat indicator
+
+Power switch © Play
+button
+i Ider
+@ Disc ho () Pause button
+© Open/close button ® Stop button
+© Numeric buttons
+
+( Forward and backward
+
+@ Memory button skip buttons
+@ Index button © Forward and backward
+@ Repeat button search buttons
+
+( Line out terminals Voltage selector
+(Except for [M], [MC]
+
+areas.)
+
+@® Subcode socket
+
+f) AC socket
+
+@ Power switch
+ePress (m_. HL) to turn power on and press again (H_. =) to
+turn power off.
+When power is turned on, the display pane’ lights as shown
+below:
+
+awn
+wu
+
+ff
+
+nN
+Li
+
+track index time
+If there is a disc in the holder, it will begin spinning, the total
+number of tracks and total playing time of the disc will be
+displayed and the unit will switch to the standby mode." '
+Shown below is the display reading when a disc having
+seven tracks and a total playing time of 49 minutes 58
+seconds is in the hoider.
+
+| 4958
+
+track index time
+
+Note-1:
+
+In the standby mode, the pickup is at the beginning of
+the first track and the display shows the total number
+of tracks and total playing time of the disc.
+
+*The pickup is the device that reads the information
+on the disc surface using a laser. The pickup moves
+across the disc as the disc is played, but it is not
+visible from outside of the cabinet.
+
+@ Disc holder
+
+eThe disc is inserted in this holder with the label side up.
+
+© Open/close button
+ePress this button to insert or remove a disc. When this
+button is pressed, the disc holder opens.
+Press this button again to close the holder.
+
+© Numeric buttons
+
+Press these buttons to specify track and index’ numbers.
+
+Note-2:
+
+ein some Compact Discs, indexes are used to divide
+tracks into smaller sections for easy access. If a disc
+includes indexes, a list of the indexes will be
+contained in the liner note included with that disc.
+
+@ Memory button
+Press this button to enter the track numbers specified by the
+numeric buttons for program disc play.
+Up to 15 steps can be programmed in any order.
+
+@ Index button
+
+Press this button before using the numeric buttons to specify
+an index number.
+
+@ Repeat button
+
+® Press this button to activate the repeat play mode. (Repeat
+play function)
+
+elf the repeat mode is activated during program disc play, the
+program will be played repeatedly.
+
+ePress this button again to cancel the repeat mode.
+(Repeat play can also be cancelled by pressing the stop
+button. In this case, disc play will be stopped.)
+
+© Repeat indicator
+This indicator lights when the repeat button has been pressed
+to activate the repeat mode and goes out when the repeat
+mode is cancelled.
+
+© Forward and backward search buttons
+
+Use these buttons to move the pickup forward and
+
+backward (Manual search play function).
+
+eWhen either of these buttons is pressed, the pickup will
+move slowly at first and then rapidly if the button is held
+down for more than about three seconds.
+
+eUsé the search buttons when the player is in the pause
+mode or during disc play to move the pickup to a specific
+point on the disc.
+
+ePress the ("== button to move the pickup forward.
+ePress the (= button to move the pickup backward.
+Release the search button when the pickup has moved to the
+
+desired location (as shown by the display panel).
+eDuring disc play, search can be performed whilelistening to
+the signal from the disc to aid in locating a specific point.
+The output level is —12 dB (%) compared with the level
+during standard disc play.
+
+@® Forward and backward skip buttons
+
+Use these buttons to move the pickup to the beginning of
+
+the next track in the forward or backward direction
+
+(forward and backward skip play function).
+
+eWhen a skip button is pressed during disc play or the pause
+mode, the pickup will skip the same number of tracks as the
+number of times the button is pressed.
+
+e@When a skip button is pressed during program disc play, the
+pickup will move to the beginning of the next or previous
+programmed track.
+
+ePress. the button to move the pickup forward.
+@Press the button to move the pickup backward.
+eWhen either of these buttons is held down, tracks are
+skipped continuously. (Quick skip)
+
+@ Stop button
+Press this button to stop disc play.
+eWhen this button is pressed, all settings are cancelled and
+the player returns to the standby mode.
+
+@ Pause button
+Press this button to briefly stop disc play,
+eWhen this button is pressed, the player swithes to the
+standby mode.
+®To continue disc play, press the play button.

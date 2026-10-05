@@ -1,0 +1,310 @@
+Drop out
+
+0306 &
+2 AN691I2S 2SA564 2SC828
+
+of new technology.)
+
+detecting
+
+1c301 @ 030:
+
+MS
+f 13
+
+R309 4.7K}
+
+AC306
+246 OSyee” a
+
+Ploy 2ms.5V/DIV
+
+PAu Aaill
+
+Play 2ms. 5V/ DIV
+
+136ys(7.35kHz)  136ys(7.35kHz)
+
+SROPOOCSNO!I
+
+1C554
+
+AN6912S
+
+{0)4.6
+
+: is
+Rx
+
+2 wo
+5. 0. oe
+
+oO 9
+
+g | 10 28
+
+ear
+
+Rx 8
+cS)
+
+c570
+lé6v22
+
+P
+
+P
+
+P
+
+p>
+
+0554
+
+tH
+
+C554 0.047
+
+lay 2ms.0.2wolv_2
+'
+
+R207 100
+Q202
+
+R224 100K? *
+
+Q201, 205
+
+Traverse servo
+
+C218 0.033
+
+D206
+
+R231 1l0OK
+a
+
+R292
+
+x
+@
+oO
+
+0 [13
+> 1g [R238 12K
+©
+
+2010.1 R201 56K C203 220P
+1c208 R205 39k
+0 R204
+2 , [18K
+(
+o *
+Li er iz) >
+mx o | X. Pp
+coxe} ™
+NO +4 i
+[ate) comm)
+nT oO
+-15 Sg
+id
+Focus error amplifier
+1C208
+SV1 TLO82CP
+0304 Tracking error amplifier
+MA4056 €208 180P
+t— C206 0.1 R212 56K R216 39K
+Se
+R213 0 e
+15K fe}
+
+2SD1266 R293
+
+1c25!
+
+ANG6S54NS
+
+¥
+
+1C201 ,
+
+ANG554NS ve oeos 2 |
+
+WON
+
+51620! Lf -
+pnts ©)
+
+2SC 1047
+
+R551 15K
+
+2SD1252
+
+D554 Play 1.56
+
+MA4056 | bAN
+
+DS51
+
+MAI65 R590 10K °
+ao)
+
+Q551
+
+ihe)
+
+MN4066BS
+
+AN7679S
+
+R562 100K
+
+WA
+
+/
+
+2SC1328
+
+R556 3.9K
+
+R563 10K
+
+E | fase, jo.
+
+136 ys (7.3 5kHz)
+R591 27K
+
+SVITLO82CP
+
+R567 10K
+
+R566 10K.
+
+4.8) }(4.8)}(4.8) It
+
+CLV control
+
+2us, 2V/DIV
+
+IR564 3.3K
+
+c2lo} R22I
+0.082} 56
+
+1C255
+
+MN4030BS
+47
+
+rs
+
+Ny
+
+C573 I6VIO
+
+A
+
+{3.610
+
+R258 33K
+
+adj.
+
+Tracking
+control
+
+R568 IOK
+C557 50vI
+559 0.27)
+50v2.2
+
+Se
+
+C561
+
+C563 50V0.22
+
+R575 33K
+
+FH
+
+t
+¢c
+
+R574 C567)
+
+3.3K 0.18
+R587 680K
+
+o| C221 470P
+
+MN4011BS
+
+oO
+2
+a
+<
+
+1
+
+c2i7 0.01
+
+AN79MI5
+
+Tracking offset
+
+2
+
+ow
+0201 sgt
+MAI65 °°+ MN
+
+a
+ix
+g
+
+Ro
+
+02
+SVDS!1WB40
+
+fey
+
+nN
+
+C223 0.001
+
+TR ON signal
+processing
+
+2
+Wt
+wal
+
+N)
+a
+
+Hy
+
+MN4001BS *
+
+rs
+
+C23 16VI0)
+
+C3! 50V4.7/—
+
+or
+On
+
+ON 44
+—@irvv -
+
+4
+J
+
+CNIO7
+
+SRDPOOBNIO
+

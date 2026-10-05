@@ -1,0 +1,163 @@
+@ BLOCK DIAGRAM
+
+Compact Disc
+
+Spindle
+Motor
+
+Optical
+Actuator
+
+Data Slice/
+
+Traverse CLV
+Motor Control
+
+nerotor
+
+Focus
+Control
+
+Actuator
+Drive
+
+Loading moran
+Motor Drive Remote
+
+Control
+Sensor
+
+Focus servo
+
+IC1Ol
+AN7677S
+
+| reas | |
+
+VRIO3
+Balance adj.
+
+-5V
+5V -5V VRIO2
+Goin odj.
+VRIO7
+Off set adj.
+L | 5V >5V
+VRIOS VRIOG
+. Gain adj. Off set adj.
+Tracking servo Lik Sain ogi. 4
+16 17 21 4 7
+B2
+BI
+Balance adj. 5V \ 5V
+VRIO4
+
+Sv
+
+Clock Rege- > Demodulator
+
+| Operation Display
+Contro{ Drive
+Motor
+Drive Display
+
+Error
+Correction
+CIRC
+
+Rey Contro}
+
+EFM
+
+ES
+
+Eg
+D/A
+Deglitch
+
+[| Phones
+
+External _—Nv
+
+terminal ro
+Synchro record a
+terminal
+{L) (R)
+LINE OUT
+
+1 $10 S20
+Remare ee
+Control HIT I 1 99°58
+
+Control
+Keys
+
+5Vv 5V
+5v
+Drop out detecting | 9302 |
+)
+5V 9301 5 LS
+9304 SS
+
+Toit
+® QO Po
+€) a>
+
+ul
+f 3 TRV DO
+
+1C301
+
+Drop out signal
+dO
+
+® “Yo305
+
+TT ON
+
+C103 Or 1C201
+
+WW soo I
+
+1C253
+7 TT7
+
+Tracking error amplifier
+
+Actuator drive
+
+ve
+
+Q201
+
+TR ON
+
+jo402,
+
+-5V
+
+I5V CLV control
+
+-) r 10552 i
+
+1552
+
+I5V RF signal waveform shaping
+
+- AD [lane 508
+
+Waveform
+Processing
+
+9
+
+1C401 PLL
+
+freerun frq. adj.
+8 2 3
+1
+14GS
+T Ic4ol
+8 10
+9g rane
+

@@ -1,0 +1,81 @@
+P7 SL-P7
+
+© How to remove the turntable mw HOW TO REPLACE IC’S (Small outline type)
+
+1. Remove the spindle motor drive coil P.C.B. [Refer to
+
+“How to remove the head amplifier P.C.B. and spindle 2 C-ring Replaci ced Cautions
+motor drive coil P.C.B.”’] eplacing procedure
+2. Remove the C ring from the shaft of spindle motor. Shaft cover : 1 Reduce the amount of solder on each @ Recommended too!
+[Fig. 15] . pin of the integrated circuit by use of .... Special soldering iron
+3. Remove the screw [Fig. 15 : @ ] by use of a hexagonal a solder sucker. (with spare chip) HM-354
+. wrench. Then the capstan shaft can be removed. ; Spring Solder Spere | @ Do not touch the soldering iron to
+If the turntable is removed, it is necessary to re-adjust sucker chip the area for a long time. It may
+the height of turntable. Turntable otherwise cause removal of the print
+" foil.
+e How to remove the laser pickup Laser Pick-up 2 et te th ah the pin (one © When shifting the pin upward, do
+1. Remove the head amplifier P.C.B. [Refer to “How to electrode} with the soldering tron. the job quickly while the solder
+remove the head amplifier P.C.B.”.) is melting. If the solder is hard, it
+2. Remove the bracket setscrew [Fig. 14 : @ ] of pickup. “W may cause removal or breakage of
+3. Remove the loading guide holder stetscrews [Fig. 11 : the print foil.
+® ~ @ ], (Disc holder is fitted to loading guide.) © When using a pencil type solder-
+4. Remove the guide rail retainer setscrew [Fig. 15 : ®). 3 While the solder is melting, shift the ing iron.
+and pull the laser pickup out of the two guide rails. pin upward by the soldering iron to 1. Completely remove the solder
+5. Pull out the 2 connectors [CN304, CN305] of head remove it from the foil. from each IC pin by use of
+amplifier P.C.B. [Fig 14) et. W solder sucker. :
+*After replacing the pickup or fitting it again, it must be ® 2. Raise each pin by means of
+re-adjusted. Guide rai! an eyeleteer, hold the pliers
+Remove each pin from the foil then remove IC package from
+Fig. 15 according to the above-mentioned P.C.B.
+procedure. .
+m HOW TO REPLACE CHIPS
+(Resistor, capacitor and jumper)
+« Removing procedure m RESISTOR AND CAPACITORS
+1. Completely remove the solder from both ends of the Notes: 1. Part numbers are indicated on most mechanical parts. 4. Untess otherwise specified.
+Please use this part number for parts orders. All resistors are in OHMS (Q) K = 10002, M = 1000k2
+
+chip by use of solder sucker.
+aaa : i i ROFARAI F) P= 10% uF.
+2. Touch the soldering iron to the end of the chip as shown All capacitors are in MICRO’ DS (uF) #!
+
+in Fig. 16, then turn the tweezers in the direction of
+
+the arrow.
+eS > Soider
+
+2. Important safety notice:
+Components identified by A, mark have special characteristics
+importnat for safety. Wnen replacing any of these components
+use only manufacturer's specified parts.
+
+3. This ‘“G" mark is service standard parts and may differ from
+Production parts.
+
+Tweezers
+
+Witout color cord With color cord Numbering System of Resistor Numbering System of Capacitor
+Chip resistor Example Example
+Do not re-use chip resistor or capacitor without color Fig. 16 ERD 25 F J 101 ECKD 1H 102 z F
+cord. “Type Wartage Shape Tolerance Value “Type Voltage Veiue Tolerance Peculierity
+
+e Replacing procedure 50 M R47 R
+
+1. Place solder on the foil where the chip is fitted.
+Then solder the chip by holding the soldering iron as
+shown in Fig. 17.
+
+Soldering iron
+
+Note: _ ; one ERD : Carbon 25: 1/4W Tolerance
+1. If the chip jumper is removed, connect a coated lead ERG : Metal Oxide 1:1W
+wire to the part. (See Fig. 18). = ERX : Metal Film Electrolytic ; ; + 25%
+Chip jumper is marked with “J” on the printed circuit SER RR SE ATRANANLUCERRRARRURLRTORSSAN Ceramic : : + £10%
+board. Fig. 17 ERDIOTLJ OOD — chip type carbon (1/8W) : nore : : : oe om
+Coated lead wire . . Ecuv1H OOD—— Chip type ceramic : Ceramic : : + £20% ,
+¢ Note for replacing chips ERDS2TJ OOD—— smaii type carbon (1/4W) :
+1. Do not heat the chip more than 3 seconds. EROS2TKF OOD —— Small type metal film
+Solder Solder 2. Do not rub the electrode against the chip. (aw)
+3. Use the tweezers with care not to damage the surface
+of the chip.
+4. It is desirable to use a pencil type soldering iron. And
+Fig. 18 use soldering iron less than 60W.

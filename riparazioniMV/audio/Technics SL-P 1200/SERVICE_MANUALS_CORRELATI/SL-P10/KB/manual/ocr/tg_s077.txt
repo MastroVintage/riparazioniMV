@@ -1,0 +1,65 @@
+Drop-out
+
+signal
+Drop-out
+= * signal
+Drop-out pulse adj. :
+Srorp - <12>- 4
+1C903 : 0
+SVIHD74LSOOP i
+y.
+1VIDIV, 0.5ysec ~
+3
+°o 0902,903 iC90l =
+2sci2i5 2SC828 SVITL8IOCP Ss
+= es : = : —> CN605
+[ 905,906,908 Q907 Q90!~903 IC 904 B cn04
+_— 28D636 250638 MAIO56 MN4011B ;
+~ = $_—_——_—_——$§<12 fig
+- ' _ 5 4148
+| Drop-dut control Ea
+Ox, =
+Sis >
+Lead-out Lead:in Se oO
+| 5 - a 1C907,903,1001,1002 -> CN901
+| 5 ss MN4OIIB £919
+CN902 <— &3V00
+- F.L. all-segment aaa
+2V/DIV, Smsec MS lighting prevention
+16907 se 4004 i
+a 8 0.5 res ¢ Ss ic1002
+5) < oS MN40238
+_ 1C1002
+| j iciz03 SVITC5O024BP Time error display prevention as 5109!
+CNI201 aT me oe aon TY tee “ SMAISO
+creo! | 4 al reO02 ,, ‘C1004 7ms
+> 45
+[as] oe 11202 9 5 a ¥
+70) 12 ri ig8 452 ie)
+ies - c1oo”
+7 4.8) a2 SL F
+ss B00 264202 Q
+(c1201 ; 02
+4 MN4013B8 reNPAG
+2V/DIV, 5msec
+- 7ms
+tT;
+0
+Ic1206
+MN4025B
+CNI204 \ :
+] 14ms 5 14ms 6
+. a tT
+—» CN750 . 0
+—— mi CN1204
+CN1203 = r 7. “| Fwo | FWD ] REV | REV
+: FWD | FWD REV REV | BADED Rae Traverse motor apntrol Stop | Play search search | search | search
+Stop Play search | search | search search —— i | {tow | High Low High
+; Low | High | Low High | La] 3 pj 6) 8 ®
+EE 0 i) o | 0 5 5 | 2 o | of o | 0 5 5
+725 0 0 oe 5 5 5 [3]; o | oO 5 ae
+rer) 2 _o0 [0 5 0 5 | [4 0 0 0 5 | Oo i:
+4 0 5 5 0 5 | o | . : 7 OF ' 5 0 5 5 0 5 0
+Sse on - Fig. 8-5. Drop-out detection circuit
+
+— 88 — — 89 —

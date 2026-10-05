@@ -1,0 +1,112 @@
+Color
+
+ervice Manual
+
+Compact Disc Player
+
+ORDER NO. DAD84100105C0
+AS
+
+(DIGITAL |} S | - P92
+
+(S)...Silver Type
+(K)...Black Type
+
+{EB] ...Belgium.
+
+[EH] ... Holland.
+
+{EF] ...France.
+
+) | [Ei] ...{taly.
+
+) | [XA] ...Southeast Asia,
+Oceania, Africa,
+Middle Near East and
+Central South America.
+
+(S) (K) | [XZ] ...New Zealand.
+
+(S) (K) | [PA] ...East PX.
+
+(S) (K) | [PE] ...European Military.
+
+(S) (K) | [PC] ...European Audio Club.
+
+Color | Area i
+(S) (K) | [M] .. U.S.A.
+
+(S) [MC]...Canada.
+
+(S) (K) | [E]  -..Switzerland and
+Scandinavia.
+
+) | [EK] ...United Kingdom.
+
+) | [XL] ...Australia.
+
+) | [(EG]...F.R. Germany.
+
+)
+
+)
+
+)
+
+m@ CONTENTS
+
+Page
+SPECIFICATIONS (English) .. 1... +6 eee Cree Tr ree nae eee essa
+TECHNISCHE DATEN (Deutch)... 2... eee teres pee ewes eee eees 23
+CARACTERISTIQUES (Frangais) .... 6-6 ee eee ees pewter ee we eae 3,4
+ESPECIFICACIONES (Espafiol) .......--- samen hS 8433 HRS Cee ee eee tee 4
+SAFETY PRECAUTION. .. 0... 2-200 eee eer ett Cee ee ee 5,6
+LOCATION OF CONTROLS... 2... eee eet eet eters er)
+FUNCTION .....-- 000+ ee eect etree teteee AWB CEE EE Ao ee ws 7~9
+INSTALLATION. 2... ete eee eee teeter eee ees 10
+CONCERNING COMPACT DISCS... 1... ee ee eer ete eet tees 10
+PLAYING ADISC ..... eee eee ete ee terete teeter ree ees 11~14
+DISASSEMBLY INSTRUCTIONS .. 0... 0-0 eee rere rere tenes 14~19
+HOW TO REPLACE IC’S (Smail outline type) ee ee ee ee ee 19
+HOW TO CHECK THE PRINTED CIRCUIT BOARD... ...- eee te ee ee 20, 21
+TERMINAL FUNCTION OF MICRO COMPUTER ....---- esse rrr rrrrerrrcee 22,23
+REPLACEMENT PARTS LIST (Electric Parts). 0... et ee ee eee 24
+RESISTOR AND CAPACITORS... . 6... 0s eer rere erent renee 25, 26
+REPLACEMENT PARTS LIST (Mechnical Parts) 2... ee ee ee ee ee 27,28
+
+EXPLODED VIEWS
+Cabinet and chassis parts... 0 eee ee te ee ee ee eee 29,30
+Loading drive mechanism and optical deck unit parts... 2-2 ee ee tes 31
+Remote control unit parts... 6. ee ee ree eee 32
+HOW TO REPLACE CHIPS... 1... eee eee eee tte eee ees 32
+PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM. ....- +++ eee 33, 34
+PRINTED CIRCUIT BOARDS .......- 02s etre terete etter tees 35 ~ 40
+SCHEMATIC DIAGRAM ... 0.26.02 cee eee rete tte ees 40 ~ 44
+BLOCK DIAGRAM. .....-0 0-2 cere eee terete teen ene 45 ~47
+PACKING. ... 0000 cee eee eee ee ee etre ete eens ee eens 48
+ADJUSTMENT MANUAL... 0.006. eee et ete ees Inserted
+
+Matsushita Engineering and Panasonic Hawaii Inc.
+Service Company 91-238 Kauhi St. Ewa Beach
+50 Meadowland Parkway, P.O. Box 774
+
+Ti @
+echnics Secaucus. New Jersey 07094 Honolulu, Hawaii 96808-0774
+Matsushita Electric
+
+of Canada Limited
+5770 Ambler Drive, Mississauga,
+Ontario, L4W 2T3
+
+Panasonic Tokyo
+
+Panasonic Sales Company,
+Division of Matsushita Electric
+of Puerto Rico, Inc.
+
+Ave, 65 De Infanteria, KM 9.7
+Victoria Industrial Park
+Carolina, Puerto Rico 00630
+
+Matsushita Electric Industrial Co., Ltd. Matsushita Electric Trading Co., Ltd.
+4-2, 1-chome, Shibakoen, Minato-ku, Tokyo 105 Japan P.O. Box 288, Central Osaka Japan

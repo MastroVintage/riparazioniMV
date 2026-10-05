@@ -1,0 +1,74 @@
+\RD AND
+DIAGRAM
+
+Power source '!
+P.C.B.
+
+Traverse
+motor iN J
+
+22 | Regulator IC P.C.B.
+
+6 1 Solder
+
+1FC214 | side
+SS
+
+Headphone
+P.C.B.
+
+1 2 CN214
+~~ — Servo iad O1| © [aaCN2 10 i
+S N
+5 2 LLL LILI
+. O Id Parts side OF
+Solder side _ aS
+&. Headphone amp. P.C.B.
+37 vn 3g
+5 — x Zz *
+_&
+_ Me Brown iai
+99 Digital PC.B.
+: 102
+Op
+= — = Parts side Pitch control P.C.B.
+z
+z Zz
+305)§CN304 eh. _ 23
+1 7 ! ~ -
+Q 1 9 om Ports
+e
+“Bs 5 © BT215 N |
+_F4 - o +8 a 5
+= N m o CN207 o
+) m = 5
+rts side 9 do o 2
+5 _
+{amp. PC.B. - 0 8 9 13
+= S q 13 cN211
+2 2 13 1B zZ BE CN206 Blue -
+ORE CNIO29ICNi04]CN 105 Of Orange —
+2
+7 |
+5 i} 6
+i 12 I 7
+| Ty iy ET CN209 CN216
+Brown Bw
+S607 <a,
+(Close) @ Red
+$603 Red ori
+(Close) Brown
+_— Ke Rea Loading
+° KT motor
+(Open) LO] Brack Red . Remote control
+S608 g — Display P.C.B. receiver
+P= EL
+Brown S605 (End) Solder side ;
+Yellow
+Pp )—- Ic6l2@
+Orange §=$604(Rest) ic6i2®
+Solder side Ic6l2 &
+104 Keyboad P.C.B. 106510)
+CN605
+a mm | sg
+

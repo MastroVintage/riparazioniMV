@@ -1,0 +1,98 @@
+ven U4 {- fol P13 PA2 [5
+LOO, | HESTt]) PAL feos |
+TST CN i SYNC | OL PAO
+eo 3] sige | & [P93 2 p> 0 Q
+| TRE | | P92 Ist | “> b—
+\ ros SBT ©] Pot [sol ! 2 t=
+re Oe z P90 |ag —_—4f>$ 4 —
+17] RST | | P83 4p a—
+18} P20 PS2 (47 b— ICTt
+p2i |) o\ PBI t—
+3 | 20 p22 | 2 | peo d—
+= ; | oe | p23 | 2) p73 bal +
+ay ie ot72| P30 p72 {43} —— +
+aa 23, Pal 5 5
+g || | P10 lat pee =
+Ss) i
+25, P33 P63 40 - in
++ eal Pao Pa2 sie LPS 6° So
+gt | eee
+att par] ete -
+: P53 [>t 8
+30] P50 “HLDM Iew3 = ICH
+<a VMM Bal ped -
+Ps? VoD Bak ——
+i 1eH3 _-ICH2
+= |
+14 | R704 (38Kx4) a} S '
+T Lele 1~ Ss ral
+‘el 2] [ily | | 178 e712
+2 =| 5 tH bed L
+| par Ivins
+R703
+(47Kx 6)
+Lt | | i eae
+| I5
+_ aa ’ is S 1C713
+i ‘ = = re S = + sahcincigeal
+<= 34| TEST 10 MCK ' 5/2 |
+i  eearer cacKio——+ LE TT | | “S181 | | SVIHD74LSO5P
+|34|TEST 4 | NDRI a7 —
+smsrs) | [pa aH {
+gitesTé! = [pwiA! [27] t
++29 TEST ECLK 2+ + 4 a
+40/ TESTS MUTE e5+-+-—
+— a AICIADRY [MUTE 2/24}
+—>b {a2(CiADRB i —
+—¢ 43/CiADRT Busy |22 4+
+—a—+14aleiADdRe aD0[2i-+++ a— Lis -
+— D7 SICIADR gd t {20} b— Sanne |
+= — [ad21191 Cc 23 ete
+—d eos d—
+—a ras |ciADR2 © SWE |17} Mt
+—b 49|CiADRI| 2 |_QAO [t+
+=f = oat lis SHE [
+tater aa RA 2 [14 } Random access
+DATA 6 | @A3 1i3 memo
+— aie Cae =m
+ae a — [PDATALHH =e J | | Innermost periphery
+san we Sait —> ; detection signal
+, 2 (0 ‘ =
+ae RWDATAL 8 | ys
+pe Rwek | 7] 8
+GITEST 9 | BLKCK| 6} {
+Cc olresr [cFRCK| 5] _ IC7I0 (%) 3} Hy
+CLOCK EFMOUT| 4 > F oO Sei, ,
+Wieseera R a4} — 4.5 “4 FWD counting
+eau 163] VALID poxS@ [2-4 | =
+Kal c Ana.ams) =
+6 tt
+5 2
+°
+
+R70! 10K
+
+data select
+1€709 (4)
+4 6
+
+ia
+
+Chip select
+
+1709 (¥3)
+
+43
+
+CLV control TI 4 Li’
+
+0 7ms
+
+C709
+SVIHD74LSOOP
+
+7ms
+
+Fig. 11-8 Data transfer from MN6610
+
+—119—

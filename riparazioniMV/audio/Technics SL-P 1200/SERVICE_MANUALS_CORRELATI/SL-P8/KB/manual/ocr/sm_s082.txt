@@ -1,0 +1,102 @@
+[4] How to check Power Supply Circuit (Firstable check the Power supply circuit before check the other circuit)
+
+P.D.
+Power circuit
+A.A.C.
+
+CN107 pin@)...+12V [No
+
+Power Circuit.
+A.A.C.
+
+Traverse Servo
+
+Tracking Servo
+
+Focus Servo
+
+Loading Mechanism
+
+1C251 Pin @
+
+1C251 Pin @)
+
++5V 1C205 Pin
+
+E | 1C201 Pin
+S| 1C604 Pin@® 1C208 Pin
+
+Q605
+
+0205 ©
+
+0206 ©
+1C205 Pin @
+
+1C101 Pin
+
+1C103 Pin
+1C102 Pin 45)
+
+1C102 Pin @5)
+©)
+
+1C253 Pin 6)
+IC255 Pin @)
+
+OKETO)
+1204 Pin @@)
+1C207 Pin
+
+1C209 Pin
+
+1C101 Pin @
+1C102 Pin @
+1C103 Pin @)
+C104 Pin @
+1C305 Pin @)
+
+1C103 Pin @
+-8V F7 1c102 Pin @
+
+CLV Servo RF Data Pick-up
+
+1C105 pin @), CN107 PD
+CN201 Fin D @ pin @, CN201 pin ) 1C105, 106, PowerCircuit |_| CN201 pin @ @....
+AAC po, AC22V
+
+IC81pin@ ... +15V Veet
+IC82 pin @) ... —15V ele
+
+D/A Cor
+
+Digital Signal Processing
+
+Drop-out
+
+1C553 Pin 0302 ©
++15VI1 0552 Pin Q304 © 1C705 Pin @)
+IC501 Pin D® 1C301 Pin @) 1C701 Pin 2)@)
+1C702 Pin 48)
+1C704 Pin 24)
+
+1C402 pin @
+
+1C401 Pin
+1C404 Pin
+1C405 Pin
+
+1C703 Pin ()@)
+
+10552 Pin @
+1C554 pin @)
+2208 ©
+
+1C408 Pin
+
+COOKIE)
+
+1C407 Pin @)
+
+QOOY
+

@@ -1,0 +1,51 @@
+5. Traverse servo circuit
+
+5—1. Function of traverse servo
+
+Traverse servo functions to move the whole of optical PU
+from inner to outer and outer to inner periphery.
+
+The tracking servo moves the object lens in the direction
+of tracking to follow the track, while the travese servo
+covers the radius of disc.
+
+That is, tracking servo operates on the extended line of
+tracking servo, and moves the traverse base (whole of ovti-
+cal PU) when the lens is inclined by a specific angle. Thus,
+the lens always follows the track of disc within the range
+of tracking servo.
+
+5—2. Configuration of traverse servo
+
+Traverse base Tracking error DC level component
+Optical PU / signal of tracking error
+
+Drive pulse
+
+\
+
+Traverse
+microcomputer
+
+Comparator
+AN 7676
+Stepping
+motor
+drive
+
+Reference
+
+. voltage
+
+Mode command
+
+FCN ... LPF ON/OFF switching signal | System
+
+MN
+FCC ... LPF filter selection signal 1564
+
+microcomputer
+
+Fig. 5-l Block diagram of traverse servo
+
+—45—

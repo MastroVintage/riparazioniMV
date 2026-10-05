@@ -1,0 +1,49 @@
+Data transfer between system microcomputer and MN1542
+
+Data transfer (MN1564 - MN1542) for display and its reception
+check signal (MN1542-—» MN1564) are handled between system
+microcomputer and display microcomputer (MN1542).
+
+System microcomputer (MN1564) Display microcomputer (MN1542)
+
+Fig. 11-13 Data transfer between MN1564 and MN1542
+
+The input/output terminals between system and display micro-
+computers are shown in Fig. 11-13.
+
+ASE pees ee (Data transfer clock
+(MN1L564 — MN1542)
+
+Check signal transfer clock
+L(MN1542— MN1562)
+
+SED: acess [Data transfer line
+(MN1564 — MN1542)
+Check signal line
+(MN1542—>» MN1564)
+
+ie
+
+Transfer method and timing
+One unit for data transfer is 8 bits.
+
+Check signal ("H" for all 8 bits) is delivered from display
+microcomputer every 8-bit data from system microcomputer.
+
+The timing is shown in Fig. 11-14.
+
+Data transfer
+range
+
+Check signal
+range
+
+SBT
+
+SBD
+
+Data
+
+Fig. 11-14 Transfer timing
+
+— 126 —

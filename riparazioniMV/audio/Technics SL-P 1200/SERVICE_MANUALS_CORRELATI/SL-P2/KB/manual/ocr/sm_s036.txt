@@ -1,0 +1,191 @@
+4
+
+pply circuit
+
+DPOOINOSG
+ey cl 1c2 1c3
+SVDSIWB40 AN78MI5 Ich AN7ONI5 AN7805
+‘224 1 As 15.0 |
+aor 4 Z| I er
+“T + 9 n |+ ©
+| ' oon 2 oz
+H °@ 837° 319
+; ” Q Tal” ( cneos
+ri | S
+a! ; 8 a
+3 | ssf 5
+Q L--t--4 rat ro
+R13 ~ 06,7
+33 @maiso
+1C4,5,
+C24 16V2200 SVIICP-FIS
+1c4 lst2
+D2 rs
+SVDS2VB20 Ic3 104
+x Ics 3
+Aoz. 7 loa Oo
+; sh] — CN410
+io) =
+1 | 6
+i)
+os! of A
+Ut a
+¢25 0.01 (ll
+D3 Ql
+MAi240 288644 92,3 2SB64 |
+D601 ~ 609
+MAI65
+Td
+
+|
+
+D607
+
+a
+a Co
+a ee
+Co ee
+8 nu
+g 3
+(oO)
+S605
+ss
+
+Dn
+fy
+3
+4+
+i (0)
+624
+lO
+a O-4
+(INDEX ) (9)
+S627 $625
+2. paom
+53 5
+on (ea)
+S628 $626
+paromn a
+o o o>
+
+(7) (4) |(M.Scan) (MEMO) | (R. Times
+S621 S68 s6I5 $609 S606
+~O. _. 2. _. oO
+5-6 5 0 oe 5 6 oe
+(6) (3) |(A=8) (ca) (b>)
+$622 SéI9 S6I6 S610 S607
+2 oe —o. —o 2
+oO oO rome SO 5S 6
+(5) (2) (Od) (<0)
+$623 $620 séll $608
+_. oO. a 2.
+oO 56 ae oO
+
+e Focus, tracking servo and laser power control circuit
+1 2 3 4
+
+Focus servo
+
+ee ALE
+LJ
+1clo2 5 to Lor
+AN79NO Ty F
+oH be 7677
+AN S
+ictal
+pio! | O-~O—0O)-0-8-9)
+i 3.5} (0) fe] +O.6 .
+(O}m sxx m 0x
+. excer a zm
+By [are 5|_- Fd 2.
+SF agte sf Toe
+23 s8 al sf [°° Lvrioz
+
+SRDPOOINOS
+
+AN7678S
+
+Qigi
+
+| 2SB64 |
+
+[ix]
+eee
+D $346 bo
+[_T.
+
+ti ss a
+
+2msec O.1V/01V
+
+ANA | 200mvp-p
+
+CNIO3
+
+Actuator drive
+
+C13!
+0027 820
+
+RI3I
+
+ie)
+D BK
+ev fo) 2msec O.2V/0!V
+$5 IC 105
+53 aire | AN6554S
+<q 15K
+
+Tracking control
+
+RIT Qos Woe
+177 |.
+
+‘oe
+
+C17
+9 0.027
+
+rt + CNIOI
+8 RIS rss Tracking
+3 ! eel error amp.
+Fs
+
+Qi @—F [ea [a2 |
+pt
+pal
+
+; VRIOS 4.7K(B), K3t—H
+I Tracking servo To |
+ee} ey
+Sf a
+
+SRDPOO7N35
+
+coor = MNI@O2PCT
+
+OSC Voo SNSI SNSO DOO DO! 002 003 TST
+
+Copa 3
+R6I7
+{Po 3
+Ce
+Cc
+| O613 D6I4~6!17
+SVDGL-9PR4 MAI65
+
+aio7,109 & Q105 tol
+2SD973A 2SK301 2SD638 5
+aios,ii0 & alos Q102,103,104 bs
+2SB793A UN4212 2SB641 =
+
+Laser power contro|
+
+PHOTO DETECTOR
+
+SRDPOO7N32
+
+SRLPOO7NOIA
+
+OPTICAL PICK-UP ASSY
+

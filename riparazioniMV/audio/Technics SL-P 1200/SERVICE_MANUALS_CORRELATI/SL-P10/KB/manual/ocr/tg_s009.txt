@@ -1,0 +1,42 @@
+2—3. Optical pick-up and traverse unit
+
+Focus lens
+(Movable lens)
+
+Actuator block
+Actuator
+
+Quarter-wave plate
+
+Laser Diode
+
+Beam sitter ——-{ (|
+
+Travers Structure Diagram Laser Pick-up Block
+
+| eee es SD
+
+lap
+
+Laser diode
+Collimator lens
+~e, Diffraction grating holder
+
+Optical block case
+
+44\. Focus lens —
+% “ a
+Po wave plate ae \" Photo detector
+
+a
+=e a
+\ Laser beam
+
+—
+
+= \ Optical grating
+\Collimator lens
+
+\ Laser diode
+
+Fig. 2—2. Configuration of optical Servo

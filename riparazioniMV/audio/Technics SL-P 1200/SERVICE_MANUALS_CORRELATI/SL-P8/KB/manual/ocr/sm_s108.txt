@@ -1,0 +1,27 @@
+13. Amp. Gain Adjustment
+
+(Visual check)
+
+1) Push the power switch “ON” of the set.
+
+2) When push any key of the transmitter,and confirm a sensor LED on the front panel of the set to
+light. and then keep a distance about 7m between transmitter and receiver in a straight line.
+
+3) And confirm a sensor LED whether it lights or is doesnt.
+If it doesnt light adjust R1103,so that the sensor LED will be lighted.
+
+14. Tune Voltage Adjustment
+
+1) Push the power switch ‘‘ON” of the set.
+2) Connect the oscilloscope to the anode of D1102.
+
+3) Press any button of the transmitter about 7m distance between each other.
+(Receiving the signal from the transmitter).
+
+4) Adjust the T1101 so that the waveform of oscilloscope is maximzed as below.
+
+36.67kHz (carrier)
+
+maximized
+
+—~13—

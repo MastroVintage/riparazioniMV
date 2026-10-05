@@ -1,0 +1,234 @@
+Ref. No. +
+
+Change of Part
+
+OLD
+
+NEW
+
+R655 ERDS2TJ103
+ERDS2TJ184
+
+Description
+
+Deletion
+
+ERDS2TJ103
+
+ERDS2TJ394
+ERDS2TJ103
+ERDS2TJ103
+
+Deletion
+
+Deletion
+
+Deletion
+
+ERDS2TJ274
+ERDS2TJ103
+
+D
+i
+
+R803
+R804 EROS2TKF4301
+R807
+
+R819
+
+ERDS2TJ103
+EROS2TKF1502 | EROS2TKF6801
+
+EROS2TKF4701
+R808 EROS2TKF2401
+R815 EROS2TKF1502
+R816 EROS2TKF4301
+EROS2TKF4701 8200, 1/4W, £5% Change
+R820 EROS2TKF2401
+
+6.8kQ, 1/4W, +1%
+2.2kQ, 1/4W, £1%
+8200, 1/4W, +
+0, 1/4W, +5%
+6.8kQ, 1/4W, 41%
+2.2kQ, 1/4W, 41%
+
+Deletion
+
+Deletion
+Deletion
+Change
+Change
+5% Change
+Change
+Change
+
+Change
+
+3300, 1/4W, £5% Change
+
+CAPACITORS
+
+ECKD1H102KB
+
+O.01yF, SOV, *89% Addition
+
+0.001pF, 50V,+10% | Addition
+
+Change of Part oo.
+Description Remarks
+ee
+
+ECKD1H103ZF | ECQMIH104KV 0.1uF, 50V, +10%
+
+ci2i
+
+ECKD1H391KB | ECQM1H332KV | 0.0033yF, 50V, +10%
+ECEAIEN4R7S | ECEAICN100S | 10uF, 16V
+
+C402
+
+C105
+C116
+C431
+
+ECEAQJU101 | ECEA1AU101 = | 100uF, 10V
+ECFRIH104ZF | 0.1F, SOV, *29%
+
+Addition
+
+C516
+
+C517
+C602
+
+C651
+C652
+C653
+C654
+C655
+C656
+C806
+C812
+C853
+
+C621 ECKD1H471KB | ECCD1H1010
+C622 ECKD1H101KB
+
+ECQMIH123KV | --seteo
+
+ECEAIHUOIO = verte’
+
+ECKD1H103ZF | ECFF1H104ZF O.1yuF, 50V, +820
+
+ECKO1H103ZF | ECFF1H104ZF O.1pF, 50V, 7880
+
+0.1yF, 50V, *82%
+
+ECFR1H104ZF
+
+Addition
+
+100pF, 50V, £5% Change
+
+Deletion
+
+ECQMIH102KV [ovreerree 0 feeereerees Detetion
+
+se veenaees Deletion
+
+ECQMIH183KV | overt te
+ECEA1HU010
+
+Deletion
+
+Deletion
+
+sree eeces Deletion
+
+ECFR1H104ZF
+ECQP1102GZ
+ECQP1102GZ
+
+Deletion
+
+ECQM1H222KV | 0.0022uF, 50V, +10% | Change
+
+ECQM1H222KV | 0.0022uF, 50V, +10% | Change
+
+rensaeenes ECFFIH104ZF =| 0.11F, 50V, *32% Addition
+
+ECFF1H104ZF
+
+0.1nF, SOV, +39% Addition
+
+ECKD1H102KB
+
+0.001puF, 50V, +10% | Addition
+
+the connectors.)
+
+Clock frequency adjustment
+. Remove the cabinet and front panel. (Do not remove
+
+. Connect IC601 pins 11 and 12 to pin 27 (+5V) of
+keyboard/display (04). P.C.B.
+
+, Connect the frequency counter to 1C601 pin 3.
+
+. Turn ON the power switch.
+
+. Adjust VR601 so that the frequency counter is
+25.6 kHz + 0.2 kHz.
+
+[YJ Keyboard/display P.c.B.
+
+™@ MEASUREMENT AND ADJUSTMENTS
+
+e Focus balance adjustment (Page 3 of Adjustment manual) |
+
+2. Focus balance Adjustment
+
+. Set the servo gain adjuster power SW ‘on’ and the
+rotary selector switch to “2 and disconnect the input
+
+from the oscillator.
+
+. Connect TJ102 on 03 P.C.B. to ground by use of clip
+
+lead.
+
+. Pull out connector CN501 on 01 P.C.B.
+. Connect the oscilloscope to TJ101 on 03 P.C.B. and
+place the disc on the turntable.
+Oscilloscope setting:
+VOLT 500 mV, SWEEP 5 ms, Input AC
+. Turn power switch ON. When the laser lights up, a
+S-shaped waveform appears on the oscilloscope. Then
+
+Note:
+
+CORRECTIONS
+
+Correction part
+
+adjust VR102 so that the top and bottom peak values
+are equal to each other.
+
+TJ101
+
+The
+
+continue for about 2 minutes if
+
+P.C.
+
+B.) is connected to ground while LD is lighted
+
+as LD stops in 5 ~ 6 sec.
+
+6. After the adjustment, shift the clip lead and CN501 back
+
+as they were.
+

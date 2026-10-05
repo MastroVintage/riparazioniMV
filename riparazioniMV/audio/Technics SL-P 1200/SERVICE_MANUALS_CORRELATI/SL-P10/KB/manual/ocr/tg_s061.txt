@@ -1,0 +1,32 @@
+7. RF data pick-out circuit
+
+7-1. Roles of RF data pick-out circuit
+
+This circuit is located in the middle of optical PU and digi-
+tal processing circuit, and takes two different roles.
+
+The first role is RF signal waveform shaping. The signal
+recorded on the disc is digital signal of 4.32 MHz bit rate,
+and the output waveform of optical PU obtained through repro-
+duction is continuous analod signal as shown in Pig. 7-1.
+Therefore, it is necessary to shape the waveform into the form
+of digital signal. The second role is to generate PCK (clock
+Signal). PCK is a bit rate signal synchronizing with the
+Signal reproduced from the disc.
+
+Fig. 7—1
+
+The signal reproduced from the disc has some jitter until be-
+ing stored into the memory. Therefore, clock Signal synchro-
+nizing with the reproduced signal is required so that the
+digital processor is able to correctly receive the data. PCK
+is made by use of PLL circuit.
+
+Input signal
+
+PCK
+(PCK synchronizes with input sianal.)
+
+Fig. 7-2 PLL circuit
+
+«= 7

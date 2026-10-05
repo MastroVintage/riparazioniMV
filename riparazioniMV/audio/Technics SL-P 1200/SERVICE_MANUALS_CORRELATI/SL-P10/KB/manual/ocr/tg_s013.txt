@@ -1,0 +1,57 @@
+e Function of optical servo circuit
+
+Unlike the playback of conventional analog disc, the player
+employs a system using a laser pick-up to take out the signal.
+
+Focus servo, tracking servo and traverse servo circuits are
+necessary for optical servo, and each individual servo function
+is explained in the following.
+
+e Focus servo
+
+Focus servo moves the focus lens at right angles to the disc so
+that the laser beam is always focused to the pit of the disc.
+
+Tracking servo moves the focus lens horizontally to the disc so
+that the laser beam always follows the track of the disc.
+
+The purpose is to align the focus of laser beam to the disc
+pit in order to correctly pick up disc information by laser
+beam. Also, disc is deflected (in the direction of focus)
+
+and is permitted up to 300 um by the disc standard. Accord-
+ingly, if the deflection in the direction of focus is within
+
++300 um, then the laser beam will be properly focused to the
+disc pit.
+
+e Tracking servo
+
+Tracking servo moves the focus lens horizontally to the disc so that the laser beam always
+the track of the disc.
+
+The purpose is to let the laser beam follow the track from
+inner to outer periphery of disc in order to correctly read
+the information from disc without sound grooves like analog
+record, Also, disc is deviated (in the tracking direction)
+and is nermitted up to +70 um by the disc standard. Accord-
+ingly, if the deflection in the tracking direction is within
++70 um, then the laser beam will correctly follow the disc
+track.
+
+e Traververse servo
+
+The stepping motor is rotated step by step to move the optical
+pickup toward :the inner or outer periphery of the disc. The
+track following distance is limited to the range in which the
+focus lens is movable since the tracking servo follows the disc
+track while moving the focus lens. The distance is 200 um max.
+and this is not enough to let the laser beam follow all the track
+recorded on the disc with a radius of 60 um. Accordingly, when
+the focus lens has followed the track by about 62.5 um from the
+tracking servo, the stepping motor is rotated by 1 step to move
+the optical pickup in the focus lens by 62.5 um. In this way,
+the range of movable focus lens is expanded so that the laser
+beam can follow all the track on the disc.
+
+a= Ts

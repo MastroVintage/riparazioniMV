@@ -1,0 +1,116 @@
+ee)
+, <t
+f >
+| =
+F<
+mea
+_
+
+Le capteur optique est trop éloigné
+
+de la platine. (Fig. D)
+
+Pour régler:
+
+Desserrer la vis de blocage et tourner |’ajusteur du commutateur de repos dans le sens inverse des aiguilles d’une montre.
+
+6. Pour vérifier si le réglage est correct, placer le disque sur la platine et appliquer l’énergie 4 |‘appareil. Cela provoquera
+la cyclisation automatique du capteur optique. Vérifier 4 nouveau l’alignement avec le calibre de positionnement du
+REPOS, comme il est montré a la Fig. C.
+
+2. Réglage de la hauteur de la platine
+
+Nota: Réglage nécessaire aprés que le moteur sur pivot a
+entrafnement direct. soit remplacé ou qu’un signal
+a haute fréquence ne soit pas obtenu.
+
+1. Retirer la broche de court-circuitage de CN103 sur la
+plaquette a circuits imprimés 03.
+
+2. Insérer l'extrémité mince du calibre 4 lame d’épaisseur
+entre la platine et le support de l’axe.
+
+3. Faire glisser le calibre a lame d’épaisseur vers |’extré-
+mité épaisse et faire un trait de repére sur Je calibre avec
+un crayon !a ot jl touche la platine et jusqu’a ce que
+la lame ne puisse s‘introduire davantage. Puis, retirer le
+calibre.
+
+4. Raccorder l’oscilloscope 4 TJ402 sur la plaquette a
+
+circuits imprimésol.
+
+. Placer un disque sur la platine et le fixer avec l’aimant.
+
+. Mettre !’appareil en marche. Platine
+
+7. Appuyer sur !’éjection “OUT” (extérieur) et |’éjection
+“IN” (intérieur).
+
+8. S’assurer si un signal a haute fréquence est présent. Dans
+la négative, passer a l’étape suivante.
+
+9. Pour s’assurer:
+
+Tapoter doucement le disque au point “A’’. Si un signa!
+4 haute fréquence apparaft, la platine est disposée trop
+bas. Si un signal a haute fréquence n’apparait pas,
+tapoter doucement le disque au point “’B”.
+
+Un signal 4 haute fréquence appara/tra indiquant que la
+platine est disposée trop haut.
+
+10. Pour régler:
+
+(1) Insérer le calibre 4 lame d’épaisseur entre la platine et Je
+
+support de l’axe au point de repére marqué préalable-
+
+ment.
+
+Desserrer la vis hexagonale de la vis de réglage de la
+
+platine. (Utiliser une clé hexagonale de 1,27mm.)
+
+Si la platine est trop basse, glisser le calibre a lame
+
+d’épaisseur d’d peu prés 4mm (5/32 de pouce) vers
+
+Vextrémité épaisse, puis retirer le calibre a lame
+
+d’épaisseur.
+
+Remettre en marche !’énergie et vérifier s'il y a un
+
+signal 4 haute fréquence.
+
+(Ceci étant une mise au point “d’essai et d’erreur”, Support de |’axe
+
+plusieurs tentatives devront étre effectuées pour obte-
+
+nir un signal a haute fréquence.)
+
+(4) Si la platine est trop haute, insérer le calibre 4 lame
+d’épaisseur et déplacer d’a peu prés 4 mm (5/32e de
+pouce) vers l’extrémité mince, en utilisant la méme
+méthode qu’a |’étape 3.
+
+(5) Reconnecter CN103 pour permettre la recherche de
+focalisation.
+
+oO ao
+
+Vue de haut de |’instailation du disque
+
+(2
+
+Vis hexagonale Platine
+
+(3
+
+—
+
+<— Insérer le calibre
+a lame d’épaisseur
+
+Vue frontale de i‘unité transversale

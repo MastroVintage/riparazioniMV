@@ -1,0 +1,177 @@
+Der optische Abtaster ist zu weit
+
+weg vom Plattenteller (Abb. D):
+
+Justierung:
+
+Die Befestigungsschraube lésen und die REST-Schalter-Justierschraube entgegen dem Uhrzeigersinn drehen.
+
+6. Um richtige Justierung zu iiberpriifen, die Platte auf den Plattenteller legen und Stromzufuhr einschalten.
+Dadurch wird der optische Abtaster in den Auto-Zyklus versetzt. Die Abgleichung mit der Ruhepositions-Schablone
+
+erneut iberpriifen, wie in Abb. C gezeigt.
+
+2. Justierung der Tonarmhohe
+
+Anmerkung: Dies ist. ndtig nach Ersetzen des Direktan-
+trieb-Spindelmotors, oder wenn kein HF-
+Signal vorhanden ist.
+
+1. Den kurzen Stift von CN103 auf der 03-Platine heraus-
+
+ziehen.
+
+2. Das diinne Ende der Fihleklingenlehre zwischen dem
+Plattenteller und dem Achslager einfiihren.
+
+3. Die Fiihlerklingenlehre gegen das dicke Ende schieben
+und die Stelle, wo sie den Plattenteller beriihrt und
+bis sie nicht mehr weitergeschoben werden kann, mit
+Bleistift markieren. Dann die Lehre entfernen.
+
+4. Das Oszilloskop an den TJ402-Stift am 01-Platine
+(Servo) anschlieBen.
+
+5. Eine Platte auf den Plattenteller legen und sie mit dem
+Magneten festklemmen.
+
+6. Die Stromzufuhr zum Gerat einschaiten.
+
+7. “Eject Out’ und ‘Eject In’ driicken.
+
+8. Uberpriifen, ob HF-Signal vorhanden ist.
+
+Falls nicht vorhanden, mit dem nachsten Schritt weiter-
+
+fahren.
+
+9. Zu iiberprifen:
+
+Die Platte am Punkt “A” leicht antippen. Fall HF-
+Signal auftritt, ist der Plattenteller zu tief. Falls kein
+HF-Signal auftritt, an Punkt ‘‘B’ auf die Platte tippen.
+HF-Signal sollte auftreten um anzuzeigen, da& der
+Plattenteller zu hoch ist.
+
+10. Justierung:
+
+(1) Die Fihlerklingenlehre zwischen dem Plattenteller und
+dem Achslager bis zum vorher markierten Punkt ein-
+fiihren.
+
+(2) Die Sechskant-Plattenteller-Befestigungsschraube !dsen.
+(1,27mm-Sechskantschliissel verwenden.)
+
+(3) Falls der Plattenteller zu tief ist, die Fihler-klin-
+genlehre ca. 4mm gegen das dicke Ende hin schieben und
+sie dann entfernen.
+
+Stromzufuhr wieder einschalten und prifen, ob HF-
+Signal vorhanden ist.
+
+(Es handelt sich hier um eine Justierung ‘‘auf gut
+Gliick’’; es diirften daher mehrere Versuche ndtig sein,
+bis ein HF-Signal auftritt.)
+
+(4) Der Plattenteiler ist zu hoch; die Fihlerktingenlehre
+einfiihren und ca. 4mm gegen das diinne Ende hin
+schieben, d.h. auf gleiche Weise vorgehen, wie in
+Schritt 3.
+
+(5) CN103 wieder anschlieRen, damit Fokus-Suchlauf funk-
+tioniert.
+
+HF-Signal
+
+Plattenteller
+
+peewee eee
+
+Platte
+
+Ansicht von oben bei aufgelegter Platte
+
+Sechskantschraube Plattenteller
+
+Se |. Die Fihlerklingenlehre
+einfihren.
+
+ Achslager
+
+VILL LL ed
+Vorderansicht der Traverseneinheit
+
+Optischer Abtaster
+
+3. Mechanische Justierung
+
+. Die Testplatte auf den Plattenteller legen und mit dem Magneten festklemmen.
+
+. Das Oszilloskop an den TJ402 am 01-Platine (Servo) anschlieRen.
+
+. Die Stromzufuhr zum Gerat einschalten und Wiedergabe-Betriebsart wahlen.
+
+. Uberpriifen, ob das HF-Signal so ist, wie in Abb. A gezeigt. Falls nicht vorhanden, mit dem nachsten Schritt
+weiterfahren.
+Falis HF-Signal wie gezeigt ist, Schritt 5 uberspringen.
+
+. Die Sechskantschraube (mit einem 2mm-Sechskantschliissel) nach links oder rechts drehen, bis HF-Signal auf-
+
+tritt (Priifung von Auge), wie in Abb. B gezeigt.
+Aufhangungsachse
+
+Fuhrungs-
+schnecken-
+getriebe
+
+Abb. A: HF-Signal
+
+: Traverseneinheit von unten gesehen -
+
+4. Gitterjustierung
+
+. Die Testplatte auf den Plattenteller legen und mit dem
+Magneten festklemmen.
+
+. Das Oszilloskop wie folgt anschlieRen: .
+
+HF-Signal
+
+bei Kanal 1
+CH1 (Kanal 1) TJ402 an 01-Platine
+CH2 (Kanal 2) C164 an 03-Platine (Stift 17
+
+von 1C104)
+
+. Stromzufuhr des Gerdtes einschalten und Wiedergabe-
+
+Betriebsart wahtien. “'N''-Marke
+
+. Falls HF-Signal und ‘‘N’’-Marke vorhanden sind, wie in bei Kanal 2
+Abb. A gezeigt, ist keine Justierung ndtig.
+
+Falls HF-Signal und ‘’N’-Marke nicht vorhanden sind,
+Schritt 5 durchfiihren.
+
+. Den Gitterjustierstift in das Loch auf der linken Seite
+des Gehauses des optischen Abtasters einfiihren, wie in
+Abb. B gezeigt.
+
+. Den Gitterjustierstift links- oder rechtsherum drehen, Optischer Abtaster Platenteller
+
+bis die “‘N’’-Marke am scharfsten und das HF-Signal
+maximal ist. 7
+Aufhangungsachse
+
+Vorderseite des
+
+ZZ TOTO Gerdes
+eu
+
+“N’'-Marke
+
+Abb. A: HF-Signal und “N’’-Marke
+
+Den Gitterjustierstift
+hier einfiihren.
+

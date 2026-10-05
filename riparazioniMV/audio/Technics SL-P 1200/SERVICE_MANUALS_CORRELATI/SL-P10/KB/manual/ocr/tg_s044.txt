@@ -1,0 +1,84 @@
+MN 6610 MN 1564
+
+System
+microcomputer
+FWD pulse a
+
+PU position
+
+counter
+
+Tracking
+error signal
+
+Traverse
+microcom-
+puter
+
+(MN1 400)
+
+Osc Vod 003 Do2 Do! Doo Sns! Snso RSt Tst E03 Eo2 ‘Eo! Eoo
+
+F |
+(254.22K)
+
+Stepping
+
+MN4066 nates
+
+‘
+AN7676
+
+Pig. b=2
+
+Traverse microcomputer and adjacent circuit
+
+—4a7—
+
+IC 103
+(AN7674)
+
+JUMP - TIMING
+
+[Functions of MN1400]
+
+B1O - B13
+° Traverse mode command signal input
+
+E00 - E03
+° Stepping motor drive pulse output
+
+poo & DO1
+° FCN & FCC control output of L.P.F.
+
+AlO & All
+° 1l-step FWD command pulse input
+
+C05 & C06
+
+° PU position counter clock input
+
+C08
+
+° Stepping motor electromotive force
+selection output
+
+° Jumo inhibit control output during
+traverse movement
+(related with SNST)
+
+Cco09
+
+° Stepping motor drive pulse waveform
+change control output
+
+DO02
+
+° PLAY mode (incl. manual search low
+speed) command output
+
+DO3
+
+° Fine servo command output of CLV servo
+
+—~ 48 —

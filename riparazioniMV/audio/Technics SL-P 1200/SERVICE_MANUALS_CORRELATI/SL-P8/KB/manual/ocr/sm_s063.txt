@@ -1,0 +1,83 @@
+Data taken out of Q data are as follows:
+
+1) Display (music No. and its index, lapse of time,
+bar graph) outputs are delivered as 4-bit parallel
+data. (Output terminals 57 - 60)
+
+2) Emphasis YES/NO
+It reads whether emphasis is given or not and
+turns ON/OFF the de-emphasis circuit. (Output
+
+terminal 36)
+
+Other functions
+
+°Traverse direction command
+(Output terminals 33, 38)
+Direction command pulse is
+put out in skip mode.
+
+°Kick timing and kick direction command (Output terminals
+43, 44)
+
+Kick timing and direction command pulses are put out
+after skip mode and Cue/Rev mode.
+
+°Attenuation ON/OFF (Output terminal 47)
+
+It is given to level down the output in Cue/Rev mode
+by 12 dB, and is effective at "H" level.
+
+3. Pitch control circuit
+3-1. Features of SL-P8 pitch control
+
+In an ordinary system, pitch control has been performed by
+changing only the motor speed.
+
+In SL-P8, timing clock for music signal demodulation is
+changed as well so that it can be varied continuously in
+a range of +6%.
+
+Usually, it is used with pitch control OFF, and then correct
+pitch is assured.
+
+3-2. Principle of pitch control
+
+Standard timing clock
+for SMCK
+
+1C705 XT1
+
+8.64MHz +6%
+
+16 times
+PLL circuit
+
+Ic
+AN 6682
+
+KHz
+S40KH2 0g a a oe
+
+1/16 divider
+
+PCK signal for data
+demodulation
+
+Quartz OSC.
+
+—0t—
+
+8.64MHz
+
+Picth control
+volume
+
+Clock selector
+
+Spindle motor
+rough servo
+
+Fig. 11 Block diagram of pitch contro! (SL-P8)
+
+-W1-—

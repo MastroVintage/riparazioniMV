@@ -1,0 +1,36 @@
+Data transfer from MN66ll to system microcomputer
+
+The data transferred from MN661l to system microcomputer are
+control Q data demodulated from EFM data.
+
+The control Q data are not directly transferred but they are
+once written into external RAM IC706 (MN2114) and are read by
+system microcomputer as needed.
+
+(Both data and address lines are bus line system.) The data
+transfer between MN6611 -- external RAM -- system microcompu-
+ter is performed as in Fig. 11-10.
+
+Writing .esases refer to Fig. 11-11.
+
+° Control Q data enters MN2114 -- pins (11) - (14) (1/01
+- I/04) from MN6611 -- pins (18) - (21) (QDO - QD3).
+
+° Address signals enter MN2114 -- pins (3) - (7). (AO - A4)
+from MN6611l -- pins (12) - (16) (QAO - QA4).
+
+° Writing signal enters MN2114 -- pin (10) (WE) from MN6611
+-~ pin (17) (QWE). (WE ... writes at "Z".)
+
+Readirny «565 wale refer to Fig. 11-12.
+
+° Control Q data enters MN1564 -- pins (26) - (29) (p40
+- P43) from MN2114 -- pins (11) - (14) (I/01 - 1/04).
+
+° Address signals enter MN2114 -- pins (3) - (7) (AO - A4)
+from MN1564 -- pin (9) (P12) and pins (30) - (32), (36)
+[P50 = P53).
+
+° MN2114 -- pin (10) (WE) is at "H" during reading.
+
+— 122 —

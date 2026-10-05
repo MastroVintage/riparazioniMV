@@ -1,0 +1,50 @@
+Block Diagram
+
+I5V 11T detection CLV control
+L 0551 5
+1C415
+I5V RF signal waveform shaping 5V aM 1409
+VR4O1 =
+- re .
+C6404 1C401 1C401 1C406 Pela ve 6
+AS ® ona EE a4 > 58 > 48 2 veo re woo
+ISV ISV / pel ce ° va ee
+ol PCK generating
+) >2
+Vv
+| aoe
+5V
+Q 4.32MHz
+B PCK {C418
+AN6682
+
+Pitch control
+
+VR402
+SV
++
+Sv
+3
+540KHz
+VR403 Ei
+Reference + 2
+trq. adj. 3 Ld |- I oe
+Pitch control reata 3 a 'c4u 1c419
+LPF
+10413 Ic4i2 | veo ff p+
+8.64MHz 6 5 ; CT 3 "Gia | veo | z
+SV presen ~< Pizy qu
+1C407 Spy POPS
+T .
+deere ro _ on
+52" 5V
+can (S652)
+Pitch selector
+
+Fig. 15 Pitch control circuit diagram
+SMCK Clock selector
+
+master clock
+—15—
+
+—-14—

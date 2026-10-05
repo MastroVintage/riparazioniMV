@@ -1,0 +1,120 @@
+e TEST DISC (SZZP1014F) old type
+
+Contents
+
+PURPOSE SIGNAL
+
+P
+
+URPOSE SIGNAL
+
+r1e_[ Reference [1 kHz 0 da Lar
+
+* This old type test disc has been changed to new
+type (CDT-002)
+
+* This old type test disc has 37 tracks and display
+shown 37 tracks when this disc is played
+
+e TEST DISC (SZZP1014F) new type
+
+Contents
+
+PURPOSE SIGNAL
+
+Contents
+
+cc Response 0°30"
+Wowble Tone -10d6 L+R{ 2°00", . Response
+Pickup assenmetr - Response
+[adjustment | Wowble Tone -10d8 LR s'00"| 37" Fred: Response
+|_ 3 [| Reference | 1 kHz O dB L+R_[1'00"| Freq. Response 200 030"
+|_ 4 | Freq. Response |20kHz 0 dB t+R | 0°30" | Freq. Response 0'30"
+[5 [Emphasis P16 kHz -0.96 L+R __[0°30"| Freq. Response
+| 6 | Channel Separation [L 1kHz 0 dB R-@ 1 0'30" | Freq. Response
+Channel Separation | R 1kHz 0 dB L-@ | o'30" | Freq. Response
+| 8 | Dynamic range 1 kHz -60 dB L+R 1°90" | Freq. Response:
+| 9 | Linearity 1 kHz -80 dB L+R 11°00" | Freq. Response
+| 10 | S/N = | 2"00" | Freq. Response
+}i1 [THD TT KHZ O dB LR 1*00"] Freq. Response
+Black Spot 5'00" Channel Separation [L 100Hz 0 dB R - =
+Black Spot Wowble Tone -10 dBL+R|5'00" Channel Separation |R_ 100Hz 0 dB L- = /|0'30"
+aa ee Ae Channel Separation [L 10kHz 0 dB R - = 0'30"
+ae Finger Print Wowble Tone -10 dBLR | 9'00" | Channel Separation [R 10kHz 0 dB L- =  |0'30"
+[16 [Wedge _——s| Wowble Tone -10 dBL+R/ 4'00" | Channel Separation {[L 20kHz 0 dB L - = 0'30"
+r17 | Wedge | Wowble Tone -10 dBL+R| "00", Channel Separation |R 20kHz 0 dB L - =
+| 0°30" |
+
+* Characteristics of old type and new type (CDT-
+002) are completely same.
+use for same purpose
+
+And both disc can
+
+e INSPECTION TEST DISC (SZZP1054C) CDT—016
+
+1
+
+400Hz L+R
+
+400Hz L+R
+
+| a |
+| 2 | i
+Separation
+Pparation
+Dynamic Rang
+[| 6 | Emphsis “ss KHZ ER Ode. 0
+| 7 |
+
+400Hz L+R
+
+7_| Black Band 0.8 mm | S00Hz L+R -10d8 | 3'00"|
+Black Band 0.5 mm | §00Hz LR -10dB | 2°30" |
+
+400Hz L+R
+
+400Hz L+R
+
+| 8
+| 9 | Wedge 0.7 mm 800Hz L+R ~-10dB
+| 10 | i 4
+
+400HZL+R
+
+Fingerprint No.3 00Hz L+R -10dB
+. OH z +R -TOdE
+
+400Hz L+R
+
+Index 2.880Hz L+R -10dB
+
+400Hz L+R
+
+3.1760Hz L+R ~10dB
+
+400Hz L+R -10dB
+
+Repeat check 1 kHz L+R 0dB
+
+400Hz L+R -10dB
+
+e UNEVEN DISC (SZZP1056C)
+
+Structure
+Usage
+
+: Ordinary disc with small piece for uneveness
+: Optical pick up mechanical adjustment
+
+e BLACK BAND DISC (SZZP1057C)
+
+Structure : Ordinary disc with 0.5 mm width tape at both
+side
+Usage : Adjustment for regular size FF1 CD player
+
+(1) Tracking offset adjustment
+(2) Focus offset adjustment
+
+400Hz L+R -10dB
+

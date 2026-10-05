@@ -1,0 +1,79 @@
+3. Focus offset adjustment
+
+1. Set the servo gain adjuster power SW “‘on”’ and the rotary selector switch at ‘’2”.
+2. Place the unit in the Eject mode. {tray open).
+
+3. Connect a voltmeter to TJ101 on 03 P.C.B. (Optical servo).
+
+4, Turn power switch ON, and adjust VR103 so that DC voltage is 0+ 10 mV.
+
+4, Tracking gain adjustment
+
+1. Set the servo gain adjuster power SW “on” and the
+rotary selector switch to “3°,
+
+2. Adjust the low frequency oscillator to 1.5 kHz and
+150mVp-p output. And connect it to TEST pin OSC
+IN and GND of servo gain adjuster.
+
+3. Connect CH1 and CH2 of oscilloscope to TEST pin
+
+TP1 and TP2 of the servo gain adjuster. (TP3 is GND),
+
+and place the disc on turntable.
+
+Oscilloscope setting: VOLT 100mV (both channels),
+
+SWEEP 2ms, Input AC, Mode
+
+CHOP TP2
+4. Turn power switch ON. When turntable beings to rotate,
+
+1.5 kHz signal appears on the oscilloscope. Then adjust
+VR104 so that the waveform amplitudes of both channels,
+are equal to each other.
+
+5. Tracking offset temporary adjustment
+
+1. Set the servo gain adjuster power SW ‘’on” and the rotary selector switch to ‘2’, and disconnect the input from
+oscillator.
+
+2. Place the unit in the Eject mode (tray open).
+
+3. Connect a voltmeter to TJ103 on 03 P.C.B. (Optical servo).
+
+4. Turn power switch ON, and adjust VR106 so that DC voitage isO +3 mV.
+
+6. Tracking balance adjustment
+
+1. Set the servo gain adjuster power SW “on” and the
+rotary selector switch at “2”.
+
+2. Connect the oscilloscope to TJ103 on 03 P.C.B. and
+then place the disc on turntable.
+Oscilloscope setting:
+
+VOLT 200mV, SWEEP 5ms, input DC
+
+3. Turn power switch ON. When turntable begins to rotate
+and the tracking servo switch of servo gain adjuster is
+turned OFF, TE (tracking error) signal appears, on the
+ascilloscope.
+Then adjust VR105 so that the top and bottom peak
+values are equa! to each other.
+
+7. Tracking offset adjustment
+
+. Set the servo gain adjuster power SW “on” and the rotary selector switch at 2”.
+
+. Place the unit in the Eject mode (tray open).
+
+. Connect a voltmeter to TJ103 on 03 P.C.B (Optical servo).
+
+. Turn power switch ON, and adjust VR106 so that the DC voltage is 0 + 3mV.
+
+Note: After completing the above-mentioned adjustment, remove the servo gain adjuster and insert the shorting pin
+
+into CN103 as it was.
+
+Pwr oa

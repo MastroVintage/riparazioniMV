@@ -1,0 +1,37 @@
+The following is the explanation of 7-segment display and
+time bar code display.
+
+(1) 7-segment display
+
+DATA NO
+
+DATA
+
+DATA
+
+Data transfer for 7-segment display is in 7 bytes, and that
+for time bar code display, in 3 bytes.
+
+When the upper 4 bits of the initial 8 bits are "0", the
+following 6 bytes are the data for 7-segment display if the
+lower 4 bits are also "0". In this case, if the lower 4 bits
+are "1", then the following 2 bytes are the data for time bar
+
+code display.
+Other data are shown below.
+
+(3) Location display (4) Selection display
+
+DATA NO DATA. NO
+
+DATA DATA
+
+(5)
+
+(7) ‘’ —" Display (8) F " Display (9) “E ' Display
+
+DATA NO
+
+DATA
+
+— 128 —

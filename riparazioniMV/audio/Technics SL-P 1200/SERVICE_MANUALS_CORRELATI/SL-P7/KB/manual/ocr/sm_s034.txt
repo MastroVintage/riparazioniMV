@@ -1,0 +1,143 @@
+Dropout signal
+
+jerk i ow Twine te
+
+5V 'c301
+Drop out detecting AN6912S
+
+Zz
+rr > : é
+4
+§*1c301
+3 1C554 I 1C554
+5V
+> 53
+: E)
+: 10) 14
+: = 13 >
+8
+MW
+Power adj- ae
+Laser vris5i ~5V
+¢ ) 4 1c554
+2 Ra9 AN6912 5V
+been aio1
+HEN a»
+4 -5V a B u Q40l_ “>
+; ~ Pho <
+f ‘ es 1clo4 =
+eB -5V -15V
+
+SV SV
+
+m BLOCK DIAGRAM
+
+5V -5v 5V SV
+
+Focus servo
+
+ICclol
+AN7677S
+
+is
+Load tt 6
+- Nw
+z
+oO
+“y 2 Laser power control -5V
+& 1clo4
+a Actuator drive '
+" TTON be
+r amplifier
+Balance Focus error amp icz08
+i SVITLO82CP
+
+VRIO7 VRIO2
+
+r : (c2ol
+Off setadj Gain adj.
+
+Vv
+Off set adj
+
+Gain adj ¥ : ne ' :
+VRIOS c j
+1C256,253 si alsin
+Tracking servo > ‘ MN4053BS .
+: : iA 1c253 Tracking error amplifier e
+r To 1C201 he
+2! 8 = | ha AN6554NS a Actuator
+Det fect Ta] Less | _ se] ®
+> ‘
+
+1clo2
+
+AN7678S ye
+-5V
+
+5V
+
+VRIO4
+Balance adj.
+
+Traverse servo
+
+1c255 1C204,209
+
+MN4036BS MN4OIIBS
+1C205
+
+MN4053 BS
+
+i
+3
+bas 1c251 50
+rm ANG6554NS
+1C406
+D>
+REV
+-
+1C207  ggo2 FWO W
+4
+OZ
+I 8 ui g TCNT a
+eS) 2 0 ° ° silos “ TTON i — =
+- $103 Ieee} (7.35kHz) |
+% Ro CLOSE! MNI544PCH
+& itt} O ‘ J |
+CLOSE2 : 0.23us 1c70l
+‘ (4.32MHz) MN6614 —_
+Key switch ESSE
+ey_switch _ 4 ; .
+‘ x
+ois EFM
+
+Oata SS
+WSS
+
+Demodulator Ny .
+
+SS
+
+i
+1c604
+a
+
+Le
+
+Indicator
+
+Motor drive
+
+i oo oo-g
+[ ne Se et DIN JACK Maanory
+rey a6ol
+2Po8 C702
+MN2114-2
+5V C605 iJ
+1c602
+MNI430PCG
+
+s6o2 ~-
+Play
+

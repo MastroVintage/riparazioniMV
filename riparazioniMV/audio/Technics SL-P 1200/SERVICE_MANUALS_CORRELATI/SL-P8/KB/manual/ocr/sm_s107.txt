@@ -1,0 +1,38 @@
+11. PLL and CLV Adjustment
+
+1) Shift the set to play mode. (An ordinary disc can be used. Play it near the channel part.)
+
+2) Connect CH1 and CH2 of the oscilloscope to test pins TP512 (FCLK) and TP513 (CLDCK) on
+
+01 P.C.B.
+Oscilloscope setting
+Volt .......... 2V (both channels)
+Sweep......... 20 us
+Input select .... AC
+Trigger ........ CH1+CH2 (NORM) @
+Mode ......... ALT
+
+3) Ground the both test pins MWB and TP514 (RESY) on 01 P.C.B.
+
+4) The same operation as shown below is obtained when VR402 on 02 P.C.B. is moved. So, make
+the fine adjustment of VR401 on 02 P.C.B. so that the conditions shown below are satisfied.
+
+1 Control the values of @ and © outside the lock range (more
+C > than 8 us both @ and ©)
+
+® )
+
+5) Adjust VR402 so that the conditions in the photo are satisfied.
+
+~~ |f FCLK
+| Loxock
+
+12. Pitch Control Adjustment
+1) Shift the slide VR of front panel to the center and turn ON the pitch switch.
+2) Connect the frequency counter to TP512 (FCLK).
+3) Adjust VR403 (02 P.C.B.) so that the frequency counter indicates 7.35 +0.03kHz.
+
+Note: If frequency counter is not available, adjust VR403 so that the frequencies of TP5!Z nearly
+agree when pitch switch is turned ON/OFF.
+
+-—-12-—

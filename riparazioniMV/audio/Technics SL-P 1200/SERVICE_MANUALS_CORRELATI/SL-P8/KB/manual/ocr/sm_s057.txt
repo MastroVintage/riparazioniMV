@@ -1,0 +1,39 @@
+1-5. Key matrix circuit
+
+D635
+
+S666 S670
+3 7
+
+D634
+
+C)
+$673 S667 S671 S674
+0 4 8 INDEX
+D633
+C) C)
+$672 $675
+9 TIME
+D632
+$654
+MEMORY
+
+(y
+SYNCHRO REC [IN ne 4° eS
+> t a611
+
+Q601
+
+eo: 8 |
+
+Fig. 7 Key matrix circuit
+
+Configuration of the circuit
+
+Microcomputer for remote-control decode is inserted between
+OP CON and key matrix so that only outputs with various
+switches of key matrix turned ON are put in P00 - P03 and P10 of
+OP CON.
+
+Similarly, REMO CON signal is put in OP CON through micro-
+computer for remote-control decode.

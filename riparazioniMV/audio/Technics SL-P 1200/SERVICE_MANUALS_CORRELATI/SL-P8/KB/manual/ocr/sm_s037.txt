@@ -1,0 +1,139 @@
+|_| SCHEMATIC DIAGRAM ©) (This schematic diagram may be modified at any time the development of new technology.)
+1 2 3 4 5 6 7 8 9
+
+Play O.5us, IV/DIV
+
+4 Ploy 2ms.5V/DIV Play 2ms.5V/ DIV
+‘ , | '
+i " why °
+| \
+" VA ' WA t
+@)
+
+Ploy 1.5s
+
+Focus Servo Focus gain adj. Drop out detecting
+
+1C30! © 030: ©0302 ~ 306
+
+to o r
+Focus balance | £83 ay [ele sd ae AN6E9I2S  2SA564 2SC828
+08) efey oe als i fects 1 ¥
+| = 8 ef 8 10554
+2 °
+6 Te Pees ANGSI2
+iS] os 5 aos J3] atsos@ SS
+1C1Ol eo of 4 5 46| G3v22, 0305|9
+AN7677S a 130!
+
+Led
+B Tracking balance S
+adj. ‘Orb t 0554 P
+t
+i 3} 1 of
+Fa ° MA4056 ay
+8 055!
+oO
+PHOTO DETECTOR Play 2ms.0.2V/DIV MAI65 Ros
+oss!
+
+Wi
+
+2SC 1047 RS
+
+o—Cl21 0022
+
+4}-—
+
+fe}
+
+204 0.01
+H
+
+206 12K
+°
+PS
+
+VRIO4 5K(B)
+
+C123 0.001
+
+RI39 IK
+{26 8.2K
+
+sole
+
+Play 2ms. O.2V/DIV
+y L.2k
+
+SRDPOO7N32
+
+Ww
+R130 IK
+
+R551 15K
+
+ec
+res 1‘ R223 2.2K) Focus error amplifier
+o a | z ow Las J
+¥| ¥ x ) | jesv 3 a8 eto) 1208 1¢201 .
+1c102 eg} 2 “ ve SV1 TLO82CP AN6554NS _“4
+KR
+AN7678S g 83 5 1C205 , 255 D304 Tracking error amplifier y /
+\c10s apa xl MN4053BS MA4056 ¢208 160P a q | 7
+D4
+AN78LO5 2 é C206 0.1 R212 56K R216 39K nN 4
+Sfx) ¥ |S \ : 2v/DIV
+servo == |oru ly \ « i 2us,
+IC106 b- aszlo[o 1 4 L
+AN79NO5 / |—_fi2 23" jody 16253 ‘Kg. Fy z C288
+CZ ee ee ee \ y ° 4 8 MN4030BS
+35 Laser power adj A A SSNS CAT SS SR SO \ icy 2ma0.2W/DIV °
+Ct H 0204 1 q 8
+ee a GD ;
+H los 2SB929 | « Tracking
++ i
+=5 | t 136)0 COMO!
+Tracking Tracking 1c 103 \ —
+gain adj. offset AN6556S a —¢ 4
+x . 4
+D & adj. 9201, 205 R234 47K age Is R235 B2k |
+! So 1/251 j :
+y 3 SRDPOO7NO3 i 2SD ! 266 R293 ic251 “-~ lo 2 4 R245 100 Q205 F
+Sus, IN/DIV rs ' Brox o 9 a [R244 47K aap “a
+Traverse servo fo | 0.7 NS 4
+° Sig] 3 Mas g
+Laser power control hd) ¥ x 101 “ 8 me) P
+rt of wee 5 1° Of.)
+1 1c25! oO) 0 o
+ANIS58S aon te zigle8 anessans [E18 1g Le
+x Qo} t | < “bge x (2.2) 12
+wars (- 2.9) ryt 16205 C218 0.033
+° “| 2SD638 |o boty | wy (8 C227 001 ass| R254 ° 9206
+gz toy toa R231 100K Rush + 5
+= g RIOS 1K bry ue hy R243 e2x |150K| 10K 2SB94 1
+g Pia to 1a {R00 2K ark [55 62?" | BS
+x ® parr | 3 7 bee
+vt 0 rs H | ry | $ 35,5 Ps no
+° o LIEUTI® @ i R250 bd z D201 381
+x o ° WW 2 27k ox CAR MAI65 °°+M
+E t a5 ca H ! o I gg a1 ¢ 269 4.7K
+° 8 Lott og i
+= rte) i iS Tracking offset
+z 0206 a8 2 ag co
+MAI65 ce
+
+Lc60o4 es a Oa
+SVIBA6209 a aes
+= H
+
+ja602 i ae Oa Oe |
+REI4 33K ar
+
+— re) oO x
+z BGRoRsaz oe
+3 a6 8 wey eS 2
+YT TYTTTTTT, $604 $605 S603 S608 S607 TTY,
+(REST) (END) (CLOSE2)OPEN) (CLOSE!) TRAVERS Gd cnz03
+CN205 CN204 MOTOR _
+

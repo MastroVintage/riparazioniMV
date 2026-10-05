@@ -1,0 +1,96 @@
+——
+
+_ Focus gain
+adg.
+
+5V
+
+VR 106
+
+Focus error
+amp.
+
+Tracking
+off set adj.
+
+Track ing servo Tracking 403
+
+gain ad}.
+
+136yps
+(7.35kHz)
+
+play
+ANP- , ‘I
+
+Waveform shaping \
+
+RF signal
+waveform
+shaping
+
+VRIOS
+5V
+
+1c505
+
+Tracking
+balance adj. sy
+
+play 4Vp-p
+Actuator drive
+94V
+
+Tracking
+control
+
+Ic} Remote control
+AN6030 transmitter
+
+0.23ps8
+(4.32MHz)
+
+cor]
+: + Batt
+
+Chattering simut- ke] 3V ey
+
+é {depression inhibit} (; | =
+
+| Tracking error amp. t ‘os
+
+Module
+
+A22
+-15V
+if
+~—— 4
+Remote control key switch
+
+synchroniz
+detection
+
+ic 800 Amplifier
+
+AN5020 “T Gain adj. 3V
+
+Loading
+motor
+
+‘$1031 Close
+
+IC601
+
+MN1402 play /search
+
+“Von Si E0O*= E03
+0
+
+i, -
+' 27 ite} 8
+
+Traverse
+motor
+
+By be
+

@@ -1,0 +1,14 @@
+IC 104.8)
+
+f = RF.ON — Ff.
+FO.ON
+
+CWO 1 ce
+
+ic1 an. 10110240
+
+RF ON detection stop period qi RF ON detection stop perid
+
+Fig. 3—14. With FO ON delivered Fig. 3-15. With RF ON gone
+
+—??71-—

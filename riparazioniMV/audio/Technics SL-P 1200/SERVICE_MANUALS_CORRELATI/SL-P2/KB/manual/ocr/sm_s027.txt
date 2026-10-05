@@ -1,0 +1,144 @@
+_ @ BLOCK DIAGRAM
+
+LS| Module
+
+1
+
+|
+
+|
+
+Error {
+correction \
+1
+
+: '
+1
+
+|
+
+!
+
+{
+
+1
+
+i}
+
+4
+
+Disc
+
+Z\
+Laser
+APC Opti-|
+cal Spindle
+IC motor
+
+Traverse
+motor
+
+E.F.M
+Demodulator
+
+RFOEL |
+
+andar |
+
+Focus
+amplifier
+
+Tracking
+anypitier amp.
+
+TRVE
+
+Spindle
+motor
+drive
+
+Operation
+
+control
+Constant
+rotation
+servo
+
+sf ee BRAKE
+Remote Remote control k-'4 switch fF Key scan
+control decoder =
+
+play
+
+\
+
+ANCAE
+2 a
+Focus servo
+5V f+
+
+eo Phto
+é : detector
+- , om 7
+if
+: | peal) | Laser power control
+| ks) |
+|
+!
+
+Control
+circult
+
+Laser oO Lg 03
+and
+
+wv! r)
+
+Bre
+
+VRI51
+play |1.5Vp-p
+
+WH a
+
+: VR 102
+-_ t
+
+O-—-—P
+
+Focus balance
+
+‘adj. -5V
+
+Focus search
+. SAV
+VRIO3
+
+/V\ 1.6Vp-p I
+‘Focus
+
+off set ad).
+VR 101
+-5V Focus gain io, > 3
+
+adg.
+IC 105 I
+
+Actuator
+
+FEO
+
+5V
+
+ly"
+
+rh @®
+
+1C403
+
+Is CLV Servo
+/\ 1c301
+
+(36ps
+(7.35 kHz)
+

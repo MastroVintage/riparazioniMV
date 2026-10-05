@@ -1,0 +1,130 @@
+@ MEASUREMENTS AND ADJUSTMENTS
+
+Caution:
+@ it is very dangerous to look at or touch the laser beam. (Laser radiation is invisible.)
+
+Measuring Instruments and Special Tools
+
+@ Servo gain adjuster (SZZP1017F) @ Ordinary disc
+@ Test disc @ Two-channe! oscilloscope (with trigger)
+Test disc(SZZP1014F) old and new type of 30MHz or over
+
+Inspection test disc (SZZP1054C) @ Low frequency oscillator
+ADJUSTMENT POINTS Unever disc (SZZP1056C) @ Conversion connector(SZZP1032F)
+Black band disc (SZZP1057C) @ Filter (Low-pass)
+LINE OUT
+
+@ Main P.C.B.
+a +1 tt
+
+CN11 (Cathode) QHav)
+
+D23 One the red lead wire
+of servo gain adjuster. PLL adjustment
+
+yors (Cathode) test point
+ee @(-12v)
+
+Connect the blue lead wire
+of servo gain adjuster.
+
+With the unit turned “on”, laser radiation is emitted from the pickup lens.
+Avoid exposure to the laser beam , especially when performing adjustments.
+
+Adjustment Procedure
+
+Step 1:Remove the cabinet. Step 8:Tracking gain adjustment.
+(Refer to page 6.) (Reter to page 14.)
+
+Step 2:Make the temporary setting of Step 9:Focus offset (2 ) adjustment.
+each VR . (Refer to page 11.) (Refer to page 14.)
+
+Step 3:Temporary adjustment of focus and Step 10:Tracking offset adjustment.
+tracking offset.(Refer to page 13.) (Refer to page 14.)
+
+Step 4:Focus offset( 1) adjustment. Step 11:Connect the servo gain adjustment.
+(Refer to page 13.) (Refer to page 12.)
+
+Step 5:Best eye ( PD balance ) adjustment. Step 12:Tracking offset balance
+(Refer to page 13.) adjustment.(Refer to page 15.)
+
+Step 6:Connect the servo gain adjuster. Step 13:PLL adjustment.
+(Refer to page 12.) (Refer to page 15.)
+
+Step 7:Focus gain adjustment. Step 14:Check of operation after
+(Refer to page 13.) adjustment.(Refer to page 15.)
+
+Connection of Servo Gain Adjuster
+
+VR106 (Tracking balance adj.)
+VR105 (Tracking offset adj.)
+VR104 (Focus gain adj.)
+VR103 (Focus offset adj.)
+VR102 (Tracking gain adj.)
+
+VR101 (Best eye adj.)
+
+¢ aaa
+
+TJ502
+q Cc) 5
+CN102
+
+(
+
+Temporary Setting of Each VR eFilter for focus offset (1)
+
+Resistor: 10 kN
+(ERDS2TJ103)
+
+TJ102
+oto
+
+Low- vfrequency oscillator
+
+Servo gain adjuster
+(SZZP1017F) GND OSC Oscillator connection terminals
+@) ON/OFF i
+@ /OFF switch ® Conversion connector
+
+C2 ON GND®' , | | (SZZP1032F)
+Selector > ‘ : i, ot
+
+O:
+
+t
+
+VR106
+
+TP3TP2 3
+
+VR105 To oscilloscope (+)
+
+Oscilloscope Oscilloscope connection
+
+Cs] 6 terminals
+
+©} TP2 TP3 TPI
+
+oe t t To CN102
+
+—12V GND +12V “ Remove the shorting connector
+(Main) (Chassis) (Main) CN102 from main P.C.B.
+
+VR104
+
+Capacitor: 1uF
+(ECQM1H104KV)
+
+VR103
+
+To oscilloscope (—)
+
+VR102
+
+VR101
+
+Sagddaa
+N17 |
+
+—11—

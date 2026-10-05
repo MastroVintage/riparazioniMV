@@ -1,0 +1,125 @@
+SL-P2 SL-P2
+
+e Main circuit (System control, Digital, PLL, Audio and CLV servo)
+1 2 3 4 5 6 7 8 9 10
+
+FE CN552 BT101 GG sr
+TD P
+CNSOI = CN4II CN410
+[O@BSOOTOSO) IS@OOO OOOO
+a6s5 abedetgni fi) abe
++ + Pad | j io]
+A Traverse servo Loading motor drive 2SC331l aon i
++ oe
+CN408 [ t t Tea02 ! ! +}
+nC SVIBA6209 = —— i
+OO) | 2SD1 266 9 ; =
+MOTOR : -
+, — i {
+~ J H [Amp HOrive | i i ee i R302 IOK
+i C202 0.068 | C207 16VIO 3 ——— | 3401 401 ut
+ar i — | Dr i cao 00038
+* MA4047 ss 2SAI309 3 7
+TES | R403 zy / ; : R306
+O-O-OO-OO-OOO-OF || PORE Soao ST ee in
+0.5 = ' rT 1 | ii
+eL99.1 03 i og 2 7
+0.5 | | af am | i
+TRAVERSE 0.9 9410 ! | :
+MOTOR boy
+| [ae | MA4O56, | =, | ‘
+bo mol
++ ms 2
+= | .c404 | rad a (2.3) 1639)
+S101 t— | AN78LO5 i Kay 165020172) “ |
+REST | yo 3 4g) ‘| 1c502
+sioz | et t | 2 | AN6s62 74
+END i On | iy
+0407,408,421 ay RSI6 470K | (25)
+0405,406 om | ' . 7 ee
+SVDISR35200V Peeem Ke Q202 x: R205 | 3% 06 i] Py phased RF signal R307
+S103 y i - fLay {i -15 1 2( 2/2) 4.
+ciose  /° | as08 28033 a) CD o | 9501 9502 9503 <i gx ; x icon Waveform shaping
+3104 ! 2SAI309 6h SOK GL 3311 Poked | 1C 301
+OPEN tb ges Sx aeTe | 280641 25A1509 25035 icaos SEO SVITC40HOO4P = SVITLOB2CP
+ce <5 a agbcd fe eat SNy ON {
+aso oa Em _____-»— . —
+S8___-sF+— baal, 408 oon | | . go | \
+= a 84 O10 tee - | ax 65
+D405 Caos wee )) : O.nne sa03 2S 148) 3.2 : Spindle motor drive i
+| | | AN6914 UN4112. | Beare & 219.2) i oh gf a9) R502. acbd
+FC801 ? ! | 9.210) 1C501 €si6 {a7 1OOK “= ai FA
+' T.9>) | AN6638 *G00r BMS oS Sm -
+ry | o(9.2) in oro 38 Hy
+lo LT tesi7] Taal 8 2
+3 —
+| os aly
+(49) 38 ‘ soot 8
+42) | R521 220K Holl element 8eT °
+signal processing
+| c5l2. R520
+. 1¢503 0.033 15K | sof 7 be
+= Wave from shaping i MN4066B oz.) esol sk | MA4.
+(
+S8)P71 (CLOSE’ | aao02 : 1C505/f (0.5) _2 0 i
+oo UN4212 ane 380 °
+[Sera cpcari a 3 SOS Oi
+(3) a —@) ba | ok
+tol » —@ 03 esp
+Foso2 | 745) c —@) pa
+iS) a:
+$2 °_ .
+1 f —t6 \ (0.1)
+CN403 t i36usec ||
+b UN4112 “
+a c (C504 9
+4 MN4O0IB | @
+K ‘
+Fceos | —14 ; :
+r a | 4
+R r ysio | [ais
+a n . = ) a9 | Bi6
+E cNg04 d —@@ {_ouT
+TaN e—69 Sle |_+5¥
+; = op (6) 86 | -15V
+8 ) 34 | Ne
+Yes} [one
+FC604 [> ) B2_| +15V
+LS yer] [Lxe
+©;
+MNI5844PCV
+mht
+Or 1C505
+ie S31 ANSOB20 D/A Conve
+1,
+CLV Servo 6
+Cc43h a
+6.1 i $
+
+[ze [29 [so-se[ss~ss[36[s7 [30 [so[eo[ ei~si | se~eo fer] ez 63 Tea]
+
+0.23 psec
+5.6 5 >
+eomereg| Oo Ba ' (4,32MH2)
+
+0. 23sec
+
+a
+(4.32MHz)
+
+0.46 psec 46)
+4
+03 136psec
+3 3
+° 136 psec
+‘ ' e
+03 5.4
+5} i)
+133msec
+
+4B
+
+U.
+
+Olmsecivaly J2msec tv/01y 22.5msec
+

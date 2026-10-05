@@ -1,0 +1,68 @@
+Adjustment Manual
+
+m@ MEASUREMENT AND ADJUSTMENTS
+
+Caution
+
+English =e
+
+It is very dangerous to look at or touch the laser beam. (Laser radiation is invisible.) With the unit turned ‘‘on”,
+laser radiation is emitted from the pick-up lens. Be careful during adjustments in particular.
+
+* Perform these adjustments by use of a traverse unit base in accordnace with the traverse unit servicing method to
+improve the workability.
+
+* In case the optical pick-up is individually replaced, it is necessary to perform mechanism adjustment before these
+adjustment, refer to pages 19 ~ 32.
+
+Traverse unit servicing method
+
+* For removal of each part, refer to disassembly instructions.
+1. Remove the cabinet and front panel. :
+2. Disconnect connectors (CN405 ~ CN409, CN411, CN412 ~~ we ‘
+and CN501) of main P.C.B. ~ ao
+
+3. Remove the traverse unit. The entire traverse unit can then ‘S
+be removed from the unit.
+
+4. Turn over the traverse unit and remove the nuts. The tray
+and the traverse unit can then be separated.
+
+5. Remove the disc clamper magnet from the disc clamper.
+
+6. Temporarily fasten the tray and front panel. After that,
+connect only connectors (CN405, CN406, CN408) removed
+in step 2,
+
+7. Remove the insulator rubber and optical servo P.C.B. of
+traverse unit.
+
+8. Mount the traverse unit on the traverse unit base.
+
+9. Connect connectors (CN407, CN409, CN411 and CN501)
+removed in step 2.
+
+= ==
+See ee ae | gaa
+
+Sees
+
+Optical servo P,C.B.
+
+Traverse (03 P.C.B.)
+
+- unit base
+Testers and Jigs for Adjustments
+
+Testers :
+1. Two-channel oscilloscope (with trigger) of 30 MHz or over.
+2. Low frequency oscillator.
+
+3. Digital voltmeter.
+
+digs:
+1. Traverse unit base (SZZP1016F) 2. Servo gain adjuster (SZZP1017F) 3. Test disc (SZZP1014F)
+
+4. Short leads with clip.
+5. Ordinary disc.
+

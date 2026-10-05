@@ -1,0 +1,148 @@
+SCHEMATIC DIAGRAM _ (This schematic diagram may be modified at any time the development of new technology.)
+1 2 3 4 5 6 7 8 9 10
+
+Play 2ms,5V/DIV Play 2ms,5V/Div
+
+Drop out detecting wa i | [°
+
+Focus servo Focus gain adj.
+
+: S @o30: Q302~306 y
+sss 7 . .
+o.Sus.tv/ ov | S83-y 3s ; 25A564 ~ 2SC828
+cut 680P
+
+cror Q401,551
+AN7677S 2SCl047
+Focus balance. -2 | § fF u--.6------ ,---pe- ----- -B ---------- by —— - 8-H ----------
+
+adj.
+
+Tracking balance
+adj. ™.
+
+Focus error ,,
+
+Play 2ms,0.2V/DIV amplifier
+
+vat
+
+Q20I
+
+Tracking error 2SD1266
+
+0304
+
+MA4056
+
+we
+
+SROPOOTN32 c203 0p ~=aamplifier ‘
+AN7678S Lo bh > sp 708 ‘ol ol
+/| 0
+
+:
+
+C210 R224
+
+0082 6
+
+1c105
+
+AN78LO5
+
+tc1o06
+
+AN79NO5
+Laser power adj.
+
+2
+
+° > “a
+.
+I¢20! 0204
+
+53 ~t
+
+R321 22K
+Waveform
+
+0305,554 IC
+MA4056 SVITC:
+
+SRDOQ7N35
+
+p20'~205
+
+- \
+Tracking gain adj. Tracking ——— MAIGS
+
+03 | SRDPOOTNOS Offset adj.
+
+1c103
+
+CN305 sus ,tvspiv 1¢202
+
+AN6556S
+Laser power control 358 & on} 1s
+1€204,209
+1c104 s 8 ia MN4OIIBS
+2 Key I NS
+ANI358S a1: ‘ AS a rs
+280638
+
+$
+
+0.047 | C103 1gv10
+
+6205 |
+io 1c207
+aise MN4001BS
+
+27a P) a5
+Pn 100 Py:
+
+A
+2 : : 23ms
+3 é abe ° Play . 4
+e153 1531 (ame H[bivecton. seieal 25¢828 /\MAI65 ads ia7 aid, | 2501266 | s2se941__ |
+als ls =e eT ay aS 1c208.283 Te Re oi ae,
+LOADING — 46 MN4053B8S Ps
+MOTOR O O-9-O-G-O-9-O-O- e, e281 208 we
+9) 8 AN6554NS
+
+lL
+S
+J
+)
+|
+
+Loading motor
+control
+
+bo
+
+am
+oe e eee | Traverse servo
+
+2h a2)
+
+©)
+
+1
+1
+
+“ CNI02
+
++ GNO
++ GND
+
+$102 S103 S104 S105
+
+Sio! ) (+)
+nnn CA (CLOSE NOPENNCLOSEN) 2s = we TRAVERSE
+
+Wena ; ea
+
+0.46y8 (2.16 MHz)
+

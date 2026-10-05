@@ -1,0 +1,207 @@
+Servi
+
+eo
+
+COMPACT
+
+IGIT/IL
+
+ORDER NO. DAD84050085S0
+
+Compact Disc Player
+
+SL-P7/(k)
+
+ce Manual
+
+Please use this manual together with the service manual for Model No. SL-P7.
+
+Notes:
+
+* The replacement parts for optical pickup have been supplied as traverse unit ass’y (optical pick-up deck
+
+unit), but they are individually supplied as optical pick-up since May 21, 1984.
+* This supplement includes the parts list and exploded view of loading drive mechanical and optical
+
+pick-up deck.
+
+* This supplement should be filed with the service manual for Model No. SL-P7.
+
+m REPLACEMENT PARTS LIST
+
+LOADING MECHANICAL PARTS
+
+41 SRUMOO7NO5E Tray Ass‘y, Disc
+
+42 SRK KOO7NO4R Disc Case Ass’y
+
+42-1 SRKKOO7NO4 Ornament Plate, Disc Case
+
+43 SRUMO07NO7 Cam, Disc Case
+
+44 SRQHO007NO02 Spring
+
+45 SFY B-5-32-P Nylon Ball
+
+46 SRUPOO7NO7 Holder
+
+47 SRUPOO7NO5A Holder, Disc Clamper
+
+48 SRDJOO7N12E Connector Ass'y
+
+49 SRUMO07N18 Cover, Switch
+
+50 SRQS007N02 Spring
+
+51 SRUGOO7N04 Gear, Return
+
+52 SRQHO007N01 Spring, Return
+
+53 SRUMOO7N15 Guide Plate
+
+54 SRUMOO07NO09 Rack Gear, Loading
+
+55 SRUPOO7N10E Loading Guide Ass’y
+
+56 SRUMO07NO06 Lock Arm
+
+57 SRQS007N03 Spring, Lock Arm
+
+58 SRUPOO7NO3R Loading Base Ass‘y
+
+59 SRDJOO7N13E Connector Ass'y
+
+60 SRUMOO7N17 Cover, Switch
+
+61 SRGBOO7N02 Belt, Loading Motor
+
+62 SRUGOO7NO1 Pulley, Loading Motor
+
+63 SRQHO007N03 Spring, Disc Clamper
+
+64 SRUGO07NO03 Gear, Loading
+
+65 SRUGOO7N02 Gear, Transmission
+
+66 SRMHOO7NO1A Motor, Loading
+
+67 SRDJOO7N16E Connector Ass‘y
+
+68 SRUPOO7N15 Spacer
+
+69 SRUMO007N24 Spacer, Disc Clamper
+
+70 SRGCOO07NO7 Cushion Rubber, Disc
+Clamper
+
+OPTICAL P
+(1) | 71 A\| SRLPOO7NO1A
+(1) ] | 72 SRUMOO7N22
+(1) | 473 SRQSO07NO1
+(1) | 174 SRXJOO7NO1
+(1) ] | 75 SRUKOO7NO2E
+(11) | | 76 SRUPOO7NO9
+(2)] |77 SRUPOO7NO8
+(1) | | 78 SRGCOO7NO2
+(1) | | 79 SRQA007NO2
+(1) | | 80 SRUPOO7N12
+(1)] 181 SRQAO007NO1
+(1) | | 82 SRMHOO7NO2A
+(1) | [83 SRQA007NO03
+(2) | | 84 SRTEO07NO3
+(1) | 185 SRQA010N04
+(1) | | 86 SRTEOO7N11E
+(1) | [87 SRTMOO7NO1A
+(1) 1 188 SRDJOO7N20E
+(1) 1] [89 SRUMO07N19
+(1) } }90 SRDJOO7N10E
+(1)} | 91 SRXGOO7NO1E
+(1)] [92 SRGCOO7NO1
+(1) | | 93 SRGBOO7NO3
+(1) 1 [94 SRLHOO7NO8
+(1) | | 95 SRLCOO7NO3
+
+ICK-UP DECK UNIT PARTS
+
+Part Name & Description
+
+Optical Pick-up
+Bracket, Optical Pick-up
+Sprping, Bracket
+
+(1)
+(1)
+
+Shaft, Optical Pick-up Guide (2)
+Optical Deck Unit Base Ass’y (1)
+Holder (A), Shaft (2)
+Holder (B), Shaft (1)
+Cushion Rubber (4)
+Spring(A), Cushion Rubber (2)
+Holder, Spring (4)
+Spring (B), Cushion Rubber (2)
+Motor, Optical Pick-up Drive (1)
+Spring (2)
+Holder, Turntable (1)
+Spring (1)
+Turntable (1)
+
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+(1)
+
+Rotary Magnet Ass'y
+Connector Assy
+Holder, Motor
+Connector Ass’y
+Wrom Gear Ass‘y
+Cushion Rubber
+Belt
+
+Clamper, Lead Wires
+Cover, P.C. Baord
+
+Technics
+
+Matsushita Electric Trading
+Co., Ltd.
+
+PO Box 288, Central Osaka
+Japan
+
+Matsushita Engineering and
+Service Company
+
+50 Meadowland Parkway
+Secaucus, New Nersey 07094
+
+Panasonic Tokyo Matsushita
+Electric Industrial Co., Ltd.
+1-2. 1-chome, Shibakoen
+Minato-ku, Tokyo 105 Japan
+
+Panasonic Hawaii, inc.
+91-238 Kauhi St. Ewa Beach
+PO. Box 774, Honolulu
+Hawai 96808-0074
+
+Matsushita Electric of
+
+Canada Limited
+
+5770 Ambler Orive
+Mississauga, Ontario, L4W 2T3
+
+Panasonic Sales Company
+Division of Matsushita Electric
+of Puerto rico, Inc.
+
+Ave 65 de Intanteria. KM 97
+Victoria Industrial Park
+Carolina, Puerto Rico 00630

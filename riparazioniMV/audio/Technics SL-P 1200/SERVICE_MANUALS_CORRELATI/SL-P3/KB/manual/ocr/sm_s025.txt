@@ -1,0 +1,48 @@
+‘ee (Optical servo P.C.B.)
+
+AN78M15 28K301.. SVICP—F15
+AN7805
+<> Ss UN4212
+° Ta TE KS a,
+G / 2 No. 1 PS
+s 1. In 1 7 c
+2. Out AB
+AN79NO5 MA165 28C3311 AN4558 MN4069UB fog ® 4)
+AN79N15 28C641 SVDISR35200V | 2SA1309 AN1393 MN40018 Ht)
+. AN1358 8 pin MN4066B é
+S k—f—a <2 _ | svinumos20 DN74LS74A $14 pin
+D> ap BE SVILM833NA J DN74LS107 -——
+; iG SVIUPD4053BC in SVITC40HOOAP
+sHtae} « (Gio 5 2 yon cs K—+4#—A ANSOB20.5.scunn18 Din SVITCAOHSBEP UNat12
+RIQLS Se ff gRIO5.4 gh : svI _
+ee et i bag! 3._Vout MN15844PCO.
+16 ; ght Ti . ! i” 5 toa AN78L05 2801266 MA1180, MA4047| = svDSIWB40 a)
+~Galed ES : e— : ait] isp ee 288941 MA4056, MA4091
+StH esd | ice _ a 8 TOMES a yen | i MA1051 ¢
+7 Diegxat | by . Se aR de : : Aliana nt f Cy e ey le g Mark F Lory”
+yh A ,, Y ALON eS a ee ee wi pS Panne . ‘ 8
+lk ee J, ghiey Nena EAE oe case "£04. vin <—o— 8 ci
+” ? ; ir Bare 15” a “I a of . y if : i 7 i F be % im :
+
+32. GND
+3. Vout 8°
+AN6638 2SD636, 2SB641 | MA150, MA162A
+
+SVDGL—-9HY4
+2SD973, 2SB793 SVDKV1230Z
+
+SVDGL—9HG4
+SVDGL—9HR4
+; ? k——{—L }+—4 .
+' x—t¢—a 1S ¢
+w B
+
+(Electronic volume P.C.B.) [0%] (Headphone amplifier P.C.B.)
+
+HEADPHONES
+
+e Remote control receiver P.C.B.
+
+LEVEL CONTROL
+
+a —40—

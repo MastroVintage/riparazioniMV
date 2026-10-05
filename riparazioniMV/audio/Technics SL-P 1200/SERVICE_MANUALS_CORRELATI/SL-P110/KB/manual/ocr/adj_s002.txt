@@ -1,0 +1,49 @@
+1-2.
+
+Measuring Instruments and Special Tools
+
+Must provide special tools prior to starting electric adjustment and optical pick-up adjustment.
+The special tools are available through the ordinary part supply route. Specify the part
+
+numbers (SZZP ----) when placing your order.
+
+1. Servo gain adjuster
+(SZZP1017F)
+
+3. Ordinary disc
+
+4. 2-channel oscilloscope
+(with external trigger more than 30MHz)
+
+5. Low frequency oscillator
+
+6. Adjusting screwdriver ----- $ZZP1043C
+7. Allen wrench ----—---—---- SZZP1044C
+9. General servicing tools
+
+10. Junction PCB 1
+(SZZP1070C)
+
+. Junction FPC cord
+(SZZP1071C)
+
+2. Test disc
+
+* Test disc (SZZP1014F) old type -
+* Test disc (SZZP1014F) new type
+* Inspection test disc (SZZ1054C)
+* Uneven disc (SZZP1056C)
+
+* Black band disc (SZZP1057C)
+
+6. Adjusting screwdirver
+(SZZP1043C)
+
+a
+
+7. Allen wrench (1.5 mm)
+(SZZP1044C)
+
+8. Conversion connector
+(SZZP1032F)
+

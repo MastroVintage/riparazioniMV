@@ -1,0 +1,103 @@
+Testers and jigs for adjustments
+c= —
+
+Cross-sectional view of feeler blade gauge (SZZP1020F)
+
+1. Two-channe! oscilloscope of 30 MHz or over.
+2. Ordinary disc and test disc (SZZP1014F)
+
+3. Hexagonal wrenches (1.27mm and 2 mm)
+
+4. Gauge ket (SZ2ZP1022F)
+
+itil
+
+Top view of feeler blade gauge (SZZP1020F)
+
+Caution
+
+It is very dangerous to look at or touch the laser beam.
+
+(Laser radiation is invisible.)
+
+With the unit turned ‘‘on’’, laser radiation is emitted from the
+pick-up lens. Be careful during adjustments in particular.
+
+REST position gauge (SZ2ZP1019F)
+
+o—__—.
+
+Grating adjustment tool (SZZP1018F)
+
+* Do not look into the lens when power is applied to the unit, since there is laser radiation
+Adjustment Procedure (H.H.S./D.H.W./etc., regulation).
+* These steps must be followed in order.
+
+. Rest position adjustment
+
+1. Assure that leaf switches $101 (Rest detection) and
+$102 (End detection) have not been mashed during
+reassembly and therefore set to “ON”.
+
+\f they are, carefully separate the contacts about 2mm.
+
+2. Apply power to the unit. This will cause the traverse
+
+motor to wind the optical pick-up to the REST position. Optical
+
+. Turn the power switch “OFF”. pick-up REST switch
+
+. Place the REST position gauge on the turntable. . adiustor
+
+5. Assure that the lens is concentric within the hole of the
+REST position gauge as shown in Fig. B.
+
+Lock screw
+
+> Ww
+
+Optical pick-up is too close to the
+
+turntable. (Fig. B)
+
+To adjust:
+
+1. Loosen the lock screw and turn
+the REST switch adjustor clock- Focus lens
+wise.
+
+2. Note that if the Rest detection
+switch ($101) is too much REST position
+toward $102, then the pick-up gauge
+will Rest too far away from the Fig. B “NG” (too close)
+turntable at Rest position. If so, apply power and repeat step 1 above until
+Rest detection is detected when the lens is connectric with the hole of the REST
+
+position gauge.
+
+Turntable
+
+Fig. A
+
+No adjustment required (Fig. C)
+
+Optical pick-up is too far from the
+
+turntable. (Fig. D)
+
+To adjust:
+
+Loosen the lock screw and turn
+
+the Rest switch adjustor counter- REST position a
+gauge REST position
+
+clockwise.
+Fig. C “OK” gauge
+9 0 Fig.D “NG” (too far)
+
+6. To verify correct adjustment, place the disc on the turntable and apply power to the unit. This will auto cycle the
+optical pick-up. Re-check alignment with the REST position gauge as shown in Fig. C.
+
+Focus lens Focus lens
+

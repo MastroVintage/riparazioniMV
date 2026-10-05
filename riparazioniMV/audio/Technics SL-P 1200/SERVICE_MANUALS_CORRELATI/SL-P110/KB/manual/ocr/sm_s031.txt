@@ -1,0 +1,121 @@
+; 10 | 11 \ 12 i 13 i 14
+
+: Positive voltage lines and negative
+
+>rtant safety notice:
+
+yponents identified by “\ mark have special
+acteristics important for safety. When
+acing any of these components, use only
+ufacturer’s specified parts.
+
+y 8 A in
+alll \
+
+LL
+
+lo
+io
+>
+
+$1445, OPTICAL |
+
+BS= Tes | SERVO
+
+$ fe AN8370S |
+
+; 88
+
+Tt
+
+voltage lines.
+
+: Audio signal lines.
+
+2S0637
+
+EHDGAI243
+
+SVIM5236L
+
+AN6552
+
+ft
+
+C27 6V330
+R22 6.8K
+
+Q801,8
+
+2SC331|
+
+ni
+F-#Cl06 470P OS t Bak
+26 Ly R103 4.7K “t oo
+* ClO8 SOVO
+vem — oo yy
++ Tracking
+150 gain ad j |
+E a Ris 7
+2163 33K 33K
+£ - V + —?9 |
+| Ci62 680P | |
+“ —1 Fac |
+: a ye |
+8 8
+62
+S ? io) 2.2K
+3 C104 26 | | |
+: a |
+|
+
+C3
+
+MN4416S
+
+I6K RAM
+
+Meattodnnates,
+
+aan eaa easel
+
+MN66!
+
+DIGITAL
+SIGNAL PROCESSING
+
+Ri
+
+S224
+
+= =22z222= ‘ 2 ©
+= feecte =
+KEIO OAAONAASE
+| | | |
+abcedefghijkimnopgqrstu
+
+(2) RMA 10
+(2) RMAg
+(?)RMAB
+(3)RMAG
+
+#28) p00 (Ls8 )
+
+I)
+
+NEC ye
+
+CE
+
+if
+#
+
+DOOOOOL
+ia
+
+@arar--*—@3
+
+hAMDARNL «
+
+brrvrrrr
+

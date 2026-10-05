@@ -1,0 +1,29 @@
+(9) Keeping the player in the playback mode, place it as illustrated (stand it on its left side).
+Note :!f the player is stood on its right side, the adjustment cannot be accomplished perfectly.
+
+(10) Check if the RF signal waveform is as shown in illustration (NG).
+
+If the waveform can not
+
+be checked or is unlike the given waveform, proceed to the following steps.
+
+(11) Set the allen wrench (SZZP1044C., ..1.5mm) into the socket in the heads of the mechanical
+
+adjusting screws shown in illustration and turn the both screws right or left to optimum
+positions.
+
+"OK Ly
+
+Mechanical adjust
+
+s Most
+
+J , strretched
+‘i eye
+Oddsd patlern
+
+(12) Turn off the power supply switch of the player.
+(13) Lock the adjusting both screw with screw lock paint (RZZOL01)
+of adjustment.
+
+on completion

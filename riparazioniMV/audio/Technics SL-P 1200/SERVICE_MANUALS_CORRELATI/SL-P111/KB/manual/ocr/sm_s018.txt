@@ -1,0 +1,143 @@
+O23 ps
+
+AVA
+
+|
+_ SENSE seh SMCK
+2 5___. RESET?
+OSps IV/DIV contar 234 { aoe . 409 |
+—H CONT3> zt REMOTE |, 5__Remote
+a CONTROL te—fseere }-—o$"
+conrar—t274 DATA | :
+
+13.3ms
+
+CONTROL 8 8
+FL DRIVE
+
+\ error} 4 $2 -woata
+suBo +224 St MciK
+tet $2—omuTe
+po
+1cl04
+4 Q14i,l42 Pc —t
+——
+
+29 sTaT
+saa]
+). drive 34 33 23 24
+LOADING
+MOTOR CONTROL
+402,403 Ic4o2,—
+| sslectr [cross
+
+conti 20h SYSTEM
+|
+
+O23ps
+
+=
+
+2ms inte
+
+CLOSE
+
+Loading
+motor
+
+TRAVERSE SERVO
+
+Qigl, 182 IC103
+writ 4
+TRV-F
+
+ON at"L"
+
+Troverse
+coil
+
+12
++
+
+4
+
+62
+ing
+ive
+
+PROCESSING |
+
+; |
+L___,___]
+
+701V
+2ps 'V/01V
+
+E.F.M. DECODER. ERROR CORRECTIONand CLV SERVO
+
+4 DMUTE }
+
+I6K RAM
+
+POWER SOURCE
+
+Qis
+
++6V Regulator Power
+transformer
+
+Q13,1CI13 Qi ICPII O1I9~22
+
+Qié6
+Ql4,IC402 Ql2 IcPl2
+
+1c
+“$v Protector
+
+023~26
+Qi7 +12V
+
+-12Vv Rectifier
+
+—32v —
+
+Ac2v —
+
+— FPC }
+79 78] 0 Chip select.
+a O —— O Qe eee write enable,
+1301 LT output 1C801
+EFM at) Synchronize y-=jFrequency Q807. 808 Q803
+detector detector
+| | { DMUTE }
+136 ps
+Synchronize EFM fz
+l | Protection decoder
+||
+72
+iN PCK | 2} he, Sub-code
+CLOCK 0 decoder
+' | 1C302 |
+—BLKck}-—_4 Input Address Addres lms Iw/oiv VI \f
+— SUBQ } am resistor counter counter
+—{ EMPHA > / IC 805
+D/A CONVERTER
+KR Severe i Low-pass
+4 SRF Deglitch Leh
+1c802
+Treader [sw]
+Ni resistor Qsol (C804
++4 E—EC } />o MCK timing network,
+35! a 1c802 IC803 (C806
+a an ‘
+O — o Oo oO O liter
+6 '7 16 12] 20° 25 \
+— D0 F it 805,806
+— conta T «301 T stat -—— H.35ps : ~ - Q802 1C 804
+IVE { MDATA}- MS +MDATA}
+16.9344MHz {MCLK } ei 4 MCLK “
+—1 SMCK } MLD } —{ MLD }
+\ O.23ps NN
+16.9344MHz
+—24— — 25 —
+

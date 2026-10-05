@@ -1,0 +1,66 @@
+8. Ajuste de desviacion en desexcitacion
+
+1. Conectar el osciloscopio a los puntos mencionados abajo.
+
+CH1......... TJ101 (P.C.B. 03.)
+
+CH2......... TJ103 (P.C.B. 03.)
+
+EXT... TJ401 (P.C.B. 01.) VR103
+Puesta de asciloscopio:
+
+VOLTAJE.... 1V
+
+BARRIDO.... 0,5 ms VR106
+
+Entrada...... CA
+Disparador.... NORMA EXT.
+2. Interpretar la banda 13 (punto negro de 0,5 mm) del ;
+disco de prueba. EXT] |
+3. Observando |a forma de onda de CH1 dél osciloscopio, ajustar VR103 de manera que la amplitud de forma de onda,
+cerca del punto de disparo, se minimice.
+Si no se minimiza, ajustar de manera que la parte superior e ingerior de la forma de onda sean casi simétricas.
+4. Observando la forma de onda de CH2 del osciloscopio, ajustar VR 106 de manera que la amplitud de forma de onda,
+cerca del punto de disparo, se minimice. Si no se minimiza, ajustar de manera que la parte superior e inferior de
+forma de onda sean casi simétricas,
+
+9, Ajuste de ojo optimo
+
+1. Sefial RF de monitor en osciloscopio.
+2. Conectar CH1 de osciloscopio a los puntos TJ402 en
+P.C.B.
+Puesta de osciloscopio:
+VOLTAJE.... 1V
+BARRIDO.... 0,5 ms
+Entrada...... CA
+3. Ajustar VR102 de manera que el patron de ojo de sefial
+RF esté lo maximo abierta.
+
+10. Ajuste PLL (bucle de enganche de fase)
+
+1. Cambie el bloqueo de aparato a modalidad de EYEC-
+CION.
+
+2. Connecte CH1 y CH2 de osciloscopio a TJ701 (FCLK)
+y TJ702 (CLDCK) en P.C.B. 01.
+Puesta de osciloscopio:
+
+VOLTAJE..... 2vV
+
+BARRIDO..... 20us
+
+Entrada....... CA
+
+Disparador..... CH1 + CH2 (NORM.) FCLK
+Modalidad..... ALT:
+
+Ww
+
+. Connecte perno 13 de IC301 en P.C.B. 01 a tierra (GND). a
+4, Ajuste L301 (VCO) de manera que la onda de oscilos- ~ pt pp bers
+copio se forme como se muestra abajo. :
+
+H
+
+Aparee fos centros de anchura de impulso
+de ambas formas de onda.

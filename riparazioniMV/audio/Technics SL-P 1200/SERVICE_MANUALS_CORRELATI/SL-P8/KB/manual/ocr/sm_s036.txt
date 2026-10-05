@@ -1,0 +1,120 @@
+SRDPOOBNO4(b)
+
+m@ SCHEMATIC DIAGRAM ©) (Pitch control circuit)
+
+1
+
+2
+
+O42 usiB.64MHz)
+
+ft
+
+VR6OSI Center 3.7us
+” “6% dus
++6% 34us
+
+(S652 ON)
+
+123 | SRDPOOBN23 a
+| R462 10K
+coast 1 PABA NOK
+
+1eais
+
+1a, 1€419 SVI TCAOH386
+
+PHONES LEVEL SVISN74LS393 DN74LS74AN , RAG IOK |
+( b) VR801
+1OOK(A) .
+r rou VRO Lb
+607 424 H.GND | >
+IN |
+Vv
+OH avav PHONES ROR }—
+dl yt vRIL +] By
+—@Hiacav enzo H-GND 2~ 0 nals (8662 ON
+A) VRI R VR65 | Center @5ysil cN2I5
++6% 1.7us
+HPL} -6% 2us 4.3218MHz—
+H.GND 3}— 1caie AN6682 PITCH CONTROL o.6no -
+HP R } B tv oo | ay
+° 41 B64MHz - > Taig
+RT! ctl FO GND FRC cT2 vco a
+AGND }-
+voL -
+KR +15V
+mst
+SRDPOO8NO4 (a) $6 4
+3k VROS! Center LA5us
+\ rf fos
+104 GD) $3 —
+D655 3 1 r aA
+LN28RCPP se ‘
+is \ . VRESI Center (85us \. VR65I Center 1.85us
+«8 _ Pitch control VR65i Center \ + 46% Tus So $6% us
+frq. adj. 137 ps (7.28kHz) \+ -6% 2s YO ~6% 2us
+} NO (| ic ( (I:
+- fw
+—_ nd Cc Note:
+cn207 1. The voltage value and waveform are the standards ance of DC electronic voltmeter (tester, etc.) used
+— of this unit measured by DC electronic voltmeter for the measurement and the measuring unit.
+—_ (high impedance) and oscilloscope. Accordingly, 2. This schematic diagram may be modified at any
+some erros may be included in the voltage value time with the development of new technology.
+and waveform depending upon the internal imped- 3. ——: +B Voltage line.
+-15V FF) }©)—h ee
+GND }— . .
+BV m SCHEMATIC DIAGRAM (0) (Power supply circuit)
+DECHO }—
+D.DATA O }— 1 2 3 4 5
+p.oataty-(| Mo ------
+D.DATA 2} { CN209
+D. DATA 3)}—
+D.CLOCK }—
+D.SEND >; ff 4¢------
+BEEP A — Ze
+K S660 7 S662 y S664
+BEEP K }~} ih S882
+/CLOSE - A
+ees if ee ron
+NSOR $653 Be Z. = SVDS2VB20
+Nn” $657 S661 ¥ S663 ¥ S665
+PLAY yf CN208
+DI REP | MUSIC 2
+SCAN -
+— .. —
+— tac 22vr Te
+- — GND &
+r ac 22v 0
+— @ :
+D. GND _ 8 £
+GN 5 7.
+ney 1 PLAY SW}~ F re,
+S651 cNéO3" B 2 220-240V
+TIMER PLAY=—off——AUTO PAUSE (80/602)
+PLAY pon naan A
+i
+p651,652 1 i 2
+PAUSE/STOP 2
+nepear LN28RCPPi--|--|--|----- 3 SNe 3
+De53 5 A .PAUSE }— ‘02 | &
+MUSIC SCAN LN48YCP ’ 0. GND }~ > cn206
+45 anu
+T.PLAY }—
+0654 4)
+LN38GCPP
+ee FN
+CN201
+Note: etc.) used for the measurement and the Cc Note:
+1. The voltage value and waveform are the measuring unit. 1. The voltage value and waveform are the standards for the measurement and the measuring unit.
+
+standards of this unit measured by DC 2. The waveform is that obtained without of this unit measured by DC electronic voltmeter 2. This schematic diagram may be modified at any time
+
+electronic voltmeter (high impedance) and disc in the disc holder. (high impedance) and oscilloscope. Accordingly, with the development of new technology.
+
+oscilloscope. Accordingly, some errors may 3. This schematic diagram may be modified some errors may be included in the voltage value 3. Important safety notice:
+
+be included in the voltage value and wave- at any time with the development of new and waveform depdnding upon the internal imped- Components identifier by Z\ make have special
+from depending upon the internal imped- technology. ance of DC electronic voltmeter (tester, etc.) used characteristics important for safety.
+
+ance of DC electronic voltmter (tester, 4. —: +B Voltage line. 4. —: +B Voltage line.

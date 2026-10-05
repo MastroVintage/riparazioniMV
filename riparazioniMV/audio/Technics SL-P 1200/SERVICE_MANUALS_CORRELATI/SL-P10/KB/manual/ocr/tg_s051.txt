@@ -1,0 +1,57 @@
+Ic1l10 (AN7676) is a stepping motor drive IC. The 4-phase
+pulse waveforms from traverse microcomputer (MN1400)
+during FWD and REV modes of stepping motor are as shown in
+Fig. 5-9, so that the rotating magnetic field of stator
+core is reversed.
+
+-At input terminal of AN7676, the 4-phase drive pulse wave-
+form is made trapezoidal by C132 - C135.
+
+(09104 is OFF during PLAY and manual search low-speed mode.)
+
+During FWD mode, drive pulse changes as 9>3+6+C>+ 9
+... in HEX indication with E03 as MSB, and EO0O as LSB.
+
+During REV mode, it changes as9*>Cr+67+32+9...
+MN1400 pin (3) (C08) output makes AN7676 full power to
+increase the starting torque.
+
+Therefore, the stepping motor repeats Start + Hold opera-
+tion.
+
+Also, pin (2) (C09) goes "H" only when the traverse mode
+moves at extra-high sveed, and changes the drive pulse
+from trapezoidal wave to rectangular wave thereby releas-
+ing the slow up motion of stepping motor.
+
+Other functions of MN1400
+
+Refer to Fig. 5-2.
+Pin (5) (C06) and pin (6) (C05) generates negative pulses
+in timing of starting the stepping motor.
+
+During FWD mode
+It delivers output pulses to pin (6) (C05) in timing of
+MN1400 pin (3) (C08).
+
+During REV mode ...
+
+It delivers output pulses to pin (5) (C06) in timing of
+MN1400 pin (3) (C08).
+These pulses become the clock for counter in MN6610 respec-
+
+tively as SNSA and SNSB.
+(For operation of MN6610, refer to page 118.)
+
+-- 70ms—+4
+OPIN | | at | |
+(C08) ——“}
+©PIN Lt __19ms OPIN
+(C05) ; ! (C06) ll
+|
+"
+14ms
+
+Fig. 5-10 PU position counter clock
+
+— 56 —

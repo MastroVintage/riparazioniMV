@@ -1,0 +1,56 @@
+SYSTEM CONTROL
+and FL DRIVE
+
+[e101] 39 4446 49
+
+DISPLAY CONTROL
+
+KEY MATRIX
+
+FLOCK
+O SENSE
+
+no,
+
+MOTOR DRIVE
+
+1c4o2 402 ,403
+Bee |
+
+!
+
+I
+
+|
+
+|
+
+H
+
+Motor
+
+Loading (m) !
+motor = L
+
+| TRAVERSE
+
+SERVO
+ICi02
+5
+cf oe z
+[+ —~frovers] eget}—- 3 Ese
+1C103,Q181,182 {Clos
+
+Speed
+detector
+
+DIA coneeeR
+
+P1807 |
+
+Ladder
+resistor]
+etwork
+
+Ld
+

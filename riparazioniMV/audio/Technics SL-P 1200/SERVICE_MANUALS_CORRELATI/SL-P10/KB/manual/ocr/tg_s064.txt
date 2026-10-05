@@ -1,0 +1,83 @@
+IC609 (745124) is VOC of PLL, and the frequency of output pin
+(10) changes according to the DC voltage of pin (1) (FC input).
+The free-run frequency of VCO is about 17.28 MHz. This output
+is subjected to 1/4 frequency division at IC606, changing to
+PCK of about 4.32 MHz (= 1T).
+
+Ic605 (A) is PC (phase comparator) and are controlled by PCK
+(= 1T) and edge pulse (= 0.5T). It is illustrated in Fig. 7-6.
+PLL is locked when the phase difference of PCK and 0.5T is 90°.
+
+y
+
+(Area is equalized at(_} mark.)
+
+1T
+
+ee ee oe le le
+_ 0.5T
+sos
+
+“4 ‘
+
+IC605—(3) —}.—§] J]
+
+X\
+
+Fig. 7-6 Phase comparison
+
+1C611 IC603
+
+1C613
+74LS157 741800
+
+404004
+8
+
+IC604{A)
+7418123
+
+(0.5T pulse width)
+
+From RF 9
+waveform
+shaping
+Input ¢ circuit
+TST
+
+O
+EFM
+
+1C604(B)
+74L$123
+514.9
+
+Drop-out
+detection
+"Hy"
+74Ls74
+(1/4Div):
+
+) I !C607
+
+(DROP OUT,CONT JALs74
+
+THM! TOY |
+
+con mw | | |
+fo 12
+= 17.28MH2" 8 rH
+
+Cext
+
+ae
+~ 0609
+Ic609 See
+74L$124 (LP. F)
+
+Fig. 7-7 PCK generating circuit
+
+* For simplifying the circuitry, it is partially omitted or
+equivalent circuits are used.
+
+= jo

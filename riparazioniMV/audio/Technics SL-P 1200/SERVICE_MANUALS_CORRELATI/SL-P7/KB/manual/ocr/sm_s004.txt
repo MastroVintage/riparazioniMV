@@ -1,0 +1,109 @@
+m HOW TO CHECK THE PRINTED CIRCUIT BOARD
+* For removal of each part, refer to the Service Manual of SL-P7, (Disassembly instruction on Page 9 ~ 13).
+e Servo P.C.B.
+
+1. Remove the 4 setscrews of cabinet.
+2. Remove the cabinet in the direction of the arrow.
+3. Check each part. (Part side)
+
+4. When checking the soldered parts on the servo P.C.B.,
+raise the P.C.B. as in Fig. 2. (Tie the power switch rod
+to the servo P.C.B. with a string.)
+
+1. Remove the cabinet.
+2. Remove the switch rod from the power switch.
+3. Remove the 4 setscrews of the front panel.
+
+Lead wires
+
+Connectors
+
+4. Turn over the front panel and check the P.C.B. as
+shown in Fig. 4.
+
+5. Also remove the 3 setscrews of the P.C.B., and release
+the 9 claws. (Fig. 5)
+
+6. Shift it as in Fig. 6 and check.
+
+Cautions:
+
+(1) Take care not to damage F.L.
+
+(2) When installing the power switch rod, set it through
+
+the lead wire as in Fig. 7.
+(3) When installing cabinet, take care not to squeeze the
+
+lead wire.
+Clews
+
+Screw
+Screw
+
+i_-—-Screw
+
+:
+
+Fluorescent P.C.B.
+
+Fig. 5
+
+Power switch
+ot Fig.7
+
+e Digital P.C.B.
+
+1, Remove the cabinet.
+2. Remove the servo P.C.B. to shift it as in Fig. 8, and
+check each part.
+
+3. How to check soldered parts:
+(1) Remove the front panel and Fluorescent display
+tube P.C.B.
+(2) Remove the 3 setscrews of the P.C.B. holder. (Fig. 9)
+(3) Shift it as in Fig. 10 and check.
+Caution:
+When checking as in Fig. 10, connect the ground (earth)
+terminal of digital P.C.B. to the chassis before turning
+power supply ON.
+
+* Precautions for removal of MN6616 and MN6806
+MN6616 and MN6806 attached to the digital P.C.B. are
+radiated by the radiator column. When fitting LSI, apply
+silicone compound (or equivalent head diffusing agent)
+to the radiator column. (Fig. 11)
+
+MN6806
+
+| Insulator rubber
+
+T Apply silicone
+S Insulator compound
+i rubber
+™ Apply silicone Radiator column
+compound
+
+Radiator column
+
+The radiator column and insulation
+rubber are fixed (glued) on P.C.B.
+
+Fig. 11
+
+e@ Head amplifier P-C.B.
+
+* For the details, refer to the adjustment manual.
+1. Remove the cabinet.
+
+2. Remove the front panel, and Fluorescent display tube
+P.C.B.
+
+3. Pull out the traverse unit connector (attached to the
+servo P.C.B.). [CN552, CN101 ~ CN106, CN109, earth
+wire.]
+
+4. Remove the 4 traverse unit setscrews. (Fig. 12)
+
+Servo P.C.B
+

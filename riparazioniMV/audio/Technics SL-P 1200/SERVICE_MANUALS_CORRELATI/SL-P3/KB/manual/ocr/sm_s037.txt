@@ -1,0 +1,109 @@
+le,
+
+Actuator
+
+© | FEO
+S | FE@
+
+-10.7
+
+Actuator drive
+
+0.12 ps(8.64MHz)
+4Vp-p
+
+5V
+
+A
+kHz, OdB
+
+avait
+
+ves
+
+136ys
+(7.35kHz)
+
+play
+4Vp-p
+
+Waveform shaping \
+
+RF signal
+waveform
+shaping
+
+0.23p8(4.32MHz)
+Deglitch
+
+LPF8OI 1c803
+
+6
+5 3
+st Dep:
+Actuator drive EFM "\cB03 ua
+2
+. 94Vv
+Tracking e109
+control is
+Q105 1C 105 @ 1c802 3
+
+21° icao2 Aoudio
+fs circuit @&
+
+0.23ps
+(4.32MHz)
+
+¢ iy : ERS me
+: Error
+pee [as], Eek
+
+LL Fle
+Timing OSC a al
+
+LSI
+Module
+
+LPF802 1C806
+
+-15V
+BRR
+C2 Uns-[- J
+cramble
+synchronize {kHz ,OdB
+detection |
+Compe-
+nsation
+Loading
+motor
+
+|
+
+-I5V
+
+D/A Converter
+
+1C801D~@ pin
+
+8.643MHz
+
+Icltool
+
+Key switch
+Ha
+
+(3ms
+
+\ play
+
+play /search
+
+1¢201 i) M Traverse @
+9204 Muting control oe 7
+=e
+-10.7V (C706 0407 an 15V
+LISSo2 (|
+> ie RL8OI
+
+—48— —49—
+

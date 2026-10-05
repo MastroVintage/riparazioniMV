@@ -1,0 +1,32 @@
+Perform these adjustments by use of a traverse unit base in
+accordnace with the traverse unit servicing method to improve
+the workability.
+
+CONTENTS
+
+. Focus gain adjustment 2.6... 6.6 ee ete tenes
+. Focus balance adjustment ....... 0. cece eee ee eee
+. Focus offset adjustment 20... 0.0. eb eee ete eee ees
+. Tracking gain adjustment 2.0.0.0... cee eee eee teen eee
+. Tracking offset temporary adjustMent . 0.0... . ee ee et eet eee
+. Tracking balance adjustment 2.2.6... cee eee eee
+. Tracking offset adjustment ....... 0... eee eee eee eee tet ene ee teen
+. Offset adjustment in drop-out 2.2... eee ee eee
+. Best eye adjustment 0.0... ce eee ee eee ee ene ees
+. Traverse offset adjustment ... 2... ec eee eee ee eet ene eee
+.PLLand CLV adjustment... 2.20... ce ee eee teen een een nae
+. Pitch Control adjustment 2.0.0... 0. ccc ee ee eee eee nett een nena
+. Amp. Gain adjustment 2.0.0.0... 0. eee eee ee eee eee eaee
+Tune Voltage adjustment .. 0... . cece eee eee ee nent ents nee nes
+Audio distortion adjustMent 2.2... 0... ee eee eee ene eee ens
+Check of play operation after adjustment ...... 0.0.0 cece eee ee eee eee e eee eens
+
+ony noF WHY
+
+9
+
+— 2 —
+Wn — ©
+
+Caution: In case the optical PU is individually replaced, it is necessary to perform mechanism
+adjustment before these adjustment.

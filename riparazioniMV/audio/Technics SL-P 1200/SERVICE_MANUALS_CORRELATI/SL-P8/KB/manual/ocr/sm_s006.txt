@@ -1,0 +1,97 @@
+@® Auto-pause/timer switch
+
+@ When this switch is set to auto-pause, the player switches
+to the pause mode at the end of each track during
+standard disc play and program disc play.
+
+@ Press the play button to continue disc play. This func-
+tion is very useful when singing along with discs.
+
+@ Set this switch to timer to use the player for timer
+play.
+
+@ Set to the center off position to cancel the auto-pause
+or timer mode.
+
+@ The auto-pause function will not operate on discs that
+do not contain a pause signal in each between-tracks
+gap.
+
+@ Headphone jack
+
+@ Headphone level control knob
+@ Use to control the output level to the headphones.
+
+@ Line out terminals (LINE OUT)
+
+@ These are the audio output terminals.
+
+@ Connect the line out terminals to the AUX/CD/VIDEO
+or TAPE PLAYBACK terminals on your amplifier or
+receiver. .
+
+@ Do not connect to the amplifier PHONO terminals as
+you would with a conventional turntable.
+
+@® AC (mains) socket (AC IN)
+Connect this socket to a wall socket using the power
+cord.
+
+® Synchro rec terminal
+
+The following functions are possible when this
+terminal is used:
+
+[ Synchro recording function
+
+Recording can be synchronized with the beginning and
+end of disc play and pause operation. Note that this is only
+possible when using Technics cassette decks which are
+equipped with a CD-SYNCHRO REC terminal and Technics
+amplifiers which are equipped with a synchro rec terminal
+compatible with Compact Disc players.
+
+Use the MINI-PHONE cord (option) for the synchro rec
+connection. (SJP2257)
+
+[ Direct operation function
+
+The amplifier input source can be automatically switched
+to aux/CD/video when the play button is pressed. It is also
+possible to automatically start disc play when the ampli-
+fier input source selector is switched to aux/CD/video.
+
+Note that this is only possible when using Technics ampli-
+fiers which have a direct operation function.
+
+® External terminal
+
+@ This terminal is provided for system connections with
+future components.
+
+® Do not connect any other components to this terminal.
+
+@ AC line-voltage selector
+
+e Top view
+Power transformer Power supply P.C.B.
+Regulator IC
+P.C.B.
+Fuse P.C.B.
+Spindie
+motor drive
+P.C.B.
+Power switch
+i)
+-— Pitch
+
+Optical deck
+unit
+
+Disc clamper
+
+A control P.C.B.
+
+Servo P.C.B.
+
+Keyboard P.C.B.

@@ -1,0 +1,76 @@
+@ Circuit operation of TR ON signal processing block
+
+TR ON signal from system microcomputer passes through the cir-
+cuit of Fig. 47 and turns ON the tracking servo loop switch
+of IC101 pin (22) (AN7673).
+
+(1) System microcomputer delivers TR ON signal to CN902 pin
+5) of P.C.B. Then IC909 pin (5) goes “H" and
+CN902 pin (12) (ZERO) of O53 Pp.c.B. goes "L", causing
+Ic909 pin (6) to go "H". Therefore, IC909 pin (4) goes
+oS ha
+
+(2) When IC909 pin (4) goes "L", the level of CN902 pin (11)
+of (65 pP.c.B. is "H" irrespective of whether IC909 pin
+(1) is at "H" or "L". The operation timing when the mode
+is shifted from STOP to PLAY is shown in Fig. 4-9.
+
+(3) rack signal applied to CN902 pin (11) of Ol] P.C.B.
+from CN902 pin (11) of P.C.B. causes IC1502 pins
+(8), (9) to change to "Hi". As a result, IC1502 pin (10)
+goes "L", and 1C1502 pin (12) goes "H" for about 20 ms
+immediately after the stepping motor of traverse servo
+stops rotating at an extra-high speed, but it is at "L”
+during normal play mode. Therefore, the level of I¢1502
+win A111) te 7a",
+
+The operation timing when the mode is shifted from STOP to
+PLAY is shown in Fig. 4-11.
+
+The operation timing in mode random access play mode when
+the stepping motor moves at an extra-high speed is shown
+in Fig. 4~10,
+
+~ 279 —
+
+IC 101 AN7673
+
+VREF
+
+control {tracking}
+
+Track
+aww
+29
+
+CH703
+
+CN120°3. JTIME
+TE (HK)
+CN704
+KICK/ F/R
+Auto focus control att )Level in PLAY mode is
+
+paranthesized.
+
+Fig. 4—8. Enlarged view of 1C103 AN7674
+
+(4) When IC1502 pin (11) becomes "H", IC103 pin (19) goes "H",
+causing tracking controller in IC103 to stand by.
+
+In this condition, when the point at which tracking error
+(TE) signal, IC103 pin (6), from tracking error amp inter-
+sects with the V REF (reference voltage) level of IC103 pin
+(7) is synchronized with the point at which RF REAL signal,
+IC103 pin (24), from AN7672, then on-the-track detector
+delivers signal to tracking controller, making the level of
+IC103 oin (1) (TR ON) “H*
+
+IC102 pin (9) goes "H" about 0.3 sec after entry of RF REAL
+signal from AN7672 to IC102 pins (5), (6). Then, IC102 pin
+(10) goes “H", actuating tracking servo.
+
+The operation timing of IC103 and IC102 is shown in Fig.
+4-12.
+
+2 i

@@ -1,0 +1,69 @@
+e Turntable height adjustment (Page 22 of Adjustment manual)
+
+Correction part
+
+2. Turntable height adjustment
+
+Note: Necessary after Direct Drive spindle motor is replaced or RF
+
+signal is not obtained.
+
+. Insert the thin end of Feeler blade gauge between the turntable
+
+and the shaft bearing.
+
+. Slide the Feeler blade gauge toward the thick end and mark the
+
+gauge with a pencil, where it and the turntable touch and until the
+blade can not be fed anymore than remove the gauge.
+
+. Connect the oscilloscope to TJ402 pin 01 (Main) P.C.B.
+
+. Place a disc on the turntable and clamp it with the magnet.
+
+. Apply power to the unit.
+
+. Press eject ‘‘out’’ and eject “IN”.
+
+. Confirm if RF signal is present. If not, proceed to the next step.
+. To confirm:
+
+Gently tap the disc at point “A”. If RF signal appears, the turn-
+table is too low. If RF signal does not appear, tap the disc at
+point “B”.
+
+RF signal should appear indicating that the turntable is too high.
+
+. To adjust:
+
+Insert the Feeler blade gauge between the turntable and the shaft
+bearing to the previously marked point.
+
+Loosen the hexagonal screw of turntable set screw.
+
+(Use a hexagonal wrench 1, 27 mm).
+
+If the turntable is too low, slide the Feeler blade gauge about
+4 mm (5/32’) towards the thick end and remove feller blade
+gauge.
+
+Reapply power and check for RF signal.
+
+(This is a ‘‘trial and error’’ adjustment, several attempts may be
+required to obtain RF signal).
+
+lf the turntable is too high, insert the Feeler blade gauge and
+move about 4 mm (5/32’’) towards the thin end, using the same
+method as in step 3.
+
+Turntable
+Optical pick-up
+
+Top view of disc set up
+Hexagonal screw Turntable
+
+'<—— Insert the feeler
+blade gauge
+
+Front view of traverse unit
+

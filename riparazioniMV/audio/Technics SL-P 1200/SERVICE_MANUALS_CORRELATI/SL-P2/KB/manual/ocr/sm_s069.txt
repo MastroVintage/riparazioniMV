@@ -1,0 +1,105 @@
+2. Ajuste de altura de plato giradiscos
+
+Nota: Necesario después que el motor de huso de acciona-
+
+10.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+PWN
+
+| 3. Ajuste mecanico
+
+. Coloque el Disco de prueba sobre el plato giradiscos con fijador de iman.
+. Conecte el osciloscopio a perno TJ402 en P.C.B. 01 (Servo).
+
+. Aplique energia a la unidad y seleccione la modalidad de interpretacién.
+. Confirme que la sefial RF es como mostrado en la Fig. A.
+
+miento directo es reemplazado o no se obtiene sefial
+RF.
+
+. Saque el perno corto de CN103 en P.C.B. 03.
+
+Inserte el extremo fino de la galga de cuchilla palpadora
+entre el plato giradiscos y el cojinete de eje.
+
+. Deslice la galga de cuchilla palpadora haca el extremo
+
+grueso y marque la gaiga con un lapiz donde ésta y el
+plato giradiscos se toquen y hasta que la cuchilla no se
+pueda meter ya mas, entonces remueva la galga.
+
+_ Connecte ei osciloscopio a perno TJ402 en P.C.B. 01
+
+(Servo).
+
+. Coloque un disco sobre el plato giradiscos y fijelo con
+
+el iman.
+
+. Aplique energfa a !a unidad.
+. Apriete eyeccién “out” y ejeccion “IN”.
+. Confirme si se presenta sefial RF. Si no, proceda al
+
+siguiente paso.
+
+. Para confirmar:
+
+Suavemente golpee el disco en el punto “A”. Si aparece
+sefial RE, el plato giradiscos estd demasiado bajo. Si no
+aparece seflal RF, golpee el disco en el punto ‘“’B”.
+La sefial RF debe aparecer indicando que e! plato
+giradiscos demasiado alta.
+
+Para ajustar:
+
+Inserte la galga de cuchilla palpadora entre el plato
+giradiscos y el cojinete de eje al punto previamente
+marcado.
+
+Afloje el tornillo hexagona! dei tornillo de ajuste de
+plato giradiscos. (Use una Ilave hexagonal 1,27 mm)
+Si el plato giradiscos estd demasiado bajo, deslice la
+galga de cuchilla palpadora unos 4 mm (5/32’") hacia
+el extremo grueso y remueva la galga de cuchilla
+palpadora.
+
+Vuelva a aplicar energfa y compruebe por sefial de RF.
+(Este es un ajuste de “prueba’’. Puede requerirae varios
+tanteos para obtener sefial RF).
+
+Si el plato giradiscos estd demasiado alto, inserte la
+galga de cuchilla palpadora y mueva unos 4 mm(5/32”)
+hacia el extremo fino, usando el mismo método que en
+el paso 3.
+
+Vuelva a conectar CN103 para habilitar exploraci6n de
+enfoque.
+
+Si ésta no se presenta, proceda al siguiente paso.
+Si la sefial RF es como mostrada, salte e! paso 5.
+
+(comprobacidn visual), como mostrado en la Fig. B.
+
+Vista superior de disco colocado
+
+Tornillo hexagonal Plato giradiscos
+
+«—— Insertar la galga de
+cuchiila palpadora
+
+Vista frontal de unidad transversal
+
+. Ajuste el tornillo hexagonal {use una llave hexagonal 2 mm) a {a derecha o izquierda para obtener la sefial RF
+
+ESPANOL
+

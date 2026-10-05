@@ -1,0 +1,138 @@
+O.5ps, 2V/DIV
+
+J
+
+rT
+EFM}
+\
+
+COM CU
+
+fo)
+wo
+
+Phase shifter
+
+ICBO5SA
+
+SVILM833NA
+
+Ploy !Qus,2V/ DIV
+
+oe!
+
+SVDIWB40
+
+'c8l
+
+AN78MI5
+
+1c703
+
+MN6616
+
+1c705
+
+MN6615
+
+Ploy oa'
+Ploy 1Ous, 2V/01V O.Sms,2V/DIV_. 2SC828
+
+tt a
+
+Ploy IkHz,06B CN502
+
+| abcd
+e 1csoi
+> 3 AN680
+a Cc 2
+b
+tu i Se ° ~
+“4 b
+e~- c
+> 4 AN79NI5 -0Vy
+¢
+dé
+e
+
+a
+b
+c a =
+a
+b
+é 4
+° x
+j 1€803 €
+h SVILM833NA e
+2
+| lf | |: 22.7us
+(441kHz)
+
+1C6805B, 806
+
+SVIpPD4053BC
+
+imine
+
+|: 22.7us
+(44.1kH2)
+
+Ploy lus, 2V/DIV
+
+Cn
+
+0.12ps (8.643 MHz)
+
+RES4 = RBSS Hse
+4.1K 49K
+
+SN ON 7220
+
+OUTPUT
+Reh
+
+2 9% ee foe
+
+1€704
+
+MN 4216-20
+
+al
+
+1C804
+
+MA4056 SVILM833NA
+
+R806 470K
+
+IV converter .
+
+1ceo2
+
+SVILM833NA
+
+ou
+
+8
+
+/\, 1c405
+
+oeovazvaneanva
+
+a
+
+© cez
+2SA564
+
+ow
+
+bes
+
+MA4100
+
+EE
+
+i=)
+®
+vs
+2

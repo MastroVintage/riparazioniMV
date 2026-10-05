@@ -1,0 +1,91 @@
+Adjustment Manual
+
+m MEASUREMENT AND ADJUSTMENTS
+
+Caution
+
+| Adjustment points |
+
+English = e Servo gain adjuster © 03 (Optical servo) P.C.B.
+
+It is very dangerous to look at or touch the laser beam. (Laser radiation is invisible.) With the unit turned ‘‘on”,
+laser radiation is emitted from the pick-up lens. Be careful during adjustments in particular.
+
+* Perform these adjustments by use of a traverse unit base in accordnace with the traverse unit servicing method to @© @osc IN CNi02
+improve the workability. GND
+* In case the optical pick-up is individually replaced, it is necessary to perform mechanism adjustment before these —1—__ Focus gain adi. cn103
+adjustment, refer to pages 19 ~ 32. [|
+——_, io rocw na P
+j ici adj. U BT101
+| Traverse unit servicing method > — > oe |
+* For removal of each pert, refer to disassembly instructions. ON ©» 1P1® oe - > EE
+1. Remove the cabinet and front panel. @} ve 1P2@ : BT102
+2. Disconnect connectors (CN405 ~ CN409, CN411, CN412 oe 1P3© Gn
+and CN501) of main P.C.B. balance adj. Tracking
+3. Remove the traverse unit. The entire traverse unit can then
+
+be removed from the unit.
+
+4. Turn over the traverse unit and remove the nuts. The tray
+
+and the traverse unit can then be separated.
+
+. Remove the disc clamper magnet from the disc clamper.
+
+6. Temporarily fasten the tray and front panel. After that,
+connect only connectors (CN405, CN406, CN408) removed
+in step 2.
+
+7. Remove the insulator rubber and optical servo P.C.B. of
+traverse unit.
+
+8. Mount the traverse unit on the traverse unit base.
+
+9. Connect connectors (CN407, CN409, CN411 and CN501)
+
+Tracking offset adj.
+
+ol
+
+e 01 (Main) P.C.B.
+(I
+
+CN804 _CN803
+C4
+
+. PCK
+removed in step 2.
+Sq
+LSI Module CN701
+T Optical servo P.C.B. C —] U
+unit base (03 P.C.B.) L301 q ¢
+Testers and Jigs for Adjustments . FOLK
+(VCO Adj.) CLDCK
+Testers : _ RF GND CN5O1
+1. Two-channel oscilloscope (with trigger) of 30 MHz or over. 3. Digital voltmeter. 13 pin
+2. Low frequency oscillator. a q
+st
+Jigs: & r304 () QRant VRSO1
+1. Traverse unit base (SZZP1016F) 2. Servo gain adjuster (SZZP1017F) 3. Test disc (SZZP1014F) J S
+a (11T adj.)
+o DROPOUT
+3 — RF
+5 EE (Red wire)
+
+CN409
+
+CN408
+
+4. Short leads with clip.
+
+CN406
+
+CN407
+| | |
+
+CN405
+
+5. Ordinary disc.
+
+CN401 CN402 CN403 CN404 J
+

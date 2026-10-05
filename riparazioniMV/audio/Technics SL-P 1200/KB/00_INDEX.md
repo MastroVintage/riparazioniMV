@@ -55,3 +55,9 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 - RICERCA TRASVERSALE (RAG): ..\_RAG\corpus.jsonl + python _RAG\search.py "query"
 - ..\ARTICOLI_RIPARAZIONI\00_CATALOGO.md : articoli/casi di riparazione (una cartella AR###_slug per articolo), inclusi automaticamente nel RAG.
 - ..\SERVICE_MANUALS_CORRELATI\00_CATALOGO.md : service manual di altri modelli Technics (KB per modello), inclusi automaticamente nel RAG.
+
+## Service manual correlati (SERVICE_MANUALS_CORRELATI\)
+- Catalogo: `SERVICE_MANUALS_CORRELATI\00_CATALOGO.md`. Ogni modello: `<modello>\KB\00_INDEX.md` + `manual\img|ocr` + `DATA\` (PDF originali).
+- **SL-P110 (e P115/P116) e SL-P111 = stessa piattaforma FF1 del P1200** (AN8370S, AN8290S, MN6617S, MN6618A, EHDGA1243, MN15261, MN1550): utili per confronti, regolazioni e forme d'onda. Attenzione: i ref IC sono diversi, usare la tabella di conversione in `SL-P110\KB\00_INDEX.md`.
+- SL-P1/P2/P3/P7/P8 = prima generazione (bassa rilevanza); SL-P10 = Technical Guide Vol.1, non un SM.
+

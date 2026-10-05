@@ -1,0 +1,72 @@
+¢€ How to remove the traverse unit assy b Reclecomant arte ne hoe ee
+. ‘ ment i i 1 .
+(optical deck unit) eplacement parts are supplied in the from of trav
+
+1. Remove the front panel erse unit ass’y (optical deck unit) for the time being.
+
+2. Remove the 4 setscrews [Fig. 15: @ ~ @) of traverse So, a not remove the limit switch, motor, turntable
+unit. Screws @} ~ @ are red. and pickup.
+3, Pull out the connectors (CN101 ~ CN106, CN109, Refer to “How to remove the limit switch, turntable,
+CN552) connected from traverse unit to servo P.C.B. and laser pickup” given in the next paragraph only
+4. Pull out the earth terminal connected from traverse after switchover from assy supply to individual
+unit to chassis, cee eee ie aaananaemamemunums
+5. Turn over the traverse unit and remove the nuts [Fig. 16:
+@ ~ @ |, then the traverse unit ass’y can be removed.
+Note that the front and rear springs are different in color.
+
+Cae te te a ae a at
+U5 lll 55 AB lie A Aint 1
+
+®@ ® Spring (Silver)
+
+53)
+pring @ oy ~)
+Ss (Yellow) @
+_L- Spring Sa feve)
+Head amplifier GS | (Yellow)
+
+P.C.B.
+
+\~ Traverse unit ass’y
+
+Servo P.C.B
+
+Fig. 15
+
+e How to remove the head amplifier P.C.B. and
+spindle motor drive coil P.C.B.
+
+1. Remove the 4 setscrews [Fig. 15: @ ~ @ ] oftraverse
+unit.
+
+2. Turn over the traverse unit and remove the head
+amplifier setscrew [Fig. 17: @ 17
+
+3. Disconnect the lead wire from the lead wire holder.
+
+4, Release the claw from the head amplifier P.C.B.
+Then the head amplifier P.C.B. can be removed.
+
+5. Remove the 2 setscrews [Fig. 17: @ , @ ] of spindle
+motor drive coil P.C.B.
+Then the spindle motor drive coil P.C.B. can be removed.
+
+Spindle motor
+drive coil P.C.B. CN302 Lead wire holder
+8 ©N301 ® CN304
+cnss1 &4f y
+°@ = | Head amplifier P.C.B.
+Limit switch Bracket
+
+e How to remove the limit switch [Rest anc end
+detecting switch]
+1. Remove the head amplifier P.C.B.
+2. Remove the 2 setscrews [Fig. 17: @ , @ } of limit
+switch, and unsolder the limit switch.
+*After fitting the limit switch [rest: disc’s imeermost
+Position detection] again, it is necessary to re-agusst the
+
+° ‘ position.
+
+Loading
+motor

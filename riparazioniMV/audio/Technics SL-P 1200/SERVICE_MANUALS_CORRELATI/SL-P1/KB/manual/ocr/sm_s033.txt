@@ -1,0 +1,93 @@
+10. Réglage du circuit d’asservissement de phase (PLL)
+
+7. Ajustement du décentrement d’alignement
+
+. Placer le dispositif de verrouillage sur le mode “EJECT”
+(éjection).
+
+2. Raccorder le canal 1 et le canal 2 de l’oscilloscope a
+TJ701 (FCLK) et 4 TJ702 (CLDCK) sur la plaquette
+a circuits imprimés 01.
+
+Réglage de oscilloscope: haeea lasted
+
+1. Maintenir l’interrupteur d’alimentation ‘’on’”’ (mise en circuit) de l’élement d’étalonnage et |’interrupteur rotatif de
+‘élément d’étalonnage sur ‘’2”’.
+
+2. Placer l‘appareil sur le mode “EJECT” (éjection).
+
+3. Raccorder un voltmétre réglable 4 TJ103 sur la plaquette a circuits imprimés 03.
+
+4. Mettre en marche |’interrupteur d‘alimentaiton et ajuster VR106 de telle sorte que la tension de C.C. du voltmétre
+soit de O+ 3 mV.
+
+Nota: Aprés l’ajustement mentionné ci-dessus, retirer l’élément d’étalonnage de |l’ajustement du gain et raccorder Tension....... 2V
+CN103 pour rétablir la condition initiale de l’appareil. Balayage ...... 20us
+Entrée........ C.A.
+8. Ajustement du décentrement dans I’intensité de désexcitation Trigger ...-... Canal 1 + Canal 2 (NORM)
+
+3. Raccorder la broche 13 de !C301 sur la plaquette a
+circuits imprimés 01 a la masse (GND).
+
+1. Raccorder l’oscilloscope aux points mentionnés ci- eo: a ‘ ;
+p p c Faire coincider les centres des largeurs
+
+dessous . n n ' . ;
+Canal1....T7TJ101 (Plaquette a circuits imprimés 03) S S$ 4. Régler L301 (Oscillateur commandé par variation de d'impulsions des deux formes d’ondes.
+Canal 2... . TJ103 (Plaquette a circuits imprimés 03) TJ101 VR103 ce ce tension), de telle sorte que l’onde de |’oscilloscope soit formée telle qu’elle est montrée ci-dessous.
+EXT...... TJ401 (Plaquette a circuits imprimés 01). 5. Aprés la mise au point mentionnée ci-dessus, retirer le fil de court-circuitage de |’étape 3).
+
+W103 6. Maximaliser VR501 (11T) en le tournant complétement dans le sens des aiguilles d'une montre.
+Réglage de I’oscilloscope: g VR106 7. tnstaller Je disque et appuyer sur la touche ‘‘PLAY” (audition).
+
+Tension.......... 1V (les deux canaux) 8. Sur le mode d’autition, raccorder TJ501 (11TMODE) sur la plaquette a circuits imprimés 01 ‘a la masse (GND).
+Balayage......... 0,5 ms 9. Sur le méme mode d’oscilloscope que celui de |’étape 2), régler VR501 de telle sorte que |’onde de l’oscilloscope
+Entrée........... C.A. i soit formée comme il est montré ci-dessous.
+Déclenchement .... EXT. NORM Trigger J
+
+NO
+
+. Faire jouer la plage 13 (zone de piste noire de 0,5 mm) du disque d’essai.
+3. Tout en observant la forme d’onde du cana! 1 de l’oscilloscope, ajuster VR103 de telle sorte que l’amplitude de la
+forme d’onde a proximité du point de déclenchement soit réduite au minimum.
+Si elle n’est pas réduite au minimum, ajuster de telle sorte que le haut et que le bas de la forme d’onde soient sen-
+siblement symétriques.
+4. Tout en observant la forme d’onde du canal 2 de l’oscilloscope, ajuster VR106 de telle sorte que l’amplitude de la
+forme d’onde a proximité du point de déclenchement soit réduite au minimum. Si elle n’est pas réduite au minimum,
+ajuster de telle sorte que le haut et que le bas de la forme d’onde soient sensiblement symétriques.
+
+9. Ajustement le meilleur de l'oeil
+
+. Signal de hautes fréquences du moniteur d’analyse sur
+oscilloscope.
+. Raccorder |l’oscilloscope aux points mentionnés cides-
+sous.
+Canal 1 (+) TJ402 (Plaquette a circuits im-
+promés 01)
+Canal 1 (—) TJ403 (Plaquette 4 circuits im-
+primés 01)
+Réglage de |’oscilloscope:
+Tension
+Balayage
+Entrée
+. Ajuster VR102 de telle sorte que le modeéle d’oeil du
+signal de hautes fréquences soit le plus largement ouvert
+possible,
+
+11. Vérification du fonctionnement de I’audition aprés l’ajustement
+
+Vérification de la recherche par saut
+1. Faire jouer un disque normal.
+2. Appuyer sur la touche de saut et vérifier si la recherche par saut est obtenue. (Marches en avant et @ arriére)
+Vérification de recherche manuelle
+1. Faire jouer un disque normal.
+2. Appuyer sur la touche de recherche manuelle et vérifier si une recherche manuelle facile peut étrey btenue a des
+vitesses faible et élevée. (Marches en avant et en arriére)
+Vérification des défauts
+1. Faire jouer la plage 12 du disque d’essai et vérifier s’il n’y a pas de bruit ou de zone de silence du son,
+(Zone de piste noire)
+
+2. Faire jouer la plage 14 du disque d’essai et vérifier s‘il n’y a pas de bruit ou de zone de silence du son,
+(Impression par touche)
+
+—- 13 — — 14—

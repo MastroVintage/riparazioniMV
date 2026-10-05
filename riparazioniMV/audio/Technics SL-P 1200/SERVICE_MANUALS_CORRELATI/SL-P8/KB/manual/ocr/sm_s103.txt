@@ -1,0 +1,35 @@
+4. Tracking gain adjustment
+
+1) Set the power SW “on” of jig and the rotary switch of the jig to “3”,
+
+2
+
+Pe
+
+Adjust the low frequency oscillator to 1.5 kHz and 150 mVp-p output. And connect it to
+TEST pin OSC IN and GND of the jig.
+
+3) Connect CH1 and CH? of oscilloscope to TEST pin TP1 and TP2 of the jig. (TP3 is GND.)
+Oscilloscope setting:
+VOLT .......... 100 mV (both channels)
+SWEEP ........ 0.5ms
+Input ......... AC
+
+4) Turn power switch ON. When turntable begins to rotate, 1.9 kHz signal appears on the oscillo-
+scope, Then adjust VR105 so that the waveform amplitudes of both channels, are equal to each
+other.
+
+NWN UNA
+
+5. Tracking offset temporary adjustment
+
+1) Set the power SW ‘‘on”’ of jig and the rotary switch of jig to “2”, and disconnect the input
+from oscillator.
+
+2) Shift the set to EJECT mode.
+
+3) Connect a variable voltmeter to TP2 on 03 P.C.B.
+
+Note: TP2 is located between VR107 and VR105.
+
+4) Turn power switch ON, and adjust VR106 so that DC voltage of the voltmeter is O+3mV.

@@ -1,0 +1,266 @@
+Block Name
+
+e 1C611 Remote control decode (MN1421PCM)
+
+Function
+
+Power supply
+input terminal
+
+Grounded (OV)
+
+C output port
+
+“Sensor” indicator lights up with
+output at ‘’L” during remote
+control mode.
+
+Data output (It allows local key
+operation and decodes it into
+operation control code.
+
+Not used in this unit.
+
+Not used in this unit.
+
+Not used in this unit.
+
+A input port
+
+B input port
+
+E output port
+
+Key scan input
+
+Key scan input
+
+Key scan output
+
+Test input
+terminal
+
+Terminal for test. (Grounded)
+
+Reset input
+terminal
+
+All outputs are cleared or reset
+with input at “’L”.
+
+Sens. input
+terminal
+
+Sens. input
+terminal
+
+It receives serial data from remote
+control.
+
+Not used in this unit. (Grounded)
+
+D output port
+
+Data output
+
+(It allows local key operation
+and decodes it into operation
+control code.)
+
+Power supply
+input terminal
+
+5V
+
+Oscillation
+input terminal
+
+Synchronizing signal input from
+operation control.
+
+e 1C651 FL display (MN1430PCG)
+
+No. Symbol
+
+Block Name
+
+Function
+
+Al2
+
+16 | All
+
+AlO
+
+BI3
+
+BI2
+
+BIO
+
+20 | Bll
+
+A input port
+
+vss | Powersupply | yey
+input terminal
+“music scan” indicator lights
+cot up with output at “H”
+3 |c010 | repeat” indicator lights up
+with output at “H".
+“‘pause/stop”’ indicator lights
+4 | cog up with output at ‘’H”.
+5 cog “play”’ indicator lights up with
+output at ‘’H”
+6 |co7 [FL segment-cade (5th-one)
+lighting assignment output.
+8 | cos C output port
+9 | CO4 FL display digit lighting assign-
+ment output
+10 | CO3
+11 | CO2
+12 | CO1
+=
+DECHO signal output to opera-
+13 | Coo | tion contro! (MN1564)
+14 | Al3
+
+Data input from operation
+control (MN1564)
+
+B input port
+
+Not used in this unit. (Grounded)
+
+a
+
+22 | E00
+23 | E01
+24 | E02
+25 | E03
+
+26 | TST
+
+E output port
+
+FL segment-code (1st one)
+lighting assignment output.
+
+FL segment-code (2nd one)
+lighting assignment output.
+
+FL segment-code (3rd one)
+lighting assignment output.
+
+FL segment-code (4th one)
+lighting assignment output.
+
+Test input
+terminal
+
+Test terminal
+(Connected to 15V.)
+
+27 |RST
+
+Reset input
+terminal
+
+Reset with input at ‘‘L”’
+
+csicT
+
+Connected to 15V.
+
+Wn @
+
+Function
+
+‘DC LOCK” signal input from
+Operation control (MN 1564)
+
+Block Name
+
+Sens. input
+terminal
+
+“DSEND" signal input from
+
+Sens. input
+Operation control (MN 1564)
+
+terminal
+
+a |
+“ta segment display output
+
+‘'b’’ segment display output
+‘'c’’ segment display output
+“'d” segment display output
+“‘e’’ segment display output
+
+D output port
+
+“'f" segment display output
+
+“*g’’ segment display output
+
+Colon (: ) and over ( ® ) light-
+ing assignment outputs
+
+m HOW TO CHECK P.C.B.
+
+*For removal of each part, refer to pages 10 ~ 15.
+
+Servo P.C.B.
+
+. Remove the cabinet. [Fig. 25]
+. Check each part. [Fig. 26]
+. When checking the soldered parts on the servo P.C.B.,
+
+raise the P.C.B. asin Fig. 27.
+(Tie the power switch rod to the servo P.C.B. with a
+string.)
+
+Servo P.C.B.
+
+Digital P.C.B.
+Fig. 27
+
+P.C.B.
+
+Regulator IC
+P.C.B.
+
+*Outline of FL ON operation
+Display digits are determined by C output ports (C01
+— C06); segment data are put out from D ports (DOO —
+DO6); and bar codes are lighted by E00 — E03, CO7,
+DO7.
+DO7 port output becomes over ( ®) lighting assignment
+output during the 4th digits display, and colon (:)
+lighting assignment output for segment display during
+the 5th digit display.
+The 4 LED’s (play, pause/stop, repeat, music scan) are
+lighted by CO8 — CO11 outputs. :
+
+xOutline of data transmission to and from operation
+controll (IMMN1564)
+
+Entry of ‘‘DSEND” signal from MN1564 into SNS1
+terminal results in display data receiving. Display data
+from A input port is received while ‘““‘DCLOCK”’ signal
+that enters SNSO terminal from MN1564 is checked.
+With data received, it delivers ‘“‘DECHO” signal from COO
+to MN1564 and waits for the next receiving timing.
+
+Servo P.C.B.
+
+Stopper Stopper
+
+Spindle motor
+drive P.C.B.
+
+Claws
+
+Fig. 26

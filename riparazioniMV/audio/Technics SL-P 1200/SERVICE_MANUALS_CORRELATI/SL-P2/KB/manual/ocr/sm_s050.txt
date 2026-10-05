@@ -1,0 +1,80 @@
+3. Ajustement du décentrement de focalisation
+
+kK 7
+1. Maintenir l‘interrupteur d’alimentation “on” (mise en circuit) de |’élément d’étalonnage et l’interrupteur rotatif
+de !’élément d’étalonnage sur “2”.
+. Placer l'appareil sur le mode “EJECT” (éjection).
+. Raccorder un voltmétre réglable 4 TJ101 sur la plaquette a circuits imprimés 03.
+4. Mettre en marche Iinterrupteur d’alimentation et régler VR103 de telle sorte que la tension de C.C. du voltmétre
+soitdeO+ 10 mV.” ot
+
+Wn
+
+. Ajustement du gain. d’alignement
+
+“
+
+. Régler finterrupteur d’alimentation “on” (mise en
+circuit) de |'élément d’étalonnage et l’interrupteur
+rotatif de I’élément d’étalonnage sur “3”. h.
+
+2. Ajuster l’oscillateur 4 basse fréquence sur 1,5 kHz et ‘wRRADLALE
+sur une puissance de sortie de créte a créte de 150 mV et TP i
+
+le raccorder a fa masse (GND) et 4 entrée d’oscillateur
+(OSC IN) de la broche d’essai (TEST) de |l’élément
+d’‘étalonnage.
+
+3. Raccorder les canaux 1 et 2 (CH1/CH2) de Il’oscilloscope
+
+a la broche d’essai (TEST) TP1 et TP2 de 1|’élément TP2
+
+d’étalonnage (TP3 est la masse).
+
+Réglage de l’oscilloscope:
+
+Tension.......... 100 mV (les deux canaux)
+Balayage.......:. 2ms .
+Entrée. ..:...a5. C:A.  Mode....... CHOP
+
+4. Mettre en marche I'interrupteur d’alimentation. Lorsque la platine commence a tourner, un signal de 1,5 kHz
+apparait sur l‘oscilloscope. - Ajuster ensuite VR104 de telle sorte que les amplitudes des farmes d’ondes des deux
+canaux soient réciproquement égales.
+
+5. Ajustement temporaire du décentrement d’alignement
+
+1. Régler 'interrupteur d’alimentation ‘“‘on’’ (mise en circuit) de !’élément d’étalonnage et l’interrupteur rotatif de
+l'élément d’étalonnage sur ‘’2” et débrancher |’entrée provenant de |’oscillateur.
+
+2. Placer |‘apparei! sur le mode “EJECT” (éjection).
+
+. Raccorder un voltmétre réglable 4 TP2 sur la plaquette a circuits imprimés 03.
+
+w
+
+4. Mettre en marche !interrupteur d’alimentation et ajuster VR106 de telle sorte que la tension de C.C. du voltmetre
+soitdeO +3 mV.
+
+6. Ajustement de |’équilibrage d’alignement
+
+”
+
+. Maintenir Vinterrupteur d’alimentaiton ‘‘on’” (mise en
+circuit) de I’élément d’étalonnage et* l’interrupteur
+rotatif de I’élément d’étalonnage sur “2”. a
+
+2. Raccorder. ‘I‘oscilloscope .a. TJ1.03 sur [a plaquette a
+circuits imprimés 03, puis installer le disque. . -
+
+Réglage de l’oscilloscope:
+
+Tension......... 200 mV
+Balayage....2....9ms. -
+
+Entrée... ........€.€.
+
+3. Mettre en marche 'interrupteur d’alimentation. Lorsque la platine commence a tourner et que linterrupteur
+asservi d’alignement de I’élément d’étalonnage est mis hors circuit, le signal TE (erreur d’alignement) apparait.
+sur l’oscilloscope.
+
+Puis, ajuster VR105 de telle sorte que les valeurs de créte supérieure et inférieure soient égales mutuellement.

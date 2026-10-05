@@ -1,0 +1,242 @@
+10
+
+play 2ms O.1V/DIV
+
+ace meni | 22
+
+ylracking balance adj.
+
+11 12
+
+RI4 VRIOL RUZ
+USK 5K(B)1.5K
+
+Tracking
+offset adj.
+
+0.00! 5KB 0.00!
+
+Ci28 ~VRIOG Ci27
+
+\3
+
+SERVO
+
+Icio
+
+RIG3 33K
+
+OPTICAL
+
+AN8370S
+
+play O5ps O.1V/DIV
+
+Tracking
+gain adj.
+
+play
+Ims 1V/DIV
+
+be
+
+a
+
+nN
+oO
+
+play O.Sps (V/DIV 1c501
+
+AN8371S
+
+13
+
+14 15
+
+17 18
+
+mms W2R "pata SLICE AND PLL
+
+]
+
+Qiol
+280637
+
+= [11502 | 2
+
+R504
+220
+
+C514
+0.15
+
+|
+
+°
+136ys Sops Wwiotv) 0.236ps
+
+—31—
+
+16303
+SVICXK5816M
+
+16K RAM
+
+anawre i}
+
+ ,oeUZgZ—
+
+play Ilys 2v/o0iv 1C301
+
+5 MN66I7
+ia
+
+IM.
+
+DIGITAL
+SIGNAL PROCESSING
+
+1c402 IC13 Qt Q12 ~14 OR A ASwen)
+AN6552S SVIM5236L 2SD1862QR 2SB793A Aves eke} A
+12.5 SVOISR35200A BLS |
+; Ve
+“12 oR 302008 im oy : weno
+G) G) (60Hz)
+Bit <q ohS 8 |, ALTE]
+asm ZK 838 Sm (2) (2)
+“slag [oss os OHO}
+a 3 D26 ~ SVOISR35200A — Oo} A
+m ICPH
+: ice 3p hBbos g| Ac oureer
+p 2322 8 POWER SUPPLY
+¢ ICPII, 12
+SRUNIS
+Qi7
+2SB642
+a—t} ;
+POWER SOURCE yee °
+a
+b
+ze Qis Qié6 oX
+ae 65 8.9 -9.3 -6.5 =m
+@, he
+_ o|anm
+Puce 1 eL8 1 3 [SB 88 Pre, 1s 18
+2 3 z 8 Fe @
+.]2 o > Prd @o [+
+2lsle 28 8 o8n wes je] 8
+4 o 3 53 g os + ox rt)
+4 2
+ais
+2SD973A
+
+=
+
+RBIS
+
+R306
+MK
+
+acoa
+
+play ims
+
+Play
+2ys 2V/01V
+
+IM.
+
+«
+« | 7.3301 fe on
+16.9344 MHz ox ar R303 IK So
+avs
+
+2v/DIV
+5
+
+°
+
+ploy
+
+ims 2v/ Div
+5
+
+1¢302
+MN66I8A
+
+DIGITAL
+FILTER
+
+1c80l
+
+Qs08
+UN4212
+
+UN4112
+Q806
+
+6a 65 UN4212
+ssf | ae |
+D806 G)
+
+caos 0805 |S
+5 $90
+
+6.3V470 MAI6!
+
+7 0)
+{C807
+4) Q807 «sero
+52
+
+MUTING CONTROL
+
+Q805
+
+Q803 ,804
+2SDI450
+
+SVIPCM55HP-2 38,
+on
+
+oo a
+
+—
+
+enrmarw-- *X-—-3
+
+RB02 2.2K
+
+D/A CONVERTER
+
+evoa
+
+DEGLITCH
+
+R iT}
+~ ibeses men ae ethoee STeB06
+
+66
+
+LINE
+Q801,802 OUT
+2S8C3311
+C804
+16VIO
+beet Rech
+
+$8
+SviLM833_M Utes]
+
+play IkHz O6B
+
+RBIO 47K
+
+C804
+SVIBA4560F
+
+FILTER
+
+» 1€805,806
+SVIGAOII
+

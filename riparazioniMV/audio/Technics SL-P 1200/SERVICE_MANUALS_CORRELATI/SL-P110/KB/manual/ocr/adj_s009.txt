@@ -1,0 +1,99 @@
+Initial setting mode of servo gain adjuster
+
+(2)
+
+(3)
+
+Ww &
+— oe
+
+(6)
+(7)
+
+(8)
+
+Servo Gain Adjuster (SZZP1017F)
+
+Set the low frequency oscillator to a frequency 750 Hz and an
+output voltage of 150m Vp-p then connect the oscillator to the
+terminals OSC IN and GND of the servo gain adjuster
+(SZZP1017F).
+
+Connect CH-1 and CH-2 of the oscilloscope to TP1 and TP2 of
+the Servo gain adjuster (SZZP1017F). (TP3 is the grounding
+
+terminal.)
+Volt ........0ee ee eeee 100 mv
+Oscilloscope setting --| Sweep ............... 1 ms
+input selector........ DC
+
+Turn on the power supply switch of the player.
+
+Place the test disc (SZZP1014F) or (SZZP1054C) in to the disc
+holder by open/close key and in the Playback mode.
+
+Set the rotary switch of the servo gain adjuster (SZZP1017F)
+to “gu ~~ aye
+
+The player to the Play mode and the 750 Hz signal will be
+displayed on the oscilloscope, then adjust VR104 so that the
+waveforms and amplitudes of the both channels shall be equal
+
+as shown in illustration.
+
+Turn off the power supply switch of the player.
+
+(Note) Please do not remove the servo gain adjuster also shorting
+connector.
+
+C. Tracking Gain Adjustment
+
+(1) Set the low frequency oscillator to a frequency of 1.0
+
+kHz and an output of 150 mVp—p, and connect the
+oscillator to the OSC IN and GND of the gain adjuster
+(SZZP1017F).
+
+(2) Connect the CH-1 and CH-2 of the oscilloscope to the
+
+TP1 and TP2 of the gain adjuster (§ZZP1017F).
+(TP3 is a grounding terminal.)
+
+Oscilloscope setting --- Sweep ome
+Input selector: DC
+
+(3) Turn on the power supply switch of the Player.
+(4) Place the test disc (SZZP1014F) or (SZZP1054C) in the
+
+disc holder by open/close key and in the Playback mode.
+
+(5) Set the rotary switch of the servo gain adjuster
+
+(SZZP1017F) to “2 —+ “3”,
+
+(6) The player to the play mode and the 1.0 kHz signal
+
+will be displayed on the oscilloscope, then adjust
+VR102 so that the waveforms and amplitudes of the
+both channels shall be equal as shown in illustration.
+
+(7) Turn off the power supply switch of the player.
+(8) After completing the above mentioned adjustment,
+
+remove the servo gain adjuster and insert the shorting
+connector into CN102 as it was.
+
+(1) mode select switch to 2” position.
+
+(2) ON/OFF switch to “ON” position.
+
+CHI
+
+cu2 BY
+
+Ta
+Focus gain
+
+CH-2
+
+Tracking gain

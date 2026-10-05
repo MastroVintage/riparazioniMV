@@ -1,0 +1,60 @@
+ee
+
+16K RAM
+-—--
+
+Me C303
+
+|
+I
+!
+]
+!
+|
+J
+{
+J
+
+E.F.M. DECODER. ERROR CORRECTION and CLV SERVO ee
+decoder array
+
+ol eal
+FPC control
+79 P Chip select, : cae
+— — es on @ 7
+l 9 — , an write enable, —
+w4O7 : qu output
+™, O enable
+EFM oO
+
+ynchronize
+
+| protection
+oer ea Rit
+cCLOCK>—®
+BLKCK) | rapa
+SUBQ o resistor
+44 w
+\ Address — » :
+generato | — “
+i
+
+oI
+
+Y CLV
+ec +S controt
+|
+{
+Lo O O © — a a of)
+6 PE] 10) 7
+° g x
+° ray
+xi
+e IxT 3
+
+16.9344 MH2
+
+l-  ee
+
+Q801~—803
+

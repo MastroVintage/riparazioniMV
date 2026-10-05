@@ -1,0 +1,36 @@
+8. ADJUSTING PROCEDURE OF OPTICAL PICK-UP
+
+8-1. Adjusting steps and Points of optical pick-up
+
+Set up player according to
+disassembling procedure so that
+power-on check can be conducted.
+
+VR106 VR105 VR104 VR103.- VR102 VR101
+
+FERRE K
+
+Temporarily set adjusting variable
+resistors on servo PCBs.
+
+Turntable
+height adjust
+
+Adjust turntable height.
+
+Mechanical adjustment
+
+Mechanical adjust
+
+Electric adjustment
+
+8-2. Required Measuring Instruments and Tools
+
+. Two-channel oscilloscope (with external trigger), over 30 MHz.
+. Test desc (SZZP10149F) or (SZZP1054C)
+
+. Allen wrench --------- 1.5 mm (SZZP1044C)
+
+. General tools
+
+e&wWN

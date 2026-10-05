@@ -1,0 +1,108 @@
+B. Turntable height adjustment
+
+NOTE: Necessary after Direct Drive spindle motor is
+replaced or RF signal is not obtained.
+
+1. Disable focus search by opening R122 (180k) on
+03 P.C.B: as shown in figure 4-8.
+
+2. Insert the thin end of FEELER BLADE GAUGE
+(SZZP1020F) between the turntable and the shaft
+bearing as shown in figure 4-9.
+
+3. Slide the FEELER BLADE GAUGE (SZZP1020F)
+toward the thick end and mark the gauge with a
+pencil, where it and the turntable touch and until
+the blade can not be fed anymore then remove the
+gauge.
+
+4. Connect the oscilloscope to TP107 of SL-P7 or
+CN109 pin @)/ RF test pin of SL-P8.
+
+5. Place a disc on the turntable and clamp it with the
+
+magnet.
+
+. Apply power to the unit.
+
+. Press eject ‘‘OUT” and eject “IN”.
+
+8. Confirm if RF signal is present as shown in figure
+4-10. If not, proceed to the next step.
+
+ne?)
+
+Fig: 4-8. Top view of 03 P.C.B. (Head Amp.)
+
+Hexagonal screw (1.27mm) Turntable
+
+<< Insert the feeler
+blade gauge
+(SZZP1020F)
+
+Fig: 4-9. Front view of traverse deck
+
+Fig: 4-10. RF signal
+
+9. To confirm:
+Gently tap the disc at point “A’’. If RF signal ap-
+pears, the turntable is too low. If RF shignal does
+not appear, tap the disc at point ‘’B’’. RF signal
+should appear indicating that the turntable is too
+high.
+
+10. To adjust:
+
+1) Insert the FEELER BLADE GAUGE between the
+turntable and the shaft bearing to the previously
+marked point. ,
+
+2) Loosen the hex 1.75mm turntable set screw.
+
+3) If the turntable is too low, slide FEELER BLADE
+
+GAUGE about 4mm towards the thick end and‘
+
+Remove the FEELER BLADE GAUGE.
+
+Reapply power and check for RF signal. (This is a
+“trial and error’ adjustment, several attempts may
+be required to obtain RF signal).
+
+4) If the turntable is too high, insert the FEELER
+
+BLADE GAUGE and move about 4mm towards
+the thin end, using the same method as in step 3.
+5) Reconnect R122 to enable focus search.
+
+C. Mechanical adjustment
+
+1. Place the TEST DISC (SZZP1014F) on the turn-
+table with clamper magnet.
+
+2. Connect the oscilloscope to TP107 of SL-P7 o
+CN109 pin @)/ RF test pin of SL-P8. -
+
+3. Apply power to the unit and select the play mode.
+
+4. Confirm that the RF signal is as shown in Figure
+4-12. If it is not present, proceed to next step. If
+RF signal is as shown, skip step 5.
+
+5. To adjust hex 2.0mm screw to the right or left to
+obtain the RF signal (Visual check) as shown in
+figure 4-13.
+
+Lead gear
+
+RF signal
+
+Turntable
+
+Disc
+
+Fig: 4-12. RF Signal
+
+Suspension shaft
+
+Fig: 4-13. Bottom view of traverse unit

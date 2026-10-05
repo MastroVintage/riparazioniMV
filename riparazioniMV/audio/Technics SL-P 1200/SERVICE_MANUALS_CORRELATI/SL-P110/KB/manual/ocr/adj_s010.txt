@@ -1,0 +1,60 @@
+D. Temporary focus and tracking offset adjustment
+
+(Focus offset)
+(1) Connect CH-1 of the oscilloscope of the TJ102 (Focus
+offset test point) and GND to the chassis.
+
+Focus
+
+(2) Turn on the power supply switch of the player.
+
+(3) Place the test disc (SZZP1057C . . . Black band disc) in
+to the disc holder by open/close key.
+
+(4) After TOC reading, the set will become stop mode,
+
+eB ge
+Volt >: 100mvV point >V R105
+Oscilloscope setting ~~ Sweep : Sms (CH-2) S __y-Adjuster
+Input selector: DC Qrs01 i
+S
+
+Tracking
+
+offset
+
+Test CN102—. CN301
+Point Fees G] (GND)
+
+then check the waveform on the oscilloscope and ad- TT ~~
+just VR105, so that the waveform at TJ102 shall be @ 1e-wor
+Ground level as shown in illustration. lstiambor!
+
+63
+
+Main PCB
+
+(Tracking offset)
+(1) Connect CH-1 of the oscilloscope to the TJ101 (track-
+ing offset test point) and GND to the chassis.
+
+i Volt : 100mvV
+(2) Turn on the power supply switch of the Player. . .
+--- 75
+
+(3) Place the test disc (SZZP1057C . . . Black band disc) Oscilloscope setting ---| Sweep “ss
+
+. : put selector: DC
+
+in to the disc holder by open/close key.
+(4) After TOC reading the set will become stop mode,
+
+then check the waveform on the oscilloscope and
+
+adjust VR103, so that the waveform at TJ101 shall be
+
+Ground level as shown in illustration,
+
+NG
+
+(5) Turn off the power supply switch of the Player,

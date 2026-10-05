@@ -1,0 +1,84 @@
+8. Ajuste de desviacién en desexcitacion a
+
+1. Conectar el osciloscopio a los puntos mencionados abajo.
+
+CH1......... TJ101 (P.C.B. 03.)
+CH2......... TJ103 (P.C.B. 03.)
+EXT. ........ TJ401 (P.C.B. 01.)
+
+Puesta de osciloscopio:
+VOLTAJE.... 1V
+BARRIDO.... 0,5 ms
+Entrada...... CA
+Disparador.... NORMA EXT.
+2. Interpretar la banda 13 (punto negro de 0,5 mm) del
+disco de prueba. EXTS]_
+3. Observando la forma de onda de CH1 del osciloscopio, ajustar ¥YR103 de manera que la amplitud de forma de onda,
+cerca de! punto de disparo, se minimice.
+Si no se minimiza, ajustar de manera que la parte superior e ingerior de la forma de onda sean casi simétricas.
+4. Observando la forma de onda de CH2 del osciloscopio, ajustar VR106 de manera que !a amplitud de forma de onda,
+cerca de! punto de disparo, se minimice. Si no se minimiza, ajustar de manera que la parte superior e inferior de
+forma de onda sean casi simétricas.
+
+9. Ajuste de ojo optimo
+
+1. Sefial RF de monitor en osciloscopio. a
+2. Conectar CH1 de osciloscopio a los puntos TJ402 en
+P.C.B.
+Puesta de osciloscopio:
+VOLTAJE.... 1V
+BARRIDO.... 0,5 ms
+Entrada...... CA
+3. Ajustar VR102 de manera que el! patron de ojo de sefial
+RF esté lo maximo abierta.
+
+10. Ajuste PLL (bucle de enganche de fase)
+
+1. Cambie el bloqueo de aparato a modalidad de EYEC-
+CION.
+
+2. Connecte CH1 y CH2 de osciloscopio a TJ701 (FCLK)
+
+y TJ702 (CLDCK) en P.C.B. 01.
+
+Puesta de osciloscopio:
+
+VOLTAJE..... 2V
+
+BARRIDO..... 20us
+Entrada....... CA
+Disparador..... CH1 + CH2 (NORM.)
+Modalidad..... ALT:
+
+3. Connecte perno 13 de IC301 en P.C.B. 01 a tierra (GND).
+4, Ajuste L301 (VCO) de manera que la onda de oscilos-
+copio se forme como se muestra abajo.
+
+Aparee los centros de anchura de impulso
+de ambas formas de onda.
+
+. Después del ajuste arriba mencionado, remueva el cable
+corto en paso 3).
+
+. Maximice VR501 (11T) girdéndolo completamente a !a derecha.
+
+. Ponga el disco y apriete el botén de INTERPRETACION.
+
+. En la modalidad de interpretacion, conecte TJ501 (11 TMODE) en P.C.B. 01 a tierra (GND).
+
+. En la misma modalidad de osciloscopio como en paso 2), ajuste VR501 de manera que !a onda de osciloscopio
+se forme como abajo.
+
+11. Comprobacion de operacién de interpretacion después
+
+Comprobacién de busca de salto
+1. Interpretar un disco ordinario.
+2. Oprimir el botén de salto y comprobar para ver si se da busca de salto. (Adelante y atras)
+Comprobacién de busca manual
+1. Interpretar un disco ordinario.
+2. Optimir el botén de busca manual y comprobar para ver si se puede hacer busca de salto suave a las velocidades
+baja y alta. (Adelante y atras)
+Comprobacion para defectos
+1. Interpretar la banda 12 de disco de prueba y comprobar para ver si no hay salto de sonido o ruido. (Punto negro)
+2. Interpretar la banda 14 de disco de prueba y comprobar para ver si no hay salto de sonido o ruido. (Huella digital)
+

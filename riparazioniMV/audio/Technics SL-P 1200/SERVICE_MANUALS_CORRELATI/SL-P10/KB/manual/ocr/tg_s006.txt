@@ -1,0 +1,226 @@
+@ Time scale indicator
+@The scale goes from 0 to 80 minutes in 5 and 10
+minute intervals.
+
+e Display panel indicators
+
+@® Display panel
+@The display panel consists of a large 14 x 5 cm fluores-
+cent type display. Read the following explanations
+carefully to obtain all the benefits of this multi-
+function display.
+
+® Search indicator ( [search] )
+@ Lights up while the information on the disc (number of
+tracks, total playing time, etc.) is being read.
+@Also lights up while the pickup is moving to a new disc
+play location in either skip play mode or the program
+play mode.
+
+@® Disc end time indicator
+e@Shows the total playing time of the disc.
+
+@ Elapsed playing time indicator (time 2:0 2 )
+@Shows the position of the pickup in minutes and
+seconds as disc play progresses.
+@When the recall button ® is pressed, the programmed
+starting and finishing times (min., sec.) are shown in.
+that order.
+
+® Track indicator (track 2}
+
+@Shows the track number currently being played.
+
+@When the recall button @ is pressed, the numbers of
+the programmed tracks are shown in the order of play.
+
+@{f there is a mistake in the program (a program that can
+not be executed), an & will be displayed.
+
+@An F is displayed to show when the limit of 63 steps
+has been programmmed.
+
+® Skip indicator ( )
+@ Lights up when the asterisk button @ or enter button
+® is pressed to perform skip play.
+
+@® Program preset indicator (selection)
+@Shows in minutes the starting points of each program.
+(Lights up only when a program exists.)
+
+® Track position indicator (location)
+@Shows in minutes the locations of each blank section
+between tracks on the disc.
+
+@ Disc play location indicator (time)
+eShows in minutes the location of the pickup during
+disc play.
+@Use this indicator to follow pickup movement when
+using either of the rapid search modes (by pressing the
+forward @ or reverse search button @ firmly).
+
+Specifications are subject to change without notice for further improvement.
+Weight and dimensions shown are approximate.
+
+gw Compact Disc specifications
+
+1—1. Specifications
+
+@ Audio
+
+No. of channels: 2 (left and right stereo)
+
+Frequency response:
+
+Dynamic range:
+
+S/N ratio:
+
+Total harm. dist.:
+
+Channel separation:
+
+Wow and flutter:
+
+Signal Format
+
+Sampling frequency:
+
+Correction system:
+
+Pickup
+
+Type:
+
+Objective lens
+suspension:
+
+Light source:
+
+Wavelength:
+
+Functions
+
+Search modes:
+
+Program functions:
+
+Display functions:
+
+Operation buttons:
+
+Disc loading:
+
+4 ~ 20,000 Hz + 0.5 dB
+
+more than 90 dB
+
+more than 90 dB
+
+less than 0.004% (1 kHz, 0 dB)
+more than 90 dB
+
+quartz accuracy
+
+44.1 kHz
+Technics Super Decording Algorithm
+
+Astigma 3-beam
+
+Twin parallel suspension
+Semiconductor laser
+800 nm
+
+Automatic search
+
+Manual search
+
+Program search
+
+Skip search
+
+Max. of 63 steps {location of begin-
+ning of tracks, selection of starting
+and ending positions)
+
+14 x 5 cm fluorescent display with
+centralized control. Time scale,
+track position, pickup location, play-
+ing time, program location, track,
+elapsed time and program contents
+indication.
+
+Basic buttons: 7
+
+Program buttons: 14
+
+Front type, automatic loading
+
+Diameter:
+Thickness:
+Spindle hole:
+
+Min. inside diameter of
+
+recorded section:
+Max. outside diameter
+of recorded section:
+
+Direction of rotation:
+
+Tracking speed:
+
+Rotations
+Playing time:
+
+Track pitch:
+Material:
+
+General
+
+Power consumption:
+Output voitage:
+Output impedance:
+Load impedance:
+Dimensions (WxDxH):
+Weight:
+
+12cm
+0.12 cm
+1.5¢cm
+
+5cem
+
+11.6cm
+
+(disc is played from the
+
+inside to the outside edge)
+Counterclockwise (seen from
+
+recorded side of disc)
+
+12 to 1.4 meters/second, CLV
+(Constant Linear Velocity)
+
+About 500 to 200 rpm
+
+About 60 minutes (up to 75 min. can
+be contained)
+
+1.6 ym
+
+Clear plastic
+
+~110/120/220/240V , 50 or 60 Hz
+60 W
+
+Max. 1.5 volts (adjustable)
+
+220 ohms
+
+more than 5 kohms
+
+43 x 31.5 x 14.5 cm
+
+10 kg.

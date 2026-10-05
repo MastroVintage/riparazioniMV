@@ -1,0 +1,58 @@
+3. Mechanische Justierung
+
+. Die Testplatte auf den Plattenteller legen und mit dem Magneten festklemmen.
+
+. Das Oszilloskop an den TJ402 am 01-Platine (Servo) anschlieRen.
+
+. Die Stromzufuhr zum Gerat einschalten und Wiedergabe-Betriebsart wahien.
+
+. Uberpriifen, ob das HF-Signal so ist, wie in Abb. A gezeigt. Falls nicht vorhanden, mit dem nachsten Schritt
+weiterfahren.
+Falls HF-Signal wie gezeigt ist, Schritt 5 iberspringen. ;
+
+. Die Sechskantschraube (mit einem 2mm-Sechskantschliisse!) nach tinks oder rechts drehen, bis HF-Signal auf-
+
+tritt (Priifung von Auge), wie in Abb. B gezeigt.
+Aufhangungsachse
+
+DEUTSCH
+
+schnecken-
+getriebe
+
+Abb. B: Traverseneinheit von unten gesehen
+
+4. Gitterjustierung
+
+. Die Testplatte auf den Plattenteller legen und mit dem
+Magneten festklemmen.
+. Das Oszilloskop wie folgt anschlieRen: HF-Signal
+bei Kanal 1
+CH1 (Kanal 1) TJ402 an 01-Platine
+CH2 (Kanal 2) C164 an 03-Platine (Stift 17
+von IC104)
+. Stromzufuhr des Gerates einschalten und Wiedergabe-
+Betriebsart wahlen. “N‘-Marke
+. Falls HF-Signal und ‘*N’’-Marke vorhanden sind, wie in bei Kanal 2
+Abb. A gezeigt, ist keine Justierung ndtig. “N’-Marke
+Falls HF-Signal und ‘’N’-Marke nicht vorhanden sind,
+Schritt 5 durchfiihren. Abb. A: HF-Signal und “N’-Marke
+. Den Gitterjustierstift in das Loch auf der linken Seite
+des Gehauses des optischen Abtasters einfiihren, wie in
+Abb. B gezeigt.
+. Den Gitterjustierstift links- oder rechtsherum drehen, Optischer Abtaster
+bis die “‘N’’-Marke am scharfsten und das HF-Signai
+maximal ist.
+
+Plattenteller
+
+Aufhangungsachse
+
+Vorderseite des
+Gerates
+
+Den Gitterjustierstift
+hier einfihren.
+
+Abb. B: Ansicht der linken Seite der Traverseneinheit
+

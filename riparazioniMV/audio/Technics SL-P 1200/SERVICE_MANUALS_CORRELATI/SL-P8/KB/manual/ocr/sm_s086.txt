@@ -1,0 +1,45 @@
+—13—
+
+{teme)
+
+BATTERY 3V
+
+21
+
+17
+18
+19
+20
+22
+26
+27
+16
+
+eae dae a
+
+10
+
+1C601 pin X1001 (1C1001 pin @) Quartz
+2V/0.imsec. Div. AC 1V/1msec. Div. AC
+
+1C612 pin 4 1C1001 pin ©
+2V/0.5msec. Div. AC 1V/0.5msec. Div. AC
+—~14—-
+
+"01002 © /01003 ©
+
+1V/0.5m sec. Div. AC
+
+CN211
+2V/0.5msec. Div. AC
+
+paer
+
+SJ
+
+1C1101 pin @
+0.5V/0.5msec. Div. AC
+
+T1101 pin ©
+5V/0.5msec. Div. AC
+

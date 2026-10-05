@@ -1,0 +1,20 @@
+(3) Pull out the connectors shown below.
+
+CN101
+CN105
+{a} 4 CN106
+CN109
+CN552
+cN104 CN106
+CN102/ CN105
+d ne CN102
+(b} [entos
+CN104
+
+(4) Remove the traverse mechanism.
+e Remove screws @ ~ @.
+
+e Then the entire traverse mechanism can be removed from the set.
+
+Servo circuit
+

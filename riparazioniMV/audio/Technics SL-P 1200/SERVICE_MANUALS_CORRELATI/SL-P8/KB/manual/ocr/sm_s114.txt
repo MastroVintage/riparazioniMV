@@ -1,0 +1,20 @@
+A optical pick-up is supplied individually. This adjustment manual is men-
+tioned about how to find a pick-up defect and its adjustment procedure
+
+when it is occured to change the optical pick-up itself.
+
+CONTENTS
+
+Page
+Approval judgement of defect for optical pick-up (SRLPOO7NO1A) (Trouble shooting)... 1
+How to replace the optical pick-up of the traverse deck .......... ccc cece eee
+. Testers and gauge kits for adjustment ........ 0... 0c eee eee eee eee eee te nnae
+How to aligh the optical pick-up of the traverse deck ..... 0... 0. cc cece ee ee eee
+. Rest position adjustment
+
+. Turntable height adjustment
+Mechanical adjustment
+
+. Grating adjustment
+Electrical alignment of main unit (vol.3) 0.0.0.0... 000 ccc cee eee eee eens
+Others 2 ce ee eee eee eee eee eee teen eben nae

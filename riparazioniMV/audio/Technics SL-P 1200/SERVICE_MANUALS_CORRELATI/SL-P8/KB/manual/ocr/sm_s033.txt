@@ -1,0 +1,137 @@
+Microcomputer reset P.C.B.
+. Remove the cabinet.
+. Remove the servo P.C.B. to shift it as in Fig. 27.
+. Check each part. To check soldered parts, remove screw
+(A)and turn over the P.C.B.
+Caution: When supplying power wire screw (A) removed,
+connect the earth termina! fastened with screw
+
+WON @
+
+WNHN-—- 6
+
+SL-PS8 SL-P8 |
+
+Spindle motor drive P.C.B.
+
+. Remove the cabinet.
+. Check each part.
+. To check soldered parts, remove stopper and turn over
+
+the P.C.B. [Fig. 26]
+
+e Head amplifier P.C.B.
+. Remove the cabinet.
+. Remove the front panel, and FL P.C.B. and keyboard
+P.C.B.
+. Remove the 4 traverse unit setscrews. [Fig. 31]
+4. Turn over the traverse unit, then remove the nut [Fig.
+32] and traverse unit.
+
+ND =
+
+Ww
+
+~~ : e Regulator IC P.C.B. ; : “
+(A) to the chassis. g . 5. Fix the traverse unit on the jig (traverse unit mount). Seryg PCE
+1. Remove the cabinet. Fig, 33] Servo P.C.B
+. 2. Remove the servo P.C.B. to shift it as in Fig. 27. 6 Revove the head amp P.C.B. to check each part
+e Pitch control P.C.B. 3. Check soldered parts. . . , p P.C.B. 1 part.
+1. Remove the cabinet. (*For the details, refer to the section of adjustmnent.)
+2. Remove the servo P.C.B. to shift it as in Fig. 27. _ eS
+3. Remove screw (A) and microcomputer reset circuit and e Headphone amplifier P.C.B. g e
+pitch control P.C.B. 1. Remove the cabinet. S e & ®
+4. Again tighten screw (A) to fit the microcomputer reset 2. Remove the servo P.C.B. to shift it as in Fig. 27. stead amolit 2 | S
+m er 1
+PCB. 3. Check each part. ead cn e i | Traverse
+5. Check such part with care so that the soldered parts | \ 7 | Traverse unit ass’y
+of pitch control P.C.B. do not touch the other parts. | unit ass’y
+
+/
+
+Fluorescent P.C.B. and keyboard P.C.B. Fluorescent P.C.B.
+. Remove the cabinet.
+
+. Remove the front panel.
+
+. Remove the remote-control receiver. [Fig. 28]
+
+. Remove the P.C.B. setscrews. [Fig. 28]
+
+. Shift it as in Fig. 29 and check.
+
+Cautions:
+
+(1) Take care not to damage FL.
+
+(2) Take care not to allow the soldered parts of P.C.B.
+to touch the other parts.
+
+Jig
+(SZZP1016F)
+
+OhwWhNhH = @
+
+Fig. 32 Fig. 33
+
+e Remote control transmitter data code (MN6030).
+
+Custom code Data code Inverse custom code Inverse data code
+Head pulse (5 bit) (6 bit) (5 bit) (6 bit)
+
+—_—_—_——
+
+1 10000000 1 100 1 1 1 1 1 1
+
+~ 0 0
+Ke) \
+Remote control
+receiver _ |
+2
+
+e Digital P.C.B.
+
+. Remove the cabinet.
+
+2. Remove the servo P.C.B. to shift it as in Fig. 27, and
+check each part.
+
+3. How to check soldered parts:
+
+=
+
+|e
+
+(1) Remove the front panel, FL P.C.B. and keyboard Fig. 28 ar Pat . |
+(2) Remove the P.C.B. holder setscrew. [Fig. 30] eT |
+
+(3) Shift it as in Fig. 29 and check.
+
+2T
+150T — a - 10T ——+|
+|
+
+*1T = 0.420ms~0.424ms (U.S.A. and Canada)
+1T = 0.454ms~0.460ms (Europe and Others)
+
+cccTtTcsTT \
+| Head pulse | oe oe a
+| | Button | Datacode | [Button |__~Datacode
+| 8T | 1 [0 0 001 0) | time | 1 0 O10 11
+| 8T | 2 100010, | cer |0 00000
+| 3 01.001 0| | memory [0 101 0 1
+| Data 1 | 4 1 $1 °0 0 1 0 musicscan|1 1 1 1 0 0
+| ST | 5 _|0 0 10 1 0} |4dsearch |0 0 1 0 0 0
+| | 6  |10101 0 search >> 101000
+| 2T | 7 {0 1101 0} |Kskip [0 1 0 OOO
+bata 0 | 8 111010 skip Pl |1 10000
+|
+ate | 9 0.0.0.1 10] | 4 pause/
+| —_ Nt - stop 011000
+| | o |100110
+| index fo 00101) [4 PhiF109100
+Keyboard P.C.B. | |
+2T |
+Fig. 29 \ 2T |
+yy)
+

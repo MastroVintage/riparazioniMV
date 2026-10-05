@@ -1,0 +1,66 @@
+2-1.
+
+ry
+REV ie) Traverse servo control
+FWD
+
+Emphasis, ‘“"H”
+
+Muting ’’L” Muting
+
+Attenation ON/OFF output
+Synchro REC control ’’L" Synchro REC.
+DECHO
+DCLOCK
+DSEND
+DDATA 0 In/Out pin of micon (MN1430) for FL driver
+
+Function of the operation control circuit
+
+The important feature of compact disc is that it is capable
+of random access not only to tune number but also to minutes
+and seconds by use of control signal recorded on the disc.
+SL-P7 is able to store minutes and seconds up to 20 tunes
+in the memory.
+
+In SL-8, with 4-bit RAM connected, all TOC of minutes and
+seconds up to 32 tunes can be stored in the memory
+Accordingly, the range of random access is greatly expanded.
+Also, CD player system is equipped with optical servo cir-
+cuit in order to take out the signal by correctly applying
+the laser spot to the pit since the system uses laser light
+to read signals, which therefore requires various servo
+timings.
+
+The operation control circuit serves as a control center
+
+for the entire system.
+
+Key 4K EFM
+matrix RAM
+
+CEM MN2114
+
+Microcomputor
+
+demodulation
+
+Remote remote control Operation control Display FL
+control decorder || microcomputor ;
+MN1564 MN1430 display
+
+MN 1421
+
+Loading motor
+
+System senser and
+ON/OFF control
+
+Traverse
+servo
+
+drive
+
+Fig. 8 Block diagram of opeation contrl circuit
+
+—-B8—

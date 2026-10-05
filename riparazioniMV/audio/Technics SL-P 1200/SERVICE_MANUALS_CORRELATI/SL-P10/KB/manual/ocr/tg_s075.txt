@@ -1,0 +1,30 @@
+The RF signal of revroduced data is subjected to EFM modula-
+tion at 3T - 11T. 1T is about 0.23 us (=4.32 MHz), therefore,
+the data ranges from 0.7 ws to 2.5 us. Accordingly, IC902 (A)
+
+is always re-triggered when data exists, and the level of pin
+(13) (Q output) is "H".
+
+If IC902 (A) is not re-triggered, drop-out detection signal
+is delivered as shown in Fig. 8-4. 1IC902 (B) Operates so
+that the gate will not open for 1 ms after re-triggering.
+
+1€902—(2)
+(B input)
+114 4~20 4s :
+
+I¢902—(3 i It is not re-triggered.
+(Q output) : y
+; Re-triggered
+
+1c902--(4) | 1
+
+(Q output)
+1C903
+mG)
+1¢903
+C2) ‘
+TP901 | =
+Fig. 8B—4
+
+— 86 —

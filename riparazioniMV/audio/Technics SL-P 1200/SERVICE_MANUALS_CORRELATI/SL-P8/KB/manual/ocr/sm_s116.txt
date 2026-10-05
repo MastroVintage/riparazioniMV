@@ -1,0 +1,145 @@
+2. How to replace the optical pick-up of the traverse deck |
+
+2-1. Replacement procedure
+
+NOTE: Follow adjustment manual instruction on
+SL-P7 Vol. 3 for connectors orientation.
+
+1. Disconnects CN101, 102, 103, 104, 105, 106, 109 Traverse
+and CN552. unit
+
+2. Remove the traverse deck from the disc holder.
+
+3. Remove the 03 P.C.B. from the traverse deck.
+
+4. Mount the traverse deck on the traverse unit base
+(SZZP1016F), and make sure the mounting screw
+
+Mounting screw
+
+is tightened.
+. . Traverse unit b
+5. ponove the disc clamper magnet from the disc (S22P1016F) jase
+older.
+
+6. Remount the disc holder in its original location .
+and reconnect CN102, 103, and CN104.
+
+7. Position the assembly as shown in figure 2-1.
+
+8. Reconnect CN101, 105, 106, 109, 552 and GND
+in its original location.
+
+__ verticaly
+Head amplifier
+
+and unit.
+
+Focus lens
+
+9. Remove the optical bracket and screw from the
+optical pick-up body as shown in figure 2-2.
+
+Optical
+
+pick-up
+body
+
+NOTE: A) Be careful when removing the screw, the
+spring can snap out very fast and be lost.
+
+B) Also note the position of the spring so
+
+that when ready to re-assembly it, you
+
+will remember its position.
+
+. Lead Gear
+
+Optical
+bracket
+
+Fig: 2-2. Rear view of optical pick-up body
+
+Shaft
+Clamp
+
+10. Remove the shaft clamp mounting screw as shown Sen
+
+Ss
+in figure 2-3. “me ex
+
+11. Remove the two suspension shafts by lifting and Ground g Turntable
+wire
+
+pulling to the left. Optical pick-up body can be
+separated from the deck as shown in figure 2-3.
+
+Suspension shaft
+
+Fig: 2-3. Top view of traverse deck
+
+Set up the unit
+P.C.B. (03 P.C.B.)
+
+Fig: 2-1. Positioning view of the traverse deck .
+
+12. Before proceeding to replace the optical pick-up, observe
+the following precautions:
+
+Peaee eo
+
+wo REA.
+
+Top view of 03 P.C.B.
+
+cn304 ©N30
+
+A) The laser diode can be destroyed if P305 remains
+open too long (about 20 seconds). :
+Do not remove the shorting pin from P305 until you
+are ready to connect it to 03 P.C.B. CN305 as
+shown in figure 2-4.
+
+B) Be certain that rest detection switch (S101) and end
+detection switch (S102 have not been bent. If they
+have, traverse motor will remain on. :
+
+13. Reassemble- the optical pick-up to the traverse deck by
+following step 12 through 1 in reverse procedurs.
+
+Fig: 2-4. Top view of 03 P.C.B.
+
+NOTE: Be sure to reconnect the ground wire.
+
+3. Testers and gauge kits for adjustment.
+
+1. Two-channel oscilloscope (with trigger) of 30 MHz or
+
+over...
+2. Ordinary disc and Test Disc (SZZP1014F).
+
+~ 3. Hexagonal wrench (1.75mm and 2.0mm).
+
+4. Gauge ket (SZZP1022F).
+
+5 P305
+
+P304
+
+Caution Rest position gauge (SZZP1019F)
+It is very dangerous to lock at or touch the laser
+radiation. (Laser radiation is invisible). (a
+—
+
+With the unit turned ‘‘on’’, laser radiation is emitted
+from the pick-up lens. Be careful during adjustment
+in particular.
+
+Cross-sectional view of feeler blade gauge (SZ7ZP-1020F)
+
+Top view of feeler blade gauge (SZZP1020F)
+
+Fig: 3-1. Gauge kits (SZZP1022F)
+
+Grating adjustment tool (SZZP1018F)

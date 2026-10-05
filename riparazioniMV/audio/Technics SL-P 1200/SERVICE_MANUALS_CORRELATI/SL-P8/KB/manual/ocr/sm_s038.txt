@@ -1,0 +1,110 @@
+22.7us O.l2us 136ys 0.46us O.23ys 136 ys
+
+Pp Ploy IkHz OdB(L+R) (44.1kHz) (8.64MHz) (7.35kHz) (2.16MHz) (4.32MHz) 3.7u8 (7. 35kHz:
+foy 2s~7s 4 4
+CLS: c~ je rin VE LE A A SLOT
+° °
+° \ \ \ Z
+CN209 Vi
+4 -15v HO HEL. Z Z
+—1 GND HO, ¢ gel 1C615 a
+y Ul mM ee
+To ecx0 » Cres 8: score MN2II4~2 (ec 1 tH
+—t 0 .ECHO } “Ky b a 180!
+emt osor/ I
+- —p.paTa or ©) a < f/ b SRDPOOBNO2 c b 0.23 ps (4.32MHz) AN6806
+XD. DATA 1 M46} d ¢
+€705
+en605 4p pataz e d ° abe
+1.85ys f e \ N6615
+—{0.DATA 3 4 9 f J . a)
+—{ 0. CLOCK ala 5 9 b c
+4D. SEND - h | is =
+—4 BEEP K -_ t
+—4 BEEP A - a)
+cmnm 9
+Remote control signal “hilo 69 ¢
+4 p. GND MOR decoder e5us ati 63 b
++ +15V 1céll 83 rH j )
+ed 7k a 63 d 2
+— -15v MNI421PCM : ° i be 4 e
+24 Play 0.5us * SZ
+— REST 4 a mM avrow | c+ 5 6) f
+J END HO— 5 | de 6 & 9
+CNII3 )—4 cLosE 2-4@;— ¢ °* or Z O95 i"
+— oPEN HH@E— d ° y eo Play
+ve a ° g eee lpia 9 @p-S— b
+et 2
+— CLOSE | ° D/A converter 5 1 penned DIA 10 G—— c J Play lOus, 1
+ae oe 2 TI Se ns v
+St OPEN 1 8 Memor 2v/DIV ° (eS a3 Lo '
+cN204 J \ | eee [MUTE M @o oo
+1702
+a \ m wok OG
+(=F. oxo HHO | MN2114-2 mal \ noe
+— T GND }4@>} 82 N 9, jeune
+— P. Gnd r4@4 So : :
+— REV Hi@-— fh
+101} J—t Fwo HO i 8
+CNII2 \_4 servo -I@©-— | 2s ‘
+|— KICK FRFI@E— ik |S g
+HH KICK i /& d
+—{ TRON | }4@i— m c
+(“4 TTON n b
+La
+| N2I1 ra
+d
+_
+Remote contro! D. GND e
+reciver 44 SNS 6 t
+—{ +12v g
+063 1~635
+“£00 7 MAI65
+— £0! ;
+i
+fy Fo 2 f “| 16703
+£0 3.
+ae i‘ 3 ex 4 MN66 16
+— B12 H@— > &e i) Sp64 | 136y5 (7. 35kH2) h on
+4@r— - .
+4 pi Rec 43X\& 2sB oF isms 4 9 om
+HO d |
+a i. : Hoe e é x X18 5us i I |s ° 1614 ¢ w i
+wi 1S =$  Bx8 ' — DN74LS04 tor Lp 2
+cneo3 {Al | @r— $ aR, is O.8ms 7 4 (5)c2 DATA 3 c (6) 1
++ 410 HG 9 @ \csia j tdi Lse)ea oara 4] >—o
+m=! 0.23ys x BA ems weet 7)C2 DATA 5S cl DATA 46 a :
+4 0. GND 4©-5 on. @ R609 33K (4 32MHz) \ [ei Bata ag i mnt Tet ATA st oATA $69 oe
+ru 1 >° 4 [Ct DATA 3 GB )ssemeinrte 3 (8)c2 DATA 6 10 35
+—{ PLAY Sw) d \ =a i ene &: Ss 2,
+“poets 9 tor 166100” oO Cath poror 2 Coop 8
+CN206 DIoT 3
+I: | f Q a 2 (2)
+my (Pause 1g) c 2 (2) >
+1 - fe}
+cneol 4 2 GND Qi = e PN 2 73 ; BA ¢
+Wy! b PT No.3? =a, 9
+ae ¢ tao asus —,- Bs
+[cvzos | Lise (2.16MH2) AAG tRST | G—— ¢ —
+= rH Q é ep?
+= OF 0 060! t———8 9 Peron 1
+1 +5v ey [1 @ non _|
+[01 i FCLK XS) 2SD636 | 0.8 ¢ @g 4710.2) 637
+cnitt {—t CLOCK Ki —— ed) ea 6.3V47
+= RESY H
+—{ TRON 2 --+(6) Q s
+NC 4m)! 136s (7.35kHz) -
+Ecnaiz Error correction
+TEST AD CT
+» Qs | LW —— a
+, qr EXTERNAL -———
+oC nee
+6)
+we
+
+Play 13.5ms
+TT. Ti.
+° °
+
+Play O.Sus,2Vv/DIV
+

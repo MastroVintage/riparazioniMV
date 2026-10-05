@@ -1,0 +1,23 @@
+Drop-out detection signal ON/OFF circuit
+
+Ic903 pin (12) is at "H" and delivers the drop-out detection
+signal to the data pick-out circuit. It holds PLL to prevent
+PCK from being disturbed. However, if the drop-out width
+exceeds the correction range of LSI or the tracking servo is
+intentionally released by system microcomputer (track jump
+like access, etc.), PLL, if held, will not be shifted to
+search mode and not re-locked. (If PLL is held for long, the
+system will disorderly operate because of digital muting.)
+
+In that case, the circuit is controlled so that drop-out
+detection signal will not be delivered. It is ON/OFF signal
+--- 10903 pin (12).
+
+Ic904 pins (8) and (9) are ON/OFF signal input; pin (9)
+
+detects input signal (JUMP)--- intentional track jump, and
+pin (8) detects input signal (MUTE 2) --- digital muting due
+
+to excessive range of drop-out.
+
+— 7k

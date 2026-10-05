@@ -1,0 +1,45 @@
+SL-P
+
+@ HOW TO CHEK THE PRINTED CIRCUIT BOARD
+
+* For removal of each part, refer to disassembly instruction on pages 17 ~ 22.
+e@ Main P.C.B.
+
+1, Remove the cabinet.
+2, Check each part. (Part side}
+
+3. Check the P.C.B. as shown in Fig. 27.
+
+3. When checking the soldered parts and replacing them,
+(1) Remove the front panel and main P.C.B.
+(2) Pull out the connector (CN803) of main P.C.B.
+(3) Place the main P.C.B. as shown in Fig. 25.
+Note: When checking as in Fig. 25, be sure to connect
+the ground spring of main P.C.B. to the chassis
+lead wire,
+
+. Also remove the 8 setscrews of reinforcement plate,
+headphone amplifier P.C.B. and keyboard/display
+P.C.B.
+
+Timer play /auto
+Pause/ auto cue
+/ selector knob
+
+Remote control
+receiver
+
+Keyboard/
+display P.C
+
+button case
+
+5. Shift it as in Fig. 29 and check.
+Note: Take care not to damage F. L.
+
+e@ Keyboard/display P.C.B.
+
+1. Remove the cabinet.
+2. Remove the front panel setscrew.
+3. Remove the front panel.
+

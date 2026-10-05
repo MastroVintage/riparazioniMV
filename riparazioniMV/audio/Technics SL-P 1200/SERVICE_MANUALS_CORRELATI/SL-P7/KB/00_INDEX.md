@@ -1,0 +1,3 @@
+# SL-P7(K) — Service Manual DPD83080021C3 (1983) + supplemento — per Claude
+PARENTELA CON SL-P1200: BASSA per l'elettronica (prima generazione 1983-84, servo discreto AN767x, DSP MN661x, CPU MN14xx/MN15xx diverse). Utile per: meccanica traverse/caricamento, principi di taratura, procedure ottiche, storia della famiglia.
+Numerazione a riquadri [n] in basso (non trattini). s001-s012 SM principale, s013-s037 seconda edizione SM (K), s038-s040 supplemento (exploded view, changes). IC (OCR): MN6614/MN6615/MN6616 (CIRC), MN4216-20 RAM, MN1430PCG FL, MN1544PCH, AN7677S/AN7678S/AN7679S, AN6554NS, SN74LS628, MN2114-2.

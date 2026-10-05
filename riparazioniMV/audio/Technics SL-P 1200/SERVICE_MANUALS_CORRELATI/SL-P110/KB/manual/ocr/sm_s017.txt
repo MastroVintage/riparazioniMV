@@ -1,0 +1,77 @@
+@ RESISTORS AND CAPACITORS
+
+Notes: 1. Part numbers are indicated on most mechanical parts.
+
+Please use this part number for parts orders.
+
+3. Untess otherwise specified.
+All resistors are in OHMS (2)
+
+2. important safety notice: All capacitors are in MICORFARADS (uF), P = 10°SyF,
+Components identified by A\ mark have special characteristics
+important for safety. When replacing any of these components
+use only manufacturer's specified parts.
+Numbering System of Resistor Numbering System of Capacitor
+Example Example ,
+‘
+ERD $2 T J 101 ECKD 1H 102 K Cc
+Type Wattage Shape Tolerance Value Type Voltage Value Tolerance Peculiarity
+(1/4wW) (+ 5%) (1k) (50V) (0.0014F) (+ 10%)
+ERJ 8 GEY J 102 i ECEA 0G KS 470 L
+, z_,...... rs Type Voltage Peculiarity Value Special use
+Type Wattage Shape Tolerance Value Specialuse
+e (1/8W) ° (+ 5%) aka) (4V DC) use (47uF)
+ERD : Carbon Type Peculiarity Value Tolerance Voltage
+ERJ : Chip Type (0.027uF) (+ 10%) (25V)
+Carbon
+ECEA : Electrolytic ECEA, AR, REC,
+ECEV Types
+. . wos ECEA..N : Non-Polar Electrolytic
+@ Indication of RCBS type capacitor oG : 4
+. / . :6.3V
+(Axial type) ECEV : Electrolytic (Chip Type) : ey
+: 16V
+e Rated voltage ECOM __ : Polyester
+The rated voltages are indicated by insulating paint ECKD
+colors. ECFF : Ceramic
+ECCD
+Rated voltage (DC) Paint color : . 25V DC
+R426 : Ceramic (Chip Type
+; G (Chip Type) cov DG
+16V ink "
+RCBS : Ceramic (Axial Type) 50v DC
+
+Light-green
+
+e@ Electrostatic capacity and characteristics
+
+K = 10002, M= 1000kQ.
+
+: 125V DC
+: 125V AC
+
+The nominal electrostatic capacites (PF), tolerances and temperature characteristics are indicated by color codes.
+
+Color band
+
+Yeliow
+
+Green | Blue | Purple
+
+Silver
+
+1st, 2nd color bands
+(Effective number of nominal
+electrostatic capacity)
+
+3rd color band
+(Multiplier of nominal
+
+electrostatic capacity)
+
+4th color band
+(Tolerances)
+
+5th color band
+(Temperature characteristic)
+

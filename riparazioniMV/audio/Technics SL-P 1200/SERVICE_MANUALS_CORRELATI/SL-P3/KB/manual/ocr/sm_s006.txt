@@ -1,0 +1,312 @@
+FUNCTIONS
+
+@ Power switch
+
+Press (H_. =) to turn power on and press again (m_. H) to
+turn power off.
+
+When power is switched on, the disc illuminator and the
+output level indicator LEDs (0 to 10) are illuminated. If
+there is no disc in the holder, the display pane! appears as
+follows:
+
+a-:nan
+ay: og
+
+min sec
+
+co
+
+if there is a disc in the holder, it will begin spinning, the total
+number of tracks and total playing time of the disc will be
+displayed and the unit will switch to the stop (standby)
+mode.”
+
+Shown below is the display reading when a disc, having
+seven tracks and a total playing time of 49 minutes 58
+seconds, is in the holder.
+
+track index
+
+* Stop (standby) mode:
+
+In the stop (standby) mode, the pickup* is at the
+beginning of the first track and the display shows the
+total number of tracks and total playing time of the
+disc.
+
+*The pickup is the device that reads the information on
+the disc surface using a laser. The pickup moves
+across the disc as the disc is played, but it is not
+visible from outside of the cabinet.
+
+@ Disc holder
+
+The disc is inserted in this holder with the label side up.
+
+© Disc illuminator
+Illuminates when power is switched on. The prism effect of
+the open indicator illuminates. Press this button again to
+close the disc holder (The indicator turns off.).
+
+@ Disc reflector
+
+@ Open/close button
+Press this button to open and close the disc holder
+Wher this button is pressed, the disc holder slides out and
+the open indicator illuminates. Press this button again to
+close the disc holder (The indicator turns off.)
+
+© Output level indicator
+This indicator shows the current output level as set by
+the output level control bottons.
+The “0” at the bottom of the indicator remains illuminated at
+all time regardless of the output level setting. The red ‘'10”
+indication is the standard output level setting to which the unit
+is setat the factory. Normally, the unit should be used at this
+output level. The 8, 6, 4, 2 and 0 indications are green. At the
+“‘Q” jevel, sound from the disc is barely audible. The current
+output level setting is stored in the memory; it is not reset
+when the power is switched off.
+
+@ Display pane!
+The display shows a wide range of information concern-
+ing the disc, the progress of disc play and player
+
+settings.
+a
+Siiii iii tiie GOSSAGE: GG
+
+ies AmB [empha] track index time min no. sec
+
+oOo © © ©
+
+time/min time/sec
+tL
+
+time
+@® Track scale:
+Indicates the track numbers for the 15 track bars.
+
+Track bars:
+Bars illuminate to indicate the. number of tracks on the
+disc. The bar of the track being played flashes on and off
+and then turns off once the track has been played. If there
+are more than 15 tracks on a disc, the ‘‘®”’ indicator, to
+the right of the last bar, illuminates. For program disc play,
+only the bars of the programmed tracks will illuminate.
+
+© Digit display:
+track: Shows the track number during play, and the
+total tracks (up to 99) during (standby).
+index: Shows an index number x (index digits)
+
+When a disc having no indexes is played, ‘01”
+
+is constantly displayed on the index digits.
+
+time/min: This display differs depending on the present
+mode selected.
+
+1. During standby, the total minutes are dis-
+played.
+
+2. During normal play, the track’s minutes are
+displayed.
+
+3. When the remaining time button is press-
+ed, during disc play, the remaining time in
+the disc (min., sec.) is displayed.
+
+no/sec: _‘ This display differs depending on the present
+mode selected.
+
+1. During standby, the seconds time of the
+total disc time is displayed.
+
+2. During normal play, the track’s seconds are
+displayed.
+
+3. While programming, when pressing the
+memory button, the programmed track
+sequence number is displayed.
+
+4. Displays each programmed track sequ-
+ence number one by one, each time the
+recall button is pressed.
+
+x Index:
+In some Compact Discs, indexes are used to divide
+
+tracks into smaller sections for easy access. If a disc
+includes indexes, a list of the indexes will be contained
+in the liner note included with that disc.
+
+© Open indicator:
+Ituminates when the open/close button is pressed to open
+the disc holder and flashes on and off while the holder is
+sliding open or closed. This indicator remains off when the
+holder is closed.
+
+© Repeat indicator:
+
+iiuminates when the repeat mode is activated by pressing
+
+the repeat button or the A-B repeat button.
+
+Oe “iuminates when the repeat button is
+pressed.
+
+e acs “illuminates when the A-B repeat button is
+pressed once.
+
+eo “illuminates when the A-B repeat button is
+pressed two times.
+
+elf the A-B repeat button is pressed a third time, this
+indicator turns off to show that A-B repeat has been
+cancelled.
+
+© Music scan indicator:
+Illuminates when the music scan button is pressed.
+The music scan indicator goes off when music scan play
+has been completed.
+
+© Emphasis indicator:
+Iluminates when a disc containing pre- -emphasis is
+played.
+
+i | > Pre-emphasis:
+In order to further improve the S/N ratio of compact
+discs, some discs include a degree of emphasis in the
+high frequency range called pre-emphasis. If these
+discs are played without any compensation, the high
+frequency range will be unnaturally strong. Therefore,
+a corresponding amount of de-emphasis is needed to
+obtain the proper response. The de-emphasis circuitry
+of this unit is automatically activated when a disc
+having pre-emphasis is played.
+
+© Remote control receiver
+Signals from the accessory infrared remote control unit
+are received here.
+The remote control indicator illuminates to shown when a
+command from the remote control has been received.
+
+© Pause indicator
+This indicator (#8) illuminates when the pause button has
+been activated, and goes out when the pause mode is
+cancelled.
+
+@ Cue/standby indicator
+iluminates when the timer play/auto pause/auto cue
+selector is set to the auto cue position.
+
+@ Play indicator
+
+This indicator (>) illuminates when the play button has
+been pressed. It turns off when disc play is stopped.
+
+@ Play button
+Press this button to begin disc play.
+eWhen this button is pressed during disc play, the pickup
+returns to the beginning of the first track and starts piaying
+the disc again.
+During program disc play, the pickup returns to the first
+programmed track and starts playing the programmed
+sequence again.
+(Auto return play function)
+
+@® Pause button
+Press this button to briefly stop disc play.
+
+eWhen this button is pressed, the player switches to the
+standby mode.
+eTo continue disc play, press the play button.
+
+@ Stop button
+Press this button to stop disc play.
+
+eWhen this button is pressed, all previous settings are
+cancelled and the player returns to the stop mode.
+
+@® Forward and backward search buttons
+
+Use these buttons to move the pickup forward and
+
+backward (Manual search play function).
+
+eWhen either of these buttons is pressed, the pickup will
+move slowly at first and then rapidly if the button is held
+down for more than about three seconds.
+
+eUse the search buttons when the player is in the pause
+mode or during disc play to move the pickup to a specific
+point on the disc.
+
+Press the search (___B_] button to move the pickup
+forward.
+
+Press the search (_<<—_] button to move the pickup
+backward.
+
+Release the search button when the pickup has moved to the
+desired location (as shown by the display panel).
+®During disc play, search can be performed while listening to
+the signal from the disc to aid in locating a specific point.
+The output level is decreased by 12 dB (1) compared with
+the level during standard disc play.
+
+@ Forward and. backward. skip buttons
+Use these buttons to move the pickup to the beginning of
+the next track in the forward or backward direction
+(forward and backward skip play function).
+eWhen one of the skip buttons is pressed during disc play or
+the.pause mode, the pickup will skip the same number of
+tracks as the number of times the button is pressed.
+When one of the skip buttons is pressed during program
+disc play, the pickup will move to the beginning of the next
+or previous programmed track.
+ePress the skip [=o ] button to move the pickup forward.
+ePress the skip button to move the pickup backward.
+eWhen either of these buttons is held down, tracks are
+skipped continuously. (Quick skip)
+@ Output level control buttons
+Use this button to adjust the output level (volume) of the
+signal sent from the rear panel VARIABLE LINE OUT
+jacks.
+(This function will only work when the stereo connection
+cable is connected to the VARIABLE LINE OUT terminals on
+the rear panel of the player.)
+Press the output level control (4) button to raise the
+output level.
+Press the output level control [gz] button to lower the
+output level.
+An output level control function is provided because compact
+discs contain a much wider dynamic range than phonograph
+records do and because the output level often differs from
+disc to disc. With a constant output level, it would be
+necessary to readjust the amplifier volume control setting
+every time you switched to or from the CD player or changed
+discs. In this unit, the volume level can be adjusted
+electronically by using these buttons or the volume buttons
+on the remote control unit to match the output level with that
+of other components and your usual amplifier volume level
+setting.
+@® Forward/Backward index skip buttons
+Use these buttons to move the pickup forward or
+backward to the beginning of a specific index. (forward
+and backward index skip function)
+eWhen these buttons are used during disc play or when the
+unit is in the pause mode, the number of times the forward
+or backward index button is pressed determines the number
+of indexes that are skipped.
+Press the index skip button to move the pickup
+forward.
+Press the index skip button to move the pickup
+backward.
+elf either button is held down, the pickup continuously skips
+over indexes until the button is released.
+Having this separate index skip button is very useful when
+
+— g— playing discs which contain indexes.

@@ -1,0 +1,74 @@
+@ DISASSEMBLY INSTRUCTIONS
+
+CAUTION:
+
+e It is very dangerous to look at or touch laser radiation. (Laser radiation is invisible.)
+
+e With the unit turned “on”, laser radiation is emitted from the pickup lens.
+e When doing the job, removing the cabinet and disc clamper of this unit, be sure to turn the power supply off.
+
+| Retin. | How to remove the top case How to remove the main P.C.B.
+Procedure
+152-4
+
+1. Remove the 4 setscrews.
+
+2. Lift the P.C.B. to remove it from the
+chassis projections.
+
+3. Remove in the direction of the arrow.
+
+Note: When doing the job, Lock the
+lock shaft at bottom of the unit.
+(See page 3)
+
+How to check the main P.C.B.
+
+eWhen checking the soldered surfaces of the main
+P.C.B. and replacing the parts, do as shown.
+
+1. Remove the main P.C.B.
+
+2. Remove the FPC cord (CN107).
+
+Remove the setscrew@.
+
+. Slightly pull the front panel on both
+sides (arrow @), then remove from the
+projection of the chassis.
+
+Remove in the direction of the arrow ©.
+
+Procedure
+1>2 |»
+
+Pull out the
+FPC cord FPC cord.
+
+> A Lift the
+Connector (GN107) connector.
+
+Caution: Insert the short pin into the FPC cord in
+order to prevent breakdown of laser diode.
+(See page 8)
+3. Mount FPC junction P.C.B. (SZZP1070C)
+on the chassis. (Do the job as shown by
+using the main P.C.B. setscrew.)
+4. Connect FPC cord from optical pickup
+to FPC junction P.C.B.
+5. Connect FPC extension cord
+(SZZP1071C) to FPC junction P.C.B. and
+CN107 of main P.C.B.
+
+FPC cord from
+optical pickup ¢
+
+1. Remove the setscrew and button
+holder.
+2. Release the 8 claws.
+
+Main P.B.C.
+
+FPC junction P.C.B. FPC extension
+(SZZP1070C) cord (SZZP1071C)
+

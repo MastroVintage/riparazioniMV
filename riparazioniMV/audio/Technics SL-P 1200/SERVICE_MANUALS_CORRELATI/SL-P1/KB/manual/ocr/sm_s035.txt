@@ -1,0 +1,84 @@
+8. Ajuste de desviacién en desexcitacién . Después del ajuste arriba mencionado, remueva el cable
+
+corto en paso 3).
+
+1. Conectar el osciloscopio a los puntos mencionados abajo. . Maximice VR501 (11T) girandolo completamente a la derecha.
+
+CH1......... TJ101 (P.C.B. 03.) . Ponga el disco y apriete el bot6n de INTERPRETACION.
+CH2......... TJ103 (P.C.B. 03.} . En la modalidad de interpretacién, conecte TJ501 (11 TMODE) en P.C.B. 01 a tierra (GND).
+EXT. ........ TJ401 (P.C.B. 01.) TJ101 VR103 . En la misma modalidad de osciloscopio como en paso 2), ajuste VR501 de manera que la onda de osciloscopio
+
+Puesta de osciloscopio:
+VOLTAJE.... 1V
+BARRIDO. ... 0,5 ms
+Entrada...... CA
+Disparador.... NORMA EXT.
+2. Interpretar la banda 13 (punto negro de 0,5 mm) del
+disco de prueba. EXT[]_
+3. Observando la forma de onda de CH1 dé! osciloscopio, ajustar YR103 de manera que la amplitud de forma de onda,
+cerca del punto de disparo, se minimice.
+Si no se minimiza, ajustar de manera que fa parte superior e ingerior de la forma de onda sean casi simétricas.
+4. Observando la forma de onda de CH2 del osciloscopio, ajustar VR106 de manera que la amplitud de forma de onda,
+cerca del punto de disparo, se minimice. Si no se minimiza, ajustar de manera que la parte superior e inferior de
+forma de onda sean casi simétricas.
+
+se forme como abajo.
+
+TJ103 VR106
+
+9. Ajuste de ojo 6ptimo
+
+=
+
+. Sefial RF de monitor en osciloscopio.
+2. Conectar CH1 de osciloscopio a los puntos TJ402 en
+P.C.B.
+Puesta de osciloscopio:
+VOLTAJE.... 1V
+BARRIDO.... 0,5 ms
+Entrada...... CA
+3. Ajustar VR102 de manera que el patr6én de ojo de sefial
+RF esté lo maximo abierta.
+
+11. Comprobacion de operacién de interpretacion después
+
+a calto
+e€ saito
+
+1. Interpretar un disco ordinario.
+2. Oprimir el botdn de salto y comprobar para ver si se da busca de salto. (Adelante y atras)
+Comprobaci6n de busca manual
+1. Interpretar un disco ordinario.
+2. Optimir el boton de busca manual y comprobar para ver si se puede hacer busca de salto suave a las velocidades
+baja y alta. (Adelante y atras)
+Comprobacion para defectos
+
+10. Ajuste PLL (bucle de enganche de fase) 1. Interpretar la banda 12 de disco de prueba y comprobar para ver si no hay salto de sonido fe) ruido. (Punto negro)
+2. Interpretar la banda 14 de disco de prueba y comprobar para ver si no hay salto de sonido o ruido. (Huella digital)
+
+1. Cambie el bloqueo de aparato a modalidad de EYEC-
+CION.
+
+2. Connecte CH1 y CH2 de osciloscopio a TJ701 (FCLK)
+y TJ702 (CLDCK) en P.C.B. 01.
+Puesta de osciloscopio:
+
+VOLTAJE..... 2V
+
+BARRIDO..... 20us
+
+Entrada....... CA
+
+Disparador..... CH1 + CH2 (NORM.) FCLK
+Modalidad ..... ALT:
+
+3. Connecte perno 13 de 1C301 en P.C.B. 01 a tierra (GND).
+4. Ajuste L301 (VCO) de manera que la onda de oscilos-
+copio se forme como se muestra abajo.
+
+CLDCK
+
+Aparee los centros de anchura de impulso
+de ambas formas de onda.
+
+—17— — 18 —

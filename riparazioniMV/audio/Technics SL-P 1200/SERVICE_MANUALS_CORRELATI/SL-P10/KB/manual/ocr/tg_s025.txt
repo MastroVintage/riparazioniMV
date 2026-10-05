@@ -1,0 +1,51 @@
+° The switch circuit consisting of IC206 (S,; %~ $3) and Q206 turns
+Q201 OFF by CN204 JUMP signal (same as AN7673 pin (22)
+tracking servo loop switch control signal) during
+manual high-speed search, and makes the output level
+of IC205 pin (7) same as the level of V REF (reference
+voltage).
+
+The operation timing of each terminal is shown in Fig. 4-6.
+
+(8
+
++0
+
+CN203%1)
+(T.E HOLD)
+
+CN2040)
+
+(Tracking
+servo ON/OFF
+signal)
+
+1
+
+f
+
+a oom ri {+ | — >=
+Q201 A
+
+t
+
+|
+
+collector
+ees ae et on eee ee ee
+eg — J LILI Lf
+
+Play mode Manual high-speed search mode
+Tracking Tracking Tracking
+OFF ON OFF
+
+(A) TE signal when tracking servo is released.
+
+(B) TE signal when IC205 pin (7) is made equal to
+V REF level by So.
+
+(C) TE signal when tracking servo is activated.
+
+Fig. 4—6. Operation timing in manual high speed mode
+
+—%96 =

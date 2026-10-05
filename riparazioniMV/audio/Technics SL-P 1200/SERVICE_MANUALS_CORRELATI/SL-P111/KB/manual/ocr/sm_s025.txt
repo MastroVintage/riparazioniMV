@@ -1,0 +1,167 @@
+us servo ON
+king servo ON
+
+K direction
+
+k direction
+
+nversion RF high
+nversion RF low
+
+on-inversion RF
+
+on-inversion RF
+
+SY
+
+$+
+
+—______|
+
+iangular wave
+
+nput
+
+tage generation
+
+t (B)
+»n (B)
+yn (A)
+
+t (A)
+
+——_—-__-__.__.___]
+
+rection
+
+signal input
+
+———_—________.___]
+
+pplied
+
+———_______._._]
+
+Ip-out detection
+nection
+
+nnection
+
+inection
+
+® MN15261PDU (System Control and FL Drive)
+
+lpm | T ]
+ne Mark Signal 1/0 Function Ae Mark Signal 1/0 Function |
+t 4 4 |
+1 VSS GND i GND terminal Optical servo IC control signa!
+26 P31 CNT3 ie) (KICKF: Kick direction
+2 | XO — | o Not used (Open) | [Forward] command)
+Taw, a +
+3 xd | SENSE L | Optical servo condition input 37 p30 CNT? 0 Optical servo IC control signal
+4 ; Poo PC fe) Spindle moter control (TRON: Tracking servo)
+—_ Zz L J To :
+5 |} P01 M DATA re) Command data outut 28 | P33 CNT1 fe) Optical servo IC contro! signal
+jo (FOON: Focus servo)
+6 P02 MCLK Oo Command clock output i ~~ >
++— Key input strobe and Processing
+7 P03 MLD 16] Command load output 29 P40 START | status input from signal
+~ | processing LSI traverse position
+8 P10 | MRLY I Muting control | detection.
+| nat ie — 4 t
+9 P11 D-DAT | (Not used, open) }} 30 P41 D-END fe) Connected to 5V
+7
+10 P12 | SYNC | (Not used, open) 31 pap FLOCK Optical servo condition
+11 | P13 D-DP { (Not used, open) |_ (focus) input
+= + — 1 ; ng:
+12 SYNC _ fe) (Not used, open) 32 P43 SENSE \ Optical servo condition
+= ~ —t | (track cross) input
+Reset signal input : T
+13. | RST RESET | (reset tL") p 33 | PEO close | Oo Loading motor close signal
+_t T r ,
+| Sub-code block (Q data) 34 | PE1 OPEN fe) Loading motor open signal
+14 | IRQ BLKCK lock (75 Hz) input |
+| clock (75 Hz) inpu 35 | P60 PAUSE O (Not used, open)
+15 P50 ; 36 P61 PLAY oO (Not used, open)
+t { KEY I Key scan input {
+18 P53 37 DAC DAC O (Not used, open)
+___. i am | 4
+19 SBT CLDCK I Sub-code frame clock (7.35 kHz) 38 vpp _ ' FL drive power supply
+| ~T ; (connected to —32V)
+20 SBD SUBQ \ Sub-code Q data input
+21 | P20 TGC (Not used, open) _ O FL grid signal and key
+scan signal
+22 P21 TRV-H (Not used, open)
+Traverse reverse command
+23 | P22 TRV-R ° signal FL anode signal
+a eee ee |
+Traverse forward command
+24 | P23 TRV-F O signal Clock terminal
+Optical servo IC control signal Clock input
+25 P30 CNT4 0 (KICKR: Kick direction 64 vob _ ; Power supply
+| LL | [Reverse] command) | (connected to +5V)
+| 1.
+
+¢ MN1550PDT (Remote Control Signal Processing)
+
+Power supply
+(connected to +5V)
+SS
+Reset signal input
+
+Not used, open
+
+Remote controi signal input
+Program enable/de-enable
+control
+
+— 35 —
+
+Key strobe
+
+© MN6618A (Digital Filter)
+
+=
+Mark We) | Function fin Mark Wie) Function
+4 $_
+NC —_ Not connected 23 MCLK I Command clock input
++.
+2 D012 oO 16-bit data output 24 MLD | Command load input |
+3 D011 oO 16-bit data output 25 NC —_— Not connected
+4 DO10 oO 16-bit daia output [ 26 RST | Reset signal input (reset at “L”) |
+5 GND | GND terminal 27 —_ — |
+6 Dog O 16-bit data output 28 LRCK | L/R channel changeover signal |
+= {
+7 NC — Not connected 29 NC _ Not connected
+8 DO8 ie) 16-bit data output 30 SFT I Serial data input clock
+—} 4 —| {
+9 DO7 oO 16-bit data output 31 SIN I Serial data input |
+10 NC — Not connected 32 NC —_ Not connected
+1 NC —_ Not connected 33 X OUT oO Clock output (Not used, open)
+“Tt 7
+D06 oO 16-bit data output 34 XIN ! Clock input (16.9244 MHz)
+— — 4
+DO5 oO 16-bit data output 35 OSEL \ DA output parallel/serial
+changeover (Parallel at “L")
+DO04 oO 16-bit data output +
++ 36 LDGL L channel deglitch signal
+DO3 ce) 16-bit data output +
++ 37 RDGL oO R channel deglitch signal
+NC —_— Not connected +-
+— {— 4} 38 VDD | Power supply (connected to +5V)
+NC — Not connected
+39 D015 oO 16-bit data output (MSB)
+DOo2 1@) 16-bit data output i —4 + |
+4 40 D014 (0) 16-bit data output
+DO1 oO 16-bit data output
+41 NC —_— Not connected
+DOO ie) 16-bit data output
+42 D013 oO 16-bit data output
+MDATA | Command data input Co
+Not connected
+
+— 36 —
+
+Printed in Japan
+870302300©JN/HS
+870314100@JN/HS

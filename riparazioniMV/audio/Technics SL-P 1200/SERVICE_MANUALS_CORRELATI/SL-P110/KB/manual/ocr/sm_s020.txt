@@ -1,0 +1,255 @@
+1/0
+Devision
+Sub-code block (Q data) clock
+(75 Hz)
+Sub-code frame (Q data) clock
+(7.35 kHz)
+Sub-code (Q data) output
+Sub-code (Q data) CRC check
+(Not used, open)
+Reset signal input (reset at ““L’’)
+
+Command load input
+
+LKCK
+
+LOCK
+
+oc
+Ba
+
+w
+
+e MN6617 (Digital Signal Processing : EFM Decoder, Error Correction, CLV Servo)
+
+1/0
+Devision
+16-bit data output/Synchronizing
+DAS/FCLV Fo | detection signal (Not used)
+
+16-bit data output/Interpolation
+flag for each byte (Not used)
+
+DA7/
+IPBYTE
+
+DAG/IPSEL
+
+16-bit data output/
+interpolation inhibit (Not used)
+
+16-bit data output/C2 decoder
+
+DAS/FLAGS correction flag 3 (Not used)
+
+V0
+oO
+
+oO
+
+16-bit data output/C2 decoder
+
+DA4/FLAG4 correction flag 2 (Not used)
+
+~
+
+Command clock input
+
+Command data input
+
+Muting control (muting ON at ‘‘H’’}
+
+Tracking servo ON signal
+(tracking servo ON at “L’’)
+
+MUTE
+
+O;e/S/2/72)| 9 |e
+olr {ay DIS
+SIP S| all o
+3a\| xz
+>
+
+RON
+
++
+
+Processing condition (CRC, OTC
+CLVOK, TT STOP) output
+Clock output (4.2336 MHz)
+
+ui ni a
+5 |8| >
+A lA] aA
+
+Itc Track counter input signal
+(Not used, connected to +5V)
+TEST
+
+Test mode selection
+
+(Not used, connected to +5V)
+Clock output (16.9334 MHz)
+Clock input (16.9344 MHz)
+
+DA output parallel/serial selection
+(serial at ‘L’’)
+
+L channel deglitch signal/serial
+data word clock.
+
+R channel deglitch signal.
+
+63
+
+Pitch control clock output
+(Not used, open)
+
+EL
+
+f#[a[e [e-elels|e-e/s | s/s |e |e
+
+Ui
+
+r
+
+: 8 |%
+>
+Q@
+o
+
+DG/WDCK
+
+De-emphasis ON signal
+(de-emphasis ON at “‘H”)
+
+s
+°
+
+Interpolation flag
+
+IPFLAG {interpolation at “H”)
+
+~
+_
+
+Error flag (error at ’H’’)
+
+16 K RAM address reset signal
+(reset at ‘’H’’)
+
+Clock (16.9334 MHz) output
+(Not used, open)
+
+=
+~
+
+wa IN
+
+~ ~ Q
+>| w LS) ~“
+
+S\e
+z >
+in
+a
+
+ss
+oa
+
+DA15/ 16-bit data output/serial data
+
+SRDATA output (MSB first) 76
+7 DA14/ 16-bit data output/serial data 77
+
+SRDATAX output (LSB first)
+
+oo
+
+DA13/SRCK
+
+16-bit data output/serial data
+beat clock.
+
+16-bit data output/C2 decoder
+correction flag 1 (Not used)
+
+DA3/FLAG3
+
+16-bit data output/C1 decoder
+correction flag 2 (Not used)
+
+DA2/FLAG2
+
+16-bit data output/C1 decoder
+
+DAI/FLAG1 correction flag 1 (Not used)
+
+16-bit data output/Crystal frame
+
+DAO/F L! clock
+
+CKO
+
+| 16 K RAM data output
+
+, - fe
+=
+fe)
+m
+
+16 K RAM OE signal
+
+16 K RAM WE signal
+
+re) Spindle motor ON signal
+(ON at “L”’)
+
+oO Spindie motor drive signal
+
+Spindle motor FG signal input
+
+16 K RAM address signal
+(RAMAO : LSB, RAMA10: MSB)
+
+PLL extract clock input
+
+| Power supply (connected to +5V)
+
+EFM signal input (PLL)
+
+EFM signal input (DSL)
+
+Drop-out signal (Drop-out at “H''}
+
+11T stereo OK signal (OK at “’H”’)
+
+PLL frequency comparision signal
+
+PLL frequency in take operation
+signal.
+
+16-bit data output/serial data
+
+DA12/WOCK word clock (Not used)
+DA11/ 16-bit data output/serial data
+BYTCK byte clock (Not used)
+
+GND terminal
+16-bit data output/RIL signal
+
+16-bit data output/
+Resynchronizing signal
+
+DA10/RIL
+
+33
+
+DA9/RESY
+
+Sub-code serial output data
+
+5 nowene
+
+Clock for sub-code serial output
+

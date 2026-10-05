@@ -1,0 +1,120 @@
+Ref.No. | How to remove the power @ HOW TO REPLACE IC’S (Small outline type)
+
+11 transformer
+Procedure ; .
+19208011 Replacing procedure Cautions
+Reduce the amount of solder on (Example) Recommended tool
+1R each pin of the integrated circuit by Special soldering iron
+. Remove the connector (CN11). Caution for fitting: Driver use of a solder sucker. *H605M and H-130.
+2. Remove the 2 screws. Fit the P.C.B. to the * H605E and H-130.
+3. Lift the power transformer to remove groove of the chassis. Solder Do not touch the soldering iron to
+
+sucker the area for along time. It may
+otherwise cause removal of the
+Melt the solder on the pin (one elec- print foil.
+
+trode) with the soldering iron. When shifting the pin upward, do
+the job quickly while the solder is
+% melting. If the solder is hard, it
+
+it from the chassis tab. (arrow @)
+
+4. Separate the AC IN socket from the
+holder by using a screw driver.
+(arrow ®, @)
+
+5. Remove the power source P.C.B. in the
+direction of the arrow ®.
+
+¢ How to remove the power switch rod
+
+1. Set the power switch in “OFF”
+position.
+
+2. Remove the power switch rod by
+using a screwdriver.
+
+may cause removal or breakage of
+
+the print foil.
+
+When using a pencil type solder-
+
+While the solder is melting, shift ing iron.
+
+the pin upward by the soldering iron . Completely remove the solder
+
+to remove it from the foil. from each IC pin by use of solder
+sucker.
+
+. Raise each pin by means of an
+eyeleteer, hold the pliers then
+remove IC package from P.C.B.
+
+Driver
+
+Remove each pin from the foil
+according to the above-mentioned
+procedure.
+
+* Special soldering iron
+
+How to remove the spindle motor | (Refer to Technical Information, ORDER NO. GAD84125486T1)
+
+Procedure
+19298612
+
+Turntable *H—605 Spot Heater (hot-air solder iron)
+
+1. Loosen the screw @ by using a 1.27 mm This device that uses hot air to melt solder was developed to remove Flat-Package ICs, RHCs and chip parts.
+
+hexagonal wrench and remove the
+
+turntable. . *H—605M (For 120V power source) °H—617 =‘ Twin Nozzle (for spot heater)
+Caution the 2 screws (@.@). ¢H—605E (For 200V/220V/240V power source) Special nozzle for the removal of RHCs and chip
+
+; . . resistors. (Nozzle diameter: 1.0mm x 2
+1. Turntable height adjustment is necessary (
+
+any time the turntable or spindle motor is
+replaced.
+
+2. The (+) terminal of the spindle motor is
+indicated by the red mark.
+
+eH—130 Slim Pencil Solder Iron
+An ultrasmall ceramic heater solder iron is extremely
+handy for soldering chip parts, RHCs, ICs etc., to high-
+density circuit boards.
+
+Adjustment of turntable height Spindle motor ——} SS7>
+1. Insert a 0.9 mm feeler gauge (RZZ0297) j Features:
+between the turntable and loading base as ae *Rated power: 100V, 15W
+shown below. e Max. temp.: 400°C
+= = ¢ Heater: ceramic (long life)
+Turntable Oe elInsulation resistance: 100MQ
+0.9 mm feeler ¢Length: 178mm
+
+0.9mm . . . .
+: ER he gauge (RZZ0297) (+) terminal Weight: 16g (not including cord
+Wi tf, g 9g ( g cord)
+
+-—— Red mark
+eH—131, H—V13 Cap Bits
+Solder tip for the slim pencil Solder lron is composed
+ag of a bit holder and a corrosion resistance solder tip.
+o” Permits changing of solder tips even while still hot.
+
+; gS
+7 W H—V13 © Solder tip: 0.3mm
+H—617
+
+2. Tighten the turntable set-screw by using a
+1.27 mm hexagonal wrench.
+
+Caution:
+
+Refer to optical pickup adjustment (see page
+
+L 16).
+

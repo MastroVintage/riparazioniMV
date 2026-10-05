@@ -1,0 +1,42 @@
+15. Audio distortion adjustment
+
+1) Connect the output termina! of the set to a distortion meter, and monitor the output of the
+distortion meter by oscilloscope.
+(1) Set
+(2) Output terminal
+(3) Distortion meter
+(4) Oscilloscope
+
+Oscilloscope
+
+Output
+
+i
+O
+
+2) Play the band 3 ({ kHz, 0 dB) of test disc.
+
+UT
+
+3) After adjusting the filter of distortion meter to 1 kHz, adjust VR851 on O02 P.C.B. so that the
+distortion is minimized.
+
+16. Check of play operation after adjustment
+
+Check of skip search
+1) Play an ordinary disc.
+2) Press the skip button and check to see that skip search is given. (Forward and reverse)
+
+Check of manual search
+
+1) Play an ordinary disc.
+
+2) Press the manual search button and check to see that smooth manual search can be done at
+low and high speeds. (Forward and reverse)
+
+Check for defects
+
+1) Play the band 12 of test disc, and check to see that there is no sound skip or noise. (Black spot)
+2) Play the band 14 of test disc, and check to see that there is no sound skip or noise. (Finger print)
+
+—14—

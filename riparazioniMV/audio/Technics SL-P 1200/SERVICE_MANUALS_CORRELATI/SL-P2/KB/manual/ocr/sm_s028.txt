@@ -1,0 +1,5 @@
+PLL Circuit
+
+0.12 ps(8.64MHz)
+AaVp-p
+

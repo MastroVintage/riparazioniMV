@@ -1,0 +1,116 @@
+4, INITIAL SETTING POINTS OF ADJUSTING VARIABLE
+RESISTORS (VR)
+
+e Adjusting Variable Resistors and Test Points
+
+The player operates but not optimum at the above settings of the adjusting variable resistors. Adjust them accord-
+ing to the adjusting procedure.
+
+Line out
+
+PLL test
+
+Cleap point for the power supply point
+To Power $ IC-11 of serve point adjuster (SZZP1OL7F)
+ly cir=y;~| 0° J
+Supp y ° Cleap point for che power supply
+cuit (BT11) O° of servo gain adjuster (SZZPIO19F)
+
+ov-- Blue lead wire
+
+Position
+detector
+
+ooo p———__
+
+Disc holder
+YR106 motor drive
+Tracking error
+compensation adjuster
+VRIO5
+Focus offset adjuster
+VRIO4
+Focua gain adjuster
+¥R103
+Tracking offeet adjuster Spindle
+. motor drive
+
+Focus off-
+set test
+
+Tracking error
+point
+
+compensation
+
+VR106
+
+To optical
+
+VR1O5 Focus offset
+
+CNIO1 TII02
+
+Tracking offset
+Test point TJ101
+
+VR1LO4 Focus gain
+vano2 -
+Srecking gain adjuster
+VRLOL
+Best eye adjuster
+(PD Balance) PLL
+
+RF test adjuster
+
+ne T4301 point
+
+———-} to
+Tracking error CN102 ._CN301 (=)
+
+compensation Pere VR301
+
+. Cy
+test point J [ Q
+Short con- TI302
+
+nector XN
+RF (GND)
+Test point
+
+CN401
+
+VR1LO3
+
+Tracking offset
+
+VRLO2
+
+Pewee
+
+Tracking gain
+
+VR101 Best eye (PD Balance)
+
+%
+
+Control key
+
+Get Ge
+
+Open/Close Repeat Time Money Skip Ss
+search search
+
+—
+
+oa
+
+Main circuit
+
+Most conduct the electric adjustment when any electric part is replaced. Perform(1)optical pick-up adjustment
+and @electric adjustment in the stated order when the optical pick-up (SOAD30A) is replaced.
+
+Arrangement of the adjusting variable resistors viewing the side face. All the electric adjustments are possible
+by setting as shown in Fig. .
+
+(Removed the power supply switch rod for the convenience of adjustment.)

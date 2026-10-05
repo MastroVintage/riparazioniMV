@@ -1,0 +1,267 @@
+m PLAYING A DISC
+
+The following explanation is for a disc containing 7 tracks having a total playing time of 49 minutes and 58 seconds.
+
+1. Automatic Play
+(To play a disc from beginning to end)
+
+Procedure
+1. Press the power switch to the on position.
+
+eThe display illuminates as shown below.
+(The output level indicator also illuminates.)
+
+eWhen a disc has been: loaded and the timer play/auto
+pause/auto cue selector is in the timer play setting, disc play
+will begin automatically from track 1 when power is switched on
+(timer play function). The front panel controls can be used in
+the normal manner.
+
+2. Press the disc holder open/close button.
+
+@ Disc holder opens.
+. Insert a disc with the label side facing upward.
+4. Press the disc holder open/close button.
+
+@ Step 4 can be skipped by pressing the play button
+after inserting a disc. In this case, the holder will
+close and disc play will begin immediately from track
+1 but the tracks and total playing time will not be
+displayed.
+
+Ww
+
+Open indicator goes out when holder is completely closed.
+Disc data are being read.
+
+t
+
+track index
+
+The overflow mark ‘bm’ lights if the disc contains more than 15
+tracks.
+
+eThe diagram below is for a disc containing 21 tracks having a
+total playing time of 56 min. 34 sec.
+
+1.8 =
+HUT TEED Tadd Ot
+
+56:34
+
+track index
+
+5. Press the play button.
+
+eThe play indicator (Pm) lights and disc play begins. The bar of
+the track currently being played flashes on and off.
+
+track index
+
+flashes on and off
+
+eA maximum of 99 tracks can be displayed.
+
+eWhen a disc having no indexes is played, ‘'01" is constantly
+displayed in the index section.
+
+elf the play button is pressed during disc play, disc play is
+started again from the first track.
+
+Remaining time display function
+
+@ Press the remaining time button while a disc is being
+played to display the remaining playing time of the disc.
+For example, when the 2 min. 10 sec. point of track 5
+is being played:
+
+track index
+
+flashes on and off
+
+If the remaining time button is pressed, the display will switch to
+the remaining time mode.
+
+remaining playing
+time of disc
+
+flashes on and off
+
+Press the remaining time button again to return to the elapsed
+playing time mode.
+This procedure is the same in the following explanations as well.
+It is not possible to switch to the remaining time mode during
+program disc play.
+
+When the end of the disc is reached, the pickup returns to the
+beginning of track one and the player switches to the standby
+mode.
+
+2. To play a disc from a specific
+track
+(track random access)
+
+To play a disc from track 3 when the player is in
+
+the standby mode.
+
+Procedure
+
+1. Press the number 3 of the numeric button.
+
+@ The number 3 is shown in the track indicator display
+digit.
+
+Example:
+
+2. Press the play button.
+
+@ Play indicator ( Pm ) illuminates and disc play beings
+from track 3.
+
+track index
+
+flashes on and off
+
+3. When the end of the disc is reached, the pickup returns
+to the first track and the player switches to the standby
+mode.
+
+3. To play a disc from a specific
+
+index
+(index random access)
+
+e When specifying an index number obtained
+from the disc’s liner note.
+(For example, to start disc play from track 3,
+index 2.)
+
+Procedure:
+
+1. Press the number 3 of the numeric button.
+
+eConfirm that the desired track and index numbers are shown in
+the display.
+
+® When playing discs having only one track, remember
+to enter track number 1.
+
+2. Press the index button.
+
+3. Press the number 2 of the numeric button.
+
+track index
+
+4. Press the play button.
+5. Disc play begins from index 2 of track 3.
+G. When the end of the disc is reached, the pickup returns
+
+to the first track and the player switches to the standby
+mode.
+
+4. Program Disc Play
+
+e@ To program only one track (single program)
+1. To play one track from beginning to end.
+(Example: To play track 3 from the beginning.)
+
+3 memory
+C+ -O 4b
+Track no. Program
+
+@ if you enter the wrong number, press the stop button
+to cancel it and then enter the correct number.
+
+@ The player switches to the standby mode after track
+3 has been played.
+
+e To program more than one track
+(multi-program)
+
+1. To play several tracks out of order
+(Example: To play track 3, track 5 and track 1 in that
+other.)
+
+memory
+
+memory
+cro _ =
+
+rrack no. Prostem Track no. Program rat no.
+
+@ The disc is played in the programmed sequence.
+(A maximum of 15 tracks can be programmed.)
+
+@ To play the same track serveral times in succession,
+using the program function, it is possible to enter that
+track by pressing the corresponding numeric button
+once and then press the memory button the desired
+number of times.
+
+e To enter a program during disc play
+
+A new program can be entered while a disc is being played.
+
+When the new pfogram is entered, the previous programs
+
+will be erased and disc play based on the new program will
+
+begin.
+
+Note:
+
+When entering a program during disc play, the program buttons
+must be operated without interruption. If there is a gap of more
+than 30 seconds between the time two program buttons are
+pressed, the new program will not be entered and disc play will
+continue in the normal manner.
+
+elf the numeric keys are pressed during program disc play, all
+
+program settings are cancelled.
+elt is impossible to program index numbers.
+
+e To cancel a program
+Press the stop button. The program will be cleared.
+
+5. Skip Play
+
+Skip play can be performed when the player is in the play
+or pause mode.
+
+@ To move to the beginning of the next
+track or several tracks ahead
+(forward skip)
+
+Example: While listening to the third track the
+forward skip button is pressed to adv-
+ance to the beginning of the fourth
+track and then again to advance to the
+beginning of the fifth track.
+
+at |
+
+(Auto-return
+
+=
+
+(Standby)
+
+The pickup skips the same number of tracks as the
+number of times the button is pressed.
+
+eWatch the display to be sure the desired track has been
+located.
+eThe pickup moves to the beginning of the next track (or
+programmed track) each time the skip button is pressed.
+®To skip directly from the third track to the beginning of the fifth
+track, press the forward skip button twice in a row.
+(Skips to the beginning of the next programmed track during
+program disc play.)
+
+@Halding down the skip button activates the quick skip mode.
+eWhen the {_ skip oo _|button is pressed during the last track, the
+pickup will go to the beginning of the last track (Unless the
+
+repeat function is on).

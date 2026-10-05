@@ -1,0 +1,121 @@
+4-3. Operation of display microcomputer
+
+Display micro
+computer
+1C 651
+MN 1430PCG
+
+Data signal
+
+PA! DECHO Signal
+PA2 DCLOCK Signal
+PA3 DSEND Signal
+
+Operation control
+
+1C612
+MN1564PCL
+
+Fig. 22 Connection chart of microcomputer
+
+1. When DSEND signal is applied to IC651 (30) SNS1 from
+operation control circuit, it is ready to receive the
+
+display data.
+
+2. DCLOCK signal is delivered from operation control cir-
+cuit, and 4-bit display data signal is delivered to
+
+IC65l A port.
+
+A variety of display are given by the data.
+
+3. C651, receiving data signal, deliveres DECHO signal
+from CO0, and waits for the next data receiving
+
+timing.
+
+Display Microcomputer operation
+
+Terminal Name of block
+
+QO.
+A Input port
+
+B Input port
+
+Sens input
+
+C output port
+
+D output port
+
+E output port
+
+Power input
+”.
+
+OSC. input
+RESET
+Test input
+
+Symbo!
+Alo ~AL3
+
+BIO ~BI3
+
+SNSO
+SNS1
+CO0
+
+CO1~CO6
+CO7
+
+co8s~coll
+DOU ~DO6
+DO7
+
+E00 ~EO3
+
+VSS
+VDD
+Osc
+RST
+TST
+CSLCT
+
+Data in from opecon,
+For model change
+“HY (+15V)
+“L" (GND)
+DCLOCK from Opecon.
+
+DSEND In from opecon,
+DECHO Out to opecon,
+
+Digit on of FL out
+
+FL bar code on (5th bar)
+Output
+
+LED ON output
+
+7 segment display out
+
+Colon over fights up out
+
+Bar code ON out (1st — 4th)
+
++15V
+OV
+
+200KHz
+Reset at ‘’L””
+
+Connect to +15V
+
+a
+
+Table 4 Display microcomputer operation
+
+—22—

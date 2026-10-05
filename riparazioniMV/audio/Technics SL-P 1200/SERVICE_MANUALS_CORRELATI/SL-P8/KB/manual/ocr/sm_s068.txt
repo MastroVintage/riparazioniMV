@@ -1,0 +1,58 @@
+3-7. PCK clock signal
+
+The PCK signal generation circuit consists of ICc409,
+IC407, IC406 and IC402 which set up PLL circuit.
+
+1. Output voltage is V-I conversion circuit IC415 is
+divided by R433 and R434, and the output is applied
+to IC415 (6), and to IC409 (13) through ICc402.
+
+2. Voltage applied to 1¢409 (13) serves to change the
+operation point of vcoO of IC409.
+When pitch control is OFF, the operation point of Ic409
+is at 0, then the frequency is stabilized in the
+capture range.
+With pitch control at +6%, the
+voltage from IC415 and IC402 Lock range ———|
+causes the operation point of
+IC409 to be shifted toward
+higher frequency, making it
+stabilized in the capture
+range.
+
+With pitch control at -63%,
+the operation point is
+shifted toward lower
+frequency but in any case the
+alteration occurs in the lock
+range of PLL circuit,resulting
+in stabilizing the frequency. — Fig, 18 Operation point of IC409
+
+3. The output of PLL circuit enters IC408 terminal (11)
+
+from IC409 terminal (6) and is put out as PCK signal
+from terminal (8).
+
+Divider output from
+
+Vi converter circuit 5
++" IC 415 IC 409
+5V ee
+VR401 + -_ Pe re 3 4
+. iC 406
+13 6
+RF Signal 6 y > > vco
+5
+5 C402, 11 LA, _J12
+PCK 5V
+(C408 IC. 407
+
+J
+12
+
+PCK Signal Aap c K
+i 7 |
+
+Fig. 19 PCK OSC circuit
+
+—~18—

@@ -1,0 +1,66 @@
+3. Mise au point mécanique
+
+4. Installer le disque d’essai sur la platine avec l’aimant de fixation.
+
+2. Raccorder l’oscilloscope 4 TJ402 sur Ja plaquette 4 circuits imprimés 01.
+
+3. Mettre l’appareil en marche et choisir le mode d’audition.
+
+4. S’assurer que le signal 4 haute fréquence est tel que celui montré a la Fig. A. S’il n’y a pas de signal, passer a
+|’étape suivante.
+Si le signal a haute fréquence est tel qu’ii est montré, sauter I’étape 5.
+
+5. Ajuster la vis hexagonale (utiliser une clé hexagonale de 2 mm) vers la droite ou vers la gauche pour obtenir un
+
+signal a haute fréquence (vérification visuelle) tel qu’il est montré a la Fig. B.
+Axe de suspension
+
+Pignon sur
+glissiére
+
+Fig. A Signa! 4 haute fréquence
+
+Ne pas toucher
+
+Fig. B Vue de dessous de I’unité transversale
+
+4. Mise au point de la trame
+
+1. Placer le disque d’essai sur la platine et fixer avec I‘ai-
+
+mant.
+*tomoeserage erm |e
+Tension........ 2ps fréquence
+Canal1l........ TJ402 (Plaquette a circuits im- au canal 1 :
+primés 01)
+Canal2........ C164 sur la plaquette da circuits
+imprimés 03. (broche 17 de 1C104)
+3. Mettre l‘appareil en marche et choisir le mode d’audition. Repére "N”
+4. Si le signal & haute fréquence et le repére “N’ sont au canal 2
+présents aucune mise au point n’est nécessaire, comme il Repére N"
+est montré é la Fig. A.
+Si le signal a haute fréquence et le repeére ‘’N” sont ab- Fig. A Signal haute fréquence et repére “N”’
+
+sents, passer a |’étape 5.
+5. Insérer l‘outil d’ajustement de la trame dans ‘orifice
+
+situé sur le cété gauche du corps du capteur optique, ; Plateau de lecture
+Capteur optique
+
+comme jl est montré a la Fig. B.
+
+6. Tourner l’outil d’ajustement de la trame vers la droite ou ——
+vers la gauche, jusqu’a ce que le repére “N”’ soit le plus |
+net possible et qu’un signal 4 haute fréquence maximal ao cision =
+
+\
+
+soit obtenu.
+
+Avant de la platine
+
+Insérer l’outil d’ajustement
+de la trame
+
+Fig. B Vue latérale gauche de |’unité transversale
+

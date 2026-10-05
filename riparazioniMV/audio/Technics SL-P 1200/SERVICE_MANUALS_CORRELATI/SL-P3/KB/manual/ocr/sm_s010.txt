@@ -1,0 +1,224 @@
+11. Auto pause play
+
+In this mode, the player is automatically
+switched to the pause mode at the end
+of each track during normal or program
+disc play.
+
+eSet the timer play/auto
+
+imer pi [off] auto pause
+pause/auto cue selector to me
+the auto pause position.
+
+eThe player is automatically switched to the pause mode at the
+end of each track. To continue disc play, press the play button.
+
+elf the selector is set to auto pause while a disc is
+being played, auto pause will be activated at the
+end of the next track.
+
+eTo cancel the auto pause play mode, set the timer
+play/auto pause/auto cue selector to the
+position.
+
+e@Return the selector to the position when the auto pause
+function is no longer needed.
+
+12. Program confirmation
+
+@ Press the recall button.
+
+Example: When the third, fifth, and first tracks
+have been programmed, by pressing
+this button, will cause each track and
+sequence number to be displayed, each
+time the recall button is pressed.
+
+To return to the beginning, press the button once
+again, at the end of the last suquence.
+
+@When the button is pressed, the programmed tracks are shown
+in order, on the display panel.
+
+3 -- |
+v
+
+5 -- ¢
+v
+
+! -- J
+
+13. Timer play
+
+1. Turn on the power switches of all components in the timer
+play chain.
+
+2. Set the amplifier input selector
+
+to the position for this player. eee ee
+Cor
+
+3. Insert a disc in the holder.
+
+4. Confirm the present time and set the audio timer’ to the
+desired start and stop times.
+
+5. Turn the audio timer on. The audio timer will now turn power
+off to all components in the timer play chain.
+
+6. The disc will now be played from track one at the preset time.
+The timer of the audio timer should be off at this time.
+
+H Connections
+
+Wail socket
+
+Audio timer
+(option)
+
+Amplifier
+
+(option) SL-P3
+
+Leave the timer play/auto pause/auto cue selector in the off
+position when the timer play function is not being used.
+
+@ The Output Level Memory Function
+
+This unit memorizes the last output level setting when the
+power is switched off. The circuit is powered by a fithium
+battery and should last about 8 years.
+
+To determine if battery replacement is necessary:
+
+1. Remove any disc from the disc holder.
+
+2. Switch the power ON and press the output level control
+button until the red indicator (Marked 10) illuminates.
+
+3. Switch the power OFF. ,
+
+4. Switch the power ON once more. If the red indicator is
+no longer ON, the battery must be replaced.
+
+MINSTALLATION
+
+@ This unit incorporates many sensitive optical
+components. To enjoy optimum performance
+at all times, avoid using this unit under the
+following conditions.
+
+ein a closed vehicle or other location where the temperature
+could exceed 100°F (40°C).
+
+For long periods of time in direct sunlight.
+
+eVery cold places. (below 40°F; 5°C)
+
+eVery humid focations.
+
+eNear a heat outlet or heating appliance.
+
+eDusty or smoky locations.
+
+eLocations prone to vibrations.
+
+eWhen placed on an unstable or uneven surface.
+eNear appliances generating strong magnetic fields.
+
+elmmediately above or below a radio, tuner, amplifier or
+television set.
+
+eWithin reach of children.
+
+@ Do not place near a tuner or television.
+This unit uses high frequency signals and can cause interference
+with radio and television reception. If this occurs, move this unit
+farther away from the radio or television or change from an
+interior to an exterior television antenna.
+
+@ CONCERNING COMPACT DISCS
+
+Handling precautions =e
+
+Only compact discs identified with this mark ist
+
+can be used with this player. ISG
+
+DIGITAL AUDIO
+
+Observe the following precautions to enjoy the same
+
+outstanding sonic performance from your Compact Discs
+for many years.
+
+Hold compact discs by the edges so the surface is not soiled
+with fingerprints.
+
+Be careful not to scratch the surface with fingernails or other
+sharp objects, particularly when inserting and removing discs
+from their cases.
+
+eDo not bend the disc.
+
+Do not use record cleaning sprays or static electricity preven-
+tion liquids.
+
+Do not wipe with benzene, thinner or any other solvent. {f the
+surface is soiled, wipe gently with a soft, damp (water only)
+cloth.
+
+eWhen wiping discs, always move the cloth directly outward
+from the center of the disc, not in a circular motion as with
+standard phonograph records.
+
+O (Yes)
+
+x (No)
+
+(In Compact Discs, a circular scratch along a line of pits is more
+likely to cause errors than a straight scratch across many lines
+of pits.)
+
+@ Do not block the ventilation openings.
+
+This unit is equipped with ventilation openings to prevent the
+internal temperature from rising too high. Therefore, do not
+operate it with a tablecloth or other covering placed over the top
+or with the unit placed on a bed, deep carpet or other soft
+surface. If proper ventilation is obstructed, the internal tempera-
+ture will rise and the laser diode protection circuit will be
+activated to shut off the player.
+
+@ In locations where ventilation is insufficient.
+
+@ In locations where the rear panel is less than
+10 cm away from the wall or back of an audio
+rack,
+
+@ Do not place heavy objects on top of this unit.
+
+lf the disc is brought from a cold environment into a warm room,
+dew may form on the disc. Wipe this off with a soft, dry cloth
+before using the disc.
+
+eDo not try to dry discs with a hair dryer.
+
+Do not write on the label side with a ball-point pen, hard pencil
+or other writing utensil.
+
+Storage precautions aaa
+
+©Be sure to store discs in their cases to protect them from dust,
+scratches and warping.
+Do not place or store discs in the following places:
+
+1) Locations exposed to direct sunlight.
+
+2) Locations with high humidity or a lot of dust.
+
+3) Locations directly exposed to a heat outlet or heating
+
+appliance.
+4) In the glove compartment or rear ledge of an automobile.

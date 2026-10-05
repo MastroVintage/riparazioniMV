@@ -1,0 +1,39 @@
+_ key ON
+
+Pin
+(A)(TR ON)
+
+(g) (ZERO)
+
+Cc) (MUT2)
+Pin
+(D)
+
+Pin
+(
+
+Pin
+(E)
+
+Pin
+(F)
+
+Pin
+(G)
+
+Pin
+(H)
+
+Pin
+(I) (TRACK) ieone About
+
+aie a +m PLAY operation
+
+ra)
+
+Auto focus
+
+Fig. 4-9, Operation timing with P.C.B. shifted from STOP to
+PLAY mode
+
+3S

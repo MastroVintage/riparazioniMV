@@ -1,0 +1,26 @@
+10. CHECKING PROCEDURE FOR THE WHOLE ELECTRICAL
+CIRCUIT (IN TROUBLESHOOTING)
+
+The FPC cord from the optical pick-up is too short to check the back of the main PCB with case,
+So use the servicing fixture (SZZP1070C) and (SZZP1071C) and follow the procedure shown below.
+This fixture is not a must in the electrical and mechanical adjustments.
+
+{1) Disconnect the FPC cord from CN101.
+
+(2) Attach a clip to the top end of the FPC cord. (This is for protecting the optical
+pick-up against the breakdown due to static electricity. The clip is not a must, however,
+when a destaticizing mat or the like is already in use in servicing. )
+
+(3) Remove the four main PCB fastening screws.
+
+(4) Shift the main PCB to the right side.
+
+(5) Attach the servicing fixture (SZZP1070C) as illustrated.
+
+(6) Connect the FPC cord from the optical pick-up to the connector of the fixture.
+(The other connectors are for the SL-P1200. Use care not to mistake any of these for
+the above connector.)
+
+(7) Connect further the junction FPC cord (SZZP1071C) to the output connector from the
+fixture, then connect the cord to CN101 on the main PCB.
+Each part on the back of the main PCB can easily be checked now.

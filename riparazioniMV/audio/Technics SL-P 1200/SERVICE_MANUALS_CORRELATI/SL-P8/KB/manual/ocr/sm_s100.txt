@@ -1,0 +1,24 @@
+e Testers and Jigs for Adjustments
+
+Testers
+
+) Two-channel oscilloscope (with trigger) of 30 MHz or over.
+) Low frequency oscillator,
+)
+)
+
+QN =
+
+Digital voltmeter.
+
+4) Distortion meter.
+
+Jigs
+
+1) Traverse unit base (SZZP1016F) 2) Servo gain adjuster (SZZ2P1017F)
+
+3) Short leads with clip (2 pcs.)
+
+4) Test disc 5) Ordinary disc
+Part No. SZZP1014F
+

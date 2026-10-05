@@ -1,0 +1,66 @@
+Ref. No. How to remove the loading base - - -
+8 Refer to the optical pickup handling
+Note: Lock the lock shaft at bottom of precautions (See page 8).
+
+the unit.
+¢Remove the 4 setscrews. 1. Pull out the 3 connectors (CN103, 401, 402).
+
+2. Remove the FPC cord (CN107).
+
+Mf
+
+IR
+| (CN103) Pull out
+(CN402)
+{|
+| (CN401)
+_ 79 |(CN107)
+5 << d
+5 ;
+/ vs [ ]
+
+eh cae: we Caution: Insert the short pin into the FPC
+aie met the colors, of 4 sprivigs ao _ cord in order to prevent breakdown
+erent. of laser diode. (See page 8)
+Ret. No- How to remove the optical pickup - - -
+Refer to the optical pickup handling
+recauti -
+Procedure ¢Remove in the numerical order shown. P ons (See page 8)
+
+Remove the 5 Remove the 3 setscrews @.
+screw. cy A
+
+a a
+
+©
+
+6rull out the optical
+pickup from the 2
+guide shafts.
+
+i : ae Ko Tr
+Unsolder the 2
+» Resistaneq- anit terminals.
+(Speed sensor) 3: @
+
+Remove the
+resistance unit.
+
+4 Remove the 2 setscrews @). (Bottom side)
+
+re How to remove the drive motor
+Procedure
+7-8-— 10
+
+*Remove in the numerical order shown.
+
+Remove the 5 Lift up the Remove the
+2 setscrews. drive motor. setscrew.
+
+Leaf switch (S101)
+
+Drive belt Release the 2
+
+Remove the claws in the
+drive beit. direction of the arrows.
+

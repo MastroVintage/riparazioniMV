@@ -1,0 +1,113 @@
+SL-P3 SL-P3 |
+
+e How to remove the headphone level contro! knob
+
+. Remove the cabinet and front panel.
+
+2. Remove the 2 headphone jack and headphone amplifier
+P.C.B. fitting setscrews. [Fig.6:@, O)
+
+3. Remove the setscrew [Fig. 6: @)] of the headphone
+amplifier P.C.B.
+
+4. Pull out the headphone level control knob in the direc-
+tion of the arrow as in Fig. 6.
+
+=
+
+m DISASSEMBLY INSTRUCTIONS
+
+Headphone level
+i control knob
+
+CAUTION:
+
+It is very dangerous to look at or touch the laser
+radiation. (Laser radiation is invisible.)
+
+With the unit turned “on”, laser radiation is emitted
+
+from the pickup lens. e How to remove the operation button
+1. Remove the cabinet and front panel.
+When doing the job, removing the cabinet and disc 2. Remove the reinforcement plate.
+clamper of this unit, be sure to turn the power 3. Remove the 4 setscrews [Fig. 7: @ ~ ® | of the 9)
+supply off. keyboard/display P.C.B., then the keyboard/display Headphone amp. P.C.B.
+P.C.B. can be removed. Fig. 6
+e How to remove the cabinet 4. Release the 15 claws of operation button case to remove Remove the knob
+1, Remove the 4 setscrews [Fig. 1: @ ~ O1 of the the operation button case from keyboard/display P.C.B. : “>
+cabinet 5. Remove the timer play/auto pause/auto cue selector
+. . . Timer play /auto
+2. Remove the cabinet in the direction of the arrow as in knob with a screwdriver. Remote control SN Pause/ auto cue
+Fig. 1. 6. Search button can be removed by releasing the claws (A) receiver go \| /selector knob
+in Fig. 8. . LB eyboard
+e How to remove the front panel 7, Play button ass’y can be removed by releasing the claw as Sul> display P.C.B.
+1. Remove the cabinet. in Fig. 8. 7 ';)
+2. Remove the front panel setscrew. [Fig. 2: @] Note: Remove the search button before removing the
+3. Open the lid of 4 connectors (CN401 ~ CN404) of main play button ass’y. ;
+P.C.B. (arrow © in Fig. 2) and then pull out the flat 8. One vton can be removed by releasing the claws
+cable. 9. Repeat button can be removed by removing memory
+4, Cut off the wire clampers and pull at the connectors button.
+(CN901 and CN902). [Fig. 3]. 10. Numeric button can be removed by releasing the claws) Operation @ Claws
+5. Slightly open the front panel on both sides. (arrow (A) . ® in Fig. 8. .
+in Fig. 2), then remove the front panel from the projec- Fig. 2 Fig. 7
+tion of chassis. e How to remove the remote control receiver
+
+6. Remove the front panel in the direction of the arrow ®,
+with care not to scratch the disc holder. [Fig. 2]
+
+Memory
+button
+
+1, Remove the cabinet and front panel.
+
+2. Remove the keyboard/display P.C.B.
+
+3. Pull out the connector (P305) of the remote control
+receiver. [Fig. 7]
+
+4. Release the 2 claws of the front panel, then the remote
+contro! receiver can be removed.
+
+Nemeric button
+
+® How to remove the disc illumination
+1. Remove the cabinet and front panel.
+2. Remove the 2 setscrews [Fig. 4 : @,@] of the rein-
+
+Repeat button
+
+Searchbutton
+forcement plate. Connector (CN901) woe
+pranes oo, , e Front panel fitting
+3. Remove the disc illumination in the direction of the - en ae .
+om Li * The disc illumination lead wire should come under the
+arrow as in Fig. 3. Y Cut off the clamper reinforcement plate. (See Fig. 9) Play button
+b Fig. 3 * The headphone amplifier P.C.B. lead wire should not
+e How to remove the battery touch the disc holder. (Bring it under the front panel.)
+1, Remove the cabinet. Reinforcement plate 1. Release the power switch rod from power switch. Case
+
+2. Release the 2 claws of the stoppers. [Fig. 5]
+
+; (Power switch should then be set at “off”.)
+3. Turn over the P.C.B. and unsolder the terminals of battery.
+
+2. Insert the chassis between front panel and keyboard/
+display P.C.B., then lift the front pane! top to fit the
+
+x front panel on chassis. [Fig.9-1] Take care not to .
+@ 3) damage the disc holder. Chassis
+3. Set the power switch rod.
+
+Fig. 8
+
+Lead wire {Headphone amp.)
+
+Stopper
+
+Stopper Fig. 4
+Fig. 5
+
+ar ; oo a oo ; Fig. 9-1
+NOTE: The precautions for front panel fitting are mentioned on the next page. Reinforcement plate Lead wire (Disc illumination)
+Fig. 9
+

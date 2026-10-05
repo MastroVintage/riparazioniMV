@@ -1,0 +1,149 @@
+@ HANDLING PRECAUTIONS FOR OPTICAL PICKUP
+
+The laser diode in the optical pickup may break down due to potential difference caused by static electricity of
+
+clothes or human body.
+
+So, be careful of electrostatic breakdown during repair of the optical pickup.
+
+© Handling of optical pickup
+
+1. Do not give excessive shock to the optical pickup
+because it is of extremely precise structure.
+
+2. To prevent the breakdown of the laser diode, an anti-
+static shorting pin is inserted into the flexible board.
+(FPC board)
+
+When removing or connecting the short pin, finish the
+job in as short time as possible.
+
+3. Take care not to apply excessive stress to the flexible
+board. (FPC board)
+
+4. Do not turn the variable resistor (laser power adjust-
+ment). It has already been adjusted.
+
+® Grounding for electrostatic breakdown prevention
+
+1. Human body grounding
+Use the anti-static wrist strap to relieve the static
+electricity from your body.
+2. Work table grounding
+Put a conductive material (sheet) or steel sheet on the
+area where the optical pickup is placed, and ground the
+sheet.
+Caution:
+The static electricity of your clothes will not be grounded
+through the wrist strap. So, take care not to let your
+clottes touch the optical pickup.
+
+Optical pickup
+
+Lens (Do not touch)
+
+FPC board
+(Handle it carefully)
+
+Variable resistor
+
+(Do not turn) Be sure to short this portion
+
+(Use the shorting pin or clip.)
+Clip Shorting pin
+
+peer ecens
+
+1MQ
+
+iron plate or some metals
+to conduct electricity.
+
+@ DISASSEMBLY INSTRUCTIONS
+
+CAUTION:
+
+e It is very dangerous to look at or touch laser radiation. (Laser radiation is invisible.)
+
+e With the unit turned “on”, laser radiation is emitted from the pickup lens.
+e When doing the job, removing the cabinet and disc clamper of this unit, be sure to turn the power supply off.
+
+Ref. No.
+1
+
+. Ref. No.
+How to remove the cabinet 4
+
+Procedure
+1
+
+Procedure
+
+® Remove the 4 screws. 19204
+
+Ref. No.
+2
+Procedure
+192
+
+Note: When doing the job, lock the
+
+lock shaft at bottom of the unit.
+(See page 4).
+
+Ref. No.
+
+How to remove the front panel 5
+
+How to remove the main P.C.B.
+
+1. Remove the 4 screws.
+
+2. Lift the P.C.B. to remove it from the
+chassis tabs.
+
+3. Remove in the direction of the arrow.
+
+How to remove the F.L
+
+1. Remove the screw @.
+2. Slightly pull the tabs outward (arrows @).
+3. Remove in the direction of the arrow ©.
+
+Procedure | 1. Unsolder the terminals of FL.
+1
+
+62%4%5] 2. Remove FL from the P.C.B.
+
+3. Release the claws of FL holder and
+remove it to remove the switches.
+
+Key switch
+
+r Ref. No.
+3
+
+How to remove the operation | Ref. No.
+button 6
+
+How to remove the disc clamper
+
+| Procedure
+19203
+
+1. Remove the screw and button
+holder.
+
+2. Release the 8 claws.
+
+Proce ¢ Remove the screw.
+1
+
+mie’
+Disc
+clam
+
+OO Bistnper
+
+oo |
+

@@ -1,0 +1,56 @@
+. Ajuste de ganancia de seguimiento
+
+. Poner el INTER. de corriente en ‘‘on” de plantilla y ej
+interruptor rotatorio de la plantilla en ‘’3"’.
+. Ajustar el oscilador de baja frecuencia a salida de 1.5kHz
+y 150 mVp-p. Y conectarlo a ENTRADA DE OSC. de
+perno de PRUEBA y TIERRA (GND) de fa plantilla.
+. Conectar osciloscopio de CH1 y CH2 a TP1 y TP2 de
+perno de PRUEBA de la plantilla. (TP3 esta puesto a
+TIERRA GND.)
+Puesta de osciloscopio:
+VOLTAJE. ... 100 mV (ambos canales) j
+Barrido —_ j
+Entrada .
+. Prender el interruptor de corriente. Cuando el plato giradiscos comienza a girar, una sefial de 1,5 kHz aparece en el
+osciloscopio. Entonces ajustar VR104 de manera que las amplitudes de forma de onda de ambos canales son iguales
+una a la otra.
+
+. Ajuste provisional de desviacion de seguimiento
+
+. Poner el INTER. de corriente en ‘‘on’’ y el interruptor rotatorio de plantilla en ‘'2’’, y desconectar la entrada del
+oscilador.
+
+. Cambiar el aparato a modalidad de EYECCION (eject).
+
+. Conectar un volt(metro variable a TJ103. en P.C.B. 03.
+
+. Prender el interruptor de corriente y ajustar VR106 de manera que el voltaje CC del volt/metro sea 0 + 3 mV.
+
+. Ajuste de equilibrio de seguimiento
+
+. Poner el INTER. de corriente en ‘’‘on” de plantilla y el
+interruptor rotatorio de plantilla en “2”.
+. Conectar el osciloscopio a TJ103 en P.C.B. 03 y luego
+colocar el disco.
+Puesta de osciloscopio:
+VOLTAJE. ... 200 mV
+BARRIDO.... 5ms
+
+. Prender el interruptor de corriente. Cuando el plato
+giradiscos comienza a girar y el servointerruptor de
+seguimiento de plantilla se. desconecta, la sefial TE (error
+de seguimiento). aparece en el osciloscopio.
+
+Entonces ajustar VR105 de manera que los valores de
+cresta maximos y minimos sean iguales uno al otro.
+
+. Ajuste de desviacion de seguimiento
+
+. Mantener el INTER. de corriente ‘’encendido” de piantilla y el interruptor rotatorio de plantilla en “2”.
+. Cambiar el aparato a modalidad de EYECCION (eject).
+. Conectar un voltimetro variable a TJ103. en P.C.B. 03.
+. Prender el interruptor de corriente y ajustar VR106 de manera que el voitaje CC de voltimetro sea0 + 3 mV.
+Nota: Después del ajuste antes mencionado, remover la plantilla de ajuste de ganancia y conectar el estado original
+de la unidad.
+

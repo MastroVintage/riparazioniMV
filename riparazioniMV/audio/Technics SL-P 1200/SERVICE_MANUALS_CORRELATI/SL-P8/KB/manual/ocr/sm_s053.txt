@@ -1,0 +1,74 @@
+1. Remote-control System
+
+In SL-P8, PLAY, STOP and other operations can be controlled
+by use of an infrared remote controller. However, remote
+control is not possible for power ON/OFF, disc tray OPEN/
+CLOSE, pitch ON/OFF, AUTO PAUSE and TIMER PLAY.
+
+The transmitter/receiver unit of this remote-control system
+
+is nearly the same as for SH-R800, and so is the receiver
+lamp of the receiver unit.
+
+1-1. Remote-control transmission and reception
+
+IC 611 IC 612
+
+MN1564PCL
+
+SNSO
+
+MN1421PCM
+Remote control data DO
+microcomputer
+
+C08
+
+Receiver
+from remote
+control
+
+Operation
+control
+
+cog
+EO Al, Bl
+
+SENSOR
+“ON”
+
+Key
+Matrix
+
+Fig. 1 Block diagram
+
+1-2. Remote-control transmitter/receiver
+
+The quartz oscillator generates 400 kHz frequency in xool,
+and performs AM demodulation of 36.7 kHz.
+
+Output signal is a serial signal shown below. With a button
+switch of the remote-control system continuously depressed,
+a serial signal is generated for 65.5 ms, followed by an
+interval of 39.3 ms, and again a serial signal is generated.
+
+Therefore, the indicator of remote control system blinks in
+the order of signal and interval.
+
+Custom cord Data cord Reversed castom cord Reversed data cord
+Head pulse (5 bit) (6 bit) (5 bit) (6 bit)
+—— ——— a »
+°
+
+ia “~ 7 ™~
+ot H oo |t 0000 l Oo 4 i Oo } I I |
+
+2.6ms
+
+3.5ms
+0.87ms
+65.5ms 39.3ms
+
+Fig. 2 Serial signal W@ SKIP
+
+-~1—

@@ -1,0 +1,282 @@
+| SL-P1_ SL-P1 | |
+
+Fl (Caran ----Not used, Shorted
+CANADA- - -Used
+
+-
+ee T
+
+s2
+VOLTAGE
+SELECTOR
+AC IN
+.
+
+32 | (Photo detector P.C.B.)
+
+@
+4
+:
+ef
+s
+8
+
+33 | (Actuator coil P.C.B.)
+
+AUTUATOR
+
+m@ PIN FUNCTION OF MN15844PCQ
+
+Name a
+Fo, | Senn | sion |
+Pa [ves]
+
+1/0
+
+ae Function
+Devision
+
+Ground
+
+33
+
+Turntable ON/OFF select.
+(ON at “L’’)
+
+Turntable stop command
+(stop at “L”)
+)
+
+MUTE
+
+raz_|sywcrec] 0
+
+n
+<
+2
+(?)
+aD
+m
+(?)
+
+iv] on |
+D o
+m {e)
+> 2
+A
+
+Turntable drive command 36
+
+(ON at “H”
+
+CLV servo selection command
+
+Tracking servo ON/OFF select
+
+cc
+
+~
+~
+oO
+
+uv
+e
+wo
+
+37
+38
+
+9G
+
+Tracking servo ON/OFF select
+
+KICKR Kick direction (Reverse) command
+
+-
+2)2)2)8/ 8/28] B
+
+wo
+
+a] 4 >
+
+x|| 2D
+
+dj] O
+
+r|| 2
+
+o
+
+uv
+
+13 KICKF Kick direction (Forward) command
+
+Not used
+
+Reset terminal
+(Micom is reset at ’’L’”’)
+
+n
+||
+2
+(o)
+
+Sub-code terminal
+
+TTSTOP
+
+Turntable stop command.
+
+et easton ese Uy
+
+Synchronizing signal extracted
+from disc
+
+Input for sub-code test from
+EFM demodulator.
+
+PO
+:
+effective with ‘‘H” pulse
+
+Traverse Forward command,
+effective with ‘H” pulse 62
+
+po)
+n
+4
+
+ive]
+
+-
+
+xz
+
+i?)
+
+xz
+
+53 CLOSS
+
+a
+(9)
+
+@|N
+~“ >
+wo a Q}n]o °
+
+D2
+
+9)
+
+N
+(7)
+
+=f =
+o;n
+~N
+ns =
+
+o/s
+ao 2D
+Z/o}6
+4 m
+r
+
+52
+53
+
+77)
+o
+4 n oO
+z & 16
+m [e) re)
+A
+
+REF
+
+=
+an
+oO
+oO
+
+N
+w
+
+2 20 STROBE
+
+3/8
+8
+
+P21 LDON
+
+REV
+
+Ny
+8
+nln
+N | w&
+
+VPP
+
+OSC1 | TTCK
+
+fe)
+2)
+QO
+N
+
+Name . 1/0
+
+| Muting relay ON/OFF | relay ON/OFF
+Synchro-recc control
+
+Disc holder open command
+Disc holder close command
+
+Power supply (—30V)
+
+Attenuation ON/OFF,
+effective at ‘‘H”’
+
+Effective with de-emphasis
+switch ON/OFF at ‘‘H”
+
+Pause indicator display
+(Light up at “H’’)
+
+Play indicator display
+(Light up at “H’’)
+
+Display data (Digit) and key
+matrix data output
+
+Display data (segment) output
+
+Clock (4.32 MHz) input
+
+<
+ie}
+is}
+
+3
+
+ui U0 uv
+wl] wo N
+NO]? 10 wo
+
+B
+=
+me]
+
+63
+Key scan input
+
+w
+LN)
+U0
+[eX]
+w
+
+Power Supply (+5V)
+

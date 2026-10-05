@@ -1,0 +1,91 @@
+B port input
+
+E port output
+
+Traverse D port output C port output
+
+microcomputer| Input terminal ic R af a 3 SENS A Traverse | SENS B_ Traverse Trapezoi ~~ ‘
+IN/OUT port from system | L F O37 og move distance move distance Motor full power /dal wave Ee
+microcomputer ON epg) ee sensor output sensor output control output control rotation control output
+(MN1564PCE) hore a a (Sosward) (cevares) output
+Set mode = - - ~ :
+e[elelale ® 8 ® ® ® ® i B
+BI3|B1I2/Br1;B10)D03;D02/D01;D00 Co5 C06 C08 Co9 EO3 E02 E01 £00
+
+s T 0 P 0 0 0 QO | O 0 1 | 1 1 0 0 Previous value hold
+
+FWD (outer)
+
+(Inner When A port input! when a port input COS or C06 is It changes syncronizing ‘ It changes synchronizing
+PLAY ; 0 0 0 1 1 1 0 1 jis 1101, is 1110, res a with “| [— of COS _ with [-of C06
+psEtpnery) ~ LI” pulse; ae 0 ieee tans a, 9 9
+’ ; >i] 14 « |
+toutex I When A port input, When A port input is 0 /7 Y i v x
+PLAY wen | 0 0 1 9 1 4 1 1 4 1100 is 1100 ‘ CG Forward 3 CG Reverse 3
+eriphe 17107 1 11 ; a
+sithiniiniiiie| L 1414 44 I~ 70ms | nw, FWD: \y , 7 REV
+' [a — -
+Low-speed , | | r
+0 1]44 2 1 0 1
+manta eran | PLAY—1 PLAY—1 PLAY—1 PLAY
+SF Same as 7 Same a = Same as 7 LAY—1
+search | Low-speed | | PLAY—2 ° | PLAY—2 | PLAY—2 a Same a 1 py ay_9
+0 1 0 Oo; 0 1 1 1
+
+COS is
+
+It changes synchronizi ith
+Low-speed FWD Oo] 1 0} 1 0}; 0; 1} 0 L| a | 1 14mg; LI 55ms 0 at Con renizing with 7] [—
+"s |
+{ kK 550ms | — =I = .
+
+Manual search
+high-speed FWD
+
+LY 1 1 0 ie \
+
+k— 16ms -+'| Forward
+
+i ee | Na,
+
+3
+
+Extra-high speed FWD 0
+
+kK smS ol
+
+PAUSE 1
+
+1 1 0 0 Previous value hold
+
+Low-speed
+
+; 1
+Manual REV ue
+
+search
+
+Low-speed
+REV (outer)
+aa
+
+It changes syncronizing with | [
+of CO6
+
+Low-speed REV 1
+
+9
+geoN
+C Reverse 3
+
+Ne,
+
+Manual search
+high-speed REV
+
+Extra-high speed REV
+
+Table 5-1 Operations of traverse microcomputer (MN1400PCA)
+according to system microcomputer commands
+
+— 58 — — 59 —

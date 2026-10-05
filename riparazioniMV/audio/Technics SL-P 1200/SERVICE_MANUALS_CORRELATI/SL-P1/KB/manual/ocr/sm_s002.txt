@@ -1,0 +1,229 @@
+Deutch .
+TECHNISCHE DATEN
+
+B Allgemeines
+
+Anderungen der technischen Daten vorbehalten,
+Die angegebenen Gewichts: und Abmessungsdaten sind ungefahre Werte.
+
+M@ Tonabnehmer
+
+” Stromversorgung:
+Strombedarf:
+
+: Ausgangsspannung:
+
+’ Ausgangsimpedanz:
+Lastimpedanz:
+AbmeBungen:
+(Bx TxH#H):
+
+Gewicht:
+
+@ Audio
+Kanalanzahl:
+Frequenzgang:
+Dynamlkbereich:
+Rauschabstand:
+Totalklirrverzerrung:
+Kanaltrennung:
+Gleichlaufschwan-
+kungen:
+
+@ Signalgroke
+Probefrequenz:
+
+Korrektionssystem:
+D-A Umwandlung:
+
+Francais
+
+CARACTERISTIQUES
+
+@ Généralités
+Alimentation:
+Consommation:
+Tension de sortie:
+Impédance de sortie:
+Impédance de charge:
+Dimensions:
+
+(L xP xH):
+
+Poids:
+
+@ Audio
+
+Nombre de canaux:
+
+Réponse en fréquence:
+
+Gamme dynamique:
+Rapport signal /bruit:
+
+Distorsion harmonique
+
+totale:
+Ecart des canaux:
+Scintillation et
+pleurage:
+
+~ 110-120/220-240 V, 50/60 Hz
+30 Watt
+
+2 Valt (bei O dB)
+
+3302
+
+mehr als 5kQ
+
+43 x 33,4 x 8,2. cm
+Wenn Disc-Haller offen ist 45,9 cm (T)
+5 kg
+
+2 (links und rechts, Stereo)
+
+4 — 20,000 Hz +05 dB
+
+mehr als 96 dB
+
+mehr als 96 dB
+
+Weniger als 0,003% (1 kHz, 0 dB)
+mehr als 90 dB
+
+unterhalb Messbark eit
+
+44,1 kHz
+Technics Super Decoding Aigorythm
+16-Bit linear
+
+110-120/220-240 V, 50/60 Hz
+30 watts
+
+2 volts (a 0 dB)
+
+3302
+
+plus de5kQ2
+
+43 x 33,4 x 8.2cm
+
+Lorsque le support du disque est ouvert
+43 x 45,9 x 8,2 cm.
+
+5 kg
+
+2 (droite et gauche stéréo)
+4 — 20,000 Hz + 0,5 dB
+plus de 96 dB
+
+plus de 96 dB
+
+moins que 0,003% (1 kHz, 0 dB)
+plus de 90 dB
+
+au-dessous de la limite mesurable
+
+@ Formation des signaux
+
+Fréquence de
+commutation:
+
+Systéme de correction:
+
+Conversion de numérique
+
+a analogique:
+
+44,1 kHz
+Systéme algorithmique de
+superdécodage Technics
+
+16 bits linéaires
+
+Typ:
+Lichtquelle:
+Wellenlange:
+
+@ Funktionen
+Eigenschaften:
+
+Anzeige:
+
+Disc-Einlegung:
+Bedienungselemente:
+
+m@ Lecteur de sisques
+
+Type:
+Source lumineuse:
+Longueur d’onde:
+
+@ Fonctions
+Caractéristiques:
+
+Affichage:
+
+Chargement du disque:
+
+Touches
+opérationnelles:
+
+Astigma 3-Bundel
+Halbleiterlaser
+800 nm
+
+Autom, Abspielen
+Spurbestimmungsabspiel
+
+Index bestimmungsabspiel
+Programmierbares Abspiel
+
+(15-Schritt Speicher) Vorwartssprung
+Ruckwéartssprung Vorwartssuche
+Rick wartssuche
+Wiederholungsabspiel
+
+Anzaht Spuren Totale Abspielzeit
+(Min., Sek.) Gespielt werdende Spur
+Indexnummer
+
+Motorangetriebener, horizontaier Typ
+
+Grundtasten: 7
+
+Programmtasten : 12
+Wiederholtaste : 1
+
+Les spécifications sont susceptibles d‘étre modifiées sans préavis.
+Le poids et les dimensions donnés sont approximatifs.
+
+Astigmatique a 3 faisceaux
+Laser a semi-conducteurs
+800 mm
+
+Audition automatique
+Accés aléatoire d'une piste
+Accés aléatoire d'un repére
+Audition programmable
+(Mémorisation de 15 pistes
+Saut vers l’avant
+
+Saut vers l‘arriére
+Recherche vers l’avant
+Recherche vers |‘arriére
+Audition répétée
+
+Nos des pistes
+
+Durée d’audition totale (min. ; sec.)
+Piste en train d‘étre jouée
+N° de repérage
+
+Type horizontal 4 commanie par moteur
+
+Touches de base: 7
+Touches de programmation: 12
+Touche de répétition : 1
+

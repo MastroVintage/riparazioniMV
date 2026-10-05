@@ -1,0 +1,71 @@
+ESPANOL
+
+@ MEDICIONES Y AJUSTE samme E sp af © | Ss
+
+1. Ajuste de ganancia de enfoque
+
+1. Conectar la plantilla de ajuste.de ganancia con conectar
+de cambio al aparato... = ;
+
+Rojo... 62.0, Puente conectar (+15V) junto a perno
+ee 13. de 1301. en P.C.B. 01.
+Azul... . ‘Puente conectar (—15V) junto a perno
+
+12 de [C301 en P.C.B. 01.
+
+‘Verde... . Chasis .
+
+Conector....... Saque el perno corto de CN103 en
+P.C.B. 03 y conecte el conectar de
+cambio a la plantiila y !uego conecte el
+conectar {5P) de! conectar de cambio
+a CN103.
+
+2. Ajustar el oscilador de baja frecuencia a frecuencia de
+750 Hz y voltaje de salida de 150 mVp-p, y conectario a
+ENTRADA DE OSC. (OSC IN) de perno de PRUEBA y
+TIERRA (GND) de la plantilla.
+
+3. Conectar CH1 y CH2 de osciloscopio a TP1 y TP2 de Ja plantilla (TP3 et TIERRA.)
+
+Puesta de osciloscopio: VOLTAJE...... 100 mV (ambos canales)
+BARRIDO...... 2 ms
+Entrada......... CA
+
+4. Poner le INTER. de corriente en ‘‘on’”’ (conectado) de plantilla y el interruptor rotatorio de plantilla en ‘1’’ y
+colocar el disco.
+
+5. Prender el interruptor de corriente. Cuando el plato giradiscos comienza a girar, una sefial de 750 Hz aparece en el
+osciloscopio, Luego adustar VR101 de manera que las formas de onda de ambos canales sean iguales una a otra.
+
+2. Ajuste de equilibrio de enfoque
+
+1. Poner el INTER. de corriente en “on” de plantiila y el interruptor rotatorio de plantilla en ‘’2’’ y desconectar la
+entrada del oscilador. ,
+
+2. Conecte TJ102 en P.C.B. 03 a tierra (GND) mediante cordén de prueba con presilla.
+
+3. Saque el conectar CN501 en P.C.B. 01.
+
+4. Conectar el osciloscopio a TJ101 en P.C.B. 03 y colocar el disco.
+
+Puesta de osciloscopio: VOLTAJE....... 500 mV
+BARRIDO...... 5 ms
+Entrada......... CA
+
+5. Prender el interruptor de corriente. Cuando el laser se ilumina, la forma de onda de forma-S aparece en el oscil-
+oscopio. Entonces ajustar VR102 de manera que los valores de cresta maximos y minimos sean iguales uno al otro.
+
+TP |
+
+Nota: La forma de onda de forma-S, antes mencionada, continuard por unos 2 minutos si perno 4 de CN412 as
+conectado a tierra mientras LD esta iluminado como paradas LD en 5 ~6 seg.
+6. Después del ajuste, cambie e! cordén de prueba con presilla y CN501 de nuevo como estaban antes.
+
+3. Ajuste de desviacion de enfoque
+
+1, Mantener el INTER’. de corriente en ‘‘on’” (encendido) de fog. y el interruptor rotatorio de plantilla en “’2”’.
+2. Cambiar el aparato a modalidad de EYECCION (eject).
+3. Conectar un voiltfmetro variable a TJ101 en P.C.B. 03.
+4. Prender el interruptor de corriente y ajustar VR103 de manera que el voltaje CC del voltimetro se 0 + 10 mV.
+

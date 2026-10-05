@@ -1,0 +1,26 @@
+11—3. Operation control circuit operation
+
+Key matrix circuit
+
+The configuration of key matrix is shown in Fig. 11-2. The
+key matrix includes 6 scan outputs (P12, P13 and P60 - P63)
+and 4 key inputs (P70 - P73).
+
+OPEN/SHUT is the microswitch in the loading mechanism that
+determines whether door is open or closed.
+
+All the others are the keys on the front panel. HI is a
+2-step key of forward (a) and reverse (@<@) of Search and
+it is ON when the key is depressed to high speed mode.
+
+* In high-speed mode of search (> Pb) , both FWD and HI are
+ON. in low-speed mode, only FWD is ON.
+
+Scan
+signal
+
+P70 P71 P72 P73
+
+Fig. 11-2 Key matrix
+
+—114-

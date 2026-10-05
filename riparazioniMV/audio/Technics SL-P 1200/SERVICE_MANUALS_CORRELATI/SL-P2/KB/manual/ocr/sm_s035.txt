@@ -1,0 +1,155 @@
+Cc MAI54WK
+
+m@ SCHEMATIC DIAGRAM
+
+Notes:
+1. DC voltage in SL-P2 service manual (Order No. DAD84100105C0O) was wrong. So, DC voltages in all circuits were re-checked
+beforehand.
+
+2. The circuit of this schematic diagram was changed to improve the performance. .
+
+3. The voltage value, and waveforms are the reference voltage of this: unit- measured by DC electronic voltmeter (high impedance) and
+oscilloscope on the basis of chassis.
+Accordingly, there may arise some error in the voltage values and waveforms depending upon the internal impedance of the tester or
+the measuring unit.
+* The parenthesized are the values of voltage generated during playing. Others are the voltage values in stop mode.
+
+4. Important safety notice:
+Components identified by AV mark have special characteristics important for safety.
+When replacing any of these components, use only manufacturer’s specified parts.
+
+: Positive voltage lines and negative voltage lines.
+
+e Remote control circuit ;
+1 2 3 4
+
+Chattering simul-
+
+depression inhibit
+
+Key input control circuit
+
+Timing generation circut
+
+| C2: 1OOP( USA and Canada)
+C2: 120P (Other Areas)
+
+t
+~
+
+~
+‘
+
+|
+
+| Cl: 470P (Other Areas) |
+!
+
+J
+
+06,7 .
+MAI54WA
+
+Q800 SIGNAL AMP
+fe -
+O55 2
++9 ; 0 o
+26 [eo SO
+37333 83 f
+Obl e= °6
+
+A AC 12O0V
+
+e@ Power supply and FL display circuit
+1 2 3 4
++For U.S.A and Canada
+
+circuit
+SRDPOOINOG
+Oo teat
+ATL SVDSIWB40 AN78MI5
+
+224 |
+
+Power suppl
+
+(60Hz)
+
+a |
+
+AC 110-1207
+220-240V,
+(50 or 6OHz)|
+
+proccccccr
+
+ci?
+
+35V1000 16V4700
+
+ASI 250V
+
+(POWER) T250mA ©
+oo 3
+O 5 SROPOOIXOS
+Q60I1~ 603
+2SD0637
++ =“
+if —+—
+D6II Q603 Q6o02 Q601
+SVDGL-SHY4 rds Oe Oy :
+“ee Co Gis oo
+d6I2 _
+Feeo1 SVDGL-9PG4 ne
+(— +8 rox. L
+may . ;
+— FL oo rt ee ee |
+Onao1 + SND 1 CTI a Bl
+—_—
+D — P32 es Ty H re |
+—Pp3i ae rt |
+eo OL cI a
+t
+R6O!
+en mn
+PAUSE |
+Tie (G1 Brera Reng]
+04 —pdaA (3) PLAY) R606
+[| o6i2 iso | ss) i 180 |
+—o9
+onaoz < oe Sy} + 111
+Te eT or
+— be
+—os |@-——___+ +11
+FC603 R604,
+10K ‘
+a bn Sa
+aoa) > (
+a iT? |e
+E CN403 4 — OF |
+es [Sx
+—ss 1
+—s3 ee ee
+se | Od a
+eer ||
+(—s5
+se [@E Clock frequency —.__
+—s3 adjustment ~
+— $2 po
+nas s 8 LS
+—2 |S
+— RT
+—+I15V 5
+8T60!
+F +18V 1@
+Remote i
+GNO |(2)
+oo sont { TPUT| OH fh : se
+scof || | to, rr PIN 2
+3% Ltithitiiin JOO |aja
+O42 KDI PS} | Ee Se) | [scan] EMPHA TRACK iwoex | Tr
+0633. pest LI
+
+0631~633
+SVDSLR-S4MW4
+

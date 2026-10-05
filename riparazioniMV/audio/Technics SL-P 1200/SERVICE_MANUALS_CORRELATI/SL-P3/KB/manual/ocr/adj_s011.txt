@@ -1,0 +1,167 @@
+Testers and jigs for adjustments
+° ee Eee
+
+1. Two-channel oscilloscope of 30 MHz or over. Cross-sectional view of feeler blade gauge (SZZP1020F)
+
+2. Ordinary disc and test disc (SZZP1014F)
+3. Hexagonal wrenches .(1.27mm and 2 mm)
+
+Top view of feeler blade gauge (SZZP1020F)
+
+Caution
+
+It is very dangerous to look at or touch the laser beam.
+(Laser radiation is invisible.)
+REST position gauge (SZZP1019F) With the unit turned ‘‘on”, laser radiation is emitted from the
+
+pick-up lens. Be careful during adjustments in particular.
+
+Grating adjustment too! (SZZP1018F)
+
+* Do not look into the lens when power is applied to the unit, since there is laser radiation
+
+Adjustment Procedure (H.H.S./D.H.W./etc., regulation).
+* These steps must be followed in order.
+
+1. Rest position adjustment
+
+1. Assure that leaf switches S101 (Rest detection) and
+$102 (End detection) have not been mashed during
+reassembly and therefore set to ‘‘ON”.
+
+If they are, carefully separate the contacts about 2 mm.
+
+2. Apply power to the unit. This will cause the traverse
+motor to wind the optical pick-up to the REST position.
+
+3. Turn the power switch ‘‘OFF”’.
+
+4. Place the REST position gauge on the turntable.
+
+5. Assure that the lens is concentric within the hole of the
+
+REST position gauge as shown in Fig. B.
+
+Lock screw
+
+Optical pick-up is too close to the
+
+turntable. (Fig. B)
+
+To adjust:
+
+1. Loosen the lock screw and turn
+the REST switch adjustor clock- Focus lens
+wise.
+
+2. Note that if the Rest detection
+switch ($101) is too much REST position
+toward $102, then the pick-up gauge
+will Rest too far away from the Fig.B “NG” (too close)
+turntable at Rest position. If so, apply power and repeat step 1 above until
+
+Rest detection is detected when the lens is connectric with the hole of the REST
+
+position gauge.
+
+Fig. A
+
+No adjustment required (Fig. C)
+
+Optical pick-up is too far from the
+
+turntable. (Fig. D)
+
+To adjust:
+
+Loosen the lock screw and turn
+
+the Rest switch adjustor counter- REST position =
+gauge REST position
+
+clockwise. : “cue gauge
+Fig. Cc OK Fig. D “NG” (too far)
+
+6. To verify correct adjustment, place the disc on the turntable and apply power to the unit. This will auto cycle the
+optical pick-up. Re-check alignment with the REST position gauge as shown in Fig. C.
+
+Focus lens Focus lens
+
+2. Turntable height adjustment
+
+Note: Necessary after Direct Drive spindle motor is
+replaced or RF signal is not obtained.
+
+1. Disable focus search by pull out the shorting pins of
+CN103 on 03 P.C.B.
+
+2. Insert the thin end of Feeler blade gauge between the
+turntable and the shaft bearing.
+
+3. Slide the Feeler blade gauge toward the thick end
+and mark the gauge with a pencil, where it and the
+turntable touch and until the blade can not be fed
+anymore than remove the gauge.
+
+4. Connect the oscilloscope to TJ402 pin 01 (Main)
+P.C.B.
+
+5. Place a disc on the turntable and clamp it with the
+magnet.
+
+6. Apply power to the unit.
+
+7. Press eject ‘out’ and eject “IN”.
+
+8. Confirm if RF signal is present. !f not, proceed to the
+next step.
+
+9. To confirm:
+
+Gently tap the disc at point ‘A’. If RF signal appears,
+the turntable is too low. If RF signal does not appear,
+tap the disc at point ‘’B”’.
+
+RF signal should appear indicating that the turntable
+is too high.
+
+10. To adjust:
+
+(1) Insert the Feeler blade gauge between the turntable
+and the shaft bearing to the previously marked point.
+
+(2) Loosen the hexagonal screw of turntable set screw.
+(Use a hexagonal wrench 1.27 mm)
+
+(3) If the turntable is too low, slide the Feeler blade gauge
+about 4 mm (5/32’’) towards the thick end and remove
+felier blade gauge.
+
+Reapply power and check for RF signal.
+(This is a ‘‘trial and error’’ adjustment, several attempts
+may be required to obtain RF signal).
+
+(4) If the turntable is too high, insert the Feeler blade
+gauge and move about 4 mm (5/32’’) towards the thin
+end, using the same method as in step 3.
+
+(5) Reconnect shorting pins to enable focus search.
+
+— 22 —
+
+Turntable
+Optical pick-up
+
+Disc
+
+Top view of disc set up
+Hexagonal screw Turntable
+
+——— Insert the feeler
+blade gauge
+
+Shaft bearing
+
+CLidlleLili Lidia Lecieid
+Front view of traverse unit
+

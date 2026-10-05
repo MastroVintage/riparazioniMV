@@ -1,0 +1,36 @@
+Drop-out detection circuit
+
+Q901 - Q904 and IC901 perform RF amplification and level
+detection.
+
+IC901 applies RF signal to pin (2) (plus input), and the
+signal (RF level converted to DC) to pin (3) (minus input)
+for the purpose of comparison. It is illustrated in Fig. 8-2.
+
+The drop-out is generated when the input voltage is in the
+relation of (-) > (4).
+
+Drop-out
+kK—_——>
+1¢901
+—®@
+1€901
+—O®O
+
+Ic 901 f
+—@
+Fig. 8-2 Drop-out detection
+
+Ic902 (74LS123) is one-shot multi where the width of drop-
+out is decided. The time constant of IC902 (A) is 14 us
+- 20 us (adjusted by VR901).
+
+RF Signal
+input
+
+Drop-out
+detection signal output
+
+Fig. 8-3Drop-out detection circuit
+
+= B5-—

@@ -1,0 +1,31 @@
+8. Offset adjustment in drop-out
+
+1) Connect the oscilloscope to the points mentioned below.
+
+CH1 .......05. TP1 (03 P.C.B.)
+CH2 .......... TP2 (03 P.C.B.)
+EXT .........-. 0305 collector on 01 (A) P.C.B.
+
+VOLT ........ 0.5V (both channel)
+SWEEP ....... 0.5 ms
+
+Input ........ AC
+
+Trigger ....... EXT. NORM
+
+2) Play the band 13 (0.5 mm black spot) of the test disc.
+
+3) Watching the waveform of CH1 of the oscilloscope, adjust VR107 so that the waveform ampli-
+tude near the trigger point is minimized.
+If not minimized, adjust so that the waveform top and bottom are nearly symmetrical.
+
+4) Watching the waveform of CH2 of the oscilloscope, adjust VR106 so that the waveform ampli-
+tude near the trigger point is minimized. If not minimized adjust so that the waveform top and
+bottom are nearly symmetrical.
+
+TP1 Minimized amplitude by VR107
+03 P.C.B.
+TP2 Minimized amplitude by VR 106
+EXT _J
+
+—~10—

@@ -1,0 +1,38 @@
+C503
+
+Spindle
+motor drive
+
+Te
+Parone
+
+motor
+
+Hall
+element
+
+_
+4 12
+13 tt 10, -}
+02 >° >< E
+13
+
+L 1€303 I 1C303
+
+PLL Circuit
+
+L301
+It
+
+PLL adj
+
+vco
+
+NWW
+
+0.12y1s(8.64MHz)
+4Vp-p
+
+; tid Rm 2 MaaeZens ra
+
+one!

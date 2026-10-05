@@ -1,0 +1,59 @@
+5. ELECTRICAL ADJUSTMENT PROCEDURE
+
+A. Best Eye (PD Balance) Adjustment
+
+(1) Connect CH-1 of the oscilloscope to the RF test
+point (TJ301) and the grounding test Point (TJ302 )
+on the main PCB as shown in illustration.
+
+Volt : 500 mv
+Oscilloscope setting ~--; Sweep : 0.5 psec RF test
+Input : AC / point
+(2) Turn on the power supply switch of the player. TI301/. RF test
+(3) Place the test disc (SZZP1014F) or (SZZP1054C) in CN102 ETE“ eno)
+to the disc holder by open/close key. CN301~37 TJ302, 7
+(4) The player to the play mode. “TC-a01
+(5) Play of the test disc. (BS 0.5mm)
+SZZP1014F (Old) ----- Track 13 3 ie)
+(New) -~--- Track 8 ~ ~
+
+SZZP10S4C -~----~---~--- Track 11
+(6) Adjust VR101 so that the eye pattern of RF signal is
+stretched most as shown in illustration.
+
+Main PCB
+
+(Most stretched
+{ eye pattern)
+
+OK
+
+Best eye
+
+(7) Turn off the power supply switch of the player.
+
+B. Focus Gain Adjustment
+
+{1) Connect the servo gain adjuster (SZZP1017F) with conversion connector (SZZP1032F) to the player as
+shown in illustration.
+
+Red lead wire ----- @ Jumper [12v]beside the Q11 terminals on the main PCB.
+Connecting points |Blue lead wire-----B) Jumper E12V]beside the 1C402 terminal on the main PCB.
+Green read wire --- Chasis
+Connector -------- Remove the short-circuiting pin of CN102 on the Main PCB and connect
+the conversion connector (SZZP1032F). Connect the conversion connect-
+or side (5 pins) to CN102.
+
+Short circuiting connector
+[ Ge) vaio (SZZP1032F )
+
+To power
+
+Supply CN102 CN301
+
+1C401
+MN15261PDF
+
+@ Main PCB -@
+
+Main PCB

@@ -1,0 +1,236 @@
+English
+
+Specifications
+
+@ General
+Power supply:
+
+Power consumption:
+Output voltage:
+Output Impedance:
+Load impedacne:
+Dimensions
+(WxDxH):
+
+Weight:
+@ Audio
+
+No. of channels:
+Frequency response:
+Dynamic range:
+
+S/N ratio:
+
+Total harm. distortion:
+Channel separation:
+Wow and fiutter:
+
+@ Signal Format
+Sampling frequency:
+Correction system:
+D-A conversion:
+
+@ Pickup
+
+Type:
+Light source:
+Wavelength:
+
+Specifications are subject to change without notice for further improvement.
+Weight and dimensions shown are approximate.
+
+For U.S.A. and Canada:
+120V, AC 60Hz
+
+For others: ~110~120V/
+220~240V, 50/60 Hz
+
+30 watts
+
+2 volts (at O dB)
+
+3300
+
+more than 5 kQ
+
+43x33.4x8.2 cm
+(161516 X 13%2" x 372")
+
+When disc holder is opened )
+45.9cm (18%6") (D)
+
+5.1 kg (11.2 Ibs)
+
+2(left and right stereo)
+4-20,000 Hz+0.5 dB
+
+more than 96 dB
+
+more than 96b dB
+
+less than 0.003% (1 kHz. 0 dB)
+more than 90 dB
+
+below measurable limit
+
+44.1 kHz
+Technics Super Decoding Algorithm
+16-bit linear
+
+Astigma 3-beam
+Semiconductor laser
+800 nm
+
+@ Functions (Features)
+
+Search modes:
+
+Features:
+
+Deutch
+
+TECHNISCHE DATEN
+
+M@ Allgemeines
+Stromversorgung:
+Strombedarf:
+Ausgangsspannung:
+
+Ausgangsimpedanz:
+
+Lastimpedanz:
+
+Abmessungen:
+(BXTXH)
+
+Gewicht:
+
+Manual search,
+Track skip,
+Music scan
+Track program
+
+Auto play,
+
+Track random access,
+
+Index random access,
+Programmable play,
+
+(15 track memory),
+
+Forward skip,
+
+Reverse skip,
+
+Forward search (track and index),
+Reverse search (track and index),
+Repeat play,
+
+A-B repeat play,
+
+Music scan
+
+Display:
+
+Operation buttons:
+
+Disc loading:
+
+Headphone output level:
+
+(Digital display),
+
+No. of tracks,
+
+Total piaying time (min., sec.},
+Track being played,
+Elapsed playing time,
+Remaining time,
+Index no.,
+
+(Segment display),
+No. of tracks,
+
+Track being played,
+Programmed tracks
+
+Basic buttons—7
+
+Program buttons—12
+
+Music scan button—1
+
+Repeat button—1
+
+A-B repeat button—1
+
+Main time button— 1
+Motor-driven horizontal type
+Max. 80 mV (adjustable), 320
+
+| Infrared Remote Control Unit:
+
+_
+
+Remote control
+functions:
+
+Dimensions
+(WXHXD):
+Batteries:
+
+Basic buttons—6
+Program buttons— 12
+Music scan button—1
+Repeat button—1
+A-B repeat button—1
+Recall button—1
+
+5.6X13.5x1.5¢cm
+UM-4 ‘‘AAA" batteries or IEC RO3 or
+equivalent (1.5 Vx2)
+
+Anderungen der technischen Daten vorbehalten.
+
+Die angegebenen Gewichts- und Abmessungsdaten sind ungefahre Werte.
+
+~110-—120/220-—240 V, 50/60 Hz
+30 Watt
+
+2 Volt (bei 0 dB)
+
+3300
+
+mehr als 5 kQ
+
+43x33,4x8,2cm
+
+Wenn Disc-Halter offen ist
+45,9cm (T)
+
+5,1kq
+
+@ Audio
+Kanalanzahl:
+Frequenzgang:
+Dynamikbereich:
+Rauschabstand:
+Totaiklirrverzerrung:
+Kanaltrennung:
+Gleichlaufschwan-
+kungen:
+
+2 (links und rechts, Stereo}
+
+4-20 000 Hz+0,5 dB
+
+mehr als 96 dB
+
+mehr als 96 dB
+
+weniger als 0,003% (1 kHz, 0 dB)
+mehr als 90 dB
+
+unterhalb Messbarkeit
+

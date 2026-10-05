@@ -1,0 +1,50 @@
+SL-P1
+
+1m BLOCK DIAGRAM
+
+Tracking i Actuator
+amplifier drive
+
+TRVE
+
+Operation
+control
+
+play RF
+
+Phto
+detector
+es |
+
+Laser power contro!
+
+1C403
+
+CLV Servo
+
+opccc ~de---
+
+VR102
+Hall
+
+element
+
+-5V
+|
+
+LT ic303. «= 1c303
+
+Focus balance
+‘adj. ;
+
+VRIO3
+Focus
+
+‘off set adj.
+VR 101 136ys
+-5V Focus gain Actuator (7.35 kHz)
+adg. FEO
+5V 1C 105
+FE @
+
+VR 106 Focus error

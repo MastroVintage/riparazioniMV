@@ -1,0 +1,76 @@
+The loading motor circuit is the same as that of
+SL-P7. REST, END, CLOSE 2, CLOSE 1, and OPEN sensor
+switches are located in the loading mechanism, but in
+SL-P7, they are built into the key matrix circuit.
+
+In SL-P8, sensor detection signal is directly put into
+operation controller. The operation is the same as
+
+in SL-P7.
+
+RAM circuit
+
+RAM is provided for TOC memory up to 99 tunes and for
+random access of 32 sets. SL-P8 displays only up to
+
+20 tunes, and gives "over" display " " for more than
+that, but it is capable of TOC memory of track No.,
+minutes and seconds up to 99 tunes.
+
+Also, random access up to 32 sets is possible by use
+
+of numeric key, memory key, index key, and time key,
+with the assignment of start and stop time of a certain
+tune being 1 set.
+
+Data transfer of operation controller from EFM demodulation
+
+Data transfer from EFM demodulator (MN6614) to opera-
+tion controller (MN1564PCL) are control Q data demodu-
+lated from EFM data.
+
+The control Q data (96 pcs) are put into operation
+controller 12 times by 8 pcs each (8 x 12 = 96 + 1
+block) according to the timing of CLDCK and BLKCK.
+This is repeated to put control Q data signal into
+operation controller.
+
+13.3ms ——4
+BLKCK a Oe
+
+| 1. —
+: 2» Jue
+
+sus o  SEXDOOQOOE | _ Seeex
+
+Fig. 10 Data transfer timing from MN6614 to MN1564PCL
+
+CLOCK:
+
+Control Q data transferred from MN6614 are stored in
+
+the memory Of operation controller. The stored data
+
+are taken out of the memory as needed as put out from
+each output terminal.
+
+Use of Q channel
+
+Details of tunes recorded on the lead-in track, program
+track and lead-out track of disc are recorded and used
+
+for display and control.
+Total lapse of time
+(Min, Sec, Frame)
+
+Lead-in track
+
+Music Point Lapse of tune time
+(Tune No.) (Min, Sec, Frame) Zero
+
+Program track and lead-out track
+
+Control A .
+emphasis ocr index of music Lapse of tunetime | Zero | Total lapse of time
+YES/NO . °.
+

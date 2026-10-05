@@ -1,0 +1,27 @@
+joL-Fs |
+
+m DESCRIPTION OF EACH TERMINALS
+
+es
+Se ee
+cr | owwsuiens
+Few | nto ture nui dom |
+Foren | teas mao on carmond nat
+
+Microcomputer (MN1544PCH) P port
+(keyboard and disc holder position
+detection signal)
+
+Microcomputer (MN1544PCH) P port
+(Loading motor close command
+signal)
+
+Microcomputer (MN1544PCH) P port
+(Loading motor open command
+
+Pre rein aera
+TY
+
+Turntable on signal
+(Spindle motor rotation)
+

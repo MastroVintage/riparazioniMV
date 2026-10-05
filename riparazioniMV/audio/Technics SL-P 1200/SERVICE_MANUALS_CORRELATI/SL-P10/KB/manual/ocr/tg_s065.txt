@@ -1,0 +1,47 @@
+Q601 - 604 set up LPF, which changes the output difference of
+PC into DC to control pin (1) (FC inpnut) of VCD. LPF has 2
+types of time constant which are selected by use of anaiog
+switch IC602 so that quick response is obtained for PLL in
+search mode and stable response in play mode.
+
+G0i2
+reo ~=onsio. R61 C607
+2.7K 8.2K I
+From PC
+PLL
+Lock range_! To VCO
+detection
+MUTE
+
+0.022
++
+
+(TOC & search) (PLAY)
+Fig. 7-8 LPF circuit
+° MUTE
+
+The muting signal is identical with the audio muting signal
+at "H" delivered from system microcomputer.
+
+PLL lock range detection
+
+Output level is "H" in search mode when PLL is outside the
+lock range. It is "L" in lock mode.
+
+PLL lock range detection circuit
+
+The PLL lock range detection circuit is shown in Fig. 7-10.
+
+Ic608 (TC810) is a comparator which controls the input voltace
+
+of vco. Voltage drop
+
+COO QO ©©
+
+k i. pene for
+TP605 optimum value
+
+PLL search mode
+
+Fig. 7-9 PLL search
+—~74—

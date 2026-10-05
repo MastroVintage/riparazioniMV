@@ -1,0 +1,140 @@
+@ SCHEMATIC DIAGRAM (B) (Display, keyboard and Headphones circuit)
+
+1
+
+2 3 4 5
+
+h 106 96 8G 76 6G 5G 4G 36 26
+7 wyp-t-4--1-4,--1---, i t. 7
+cater <1 ey <1] Reet + SRDPOO8NO8 SRDPOO8NO4(b)
+| Si 20 PHONES
+secualinananiionant a PHONES LEVEL
+104 Tip vee0)
+' 1OOK(A) cneet
+! om VRO L b-
+ao aaa “2H H.GND |
+H
+{ VROR }
+J PHONES
+OF ACSY | me Onn SE vRILO-|
+Lt acay yf CNZ!0 AGH H.GND 2+— CN2I3
+A} VRI Ro}
+@H HPL >
+(®t H.GND 3}
+t 1
+ CNEB2 cas3 -cses HPR Y-
+TooovLo.; [0.0047
+SRDPOO8NO4 (a)
+04 ( ) D655 2
+LN28RCPP Se
+FZ
+—-O
+Lo ee
+re
+|
+R669 — © cn207
+100K x8 —
+D661 —
+SVDPR5553KF —
+CN605
+as C4 -15v +)
+----- (2)! GND }—
+(3-4 FI5V
+(4)! DECHO }—
+(5)-4D.DATA 0 }—
+(6h D.DATA | }—
+(7}4{ D. DATA 2)}— { CN209
+5us(200kHz) ox (8) D. DATA 3 —
+ts @& (94D. CLOCK }—
+0 (JO4D. SEND }—
+a ee (4 BEEP A )}—
+™ Qi BEEP K }—})
+5
+. DSRIRIEAS s 2 E0O
+EO!
+1C651 ; A bo2 oe
+MN1I430PCG £03 yf CN208
+; ‘ Y BIZ
+» Bi2 J
+6 | Ic Bil -
+L . BIO
+! : a 15 ©, oO, a Ai3) 02]
+ae Au bree
+‘ AIO }-
+: y) . ; 0 GND }—
+/ f y | ~
+FL drive cneosteor PLAY SWy—)
+s Cel
+: 320 On non ~ TIMER PLAY=~off——AUTO PAUSE
+R663 62! ia! (a Sepp 0654 PLAY pot ctte tenn n 4
+odo WN (4) —
+jbrosms meen on or WTS 5653 | PAUSE /STOP 0651,652 | '
+bo ia! i .
+| | , O-— On cam LN28RCPPi-J-J-}-----|-5 , SNCOUL,
+“15 R665 1.5K I> UI Ni 0652 | REPEAT : A. PAUSE }—
+Ln 1 12 Dé6s3 ° = 102
+06ms R666 1.5K Lal LAI D651 | MUSIC SCAN LN48YCP 7 —i{@iH D. GND CN206
+GC; Ovens) ; 4Q4 T Play }
+cCN604 D654 i)
+LN38GCPP
+Note: etc.) used for the measurement and the
+1. The voltage value and waveform are the measuring unit.
+
+standards of this unit measured by DC
+electronic voltmeter (high impedance) and
+oscilloscope. Accordingly, some errors may
+be included in the voltage value and wave-
+from depending upon the internal imped-
+ance of DC electronic voltmter (tester,
+
+4.
+
+disc in the disc holder.
+
+technology.
+——: +B Voltage line.
+
+The waveform is that obtained without
+
+This schematic diagram may be modified
+at any time with the development of new
+
+@ SCHEMATIC
+1
+
+Cc Note:
+
+1. The volta
+of this ur
+(high imy
+some errc
+and wavei
+
+m@ SCHEMATIC
+1
+
+ans
+{Ac on Bl
+
+|— 6ND eH
+D4 | maceavr 3y-—!
+HOT) ay -O-
+1
+| we BY @-
+[mt rv et
+S CN5O!
+
+B L
+Cc Note:
+
+1. The voltag
+
+of this un
+
+(high imp
+
+some error
+
+and wavefc
+
+ance of Di

@@ -1,0 +1,62 @@
+|SL-PS |
+
+m CONTENTS
+
+Page . Page
+SAFETY PRECAUTION... .......-..2. 0000 e eee 2 EXPLODED VIEWS .... 20... . pee ce eee 23 ~ 26
+LOCATION OF CONTROLS. ............2 00006 3~7 REPLACEMENT PARTS LIST (Cabinet and Chassis Parts). . 26, 27
+PLAYING A DISC... 0. eee 8~11 PRINTED CIRCUIT BOARD AND WIRING CONNECTION
+HANDLING COMPACT DISCS... ........ 2.0002 200. 11 DIAGRAM. . 0... ee eee ee 27 ~ 29
+DISASSEMBLY INSTRUCTIONS .............-- 12~ 17 PRINTED CIRCUIT BOARDS ............2...., 30 ~ 37
+HOW TO REPLACE CHIPS... 1... ee ee eee 18 TERMINAL DESCRIPTION OF MICRO COMPUTER. . . .38 ~ 40
+HOW TO REPLACE IC's... 1. ee ee ee 18 HOW TO CHECK P.C.B.. 2 2. te 40 ~ 42
+RESISTOR AND CAPACITORS..........-.-004. 19, 20 SCHEMATIC DIAGRAM .... 0... 0... .2 02 ee eee 43 ~ 50
+REPLACEMENT PARTS LIST (Electric Parts)... 1.1... 205 21 BLOCK DIAGRAM. .. 2.6.0... ee ee ee 51 ~ 53
+PACKING ©... . ee eee ne 54
+
+M@ SAFETY PRECAUTION
+
+ORWN=
+
+. Before servicing, unplug the power cord to prevent an electric shock.
+
+. When replacing parts, use only manufacturer's recommended components for safety.
+
+. Check the condition of the power cord. Replace if wear or damage is evident.
+
+. After servicing, be sure to restore the lead dress, insulation barriers, insulation papers, shields, etc.
+
+. Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+
+prevent the customer from being exposed to a shock hazard.
+
+INSULATION RESISTANCE TEST
+
+1.
+2,
+3.
+
+Unplug the power cord and short the two prongs of the plug with a jumper wire.
+
+Turn on the power switch.
+
+Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+screwheads antenna, control shafts, handle brackets, etc. Equipment with antenna terminals should read between 3MQ
+and 5.2MQ to all exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+all exposed parts. (Fig. B)
+
+Note: Some exposed parts may be isolated from the chassis by design. These will read infinity.
+
+Antenna
+terminal
+
+Exposed Exposed
+metal metal
+part part
+Ohmmeter Ohmmeter
+(Fig. A) (Fig. B)
+Resistance = 3MQ2—5.2MQ Resistance = Approx oo
+
+4. lf the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+
+repaired and rechecked before it is returned to the customer.

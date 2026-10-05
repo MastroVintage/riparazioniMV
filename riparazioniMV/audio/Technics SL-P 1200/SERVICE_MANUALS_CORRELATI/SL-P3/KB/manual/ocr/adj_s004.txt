@@ -1,0 +1,128 @@
+mw MESSUNGEN UND JUSTIERUNGEN See De utSCh eee
+
+DEUTSCH
+
+1. Justierung der Fokus-Verstarkung
+
+1. Die Verstarkungs-Justiervorrichtung mit Umschaltanschlu& an
+das Gerat anschlieRen.
+
+Rot............., Kurzschlu&briicke (+15V) neben Stift
+13 von 10301 auf der 01-Platine.
+Blau... ... 2.000, Kurzschiu&briicke (—15V) neben Stift
+12 von 1C301 auf. der 01-Platine.
+Grin... ee. ee, Chassis :
+Steckverbindung.... Den kurzen Stift von CN103 auf der
+
+03-Platine herausziehen und den
+Umschaltanschlu8 am die Justiervor-
+richtung anschlie&en; dann den
+Anschiu& (5P) vom Umschaltanschiu&
+an CN103 anschlieRen.
+
+2. Den Niederfrequenz-Oszillator auf eine Frequenz von 750Hz
+und 150 mVss Ausgangsspannung einstellen und TEST pin
+OSC IN und GND der Justiereinheit anschlieBen.
+
+3. Kanal 1 und Kanal 2 des Oszilloskops an TP1 und TP2 der
+Justiereinheit anschlieBen. (TP3 ist Masse.}
+
+Einstellungen am Oszilloskop:
+VOLT.......... 100 mV (beide Kanale), SWEEP ........ 2ms, Input........ AC (Wechselspannung)
+
+4. Den Netzschalter der Justiereinheit einschalten und den Drehschalter der Justiereinheit auf ‘‘1’’ stellen; danach eine
+Platte auflegen.
+
+5. Den Netzschaiter einschalten. Wenn der Plattenteller sich zu drehen beginnt, erscheint 750Hz-Signal auf dem Oszil-
+loskop. Dann VR101 so einstellen, da die Wellenform beider Kandle gleich ist.
+
+2. Justierung der Fokus-Balance
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘‘2’’ eistellen; danach den Eingangs-
+anschlu& vom Oszillator trennen.
+2. TJ102 auf der 03-Platine mit einem Klemmenkabel an Masse anschlieRen.
+3. Anschlu& CN501 auf der 01-Platine herausziehen.
+4. Oszilloskop an TP1 auf 03-Platine anschlieBen und Platte auflegen.
+Anmerkung: TP1 befindet sich zwischen VR102 und VR103.
+Einstellungen am Oszilloskop:
+VOLT....... ...200mV, SWEEP......... 5 ms, Input. ......... Wechselspannung
+5. Den Netzschaiter einschalten. Wenn der Laser aufleuchtet, erscheint eine S-formige Wellenform auf dem Oszilloskop.
+VR102 dann so einstellen, da& die untere und obere Spitze der Wellenform gleich sind.
+
+TP 1
+
+Anmerkung: Die oben erwahnte S-férmige Wellenform dauert ca. 2 Minuten lang an, wenn Stift 4 von CN412 an
+Masse angeschiossen wird, wahrend LD leuchtet, da die LD nach 5 ~6 Sekunden stoppt.
+6. Nach erfolgter Justierung ist das Klemmenkabel und CN501 wieder in den urspriinglichen Zustand zu versetzen.
+
+3. Justierung der Fokus-Abweichung ;
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘’2’ stellen.
+
+2. Das Gerat auf Auswurf (Eject) schalten.
+
+3. Ein veranderliches Voltmeter an TJ101 auf der 03-Platine anschlieRen.
+
+4. Den Netzschalter einschalten und VR103 so einstellen, da die Gleichspannung des Voltmeters 0 + 10 mV betragt.
+
+4. Justierung der Spurlage-Verstarkung
+
+. Den Netzschalter der Justiereinheit einschalten und den
+
+Drehschalter auf ‘’3” stellen.
+
+2. Den Niederfrequenz-Oszillator auf .1,5 kHz und 150 TP 1e
+mVss -Ausgangsleistung einstellen, und ihn dann an
+TEST pin OSC IN und GND (Masse) der Justiereinheit
+anschlieRen. ;
+
+3. Kanal 1 und Kanal 2 des Oszilloskops an TEST pin
+TP1 und TP2 der Justiereinheit anschlieRen.
+(TP3 ist Masse.) ve
+Einstellungen am Oszilloskop: : i a
+VOLT...... 100 mV (beide Kanale),° SWEEP...... 2ms, Input...... AC (Wechselspannung)
+
+4. Den Netzschalter einschalten. Wenn der Plattenteller sich zu drehen beginnt, erscheint 1,5 kHz-Signal auf dem
+
+Oszilloskop. Danach VR104 so einstellen, da& die Wellenform-Amplituden beider Kandale identisch sind.
+
+. Provisorische Justierung der Spurlage-Abweichung
+
+. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘2’ einstellen; den Eingangsanschlu& vom
+Oszillator trennen.
+
+2. Das Gerat auf Plattenauswurf (Eject) schalten.
+
+3. Ein veranderliches Voltmeter an TJ103 auf der 03-Platine anschlieBen.
+
+4. Den Netzschaiter einschalten und VR106 so einstellen, da& die Gleichspannung des Voltmeters 0 + 3 mV betragt.
+
+6. Justierung der Spurlage-Balance
+
+1. Den Netzschalter der Justiereinheit einschalten und
+den Drehschalter auf '‘2” einstellen.
+
+2. Das Oszilloskop an TJ103 auf der 03-Platine anschlieBen
+und dann eine Platte auflegen.
+Einstellungen am Oszilloskop:
+
+VOLT.......... 200 mV
+SWEEP......... 5 ms
+Input .......... DC (Gleichspannung)
+
+3. Den Netzschalter einschalten. Wenn der Plattenteller
+sich zu drehen beginnt, und der Spurlage-Servo-Schalter
+(Tracking Servo) der Justiereinheit sich in der OF F-Position
+befindet, erscheint das TE-Signal (Tracking Error = Spurlagefehler) auf dem Oszilloskop.
+VR105 dann so einstellen, da& die oberen und unteren Spitzenwerte gleich sind.
+
+. Justierung der Spurlage-Abweichung
+
+. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘’2’ einstellen.
+. Das Gerat auf Plattensuswurf (Eject) schalten.
+
+. Ein veranderliches Voltmeter an TJ103 auf der 03-Platine anschlieRen.
+. Den Netzschaiter einschalten und VR106 so einstellen, da& die Gleichspannung des Voltmeters 0 + 3 mV betragt.
+Anmerkung: Nach obiger Justierung ist die Verstarkungs-Justiereinheit zu entfernen, und CN103 ist so
+anzuschlieRen, da& der Originalzustand des Gerates wiederhergestellt wird.
+

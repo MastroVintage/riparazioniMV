@@ -1,0 +1,60 @@
+Wireless remote control trans- P.D
+mitter 1¢1101
+A.AC
+
+P.D
+Check control output of
+each circuit.
+
+Check control input signal Key matrix
+
+Check 400 kHz signal from
+applied to each pin of 1C612.
+
+quartz (X1001).
+
+Check infrared LED
+(D1007 ~ 109) ON
+
+YES
+
+i. P.D
+Check serial signal from P.D Check BEEP K signal from : Check scan pulse signal from
+IC1001 pin 6). 1C1001, D1003 ~ 1006 1C611 pin @. wale D661 IC611 pin @~ @).
+
+Check serial signal from P.D Check output signal from P.D
+01002, 1003 ©. a1001. 1002, 1003 each pin of 1C612. wale 612
+
+* Re-check the item 13 and 14 with
+reference to the Adjustment
+manual.
+
+P.D
+D1007, 1008
+A.A.C
+
+No problem in remote and
+operation control circuit.
+
+If it is basically not understandable, refer to items 1 ~ 2 in Circuit description.
+
+Remote control receiver
+
+YES
+135)
+Check. remote control data oo , P.D
+signal (SNSO) from CN211 NO Check serial signal applied to D101, TH1101
+pin @. pin @. A.A.C
+
+YES
+
+Check serial data signal applied vort01 Q1101. T1101
+
+A.A.C
+
+to T1101 pin @.
+
+YES
+
+—~11-—
+—~12—

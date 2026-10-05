@@ -1,0 +1,33 @@
+. Nach der obigen Justierung ist die Kurzschlu@briicke (in
+Schritt 3) zu entfernen.
+
+| VR501 (117) durch Drehung im Uhrzeigersinn bis zum Anschlag auf Maximum einstellen.
+
+. Die Platte auflegen und die Taste PLAY dricken.
+
+_ In der Wiedergabe-Betriebsart TJ501 (11TMODE) auf der 01-Platine an Masse anschlieBen.
+
+. Inder gleichen Oszilloskop-Betriebsart wie in Schritt 2) ist VR501 so zu justieren, daR die Oszilloskop-Wellenform
+so wird, wie nachstehend gezeigt.
+
+© com
+
+CLDCK
+
+11. Uberpriifung des Wiedergabebetriebs nach der Justierung
+
+Priifen des Uberspring-Suchlaufs :
+1. Eine gewdhnliche Platte abspielen.
+2. Die Uberspring-Taste driicken und tiberpriifen, ob Uberspring-Suchlauf ausgefiihrt wird. (Vorwarts und riickwarts)
+Priifen des manuellen Suchlaufs
+1. Eine gewdhnliche Platte abspielen.
+2. Die Taste fiir manuellen Suchlauf driicken und iberpriifen, ob glatter manueller Suchlauf mit niedriger und hoher
+Geschwindigkeit ausgefiinrt werden kann. (Vorwarts und ruckwarts)
+Prifen auf Defekte
+
+1. Programm 12 der Testplatte abspielen und iiberpriifen, da& kein Tonausfall oder Rauschen auftritt. (Schwarzer
+Punkt)
+
+2. Programm 14 der Testplatte abspielen und iiberpriifen, da® kein Tonausfall oder Rauschen auftritt.
+
+(Fingerabdruck)

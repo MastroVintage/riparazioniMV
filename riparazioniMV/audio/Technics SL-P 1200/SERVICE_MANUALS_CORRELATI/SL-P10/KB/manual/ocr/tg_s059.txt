@@ -1,0 +1,80 @@
+e Servo selection circuit
+
+The control voltage applied to pin (10) of IC301 (AN6635) can
+be changed over in 3 modes by analog switch IC303 (MN4066B).
+
+ov 1€308 IC305 1C306 1C307 Analog switch IC303
+ea |
+
+8) a 272 :
+e ' !
+VALID: 7 fw O "
+VALID VW (ye 1e% Fine servo ON !
+1 (
+4 A 4 ' !
+ae ean sn ake
+
+i '
+
+' \
+
+10 g 3
+
+CWw—">04— oo 8 7 eo
+
+) Rough servo ON
+
+5 2
+og p> 10
+C311
+0.022 a
+De
+
+FG rotation detection
+
+("L" in 20 - 30 turns) Fine servo is selected when 10301(AN6635)
+CLV is at "H" and VALID
+at OT
+
+Fig. 6-4 Servo selection circuit
+
+VAGED. sess Output from demodulation LSI (MN6611). Effective
+when demodulation period completion signal is at
+i .
+
+TEON: ie ewes Output from system microcomputer (MN1564). Effec-
+tive when turntable rotation command signal is at
+nyAN -
+
+CLM yess ee Output from traverse microcomputer (MN1400). "H"
+
+only in PLAY mode.
+
+— 66 —
+
+Stop—= Rough servo
+
+CLY ts at. "HH".
+
+When TTON signal is at "H", IC306 pin (12) "L", IC306 pin (4)
+"L", IC306 pin (2) "H" and IC301 pin (9) "H", then the spindle
+motor rotates and the rough servo operates.
+
+Rough servo—=Fine servo
+Ony issat VA" ;
+
+When VALID signal changes from "H" to "L", then IC306 pin (12)
+"H" and IC306 pin (2) "L", and the fine servo operates. In
+this case, the system is shifted to PLAY mode.
+
+PLAY to STOP
+CLV) ts at. "EL".
+
+When TTON signal is at "L", IC306 pin (4) goes "H", braking
+the spindle. [Pin (10) is lowered in EC.]
+
+As the spindle is braked lowering the rotational speed, caus-
+ing the FG period to become longer, then IC306 pin (9) goes
+"L" to stop the drive function of IC.
+
+er —

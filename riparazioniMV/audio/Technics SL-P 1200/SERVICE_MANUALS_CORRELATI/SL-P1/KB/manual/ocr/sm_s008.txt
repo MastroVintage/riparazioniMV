@@ -1,0 +1,174 @@
+QhwWN = @
+
+=
+
+3.
+
+How to remove the disc holder
+
+. Remove the cabinet and front panel.
+
+Shift the disc holder forward.
+
+. Remove the disc holder setscrews. [Fig. 10: @ ,® ].
+
+Release the 2 claws from the bottom.
+
+. Remove the disc holder in the direction of the arrow as
+
+in Fig. 10.
+
+. Before fitting the disc holder, make sure that the switch
+
+arm end is on the groove side of drive rack top.
+(See Fig. 11.)
+
+Drive rack
+
+Switch arm
+
+How to remove and set the disc tray
+
+. Remove the disc holder.
+. Release the 2 claws from the bottom of disc holder and
+
+then remove the disc tray.
+When setting the disc tray, accurately fit the lever onto
+the boss as illustrated.
+
+* It can be easily set by pushing the lever in the direction of
+
+=
+
+=
+
+the arrow. [Fig. 12]
+
+How to remove the loading guide
+
+. Remove the disc clamper and disc holder.
+. Remove the 6 setscrews [Fig. 13 : @ ~ @ ] on the
+
+right and left side of loading guide holder. Then the
+loading guide can be removed.
+
+How to remove the drive rack
+
+. Remove the loading guide.
+. Move the drive rack in the direction of arrow(@)while
+
+Opening the switch arm in the direction of arrow®) and
+then pull out the drive rack downward. (Fig. 14)
+
+. When thedrive rack is fitted, the switch arm end should
+
+be on the groove side of drive rack top. (See Fig. 11.)
+
+Loading guide
+
+Fig. 13
+
+Loading guide
+
+NO =
+
+=
+
+Spindle motor
+drive coil P.C.B.
+
+How to remove the traverse unit ass’y
+[Optical deck unit]
+
+Remove the front panel.
+
+. Remove the 4 setscrews [Fig. 15 : @ ~ ® | of traverse
+
+unit. Screws @ ~ @ are red.
+
+. Pull out the 8 connectors (CN405 ~ CN409, CN411,
+
+CN412, CN501) connected from traverse unit to main
+P.C.B.
+
+. Turn over the traverse unit and remove the nuts [Fig.
+
+16: @ ~ @ 1, then the traverse unit ass’y can be
+removed.
+
+Note that the front and rear springs are different in color.
+
+How to remove the optical servo P.C.B. and
+spindle motor drive coil P.C.B.
+
+. Remove the 4 setscrews [Fig. 15 : @ ~ @® ] of traverse
+
+unit.
+
+. Turn over the traverse unit and remove the optical
+
+servo P.C,B. setscrew [Fig. 17 : @ J.
+
+. Release the claw from the optical servo P.C.B. Then the
+
+optical servo P.C.B. can be removed.
+
+. Remove the 2 setscrews [Fig. 17: @ , @ J of spindle
+
+motor drive coil P.C.B.
+
+Then the spindle motor drive coi! P.C.B. can be removed.
+
+How to remove the limit switch
+[Rest and end detecting switch]
+
+. Remove the optical servo P.C.B.
+. Remove the 2 setscrews [Fig. 17 : @ , @ | of limit
+
+switch, and unsolder the limit switch.
+
+After fitting the limit switch [rest: disc’s innermost
+position detection] again, it is necessary to re-adjust the
+position.
+
+I ye
+
+oS
+
+Optical servo P.C.B.
+
+Limit switch
+
+®
+@ )
+
+iS pring © Va @
+
+B- Veliow) i) ‘o) ;
+S J spring So aeting
+
+a
+
+Spring (Silver)
+
+Optical! servo
+P.C.B.
+
+Traverse
+unit ass’y
+
+© How to remove the loading motor
+
+1. Remove the optical servo P.C.B.
+
+2. Remove the belt from the loading motor pulley,
+3
+
+. Remove the 2 setscrews [Fig 17: @ , @ ] of |oading
+
+motor, and unsolder the motor leads,
+
+by arrow on the motor.)
+
+Connect the white lead to the (+) terminal of motor, and
+gray lead to (—) terminal. (The (—) terminal isincficated

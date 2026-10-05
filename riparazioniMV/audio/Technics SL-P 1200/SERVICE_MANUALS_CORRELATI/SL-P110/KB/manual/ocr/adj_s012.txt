@@ -1,0 +1,89 @@
+G. Tracking error Compensation Adjustment
+
+(1) Connect CH-1 of the oscilloscope to the tracking error
+compensation test point (Jumper) and GND to chassis
+as shown in illustration.
+
+Volt : 50mv
+Oscilloscope setting | Sweep : Ims
+Input selector: DC ;
+Adjuster
+(2) Turn on the power supply switch of the player. x“
+
+(3) Place the test disc (§$ZZP1014F of S$ZZP1054C) in to
+the disc holder by open/close key.
+
+(4) The player to the play mode.
+
+(5) Play TR1 of the test disc
+
+(6) Check the waveform on the oscilloscope and adjust
+VR106, so that the waveform of DC level Jess than
+
+0+5mV as shown in illustration. Tracking error
+
+compensation
+test point
+
+(CH-1)
+EICN103
+
+N15261PDF
+
+Main PCB
+NG - OK
+(7) Turn off the power supply switch of the player.
+|
+Line-out
+
+(1) Connect CH-1 of the oscilloscope to the line out
+terminal (either of L-CH or R-CH) of the main PCB
+and the terminal GND of the chassis.
+
+Volt : 1.0V
+Oscilloscope setting ---] Sweep : Imsec,
+Input selector: DC
+
+PLL PLL test point
+(CH-1)
+
+(2) Turn on the power supply switch of the player.
+
+(3) Place the test disc (SZZP1054C) in to the disc holder
+by open/close key.
+
+(4) The player to the play mode.
+
+(5) Play of the test disc Track 7 (WG 0.8mm). Adjuster
+
+(6) Check the waveform displayed on the oscilloscope and
+adjust VR301 in the following steps.
+
+@® Turn VR301 upwards slowly and learn the point at VROO1®
+which the waveform on the oscilloscope begins to be CN102 CN301 ed*
+disturbed as shown in waveform [NG]. [esees] 2) (1C-308] To)”
+
+©) Turn VR301 downwards slowly (opposite direction to (1)
+that in the above para. "a") and learn the point at
+which the waveform on the oscilloscope begins to be CF) MN15261 PDF
+disturbed.
+
+© Set VR301 in the middle between the points learned
+in the above steps ‘‘a” and “’b’”’.
+
+Main PCB
+
+S
+a 2) Set to the
+middle point
+~ between "a"
+CE) and "b."
+
+(a = b equal)
+
+Lower side (\ set point
+
+PLL OK
+(7) Turn off the power switch of the player.
+
+— 12 —

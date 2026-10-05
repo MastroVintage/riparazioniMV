@@ -1,0 +1,234 @@
+WN ©
+
+How to remove the operation button
+
+. Remove the cabinet and front panel.
+. Remove the reinforcement plate.
+. Remove the 5 setscrews [Fig. 4:@ ~ @] of the
+
+keyboard/display P.C.B., then the keyboard/display
+P.C.B. can be removed.
+
+. Release the 12 claws of operation button case to remove
+
+the operation button case from keyboard/display P.C.B.
+
+. Search button can be removed by releasing the claws @
+
+5
+in Fig. 5.
+
+6. Play button ass’y can be removed by releasing the claw
+in Fig. 5.
+
+Note: Remove the search button before removing the
+
+play button ass’y.
+
+7. Memory/index/repeat button can be removed by releas-
+in the claw © in Fig. 5.
+
+8. Repeat button can be removed by removing memory
+button.
+
+Wns e
+
+. Numeric button can be removed by releasing the claws (0)
+
+in Fig, 5.
+
+How to remove the remote control receiver
+
+. Remove the cabinet and front panel.
+. Remove the keyboard/display P.C.B.
+
+Pull out the connector (P305) of the remote control
+receiver. [Fig. 4]
+
+. Release the 2 claws of the front panel, then the remote
+
+control receiver can be removed.
+
+How to remove the headphone level control knob
+
+. Remove the cabinet and front panel.
+. Remove the 2 headphone jack and headphone amplifier
+
+P.C.B. fitting setscrews. [Fig.6:@, ®!
+
+. Remove the setscrew [Fig. 6 : @] of the headphone
+
+amplifier P.C.B.
+
+. Pull out the headphone level control knob in the direc-
+
+tion of the arrow as in Fig. 6.
+
+Front panel fitting
+
+The disc illumination lead wire should come under the
+reinforcement plate. (See Fig. 7)
+
+The headphone amplifier P.C.B. lead wire should not
+touch the disc holder. (Bring it under the front panel.)
+
+. Release the power switch rod from power switch.
+
+(Power switch should then be set at “off’’.)
+
+. Insert the chassis between front panel and keyboard/
+
+display P.C.B., then lift the front panel top to fit the
+
+front panel on chassis. [Fig. 7-1] Take care not to
+damage the disc holder.
+. Set the power switch rod.
+Lead wire
+
+Reinforcement plate
+
+Lead wire (disc illumination)
+
+Fig. 7
+
+ny Keyboard/display
+i\\ PCB.
+fit \ /
+
+SI
+SA A
+
+_< Connector /
+
+Repeat button
+
+Search button
+
+Headphone level
+control knob
+
+Headphone amp. P.C.B.
+Fig. 6
+
+Chassis
+
+Fig. 7-1
+
+a button
+
+e How to remove the main P.C.B.
+
+Remove the cabinet and front panel.
+
+2. Remove the 2 setscrews [Fig. 8: @ ~ @® | of the main
+P.C.B.
+
+3. Main P.C.B. is secured with claws of main P.C.B. support.
+So, release the claws to remove the main P.C.B. from
+main P.C.B. support.
+
+4. Remove the main P.C.B. in the direction of the arrow as
+in Fig. 8.
+
+Note: The supplied of L.S.1. module P.C.B. is assembly.
+(Part No. SRDPOO1NO2A)
+
+How to remove the disc clamper
+
+Remove the cabinet.
+
+. Shift the disc holder forward.
+
+. Remove the 4 setscrews [Fig.9: @) ~ @ ] of the disc
+clamper, then the disc clamper can be removed.
+
+Note: Shift the disc holder forward to remove the disc
+
+clamper.
+4. To remove the magnet of disc clamper, raise the claw of
+magnet fixing plate and turn it clockwise. [Fig. 10]
+
+=
+
+wr e
+
+Ce_ Magnet
+
+Fig. 10
+How to remove the power transformer
+
+. Remove the cabinet.
+
+. Shift the disc holder forward.
+
+. Rélease power switch rod from the power switch.
+
+. Remove the 3 setscrews [Fig.11: @ ~ @ ] of the
+power transformer and take the power transformer
+block out of the chassis.
+
+5. Unsolder the power transformer terminals of power
+source P.C.B., then the power transformer can be
+removed.
+
+6. To remove the fuse P.C.B., unsolder the terminals of
+fuse P.C.B.
+
+Fuse P.C.B.
+
+e Unsolder
+
+PWN @
+
+Power switch rod
+
+Bottom side
+
+Power source P.C.B.
+
+Fig. 11
+
+Main P.C.B.
+
+A $4. Module
+(Digital) P.C.B.
+
+!
+
+—o
+
+Precuations for disc clamper fitting
+When fitting the disc clamper again, follow the *
+
+| CAUTION: |
+
+cedure given below. (Be sure to turn power switch
+“off”.)
+1. Remove the magnet of disc clamper.
+
+2. Temporarily tighten the 4 setscrews of disc clamper
+
+turntable platter center spindle and disc clamper is
+Then tighten the disc clamper
+
+with disc holder projected.
+3. Close the disc holder.
+4. Move the disc clamper so that the size between the |
+
+as shown below.
+setscrews.
+5. Set the magnet in place.
+
+|
+t
+
+0 OA 8S O08 8 A OO 0880 Oe OE OE OO OO Oo 0 Ot OO OO
+
+Note: If the above-mentioned size is deflected, noise
+might be produced from disc clamper during
+play mode. j
+=
+(atte Sizes ‘a’ and ‘b’ should
+i bert be equal.
+ae oe ep ne pe ne noe ape ce ee ate eA Oe tO A ae Oe CS eo ae
+6-—

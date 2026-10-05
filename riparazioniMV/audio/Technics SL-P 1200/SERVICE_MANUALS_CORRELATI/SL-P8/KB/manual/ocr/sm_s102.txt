@@ -1,0 +1,47 @@
+2. Focus balance adjustment
+
+1)
+
+2)
+
+Set the power SW “on” of jig and the rotary switch of Jig to ‘2’ and disconnect the input
+from the oscillator.
+
+Ground the pin 23 of IC101 (AN7677) on 03 P.C.B. (Head Amp.)
+
+Note: Using a lead with clip to catch C112 (near the leg of C115) makes the job easier.
+Pull out connector CN 108 on 01 P.C.B.
+
+Connect the oscilloscope to TP1 on 03 P.C.B. and place the disc.
+Note: TP1 is located between VR102 and VR103.
+
+Oscilloscope setting:
+
+VOLT .......... 200 mV
+SWEEP ........ 5 ms
+Input ......... AC
+
+Turn power switch ON. When the laser lights up, S-shaped waveform appears on the oscillo-
+scope. Then adjust VR103 so that the top and bottom peak values are equal to each other.
+
+TP 1
+
+Note: The above-mentioned S-shaped waveform will disappear in 5 or 6 sec. So, ground the
+pin 4 of CN109 while LD is lighted, and the waveform will last for about 20 seconds.
+
+3. Focus offset adjustment
+
+1)
+2)
+3)
+4)
+5)
+
+Keep the power SW “on” of fig and the rotary switch of jig at 2”.
+Put in connector CN108 to correct position.
+
+Shift the set to EJECT mode.
+
+Connect a variable voltmeter to TP1 on 03 P.C.B.
+
+Turn power switch ON, and adjust VR107 so that DC voltage of the voltmeter isO+10 mV.

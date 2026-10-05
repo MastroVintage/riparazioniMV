@@ -1,0 +1,36 @@
+The operation up to TOC reading is shown in Fig. 11-16.
+
+(1)
+(2)
+
+(3)
+
+(4)
+
+(6)
+
+Door open/close is done by micro-switch in key matrix.
+
+Door is closed with disc inserted or closed key depress-—
+ed. LD ON and TT ON are delivered when both DISC ON
+
+and LMT ON sensor signals are received by system micro-
+computer.
+
+With traverse step forward and LMT OFF sensor signal
+confirmed, then traverse steps and FO ON is delivered.
+
+FO ON causes focus search, and with RF ON sensor signal
+confirmed, TR ON is delivered, shifting traverse to play
+mode.
+
+Servo is completed with TR ON, then TOC is read and
+displayed.
+
+After TOC reading, LD/TT ON, FO ON and TR ON are OFF.
+During TOC reading, only PLAY key is accepted.
+
+* Pause repeat key is also accepted but it is released
+on TOC display.
+
+— 135 —

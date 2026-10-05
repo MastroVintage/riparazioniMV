@@ -1,0 +1,212 @@
+:
+N
+
+e Rear panel view
+
+9 AC line-voltage
+selector
+
+9 External terminal
+
+) AC power
+
+3) Synchro record terminal socket
+
+@ Power switch
+
+® Press once to turn power on and again to turn power off.
+
+@ When power is turned on, the display @ will read ( J )
+for the track number and ( 299 ) for the time.
+
+@ If no disc is in the holder ,the play button @( P ) will
+only light up for about five seconds.
+
+@ Disc holder
+
+@ The disc is inserted in this holder.
+
+© Press the disc holder open/close button © to open the
+holder and press the open/close button again to close the
+holder. #
+
+©@ The holder is also closed automatically when the play
+button @ is pressed even when the open/close button
+is not pressed a second time. (The holder can also be
+closed by hand.)
+
+© Disc holder open/close button
+
+@ Press this button to insert or remove a disc. When this
+button is pressed, the disc holder (2) opens.
+
+@ Press this button again to close the holder.
+
+© Display
+
+The display consists of the following items:
+
+@ Track number (up to 99)
+
+@ Index number—Displays the minutes portion of the total
+playing time or the index number. Note that the index
+number is displayed only when the unit is in the index
+play mode.
+
+© Time—Displays the seconds portion of the total playing
+time except when the index number is being displayed.
+
+index | time
+
+@ The unit switches to the standby mode when a disc is
+inserted in the holder. In the standby mode, the pickup
+is located at the beginning of the first track and the
+display is showing the total number of tracks on the disc
+and the total playing time.
+
+@ The above example shows the display for a disc having
+seven tracks and a total playing time of 49 minutes
+58 seconds.
+
+@ The number of tracks and total playing time is also
+displayed when the play button @ is pressed after
+inserting a disc (without pressing the open/close button
+@ to close the disc holder @ ). In this case, disc play
+will automatically begin from the first track.
+
+© Pause/stop button |
+
+© This button activates both the pause and stop modes.
+
+@ When this button is pressed while a disc is being played,
+the If indicator lights to show that the pause mode
+has been activated. Press the play button @ to cancel
+the pause mode and resume disc play.
+
+© If the pause/stop button @ is held down for more than
+about two seconds, the stop mode is activated (the Ut
+indicator goes out) and the pickup returns to the beginn-
+ing of the first track on the disc.
+
+@ The disc continues to rotate for about 20 seconds
+after the stop mode is activated so that the player can
+quickly switch to the play or skip function if one of
+those buttons is pressed. If these buttons are not pressed
+during the 20 seconds period, the disc will stop rotating.
+
+@ Play button
+
+@ Press this button to begin disc play. The play indicator
+(>) lights up to show when this button has been
+pressed.
+
+© When this button is pressed during disc play, the pickup
+returns to the starting position and disc play starts
+again from the beginning.
+
+@ When this button is pressed while the pause mode is
+activated, pause is cancelled and the player returns to
+the play mode.
+
+@ Repeat button
+
+@ Press this button to activate the repeat play mode.
+
+@ When the[_@i@jindicator lights, only the current track
+will be played repeatedly.
+
+@ When the (alam) indicator lights, the entire side of the
+disc will be played repeatedly.
+
+@ When neither indicator is on, the repeat mode has been
+cancelled.
+
+© Forward and backward skip buttons
+
+@ Use these buttons to move the pickup forward and back-
+ward to the beginning of a specific track. The buttons
+are used in the following manner.
+
+1. For direct access play to locate the beginning of a
+specific track when the player is in the stop or pause
+mode.
+
+2. For skip play to skip one or more track when the
+player is in the play or pause mode.
+
+© Press the [se >8] button to move the pickup
+forward.
+
+© Press the button to move the pickup
+backward.
+
+@ When either of these buttons is held down, tracks are
+skipped continuously. (Quick skip)
+
+© Forward and backward search/index buttons
+@ Use these buttons to move the pickup forward and back-
+ward. The buttons are used in the following manner.
+
+1. For manual search play by moving the pickup to a
+specific location when the player is in play or pause
+mode.
+
+© Press the js button to move the pickup forward.
+
+© Press the (==) button to move the pickup backward.
+
+@ When either of these buttons is pressed, the pickup will
+move slowly at first and then rapidly if the button is
+
+held down for more than about three seconds.
+2. For index play when the player is in the stop mode.
+
+° Top view Fuse P.C.B.
+
+Spindle motor.
+drive P.C.B.
+
+Power transformer
+
+Power switch
+
+Opticaideck unit
+
+Disc clamper
+
+@ Line out terminals (LINE OUT)
+
+@ These are the audio output teminals.
+
+®@ Connect the line out terminals to the AUX or TAPE
+PLAYBACK terminals on your amplifier or receiver.
+
+@ AC power socket (AC IN)
+Connect this socket to a wall socket using the power cord.
+
+@® External terminal
+
+©® Synchro record terminal
+
+The following functions are possible when this ter- :
+minal is used:
+
+1. Recording can be synchronized with the beginning and
+end of disc play and pause operation. Note that this is
+only possible when using Technics cassette decks which
+are equipped with a SYNCHRO REC terminal. (Synchro
+recording function)
+
+2. The amplifier input source can be automatically switched
+to aux/CD/video when the play button @ is pressed.
+It is also possible to automatically start disc play when
+the amplifier input source selector is switched to aux/
+CD/video. (Direct operation function)
+
+@ AC line-voltage selector
+
+Power supply P.C.B.
+
+Servo P.C.B.
+
+Fluorescent display tube P.C.B. . 5)

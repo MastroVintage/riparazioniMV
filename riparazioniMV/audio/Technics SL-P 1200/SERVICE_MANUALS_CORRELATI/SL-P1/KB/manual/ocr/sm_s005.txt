@@ -1,0 +1,242 @@
+@® Pause indicator
+This indicator (11) lights when the pause button has been
+activated and goes out when the pause mode is can-
+celled.
+
+@Piay button
+
+Press this button to begin disc play.
+
+eWhen this button is pressed during disc play, the pickup
+returns to the beginning of the first track and starts playing
+the disc again. During program disc play, the pickup returns
+to the first programmed track and starts playing the
+programmed sequence again.
+(Auto return play function)
+
+@® Play indicator
+This indicator (») lights when the play button has been
+pressed and goes out when disc play is stopped.
+
+@ Display panel
+Shows a track and index number and a time as shown
+below.
+
+i Ge YU!
+
+track index time
+
+Track number: Shows the number of the track.
+A maximum of 99 tracks can be displayed.
+Index number: Shows the number of the index.
+\f the track does not have an index, 01 will
+be displayed.
+Time: Shows the minutes and the seconds.
+
+m@ CONCERNING COMPACT DISCS
+
+Observe the following precautions to enjoy the same outstanding
+sonic performance from your Compact Discs for many years.
+
+Handling precautions sue
+
+mark can be used with this player.
+
+Only compact discs identified with this ee
+
+ISIC,
+
+DIGITAL AUDIO
+
+®Hold compact discs by the edges so the
+surface is not soiled with fingerprints.
+
+Be careful not to scratch the surface with fingernails or other
+sharp objects, particularly when inserting and removing discs
+
+from their cases.
+®Do not bend the disc.
+
+®Do notuse record cleaning sprays or static electricity preven-
+
+tion liquids.
+
+©Do not wipe with benzene, thinner or any other soivent. If the
+surface is soiled, wipe gently with a soft, damp (water only)
+
+cloth.
+
+© (Yes)
+
+X<_ (No)
+
+©)
+
+m PLAYING A DISC
+
+The following explanation is for a disc containing 7 tracks having a total playing time of 49 minutes and 58 seconds.
+
+@ Line out terminals (LINE OUT)
+eThese are the audio output terminais.
+Connect the line out terminals to the AUX/CD/VIDEO or
+TAPE PLAYBACK terminals on your amplifier or receiver.
+Do not connect to the amplifier PHONO terminals as you
+would with a conventional turntable.
+
+@AC socket (AC IN)
+
+Connect this socket to a wall socket using the power cord.
+
+® Subcode socket
+eThe Compact Disc subcode signal is output through this
+socket.
+eThis socket is provided for system connections with future
+components.
+eDo not connect any components to this socket.
+
+elf the disc is brought from a cold environment into a warm room,
+dew may form on the disc. Wipe this off with a soft, dry cloth
+before using the disc.
+
+®Do not try to dry discs with a hair dryer.
+
+Do not write on the label side with a ball-point pen, hard pencil
+or other writing utensil.
+
+Storage precautions EEE
+
+Be sure to store discs in their cases to protect them from dust,
+scratches and warping.
+Do not place or store discs in the following places:
+
+1) Locations exposed to direct sunlight.
+
+2) Locations with high humdity or a lot of dust.
+
+3) Locations directly exposed to a heat outlet or heating
+
+appliance.
+4) In the glove compartment or rear ledge of an automobile.
+
+1. Automatic Play
+
+(To play a disc from beginning to end)
+
+Procedure
+
+1.
+
+Press the power switch to the on position.
+@ Display lights as shown below.
+
+nann
+UiLuU U
+
+track index time
+
+. Press the disc holder open/close button.
+
+@ Disc hoider opens.
+
+. Insert a disc with the label side facing upward.
+. Press the disc holder open/close button.
+
+@ Step 4 can be skipped by pressing the play button
+after inserting a disc. In this case, the holder will
+close and disc play will begin immediately from track
+1 but the tracks and total playing time will not be
+displayed.
+
+@ Disc contents are being read.
+
+track index time
+
+@ Once disc contents have been read. (standby mode)
+
+rm
+!
+
+track index time
+
+. Press the play button.
+
+@ Disc play being.
+
+track index time
+
+@ If the play button is pressed during display, the disc
+is played again from track one.
+
+@ If the track does not have an index, 01 will be dis-
+played.
+
+@ When the end of the disc is reached, the pickup
+returns to the first track and the player switches to
+the standby mode.
+
+Note:
+
+Since steps 1, 2 and 3 in this procedure are the same for
+all disc play procedures, they are not included in the
+following explanations.
+
+2. To Play A Disc From A Specific
+
+Track
+
+(track random access)
+(For example, to start disc play from track 3)
+
+Procedure
+
+1. Press the number 3 of the numeric button.
+
+2. Press the play button.
+
+3. Disc play begins from track 3.
+
+4. When the end of the disc is reached, the pickup returns
+
+to the first track and the player switches to the standby
+mode.
+
+3. To Play A Disc From A Specific
+
+Index
+
+(index random access)
+e When specifying an index number obtained
+from the disc’s liner note.
+(For example, to start disc play from track 3,
+index 2.)
+Procedure:
+. Press the number 3 of the numeric button.
+. Press the index button.
+. Press the number 2 of the numeric button.
+. Press the play button.
+. Disc play begins from index 2 of track 3.
+When the end of the disc is reached, the pickup returns
+to the first track and the player switches to the standby
+mode.
+
+OnkWn =
+
+4. Program Disc Play
+
+1.
+
+To program only one track (single program)
+To play one track from beginning to end.
+(Example: To play track 3 from the beginning.)
+
+3 memory
+
+oe
+
+Track no. Program
+
+If you enter the wrong number, press the stop button
+to cancel it and then enter the correct number .
+
+The player switches to the standby mode afier track
+3 has been played.

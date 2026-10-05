@@ -1,0 +1,97 @@
+10. D/A Conversion and Audio circuit
+
+10—1. D/A conversion and function of audio circuit
+
+EFM demodulated and error-corrected digital signals are
+
+converted to analog signals by the digital signal process-
+
+ing circuit, and the signals are delivered to LINE OUT.
+
+10—2. D/A conversion and audio circuit configuration
+
+The block diagram of D/A and audio circuit is shown in
+
+Fig. L0=L,
+LINE OUT
+Low pass Buffer Lo)
+O
+filter amp =
+16-bit _, |D/A Deglitch
+data Converter aa aee
+Deglitch signal Low pass Buffer 5 (0)
+O
+DGLT filter amp ren
+DGLT
+Mute signal DELAY
+Mutin =a
+MUTE u g (+ 5V
+
+Emphasis signal
+EMPHA
+
+Fig. 10-1 D/A and Audio block
+
+The parallel 16-bit data signal input from the digital
+signal processing circuit is converted to PAM signal as
+in Fig. 10-2 by the D/A converter. The PAM signal has
+both L and R channel components, and is separated into
+Lch and Rch signals by the deglitch circuit. The separa-
+tion control select signal is deglitch (DGLT) signal.
+
+Each of the separated signals is restored to the
+
+Pe |
+
+higher than 20 kHz by the low pass filter, and is deliver-
+
+ed to LINE OUT by the buffer amplifier.
+The muting circuit is controlled with delayed +5 power
+supply and mute signal of system microcomputer, and pre-
+
+vents shock noise during power ON and set mode changeover.
+
+Also, the emphasis signal serves to turn ON/OFF the de-
+emphasis located in the buffer amp.
+
+=We—
+
+(Loh—1KHz,Rch =0)
+Fig. 1O—2. RAM signal
+
+10—3. D/A conversion and audio circuit operation
+
+D/A converter circuit
+
+CIRC Control
+
+D/A converter
+
+10702
+MN6612
+
+1/V converter
+
+1€804 TLO82
+
+To Deglitch circuit
+
+IC810
+
+1¢810
+74LS04 74LS 04
+
+-: an > TN/A — sigs borane
+Fig. 10—3. D/A converter circult
+
+When 16-bit parallel data are put in from Ic801 pin 13
+(LSB) - pin 28 (MSB), IC801 (D/A converter) delivers a
+current value to IC801 pin 9 in its data transfer cycle
+(44.1 kHz x 2) according to the input data. Next, the
+current output is put into the I/V conversion circuit
+consisting of IC804 where it is converted into a voltage
+value and is delivered to the deglitch circuit.
+
+The output signal delivered in this way is PAM signal.
+
+= 107 =

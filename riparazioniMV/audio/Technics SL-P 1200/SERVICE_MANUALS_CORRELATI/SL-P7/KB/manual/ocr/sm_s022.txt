@@ -1,0 +1,113 @@
+© Terminal guide of transistors, and IC's
+
+‘AN7805,AN78M15
+AN7915 AN7677S DN74LS04 [ SviUPD40538C] 16 Pin |
+AN7679S SVIM53206P [ ANG8O6 (| 28 Pin |
+SVISN74LS628 [mNesis |
+ANGS56S SVITC40HO04 -
+AN6552S SVITC40H386
+
+AN1358S
+AN6554NS
+
+SVITLO82CP
+SVILM833NA
+
+MN4030BS AN6552
+se aad
+MN4O66BS 14 Pin MN1430PCG
+DN74LS107S MN6614
+DN74LS74AS MN6616
+MN4011BS [MN2114-2 |
+MN4053BS ; [MN4216-20 |
+pn7acsiz3s_| ‘6 Pi"
+
+2SC828,2SA564
+2SC1317,2SC1047
+
+AN78L05 SVIBA6209
+
+m@ REPLACEMENT PARTS LIST (Cabinet and Chassis Parts)
+
+Notes: 1. Part numbers are indicated on most mechanical parts. Areas
+
+Please use this part number for parts orders.
+
+2. Important safety notice:
+Components identified by A mark have — special
+characteristics important for safety.
+When replacing any of these components, use only
+manufacturer's specified parts.
+
+3. Bracketed indications in Ref. No. columns specify the area.
+Parts without these indications can be used for all areas.
+
+4. The “ © “ mark is service standard parts and may differ
+from production parts.
+
+5. ® -marked parts are used for black only, while O-marked
+parts are for silver type only.
+
+6. Parts other than (&)-and Omarked are used for both black
+and silver types.
+
+7. The parenthesized numbers in the columns of description
+
+stand for the quantity per set. Black type model No. : SL-P7 (K)
+
+Rel. No. Pano | Ref. No. Patno | Ret. No Pano. |
+
+CABINET AND CHASSIS P. SCREW, NUT AND WASHERS
+SRUMOO07N10 . SRDJN24A07PC | Fiat Cable(7P) Screw(Silver)
+SRACOO7NO1A | Panel,Front{Sitver) SRDJN24A21PC | Flat Cable(21P) ‘Screw({Biack)
+SRACOO7N51A =| Panel,Front(Black) SRDJN23A10PC | Flat Cable(10P) Screw. ©3X6
+Knob.Power { SRDJOO7NOS Jack,Output(Red) Screw,O3X8
+Ornament Plate SRDJOO7NO6 Jack,Output{white) ¥ Washer, ¢3
+Guide,Front Pane! SRDJOO7NO3 Jack,Shnehro - rec Screw
+SRDJOO7NO4 Jack,External Terminal (1)| Screw
+SRKKOO7NO3 Ornament Piate(Sitver) SRUMOO7N11 Piate,Output Terminal (1) Screw
+SRKKOO7NS1 Omament Piate,(Biack) SRUMOO7N14 Bracket,P.C,B Ay | Screw
+SRUMOO7N16 Bracket.P,C,B ay Washer
+SRKTOO7NO3 Knob,Repeat Screw
+SRKTOO7NO2 Knob,Search SRUPOO7NOZ Cabinet{Sitver) ib Screw
+SRUMOO7N13 Holder,Power Block SRUPOO7NS1 Cabinet(Biack) () i Nut, @ 2.6
+SRUPOO7NO1E | Panel,Rear \ Screw, E2X6
+SRKKOO7NO2 a Washer
+‘SRNNOO7SO1 Name Plate Screw
+SRNNOO7G01 Name Piste SFDJHSC0498 =| AC Socket
+SRNNOO7XO1 Name Pilate SFDJHSCO509 =| AC Socket
+SRNNOO7RO1 Name Piate
+
+* [E) is available in Switzerland and Scandinavia.
+
+* [EK] is available in United Kingdom.
+
+* [XL] is available in Australia.
+
+* [EG] is available in F.R. Germany.
+
+* [EB] is available in Belgium.
+
+* [EH] is available in Holland.
+
+* [EF] is available in France.
+
+* [Ei] is available in Italy.
+
+* [XA] is available in Southeast Asia, Oceania, Africa,
+Middle Near East and Central South America.
+
+* [PA] is available in far East PX.
+
+* [PE] is available in European Military.
+
+* [PC) is available in European Audio Club.
+
+i
+
+SRNNOO7PO1 | Name Piate |
+SRNNOO7PO2 | Name Piate SFDJHSCO505 | AC Socket
+
+SRGAOO7NO1 Rubber Foot
+lak Ee
+

@@ -1,0 +1,87 @@
+2 Prog ram play (When the unit is in the stop mode.)
+
+Note:
+
+Program entries cannot be made during play or pause mode.
+
+Time mode select button
+
+time mode
+
+1 While watching the track number display,
+press for an instant to specify the desired
+track number.
+
+(See @ below.)
+
+[*] Button to move the pickup forward.
+
+[ «| Button to move the pickup backward.
+
+2 Press to enter the displayed
+track number into memory.
+memory/recalt
+
+L]
+
+(See @ below.)
+
+Q@ elf more than 20 selections are entered “£” (full) is shown in
+the display panel and no further selections can be
+programmed.
+
+@ Keeping the [~] button (or [=] button) pressed will
+
+cause the track number display to advance (or go back)
+continuously.
+
+When the Lo] button is kept pressed continuously, the
+track number display returns to the first track after passing
+the last track on the disc. For example, if there are 7 tracks
+
+on the disc, keeping the [=] button pressed, would
+
+display the track numbers as follows:
+
+(7172-3 +4 -5 -6 -7-
+
+eLikewise, keeping the [=] button pressed results in
+the following display:
+
+17 27 8-4 8 BT
+
+@ Toenter the same track number several times in succession,
+simply press the memory/recall button the same number of
+times that the track is to be played.
+
+Each entry counts as one selection.
+
+play/pause
+4 Press
+
+Repeat steps 1 and 2 until the desired
+programming is complete.
+
+memory/recall
+Fees
+
+(See G) below.)
+(A maximum of 20 selections can be programmed.)
+
+Total playing time confirmation
+
+To display the total playing time of ail programmed tracks.
+Example: If tracks 3, 5 and 1 are specified and the time mode
+select button is pressed, 30 minutes 58 seconds is displayed.
+
+time mode
+
+@ The diagram below shows track 3, track 5 and track 1
+programmed in that order.
+
+Play begins from the
+first programmed
+track.
+
+Play begins from the first programmed track.
+g

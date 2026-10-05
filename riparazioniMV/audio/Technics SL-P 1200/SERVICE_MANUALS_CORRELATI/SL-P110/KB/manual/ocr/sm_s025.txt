@@ -1,0 +1,70 @@
+Brvo * Check the traverse servo
+Check point @
+
+ES Kick pulse is emitted in skip mode? .
+= No (1C401 23, 24 pins) 1¢401_ defective
+s 1¢402. defective
+pin) YES
+Check point @
+VES
+36 MHz)? NO 1C301, X301 ; Traverse coil drive signal is emitted? pares defective
+R407, C403 } defective | | (CN101 17 pin) aise
+ES ‘ Y
+Check point @ ES
+BL (OV)"? NO 1¢401 defective
+1104 Speed sensor signal is emitted? Speed } defective
+(CN103 3 pin) sensor
+YES
+NO ry ry
+? ror } defective | ° Check the loading motor drive
+Check point @
+ES Loading motor close/open command signal
+; 2 NO is emitted? 1C401_ defective
+16101 defective (IC401 33, 34 pins)
+YES Check point @
+Dv)? NO 1C101 } defective : ive ei ; j 1C402
+an 10401 Loading motor drive signal is emitted? Q402, 403 defective
+(CN402 5 pin) motor
+YES
+d down for a few 10104 : .
+Q141, 142 defective © Check the digital and audio
+Pickup Check point @
+
+PCK signal is emitted? NO 1304 defective
+(Test pin TJ303) 10301
+
+NO 1¢101
+defective
+Pickup YES
+Check point &)
+CLK signal is emitted? NO .
+» servo (CN 4015 nin) IC301 defective
+
+(1C401 27 pin). NO | IC101 \ detective | Check point @
+
+search/skip. 1C401
+
+Spindle motor ON command signal is NO
+YES “H (2.5V)"? 1C301 defective
+- (CN401 pin)
+9
+Check point @) VES
+YES
+Data signal is emitted? NO 1€301, 302 defective
+ited during NO +! 1c101 defective (1C801 2, 3, 5~18 pins) 1801
+pin or jumper wire)
+YES Check point @ YES
+10104 ; Deglitch signal is emitted? NO 10301 defecti
+aie defective | | (Test pin TJ306) 1C302 Cfective
+Q162
+YES
+
+Check point @
+
+Muting signal level is “L (OV)? NO 1C401 ;
+(Test pin TJ401) 1C803 defective
+
+Check point @ YES
+
+AF signal is emitted? NO 1C802~804 defective
+(Output terminal)

@@ -1,0 +1,11 @@
+@ PRINTED CIRCUIT BOARD
+‘oh (Main P.C.B.)
+
+04 (Keyboard/Display P.C.B.)
+
+(Leh)
+
+[out put
+
+(Reh)
+

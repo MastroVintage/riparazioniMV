@@ -1,0 +1,65 @@
+2. Optical pick-up and traverse unit
+
+2—1. Function of optical pickup
+
+Optical pickup. (hereinafter called "optical PU") corresponds
+to the cartridge of conventional analog player. It employs
+a non-contact optical system and has two functions.
+
+One is to pick up the signal (RF signal in CD) recorded on
+
+a disk the same as in cartridge.
+
+Another is an important function to detect focus error and
+tracking error, thereby providing servo function.
+
+2-2. Configuration of optical PU
+
+The basic configuration of optical PU is shown in Fig. 2-l.
+
+P.8.5;—*
+
+Cylindrical P.D
+lens
+
+L,.D—~
+
+2—1. Confignration of optical PU.
+
+The beams of light emitted from the laser diode (hereinafter
+called "LD") become parallel in the collimator lens (herein-
+after called "CL" and is focused on the disk by the focus
+lens (hereinafter called "FL") after passing through the
+polarized beam splitter (hereinafter called "P.B.S.") and
+\/4 plate. ;
+
+The light reflected from the disk follows the light in the
+reverse direction and is reflected from P.B.S. and is
+received by the photo detector (hereinafter called "PD")
+after passing through the detection lens unit. These can
+
+be roughly divided into 2 sections.
+
+One is the section in which the light comes out of LD and
+is focused on the disk, that is called "light source section".
+The main optical elements at the light source are LD, CL
+and FL. P.B.S. and 4/4 have nothing to do with focusing.
+
+Another is the section in which the light is reflected from
+the disk and is received by PD, that is called "detector
+Seetion”™',
+
+The detector section of furnished with a lens unit and PD
+which serve to detect focus error and tracking error.
+Another P.B.S. and A/4 are not directly related with
+focusing and detection, these are inevitable for separation
+of "going" and "returning" light paths.
+
+The configuration of optical PU of SL-P10 is shown in Fig.
+22.
+
+Grating is necessary only when a 3-beam system is used for
+detection of tracking error. Also, a cylindrical lens is
+used for the detection lens unit because an astingmatic
+system is employed for focus error detection, and the main
+parts are the same as for the basic configuration.

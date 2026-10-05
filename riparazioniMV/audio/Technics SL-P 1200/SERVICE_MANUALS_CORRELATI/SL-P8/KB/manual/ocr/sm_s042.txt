@@ -1,0 +1,229 @@
+KHz Od
+-+R)
+
+\y SVILM833NA
+
+0.12js(8.64MHz)
+
+NV
+\
+
+{C704
+
+1c802
+
+'c805 , 806
+
+SVIpPD40538C
+
+4216-20
+
+1
+
+4
+H
+t
+fi
+
+MP a cssy on at bomen oon
+
+170 4 (3-
+
+ao000a0
+
+O.23ys
+(4.32MH2)
+
+A
+
+S652 ON
+
+O.12ys +6%
+
+22.78 (44.1kHz)
+
+aig
+
+4
+
+R
+
+S652 OFF
+
+VV"
+
+Oll2us (8.64MHz)
+
+DN74LS 123
+
+Re
+
+413
+
+c4i2
+$652 ON(5)
+Ic4l2
+
+SVITC40HOOOP
+
+16407
+DN74LS 107
+e414
+
+144 DN74LS74AN
+
+My Tl
+
+0.23418 (4.32MHz) 0.468 (2.16MHz)
+
+Play IkHz OdB(L+R)
+
+N\A
+
+Play O.5ys,2V/DIV
+
+1C803 , 804 , 807 1¢408
+SVILM833NA s DN74LS74AN
+lay drive = p---—--- TM anneal
+
+Equalizer
+
+4
+
+co}
+g| 3.6 224) al ia
+SV CX CX RNG
+Sly icant Fe
+GND _EN RX RX_GND. mo
+atl BI
+5 441 560 Clock select
+)
+
+R451
+
+O.f2ys (8.64MHz)
+
+Play tkHz OdB(L+R)
+
+OC) —— i
+Q
+
+Low/pass filter Phase shifter cNeol ‘tk NBO02
+EE _
+
+SVISN74LS628;
+
+6
+
+LINE OUT
+
+1c8l
+AN78MI5
+
+1c881,882
+
+SVINJM4556/S
+
+R888 4.7K
+
+'c409 H
+
+i
+1
+u
+
+100K
+y
+
+1c402
+AN6552
+
+R425 10K
+
+Nea
+SVITC4O
+
+VRG5! Center 1.35 us
+” +6% Ilys
+“ -6% dus
+
+NS
+
+S652 OFF(O)
+$652 ONS)
+
+C89 6.3V47
+
+6.3VI00 |6.3VI00
+
+R432 10K
+
+5ys,2V/DIV
+
+SVIp PD4053BC
+
+02
+33%
+se
+
+ica2
+AN79MI5
+Das
+MA4 100 acoxv + \
+81 AC3V } J CN607
+SVDS1WB40
+ac3v
+AC3V =
+ace2v —
+4) aczev -
+1S) -a5y + { CN502
+Pa
+g. of jacupoae
+0.12us(8.64MHz) Constant voltage 33 38 per. TT
+te 082, 84,404 : Qi ev
+' MA4056 R487 | | R453 a
+TK 220
+Qa! ost g on
+iS tm ¢ $37
+©) 2SD636 = i a Se |*
+5.8] RB! 2.2K
+BR 1c4io
+tol AN78M05
+nD ? —
+° of R451 R452
+5 2 'ootiw) | 220
+Pe sl arene
+t ]+ i 6
+a3 vsit @— ss it Slat
+sez 88] | | 83 7 88 33
+g- oo
+——}—1+i14
+1401 Play O.5us,2V/DIV
+SV1ITC40HOO4P
+Waveform shaping
+1c404 103}
+MN4066B CNIIO
+aT2is
+Fy 4.32 BMH
+—@iH0.G6ND +
+1(3)4.A.GND -
+040 1,402 1; +5V
+G}H8.64MH2— + cnyois
+t 1
+MAI65 Q404. t | 1H vco
+2SC1047 Pt A.GND
+1
+i VOL
+OH +I16v +
+KD vRI
+14 VRS
+4 I
+/ VFO
+. , ; IQA V FIX > CNeos
+U
+PON
+PN |
+an Lr one =
+
+Play O.5us,2V/DIV
+

@@ -1,0 +1,34 @@
+(10) SKIP Display
+
+DATA NO] 0
+
+DATA A | 3
+
+(11) SEARCH Display
+
+DATA NO| 0
+
+DATA
+
+(13) All Earse (EJECT)
+
+[baTA NO] O [1
+
+The operation after the display microcomputer
+
+(14) Selection 7 segments Earse
+
+(12) SKIP/SEARCH Erase
+
+DATA NO| 0 | 1
+
+(15) 7 segments Earse
+
+Data NO] [1]
+
+(MN1542)
+
+receives the data is explained in the section of display
+circuit (refer to page 140.)
+
+— 129 —

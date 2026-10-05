@@ -1,0 +1,63 @@
+9. MECHANICAL ADJUSTMENT PROCEDURE
+
+A. Turntable Hight Adjustment
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+(6)
+
+(7)
+(8)
+
+Turn on the power supply switch of the player.
+
+Place the test disc (SZZP1014F) or (SZZP1054C) to the disc holder
+Turn off the power supply switch of the player.
+
+Set the oscilloscope to DC zero balance.
+
+Connect the CH-1 of the oscilloscope to TJ102 of the servo circuit and GND to the
+chassis.
+
+| Sweep : 5m sec,
+Oscilloscope settings —-—| Volt : 100mvV
+Input selector: DC
+
+Turn on the power supply switch of the player.
+Play back a desired track.
+
+Place the unit in the corner of the workbench -- in the place that allows the adjustment
+-- and set it as illustrated with care not go give vibration to the unit.
+
+S) a-
+VRI10:
+
+i Adjuster
+Turntable height © vricds j
+adjustment point $2. TI101 5
+Tracking ‘S)
+offset
+Test
+Point CN102-+L-CN301
+leccoa| J
+conp)
+Spindle PCB 6)
+
+1C-401
+) MN15261PDF
+
+@
+
+| Screw Driver
+
+Main PCB
+
+(9) Turn the adjusting screw on the underside of the spindle motor PCB by a flat
+
+screwdriver so that the waveform at TJ102 shall be 0+ 50mV as shown in
+illustration.
+

@@ -1,0 +1,48 @@
+[1] Outlines of Trouble Shooting
+
+1-1. Block Diagram
+
+1-2. Signal line and Main roles of each circuit.
+1-3. How to use the trouble shooting manual.
+Main roles.
+
+Main sympton.
+Block diagram
+
+Items to be confirmed before checking.
+* Input Signal
+
+* Control Signal
+
+* Output Signal
+
+Checking method of each part.
+
+3) 13)
+
+YES
+
+®
+
+Circuti block is checked as a rule.
+
+Defective parts which are so predicted are determined.
+Waveform and voltage in narmal operation are shown.
+
+Defective parts so predicted are written.
+
+P.D. = Possible Defects
+
+A.A.C. = And Associated Components.
+
+No problem of this circuit But Re-check the adjustment manual.
+
+@ eeeo
+
+1-4. Table of Contents for Trouble Shooting
+(Judge the defected circuit from the Phenomenon of defect)
+
+@ Operation Control
+Insert a disc @ Traverse Circuit
+3) Loading Mechanism
+

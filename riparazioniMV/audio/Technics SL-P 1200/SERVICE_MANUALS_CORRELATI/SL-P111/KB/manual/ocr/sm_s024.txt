@@ -1,0 +1,147 @@
+@ TERMINAL FUNCTION OF LSI
+e MN6617 (Digital Signal Processing : EFM Decoder, Error Correction, CLV Servo)
+
+© AN8370S (Optical Servo Control)
+
+Pin | Mark 10 Function Functi Pin Pin | | i"
+No. an unction No. Mark vO Function No. Mark Ve) Function
+—s |
+b-code block (Q data) clock Control input (FOON: Focus servo ON
+1 BLKCK Oo tee Ke) e block {Q data) cloc DA8 fe) 16-bit data output (Not used) 1 | VEE u Power supply (connected to —5V) 22 | CNT1 J signal) put (
+. . Control input (TRON: Tracking servo ON
+ane : f 2 {LSA | Phase difference input (A) 23. | CNT2 I f
+2 | cLocK fe) Fee ee (O data) clock DA7 fo) 16-bit data output (Not used) p signal)
+4 iz - 3 |GND \ GND terminal 24 |CNT3 \ Control input (KICKF: Kick direction
+3 | SUBQ 6) Sub-code (Q data) output [Forward] command)
+DA6 1/0 16-bit data output (Not used) Control input (KICKR: Kick direction
+Sub-code (Q data) CRC check 4 |LSB y Phase difference input (B) 25 | CNT4 | [Reverse] command) :
+4 CRC [e) . + 4
+(Not used, open) . _____
++ - DAS .e) 16-bit data output (Not used) APG fe) Auto laser power contro! output 26 | FLOCK re) Focus lock signal output
+5 RST ! Reset signal input (reset at “L"’) q ~ , - - - -
+| . . . Capacitor connection for inversion RF high
+6 MLD \ Command load input DA4 fo) 16-bit data output (Not used) TEOUT Oo Tracking error signal output 27 |C-FBDO oO speed detection
+. . rr Capacitor connection for inversion RF low
+| | TEG I Tracking error gain adjusting input 28 |C-SBDO Oo speed detection
+7 | MCLK I | Command clock input DA3 fe) 16-bit data output (Not used) = : — —
+8 | MDATA { _{ Command data input TE+ I Phase difference-to-voltage conversion (+) 29 |C-SBRT O ligwspecddetection
+9 | DMUTE Muting control (muting ON at “H") DA2 ° 16-bit data output (Not used) TE- |_| Phase difference-to-voltage conversion (—) 30 |CFBRT | Ope Tt et egetection o) Dominversion RF
+STN i . |
+10 TRON I teens serv ON sane DAI ie) 16-bit data output (Not used) APC— | Laser power inversion input 31. | RF OUT oO RF signal output
+4 1 - - tT
+: we: : Capacitor connection for phase difference .
+C-MEM | 32 |BDO oO Drop-out detection output
+11 | STAT | Tress oe oan Oe DAO © —_| 16-bit data output (Not used) memory prow ron ouipe
+12 T SMCK 0 7 Clock output (4.2336 MHz) t D7 T T APC+ 1 Laser power input 33. |RFIN | RF signal input
+ock Outpu . Z
++ ' 16 K RAMd t :
+13 PMCK 6 Pitch contro! clock output 0D /0 8 ata ourpu VREF fe) Reference current generation 34 | S-OUT ie) Focus search signal output
+(Not used, open) + — ; F °
++ tT 51 RAMOE 16 K RAM OE signat SENSE Oo Selector output (track-crossed) 35 |C-LW | Capacitor connection for triangular wave
+Track counter input signal —— generation
+14 | I! Not used, persion RAMWE 16 K RAM WE signa! 7
+(Not used, open) 52 signa HIN \ Tracking hold circuit input 36 | FE-OUT fe) Focus error signal output
+_ | 9
+= eT Test mode selection 53 RAMA O .
+15 | TEST ! (Not used, connected to +5V) Q 4 re) (pAMAO. aoe Ra et0: mse) HOUT fe) Tracking hold circuit output 37 |FEG | Focus error gain adjusting input
+RAMA10 ‘ ‘ :
+16 | X2 Clock output (16.9344 MHz) ON SPCNT | oo | oon speed control output (not used. 38 | FE-REF | Focus error comparison voltage generation
+Spindle motor signal ——+
+17 x1 | Clock input (16.9344 MHz) (ON at ’’L"’) \ Track-cross reference speed setting .
+C-MSP capacitor connection (not used, open) 39 |PDB | Photo detector current input (B)
+1 f DA output parallel/serial selection Spindle motor drive signal
+8 SEL (serial at ““L"’) on oe +——- C-AF Auto focus timer capacitor connection 40 |IVB fo) Current to voltage conversion (B)
+———— Spindle motor FG signal input _ rr
+19 | LOG fe) tNotused signal 20 KICK | oo | Track kick signal output 41 [IVA (o) Current to voltage conversion (A)
+u
+20 RDG fe) Clock output (Spindle motor control) | | Power supply (connected to +5V) | 42 |PDA { Photo detector current input (A)
+De-emphasis ON signal Power supply (Connected to +5V)
+21 DEMPH 0 (de-emphasis ON at ‘'H’’) oo + -
+70 PD .
+22 IPELAG o Interpolation flag e AN8371S (Data slice and PLL)
+(interpolation at ‘’H’’) 71 PCKO
+23 FLAGO ie) Error flag (error at “H’) 72 PCK | PLL extract clock input Function ne Mark /O | Function
+24 FLAG re) 16 K RAM address reset signal } + +
+LAG6 (reset at '’H’’) 73 VDD 1 Power supply {connected to +5V) Power supply (connected to —5V) 13° | PL2 ! PLL loop filter constant connection
++ +. _ +. +
+25 xXCK re) Clock (16.9344 MHz) output 74 EFM I | EFM signal input (PLL) RF signal output data-sliced into digital value 14 | FPC | Frequency comparison error signal input
+. | . .
+a 78 at SRF | L EFM signal input (DSL) EFM signal output synchronized with PCK 15 | RF I RF signal input
+26 DA15 0 16-bit data output 76 DO | Drop-out signal (Drop-out at ‘'H’’) +
++ GND terminal (digital system) 16 | ARF Oo RF signal output with AGC applied
+27 | DAI4 O 16-bit data output (Not used) 7 | Clvs | 11T servo OK signal (OK at “H"’) —
+78 | FPC PLL frequency comparision signal Clock output extracted from SRF 17 | AGC | ARF signal input for AGC drop-out detection
+; {4 -— + im
+28 DA13 ie) 16-bit data output 79 BSSEL 0 PLL frequency in take operation Power supply (connected to +5V) 18 |AC | AGC loop filter constant connection
+Y 1 =e \ { signal. (Not used) VCO free ran frequency adjusting current | .
+\ y 9 19 |DO fe) Drop-out detect I tput
+29 | DA12 fe] 16-bit data output (Not used) go | SRFO __ input | p-out detection pulse outpu
+4 | 4 j j j |
+81 | NSRF frenucney connection for VCO oscillation 20 | A:GND I GND terminal (analog system)
+30 DA11 fe) 16-bit data output (Not used) on ; -
+~~ T Capacitor connection for VCO oscillation 21 DSL | RE si . .
+; —— i , 82 RF — frequency signal input for data slicer
+| t i
+3 GNP GND termins Sub-code serial output data Resistor connection for VCO oscillation . . .
+; 83 SUBC fe) u frequency 22 |SLC I Slice level control signal input
+32 DAiO ie) 16-bit data output (Not used) +
+33 i DAQ fe) 16-bit data output (Not used) E | SBCK | | Clock for sub-code serial output Capacitor connection for PLL DO protection 23 | FC1 | Data slicer filter capacitor connection
+-Dl jata OU
+(Not used)
+__i L 1 1 PLL loop filter constant connection 24 | FC2 | I Data slicer filter capacitor connection
+
+— 33 —
+
+— 34—
+
+° MN15261PDU (
+
+T T
+Pin
+No. Mark Signal
+1 VSS GND
+2 xO —
+3 | Xi SENSE
+4 Poo PC
+- +
+5 P01 M DATA
+“
+6 Po2 MCLK
+—+
+7 PO3 MLD
+=
+8 P10 MRLY
+{_ —_
+9 P11 D-DAT
+10 P12 SYNC
+1 P13 D-DP
+12 SYNC —
+a
+13 RST RESET
+14 IRQ BLKCK
+15 P50
+t t KEY
+18 P53
+19 SBT CLDCK
+20 SBD SUBQ
+21 P20 TGC
+22 P21 TRV-H
+23 P22 TRV-R
+24 P23 TRV-F
+25 P30 CNT4
+© MN1550PDT (
+
+<
+o
+oO
+
+Osc1
+
+RST
+
+Bg
+n
+i?)
+iS)
+
+SMCK

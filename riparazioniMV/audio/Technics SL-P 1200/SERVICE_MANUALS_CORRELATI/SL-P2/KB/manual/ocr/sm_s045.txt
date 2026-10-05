@@ -1,0 +1,56 @@
+m@ MESSUNGEN UND JUSTIERUNGEN == Deut S Ch see
+
+DEUTSCH
+
+1. Justierung der Fokus-Verstarkung
+
+1. Die Verstarkungs-Justiervorrichtung mit Umschaltanschlu8 an
+das Gerat anschliefen.
+Kurzschlu&briicke (+15V) neben Stift
+13 von {C301 auf der 01-Platine.
+Kurzschlu&briicke (—15V) neben Stift
+12 von 1C301 auf der 01-Platine.
+Chassis o
+Steckverbindung. ... Den kurzen Stift. von CN103 auf der
+03-Platine herausziehen und den
+Umschaltanschlu@ am die Justiervor-
+richtung anschlieBen; dann den
+Anschlu& (5P) vom Umschaltanschlu8&
+an CN103 anschlieBen.
+2. Den Niederfrequenz-Oszillator auf eine Frequenz von 750Hz
+und 150 mVss Ausgangsspannung einstellen und TEST pin
+OSC IN und GND der Justiereinheit anschlieBen.
+3. Kanal 1 und Kanal 2 des Oszilloskops an TP1 und TP2 der
+Justiereinheit anschlieRen. (TP3 ist Masse.)
+Einstellungen am Oszilloskop:
+100 mV (beide Kanale), SWEEP 2ms, Input AC (Wechselspannung)
+4. Den Netzschalter der Justiereinheit einschalten und den Drehschalter der Justiereinheit auf ‘1'’ stellen; danach eine
+Platte auflegen.
+5. Den Netzschaiter einschalten. Wenn der Plattenteller sich zu drehen beginnt, erscheint 750Hz-Signal auf dem Oszil-
+loskop. Dann VR101 so einstellen, da& die Wellenform beider Kandle gleich ist.
+
+2. Justierung der Fokus-Balance
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘'2” eistellen; danach den Eingangs-
+anschlu& vom Oszillator trennen.
+2. TJ102 auf der 03-Platine mit einem Klemmenkabel an Masse anschlieBen.
+3. Anschiu& CN501 auf der 01-Platine herausziehen.
+4. Oszillaskop an TP1 auf 03-Platine anschlie&en und Platte auflegen.
+Anmerkung: P1 befindet sich zwischen VR102 und VR103.
+Einstellungen am Oszilloskop:
+200 mV, SWEEP 5 ms, Input Wechselspannung
+5. Den Netzschalter einschalten. Wenn der Laser aufleuchtet, erscheint eine S-formige Wellenform auf dem Oszilloskop.
+VR102 dann so einstellen, da& die untere und obere Spitze der Wellenform gleich sind.
+
+Anmerkung: Die oben erwahnte S-férmige Wellenform dauert ca. 2 Minuten lang an, wenn Stift 4 von CN412 an
+Masse angeschlossen wird, wahrend LD Jeuchtet, da die LD nach 5 ~6 Sekunden stoppt.
+6. Nach erfolgter Justierung ist das Klemmenkabel und CN501 wieder in den urspriinglichen Zustand zu versetzen.
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschaiter auf ‘2’ stellen.
+
+2. Das Gerat auf Auswurf (Eject) schalten.
+
+3. Ein veranderliches Voltmeter an TJ101 auf der 03-Platine anschlieBen.
+
+4. Den Netzschalter einschalten und VR103 so einstellen, da& die Gleichspannung des Voltmeters 0 + 10 mV betragt.
+

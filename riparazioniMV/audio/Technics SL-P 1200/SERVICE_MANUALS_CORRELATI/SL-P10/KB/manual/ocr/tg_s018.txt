@@ -1,0 +1,39 @@
+5, Focus servo circuit operation
+
+(3)
+
+FE signal
+
+FOON
+
+CN251()pin
+RF signal
+Cl
+
+1€104
+
+C1102 MN4023
+
+Fig. 3—11. Auto focus circuit
+
+FO ON command is delivered from system microcomputer,
+causing CN704 pin (2) and IC104 pin (10) to become "H".
+As a result, the sawtooth wave made by the triangular
+wave oscillator in IC104 is delivered to ICl104 pin (11).
+
+The sawtooth wave is applied from R138 to the focus
+servo amplifier input [AN7673 pin (17)] thus forcibly
+move the focus lens in the focusing direction.
+
+When the focus lens moves and is focused, RF Signal
+from photo detector comes out of CN251 pin (1). The RF
+Signal is applied to IC104 pin (1) through C118 (high
+pass filter), then the sawtooth wave delivered to IC104
+pin (11) stops and simultaneously IC104 pin (8) (RF ON
+detection) goes "H".
+
+(When IC104 pin (8) is "H", the focus servo loop switch
+selected at IC101 (AN7673) pin (23) is closed to acti-
+vate focus servo.)
+
+= G—

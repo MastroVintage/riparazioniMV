@@ -1,0 +1,53 @@
+8. Offset adjustment in drop-out mo . After the above-mentioned adjustment, remove the short lead in step 3.
+. Maximize VR501 by turning it fully clockwise.
+. Connect the oscilloscope to the points specified below. . Place the disc on turntable and press Play button. (Play mode).
+TJ101 (03 P.C.B.) . In play mode, connect TJ501 on 01 P.C.B. to GND.
+TJ103 (03 P.C.B.) ; ; . In the same oscilloscope mode as in step 2, adjust VR501 so that the oscilloscope wave is formed shown below.
+
+TJ401 (01 P.C.B.)
+Oscilloscope setting:
+VOLT 1V (both channel), SWEEP 0.5ms, Input AC,
+Trigger EXT. NORM mo
+
+. Play band 13 (0.5 mm black spot) of the test disc.
+
+. Watching the waveform of CH1 of.the oscilloscope,
+adjust VR103 so that the waveform amplitude near the
+trigger point is minimized. If not minimized, adjust so
+
+. EXT].
+that the waveform top and bottom are nearly symmetrical. -
+
+. Watching the waveform of CH2 of the oscilloscope, adjust VR106 so that the waveform amplitude near the
+trigger point is minimized. If not minimized adjust so that the waveform top and bottom are nearly
+symmetrical.
+
+. Best eye adjustment . Match the negative edges of both waveforms.
+
+. Connect CH1 of oscilloscope to TJ402 on main P.C.B..
+Oscilloscope setting:
+VOLT 1V, SWEEP 0.5us, tnput AC :
+. Insert disc and place unit in play mode. | pense Henan 11. Check of play operation after adjustment
+. Adjust VR102 so that the eye pattern of RF signal is 4 , =
+widest open. : es ee Check of skip search
+, po .F 1. Play an ordinary disc.
+2. Press the skip button and check to see that skip search is given. (Forward and reverse)
+Check of manual search
+1. Play an ordinary disc
+2. Press the manual search button and check to see that smooth manual search can be done at low and high
+
+. speeds. (Forward and reverse)
+10. PLL adjustment Check for defects
+
+1. Play the band 12 of test disc, and check to see that there is no sound skip or noise. (Black spot)
+
+- Place the unit in the Eject mode. (tray open) 2. Play the band 14 of test disc, and check to see that there is no sound skip or noise. (Fingle print)
+
+. Connect CH1 and CH2 of the oscilloscope to test points TJ701 ““FCLK” and TJ702 ““CLDCK” on 01 P.C.B.
+Oscilloscope setting: :
+VOLT 2V (both channels), SWEEP 20us, Input AC, Trigger CH1 + CH2 (NORM) © slope, Mode ALT.
+. Connect 1C301 pin 13 on 01 P.C.B. to GND.
+. Adjust L301 so that the timing waveform appears as shown below.
+
+Match the centers of both waveforms.
+

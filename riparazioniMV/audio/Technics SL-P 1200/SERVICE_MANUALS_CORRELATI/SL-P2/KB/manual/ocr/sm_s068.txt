@@ -1,0 +1,109 @@
+5. Alignement électrique de l’unité principlale. Suivre ie réglage, en se référant aux pages 11 ~ 14.
+
+6. Vérification du module 03
+
+* Aprés le réglage, dresser tous les éléments du montage en
+
+0 SSeeayse|iCNi0ic
+P10id
+
+les disposant a plat sur le odule 03 et réassembler sur Disposition des _- Disposition des
+
+\‘unité transversale. éléments plats eR a | P102| éléments plats
+* Une fois que le module 03 est monté, s‘assurer que la oS are!
+inféri du ur n’interfére avec aucun des
+face inférieure capteur n‘inter e Disposition ves ae
+éléments du montage. éléments plats <a des
+Par conséquent, s’assurer que les pistes sur le bord as éléments plats
+
+extérieur du disque soient accessibles.
+
+1. Ajuste de posicién de reposo
+
+. Asegurese de que los interruptores de hoja S101 (posi-
+
+cién de reposo) y $102 (posicidn de fin) no han sido
+
+magullados durante el rearme y, por lo tanto, puestos
+en “ON”,
+
+Si estan, cuidadosamente separe los contactos unos
+
+2mm.
+
+2. Aplique energfa a la unidad. Esto hard que el motor de
+movimiento transversal enrolle el fonocaptor dptico a
+la posicién de REPOSO.
+
+3. Desconecte el interruptor de alimentacion.
+
+4. Coloque la galga de posicidn de REPOSO sobre el
+plato giradiscos.
+
+5. Asegurese de que la lente esté concéntrica dentro del
+agujero de ta galga de posici6n de REPOSO, como
+mostrado en la Fig. B.
+
+Fonocaptor 6ptico esta demasiado
+
+cerca del plato giradiscos. (Fig. B)
+
+Para ajustar:
+
+1. Afloje el tornillo de sujecién y Lente de
+gire el ajustador de interruptor enfoque
+de REPOSO a la derecha.
+
+2. Observe que si el interruptor de Gaiga de posicion
+
+deteccién de Reposo (S101) de REPOSO
+
+esta demasiado hacia $102, Fig. B ‘NG’ (demasiado cerca)
+entonces el fonocaptor reposara
+demasiado apartado del plato
+giradiscos en la posici6n de
+
+Reposo. Si asi fuera, aplique
+
+energia y repita el paso 1 de Lente de
+
+arriba hasta que se detecta la enfoque
+deteccién de Reposo cuando la
+
+Tornillo de
+sujeci6n
+
+Ajustador de
+interruptor
+de REPOSO
+
+Plato giradiscos
+
+Fig. A
+
+Lente de
+enfoque
+
+lente estd concéntrica con el Galga de posicion
+
+agujero de la galga de posicién de REPOSO
+
+de REPOSO. Fig. C “Ok”
+No se requiere ningiin ajuste (Fig. C)
+
+Galga de posicién
+de REPOSO
+
+Fig. D “NG” (demasiado apartado)
+
+Fonocaptor optico esta demasiado apartado del plato giradiscos. (Fig. D)
+Para ajustar:
+Afloje el tornillo de sujecion y gire el ajustador de interruptor de Reposo a la izquierda.
+
+6. Para verificar el ajuste correcto, coloque el disco sobre el plato giradiscos y aplique energia a la unidad. Esto auto-
+ciclard e! fonocaptor éptico. Vuelva a comprobar alineamiento con la galga de posicién de REPOSO, como mostrado
+en la Fig. C.
+
+FRANCAIS
+
+ESPANOL

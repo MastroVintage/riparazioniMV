@@ -1,0 +1,45 @@
+Adjustment Manual
+
+1. ADJUSTMENT PROCEDURE
+
+Refer to the service manual for the disassembling methods of each parts.
+
+(Note) Avoid the direct entrance of laser rays into the eyes and exposure of the body to laser
+rays which are dangerous. Especially be carefull in the electric and optical pick-up
+adjustments because a laser beam is radiated from the lens of the optical pick-up when
+the power supply of unit is turned on. Also follow the adjusting procedures given
+in the manual.
+
+1-1. Preparation for Electric Adjustments
+
+@® Remove the cabinet, and front panel.
+@ Remove the power switch rod.
+
+@ Release the optical pick-up lock by pressing in the lock shaft located on the bottom side
+of unit ( @ (Lock) > = (Free)).
+
+(Note 1)
+
+The pick-up detects signals recorded on the disc with a laser beam. The pick-up
+moves as the programs are played back but the movement is not visible from outside.
+
+Caution:
+
+*Must remove a disc from the player and lock the pick-up by pressing in the lock
+shaft when the player is transported as in moving.
+Otherwise, the disc loading mechanism is moved and damaged.
+
+eAliso lock the pick-up by pressing in the lock shaft in (=-M) prior to disassembling
+the player.
+
+Lock shaft
+
+4
+
+(Unlock)
+
+&
+
+(Unlock)
+
+Lock Shaft

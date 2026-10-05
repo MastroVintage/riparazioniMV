@@ -1,0 +1,155 @@
+A
+B
+D611 FL Disp| ircuit
+SVDGL-9HYA L Display circu 104
+pel2 SRDPOOINO4
+SVDGL-9PG4 =| & 8 JS S& 5G 46
+Cc
+FC602 pgp5 (PAUSE) = = =—&ft seg fo Phase ae ded
+7 A 6 = al ala
+(1) PY
+RST
+| R606 PLAY) COSTCO NESOCSED
+— =e 2 | DESHSOPNOGOOESOGEHEO |]
+ea p6is
+Ne Oe SVDGL-9PR4
+c
+FC60 Wot, mili
+—— H —F} Hi] “arr 3 Os
+D a oo cH lS Te
+oO
+— ore feet. #
+eee Th geo
+oa minnie 33 Oia
+a
+(o °
+iN a i)
+———— ee pel4, 615 a6o2}
+———— = AI65 ltss
+gf ||. | _} 8s
+a es es ee
+SS
+@ rs ee ee ee ee
+E @ Q60I
+D635
+FC6OI 3 5 § Sy 2s
+a 5.0 g 8s 9 2 a6o2
+(2) 2SD636
+54 a
+rs (stop ) opervclese
+ol qe S605
+St ee ae
+4
+cm (0) (7) (4) (memory) (start)
+had il $624 $621 s6I8 609 S602
+sa} 2 | a rn
+(INDEX) (9) (6) (3) (F skip) |(F search)| (repeat)
+S627 S625 S622 sels 19 sero ite} s6o7 S608
+F a
+| ay) (8) (5) (2) | (B skip) [(B search)| ( pause)
+$628 sé626 $623 $620 sé6il S608 seo4
+SS ste | st) sted st
+G
+Traverse servo Loading motor drive
+
+©)
+
+Nona
+
+IC 401, 51P
+
+*
+”
+”
+*
+4
+”
+’
+
+1C401,43P
+
+”
+
+”
+
+1C401,64P
+CN410,2P
+1C401,1P
+
+1€401,37P
+1c402, 6P
+1C401,38P
+1¢402, 5P
+
+1C505, 2P
+1c502, 5P
+1c502,7P
+1C502,4P
+
+Le) SVIBA6209 -—
+
+,50P
+,49P 4H SRDPOOINS!
+,48P
+‘a7p
+146P
+,45P
+144P
+
+,42P
+s41P.
+
+IC65I, 652
+MN4538 Q65I~ 654
+Ae 10653 2SB641
+(5) |NoT useo (2) ggs512 MN4023
+
+250V
+350mA
+
+(U.S.A)-- ---Not used, Shorted! 0.0
+(CANADA)----Used
+
+AC 120V
+(60Hz)
+
+(VOLTAGE SELECTOR)
+
+A
+
+AC 110-120/220-240V,
+{50 or 6OHz)
+
+50
+(POWER) T250mA
+
+@) 5 SROPOOIXOS
+
+Power supply circuit
+
+SRDPOOINOG
+icl Ic2 1c3
+
+Svbs| | WB40 AN78MI5
+
+AN79NI5 AN7805
+
+04,5
+
+D2
+SVDS2VB20
+
+Ve W ATs’
+
+03 MAII80O os MAIOSI
+
+SRDPOO7TNII
+
+H5QI, 502
+
+OH-OOI
+
+AY AZ A2 Al
+
+i a — _
+

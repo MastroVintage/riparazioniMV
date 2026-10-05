@@ -1,0 +1,77 @@
+Deglitch Circuit
+
+R807 1C805 TLO82
+C811 R821
+
+from D/A __ PAN Reds = 1 6 ios A
+converetr v ; Leh LPF
+A 10 13 3 circuit
+I2 $2 5
+ll
+S:Sz2 0813 (Analog SW)
+
+R808 IC806 TLOS2 S3Ss 10814 (Analog SW)
+
+C812 R822
+R806 on “|
+o~o g Reh_ LPF
+10 ‘. 5 U 3 circuit
+
+nm
+
+1¢702
+MN6612
+
+Fig. 10—4. Deglitch Circuit
+
+— 108 —
+
+(DGLT R)
+
+|
+|
+|
+(DGLT 3 | |
+coro LULL LULL
+|
+
+|
+
+|
+
+IC 805 |
+(Leh OUT) , |
+
+|
+
+|
+
+IC806
+(Roh OUT)
+
+Fig. 10—5. Deglitch timing chart
+
+PAM signal from D/A converter circuit is separated into
+Lch and Rch signal by the switching circuit consisting of
+Ic802, 805, 806 and Sl - S4 (1C813, 814).
+
+The separation mechanism is explained in the following.
+Suppose the PAM signal input in the circuit of Fic.10-4
+
+is at point (A) of Fig. 10-5 in terms of time axis, then
+Ic802 pin (5) is at "H" and pin (6) at "L", therefore Sl
+turns ON and S2 OFF. Accordingly, the signal at poin A
+
+of input PAM signal passes through Sl and is delivered to
+Ic805 pin (1) (Lech OUT). In this case, S3 is OFF and S4
+is ON, therefore the input PAM signal is not delivered
+
+to I1C805 pin (1) (Rch OUT), and the previous state (signal
+at point C) is held by C812. Next, suppose the PAM signal
+is at point B in terms of time axis, then the operations
+of Sl - S4 at point A are reversed. So, the signal at B
+of PAM signal is delivered to IC806 pin (1) (Rch OUT),
+while IC805 pin (1) (Lch OUT) holds the previous state
+(signal at point A).
+
+— 109 —

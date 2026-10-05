@@ -1,0 +1,175 @@
+Traverse servo
+
+1C205
+a
+tal (a | 2 8
+TPO OT he iol, >
+fl 7
+mr | 2 1251
+Lot
+Ti Ox
+1c251
+a
+<a Traverse
+T motor
+I5V
+Off set adj.
+[I]
+[|
+
+Key switch
+
+| a
+
+1 4
+
+Loading
+motor
+
+0
+a
+
+Synchro rec
+
+» MNI421PCM
+
+Sensor "on
+
+Operation contro! and Remote
+control signal decoder
+
+Motor drive
+
+Direction
+select
+
+1C604
+SVIBA6209
+
+MN2114-2
+
+1C65I
+MNI430PCG
+
+Remote contro! data signal
+
+REV Operation control
+
+Display drive
+
+TRON
+
+'c202
+
+Q207
+
+FWD
+
+REV
+
+a BD
+
+6
+
+C204
+
+MNIS64PCL
+
+Ic7O1
+MN6614
+
+(cé6l2
+
+Address
+
+External
+
+AN5020
+
+MN2114-2
+
+Amplifier
+
+Ie SO CaUC
+
+1C401
+
+R03
+
+Error correction
+
+RESY CIRC Control
+
+3V
+
+Gain adj.
+
+AN6030
+
+Timing genera
+
+Remote control
+4 transmitter
+lav 3
+@® G
+joo7] DI008] aio! |
+e
+Q1002 aM
+@
+Q
+DI0O9 4
+Sy)
+e/
+
+Remote contro! key switch
+
+FCLK
+
+[>| Battery
+{s | Tr 3v
+
+8 10
+9 1c406
+5V
+na —
+3
+1c202
+rez0g 12s Lt}
+5
+Y
+r | !
+a2)
+a 3
+R eo c 4.32MHz
+Dabo
+3 3 1C414
+1c209 1C255
+5V
+Ld !
+=D
+I+ -_ S652 ON 8.64MH7 4
+— 1C207 / S652 OFF 8.64MHi
+j i 5V
+TR ON signal processing 1¢407
+Sto tt
+A (arc
+TS 3 mis
+M | r LOCK R
+° EFM Demodulato 1c705 my
+MN6615
+
+1cBeol
+
+AN6806 D/A Converter
+
+17V Convertei
+
+3
+1c802
+MSB Correction
+
+SOT:
+\ 22.7 us (44 1k
+
+Mz
+

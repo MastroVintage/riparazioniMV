@@ -1,0 +1,220 @@
+0402 85
+
+a 2SD973A
+b
+c
+
+R417 120K
+
+27 1c402
+AN6552S
+aa MOTOR DRIVE P
+
+SPEED SENSOR
+
+10
+
+OPTICAL PICKUP
+
+play 2ms O.1V/DIV
+
+11
+
+R418 82K
+
++ -
+Oa)
+CNIO3 ae cuioly |
+
+5
+0422
+
+QI4t, 161,181
+85 Sa08 SYSTEM CONTROL 2SD973A
+lee 1c4ol
+MNI5261 POU Q142, 162,182
+0408 a409 y 162,
+UN41I2—-UN4212 2SB793A
+
+li
+=
+Sy
+
+eocoas
+
+KEY MATRIX
+
+REMOTE DATA
+PROCESSING
+
+°°
+rs
+Dv
+oa
+
+a
+R407 1.5K
+
+atea
+FS
+C403 0.01
+
+°
+
+ams
+
+fe)
+1 R410 47K
+
+sense Fo
+
+5 | R409 4.7K
+< Rais 7K fr
+
+= CTT]
+pa TK]
+
+(3.3ms
+play
+
+5 x2(2)
+
+ie)
+0.236us V8s (1)
+
+ry ry
+OOO=—=® © OO © ©
+i
+
+Vee
+
+@
+oS HW
+
+O oe 68 — ee) Mini | °*
+2 TP Oo. 433377 {olo1e1e10)
+
+en ee
+
+tracking balance adj.
+
+3 Rie
+3.9K
+
+TRACKING gn 3x
+
+SERVO = =
+
+CI83_ 0.0068R194 68K
+
+C184 SOV! RI9I 150K
+
+®
+
+RI92 820K
+
+° Iclo2
+
+aS
+
+RITO uA o
+100. 14 <4 b
+Os
+pier‘ Iv/DIV 2
+
+pickup in
+
+oO S50
+zo
+oo 2x
+play2mé IV/DIV «2
+3 Focus offset
+adj.
+IC103, 104
+AN6554NS
+
+out
+
+C182 220P
+
+2
+RI82 560K
+
+OPTICAL
+
+58 play 0.5ys 1V/DIV
+ne AA i sy sor] SERVO grey WER 1
+FOCUS SERVO | aaa 33x RI4I IK Cl41 0.015 Tracking Es clo!
+offset adj. 88 AN8370S | || id) RRR
+
+play Q5ys O.1V/01V
+
+o,[
+:
+~ 508 l6vio
+507 0.001
+
+C510 0.
+
+ClO6 470P
+Rigs 47K
+
+Tracking
+
+RIO4 22K gain adj.
+
+RIG3 33K
+
+cl63 001
+KH
+
+Sovl
+
+play
+Ims 1V/DIV
+lah {02
+
+UN4112
+
+ahbijck
+
+'dmenofpg ab
+
+R389 270K
+
+LOO@OOOOODOOOOOOOOOOOO)
+
+OB
+
+1 66 h g 5G f
+
+090600000 COO OGG 00>
+
+e 46 4 36 ¢ b 26a IG NCF F
+
+2S
+BS : .
+CN35I gay f b
+lan ch (+) g
+©
+wv 0355 Hoy MOTOR n
+nase 2.5 ms x (-) i a
+8s 10K ve ro? (), 5 By WHT j
+[ (C351 . k u
+AN6552S :
+353
+0.001 s
+SPINDLE MOTOR CONTROL r
+0354 0355 q
+2SD0973A 2SB7934 I
+16K RAM m
+8
+n
+
+— 30 —
+
+—31—
+
+1€303
+SVICXK5816M
+

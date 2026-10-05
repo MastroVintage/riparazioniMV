@@ -1,0 +1,115 @@
+4. To Play A Disc From A Specific
+Point Within A Track
+(time random access)
+
+(For example, to start disc play from the 2 min.
+38s. point of track 5.)
+Procedure: ,
+. Press the number 5 of the numeric button.
+. Press the time button.
+. Press the number 2 of the numeric button.
+. Press the time button.
+. Press the number 3 of the numeric button.
+. Press the number 8 of the numeric button.
+. Press the play button.
+. Disc play begins from the 2 min, 38s. of track 5.
+. When the end of the disc is reached, the pickup returns
+to the first track and the player switches to the standby
+mode.
+
+Dy =
+
+OMAN DO BW
+
+5. Program Disc Play
+
+@ To program only one track (single program)
+1. To play one track from beginning to end.
+(Example: To-play track 3 from beginning to end.)
+
+3 memory
+Gt-ot be
+Track no. Program
+
+@ Only the track number segment of the programmed
+track will light and then flash on and off while the track
+is being played.
+
+@ The player switches to the standby mode after track 3
+has been played.
+
+2. To play an index
+(Example: To play track 3, index 2.)
+
+3 index 2 memory
+eg A a
+
+Index no. Program
+
+Track no.
+
+3. To play a track from the middle to the end.
+(Example: To play track 3 from the 2 min. 38s.. point
+to the end.)
+
+3 time 2 time
+
+memory
+
+Program
+Seconds 9
+
+4. To play a track from the beginning to the middle.
+(Example: To play track 3 from the beginning to the
+15 min. 23s. point.)
+
+3 memory memory
+
+Track no. Program Program
+
+Track no Minutes
+
+Seconds
+
+5. To play a track between the beginning and end.
+(Example: To play track 3 from the 5 min. 25s. point
+to the 12 min. 50s. point.)
+
+3 time 5 time 2 5
+
+Track no, Minutes
+
+memory
+
+memory
+
+Program Program rach no. Minutes
+
+time
+play »
+
+Seconds
+
+e To program more than one track
+(multi-program)
+
+1. To play several tracks out of order
+(Example: To play track 3, track 5 and track1 inthat
+other.)
+
+3 memory 5 memory 1
+n n
+
+Track no. Program Trackno. Program Track no.
+
+, play p>
+
+@ Only the segments of the programmed trax s light;
+all other segments remain out. ;
+
+@ The segment of the track currently being playa flashes
+on and off.
+
+@ To change a program entry, press the prognrm clear
+button before the memory button is presect. The
+program is now cancelled from that point onwad -

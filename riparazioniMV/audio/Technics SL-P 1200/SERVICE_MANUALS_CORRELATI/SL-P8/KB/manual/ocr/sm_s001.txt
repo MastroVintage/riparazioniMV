@@ -1,0 +1,231 @@
+SSF ORDER NO. DPD83100033C9
+
+Service Manual
+
+DIGITAL)
+
+*The colors of this model include silver and black.
+*The black type model is provided with (K) in the
+Service Manual.
+
+Specifications
+
+= Audio
+No. of channels:
+Frequency response:
+Dynamic range:
+S/N ratio:
+
+Channel separation:
+Wow and flutter:
+
+= Signal Format
+Sampling frequency:
+Correction system:
+
+D-A conversion:
+= Pickup
+Type:
+Light source:
+Wavelength:
+= Functions
+Search modes:
+
+Program functions:
+
+Display functions:
+
+Technics
+
+Total harm. distortion:
+
+Areas
+
+*(E)
+
+*(EK]
+*(XL]
+*(EG]
+*[EB)
+* (EH)
+*(EF]
+*(Ei]
+*[XA]
+*{PA]
+
+*[PE]
+*[PC]
+
+Specifications are subject to change without notice for further improvement.
+
+Weight and dimensions shown are approximate.
+
+2 (left and right stereo)
+
+4 ~ 20.000 Hz+0.5d8
+
+more than 96 dB
+
+more than 96 dB
+
+less than 0.003% (1 kHz, 0 dB)
+more than 90 dB ‘
+
+below measurable limit
+
+44.1 kHz
+
+Technics Super Decoding
+Algorithm
+
+16-bit linear
+
+Astigma 3-beam
+Semiconductor laser
+800 nm
+
+Manual search, !ndex search,
+
+Track skip, Index skip,
+
+Music scan
+
+Max. of 32 steps
+
+Location of beginning of tracks,
+
+Selection of starting and ending
+
+positions (by track no., index no.
+
+or time}
+
+Digital display—~No. of tracks,
+Total playing time (min., sec.),
+Track being played,
+
+Elapsed playing time, Index no.,
+
+Remaining playing time
+
+Segment display—No., of tracks,
+
+Track being played,
+Programmed tracks
+
+Operation buttons:
+
+Disc loading:
+
+Headphone output
+
+Jevel:
+
+General
+Power supply:
+
+Power consumption:
+
+Output voltage:
+
+Output impedance:
+Load impedance:
+
+Dimensions:
+(Wx D x H)
+
+Weight:
+
+Infrared Remote Control! Unit
+
+Remote control
+functions:
+
+Dimensions:
+(WxHxD)
+
+Weight:
+
+Batteries:
+
+Matsushita Electric Trading Co., Ltd.
+P.O. Box 288, Central Osaka Japan
+
+Compact Disc Player
+
+SL- P8IKk)
+
+|, [XL], [ ~
+EB), a [EF], (Ei),
+[XA], [PA], [PE], [PC]
+
+~~
+
+is available in Switzerland and Scandinavia.
+is available in United Kingdom.
+
+is available in Australia.
+
+is available in F.R Germany.
+
+is available in Belgium,
+
+is available in Holland,
+
+is available in France.
+
+is available in Italy.
+
+is available in Southeast Asia, Oceania, Africa,
+Middle Near East and Central South America.
+is available in far East PX,
+
+is available in European Military.
+
+is available in European Audio Club.
+
+Basic buttons—-7
+
+Program buttons— 14
+
+Music scan button— 1
+Repeat button—1
+
+Pitch contro} slider—1
+Motor-driven horizontal type
+Max. 200mW (adjustable),
+322
+
+~110—120/220—240V, 50/60Hz
+35 watts
+
+2 volts (at 0 dB)
+
+3302
+
+more than 5kQ
+
+43 x 32.5 x 8.8cm
+
+(16 $6" x 12 hex 3 1%42"')
+When disc holder is opened
+
+43 x 45.1 x 8.8 cm
+
+(16 6" x 1734" x 3/2")
+6.1 kg (13.4 Ibs)
+
+Basic buttons—6
+Program buttons— 14
+Music scan button— 1
+Repeat button—1
+6.4 x 15.5 x 1.4 cm
+
+100 grams (with batteries)
+UM—4 “‘AAA”" batteries or
+IEC RO3 or equivalent (1.5Vx2}
+
+Panasonic Tokyo
+
+Matsushita Electric Industrial Co., Ltd.
+1-2, 1-chome, Shibakoen, Minato-ku, Tokyo 105 Japan

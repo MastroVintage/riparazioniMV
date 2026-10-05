@@ -1,0 +1,226 @@
+PSL-P3 |
+
+English
+
+Specifications
+
+@ General
+Power supply:
+
+Power consumption:
+Output voltage:
+Output Impedance:
+Load impedacne:
+Dimensions
+(WxDxH):
+
+Weight:
+
+@ Audio
+
+No. of channels:
+Frequency response:
+Dynamic range:
+
+S/N ratio:
+
+Total harm. distortion:
+
+Channel separation:
+Wow and flutter:
+
+@ Signal Format
+Sampling frequency:
+Correction system:
+D-A conversion:
+
+@ Pickup
+Type:
+
+Light source:
+Wavelength:
+@ Functions
+Features:
+
+Deutch
+
+TECHNISCHE DATEN
+
+M@ Allgemeines
+Stromversorgung:
+Strombedarf:
+Ausgangsspannung:
+
+Ausgangsimpedanz:
+
+Lastimpedanz:
+
+Abmessungen:
+(BxTxH)
+
+Gewicht:
+
+Specifications are subject to change without notice for further improvement.
+Weight and dimensions shown are approximate.
+
+For U.S.A. and Canada:
+120V, AC 60Hz
+
+For others: ~110~120V/
+220~240V, 50/60 Hz
+
+33W
+
+2 volts (at 0 dB)
+
+3300
+
+more than 5 kQ
+
+43x33.4x8.2 cm
+
+(161%6" X13%42" x37")
+When disc holder is opened
+45.9 cm (181/46") (D)
+
+5.3kg (11.7 Ibs)
+
+2(left and right stereo)
+4-—20,000 Hz+0.5 dB
+
+more than 96 dB
+
+more than 96b dB
+
+less than 0.003% (1 kHz, 0 dB)
+more than 90 dB
+
+below measurable limit
+
+44.1 kHz
+Technics Super Decoding Algorithm
+16-bit linear
+
+Astigma 3-beam
+Semiconductor laser
+800 nm
+
+Manual search,
+
+Track skip,
+
+Index skip
+
+Music scan
+
+Track selection
+
+Index selection
+
+Numeric display:
+
+Total no. of tracks,
+
+Total playing time (min., sec.),
+Track being played,
+
+Elapsed playing time (min., sec.),
+Index no., Remaining playing time
+
+~110~120/220-—240 V, 50/60 Hz
+33 watt
+
+2 Volt (bei 0 dB)
+
+3300
+
+mehr als 5 kQ
+
+43xX33,4x8,2cm
+
+[neon Disc-Halter offen )
+45,9 cm (T)
+5,3kg
+
+Operation buttons:
+
+Disc loading:
+
+Bar display:
+
+No. of tracks,
+
+Track being played,
+
+No. of tracks remaining,
+Programmed tracks
+
+Basic buttons—9
+
+Program buttons—12
+
+Index button—1
+
+Music scan button—1
+
+Recall button—1
+
+Repeat button—i
+
+A-B repeat button—1
+Remaining time button—1
+Volume adjustment buttons—2
+Timer/auto pause/auto cue
+selector—1
+
+Headphone volume control—1
+Motor-driven horizontal type
+
+Headphone output level: Max. 80mV (adjustable), 322
+
+Infrared Remote Control Unit:
+
+Remote control
+functions:
+
+Dimensions
+(WxHxD):
+Batteries:
+
+m Audio
+Kanalanzahl:
+Frequenzgang:
+Dynamikbereich:
+Rauschabstand:
+Totalklirrverzerrung:
+Kanaltrennung:
+Gleichlaufschwan-
+kungen:
+
+Basic buttons—6
+Program buttons— 12
+Music scan button—1
+Repeat button—1
+A-B repeat button—1
+Recall button—1
+
+§.6x13.5x1.5¢m
+UM-4 “AAA” batteries or IEC RO3 or
+equivalent (1.5 Vx 2)
+
+Anderungen der technischen Daten vorbehalten.
+Die angegebenen Gewichts- und Abmessungsdaten sind ungefahre Werte.
+
+2 (links und rechts, Stereo)
+
+4-20 000 Hz+0,5 dB
+
+mehr als 96 dB
+
+mehr als 96 dB
+
+weniger als 0,003% (1 KHz, 0 dB)
+mehr als 90 dB
+
+unterhalb Messbarkeit
+

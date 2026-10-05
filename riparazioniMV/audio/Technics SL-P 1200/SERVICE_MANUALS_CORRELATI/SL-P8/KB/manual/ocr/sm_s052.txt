@@ -1,0 +1,28 @@
+CONTENTS
+
+4-5. Display command to display microcomputer .. 1.2... ese ee tee eee ee teens 23
+
+1. Remote-control System 2.0.0... cc cece eee eee eee eee nent eae 1~6
+1-1. Remote-control transmission and reception ..... 0... eee eee ene 1
+1-2. Remote-control transmitter/receiver 2... 0... ce ee eee eee eee 1
+1-3. Remote-control receiver amplifier... 0... cece ee eee tte 3
+1-4. Operation of remote-control decoding microcomputer ...-..-+eee sere rere 3
+1-5. Key matrix circuit 2... ccc eet eee eee eee ees 5
+2. Operation control Circuit ©... 6.6 eee eee ete eee teen teen eens 7~11
+9-1. Function of the circuit... 0... ce ec eee eet tenet teens 8
+2-2. Circuit around operation controller... ..... ccc et eee teens 9
+3. Pitch control circuit .... 0... cee ee eee eee eee eee teen ananes 11~ 18
+3-1, Features of SL-P8 pitch control 2.0... ce cc eee ete ee nen 11
+3-2. Principle of pitch control 6.6... 6c ccc eee te ete tenes 11
+3-3. Frequency variable circuit 2... 0... cece cee ee ene enn 12
+3-4, Frequency multiplication circuit 2.6... 6. eee ee eee teen ene 12
+3-5. Clock selector CircUit 0... cee ee eee eee eee teeta taees 13
+3-6. CLV control circuit .. 0... cc ee eee eee ene ete eens 17
+3-7. PCK clock signal... 0... ee cc ee ene tent e teen nen e enna 18 |
+4. Display circuit 00... eee tee eee nent nena! 19 ~ 23 )
+4-1. Function of display 2.0... ccc cere eee ee teen teens 19 2
+4-2. Configuration of display circuit . 2.1... cece ee eee eee ee 20 |
+4-3. Operation of display microcomputer ... 1.66... cece eee eee ete 22 |
+4-4, Display ON-tiMing 2... cee eee ee eee teen nnn 23 |
+|
+

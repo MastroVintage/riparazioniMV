@@ -1,0 +1,89 @@
+9. Digital signal processing circuit
+
+9—1. Function of digital signal processing circuit
+
+This circuit is the heart of a DC player and performs signal MN6611 MN6612 MN6613
+processing such as EFM demodulation, interieave and error
+
+correction, receiving EFM data from RF data pick-up circuit.
+
+System timing
+generation
+
+6.46.6 7.1X6.8
+8.64MHz 2.16MHz
+
+TTL compatible
++5V UM-l power source
+
+EFM demodulation Error correction
+
+9—2. Configuration of the circuit Process
+
+The block diagram of the digital signal processing circuit
+
+is shown in Fig. 9-1, which consists of 3 types of LSI. Chip size
+
+6.05.3
+
+About 13,000
+
+of elements
+
+The main specifications of the 3 LSIs are shown in Fig. 9-1. No.
+
+Operating
+frequency
+
+6 MHz
+
+ers rr
+level
+
+Power supply
+
+(4K RAM)
+
+—————
+
+CL
+
+MN6613
+unscramble
+
+Brror Aa
+correction it aa
+RAM
+
+MN6612
+RF data EFM System
+icku demodu- timing
+= . lation control
+
+(AN6806)
+Fig. 9-1 Block diagram of digital circuit
+
+Shave
+
+QIL 64pin
+
+Table 9-1 Spec of 3 LSI's
+
+Before explaining about the digital signal processing circuit
+consisting of the 3 LSI's, we refer to the recording system
+(signal configuration and processing) to describe the function
+of the playback system.
+
+X'Tel
+
+— Clock or address signal
+
+= Data signal
+
+* Signal processing by PCK (bit synchronizing clock) is up
+to writing into 4 KRAM, and X'tal frequency dividing clock
+is used for reading. Accordingly, jitter part of signal MNG6611 MNE 612 wine
+
+reproduced by RAM is absorbed.
+
+=30'— —91-—

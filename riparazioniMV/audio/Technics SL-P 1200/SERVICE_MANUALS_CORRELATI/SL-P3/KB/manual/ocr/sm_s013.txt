@@ -1,0 +1,87 @@
+=
+
+=
+
+Spindle motor
+drive coil P.C.B.
+
+How to remove the traverse unit ass’y
+[Optical deck unit]
+
+. Remove the front panel.
+. Remove the 4 setscrews [Fig. 19 : @ ~ @ ] of traverse
+
+unit. Screws & ~ @ are red.
+
+. Pull out the 8 connectors (CN405 ~ CN409, CN411,
+
+CN412, CN501) connected from traverse unit to main
+P.C.B.
+
+. Turn over the traverse unit and remove the nuts [Fig.
+
+20: @ ~ @ ], then the traverse unit ass’y can be
+removed.
+
+Note that the front and rear springs are different in color.
+
+How to remove the optical servo P.C.B. and
+spindle motor drive coil P.C.B.
+
+. Remove the 4 setscrews [Fig. 19 : @ ~ @ } of traverse
+
+unit.
+
+. Turn over the traverse unit and remove the optical
+
+servo P.C.B. setscrew [Fig. 21: @].
+
+. Release the claw from the optical servo P.C.B. Then the
+
+optical servo P.C.B. can be removed.
+
+. Remove the 2 setscrews [Fig. 21: @ , @ ] of spindle
+
+motor drive coil P.C.B.
+
+Then the spindle motor drive coil P.C.B. can be removed.
+
+How to remove the limit switch
+[Rest and end detecting switch]
+
+. Remove the optical servo P.C.B.
+. Remove the 2 setscrews [Fig.21: @ , @] of limit
+
+switch, and unsolder the limit switch.
+
+After fitting the limit switch [rest: disc’s innermost
+position detection] again, it is necessary to re-adjust the
+position.
+
+Limit switch
+
+—21—
+
+SL-P
+
+® © Spring (Silver)
+S) 41) Va @
+Belin @ S 8
+QO  Rikla Se (Silver)
+
+Spring
+
+Optical servo
+P.C.B.
+
+How to remove the loading motor
+
+. Remove the optical servo P.C.B.
+. Remove the belt from the loading motor pulley.
+. Remove the 2 setscrews [Fig. 21: @, @] of loading
+
+motor, and unsolder the motor leads.
+
+Connect the white lead to the (+) terminal of motor, and
+gray lead to (—) terminal. (The (—) terminal is indicated
+by arrow on the motor.)

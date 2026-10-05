@@ -1,0 +1,51 @@
+m@ SCHEMATIC DIAGRAM
+
+e Addition of P.C.B. (SRDP007N15) e Addition of diode and resistor
+
+4
+
+R276
+IK
+
+<4
+>
+2
+2
+S
+
+Addition -
+
+©
+w_|
+
+Addition
+
+@ REPLACEMENT PARTS LIST
+
+Remarks
+
+Fef.No. [OLD mp NEW Part Name & Description (Pcs)
+TRANSISTOR
+
+0207
+RESISTORS
+R141 ERDS2TJ102 ERDS2TJ101 Carbon, 1/4W, 1000, + 5%
+
+R273 Addition ERD25FJ103 Carbon, 1/4wW, 10kQ, +5%
+R274 Addition ERD25TJ273 Carbon, 1/4W, 27kQ, +5%
+
+R275 Addition ERD25TJ683 Carbon, —-1/4W, ~—68kQ, + 5%
+
+R276 ERDS2TJ102 Carbon, —_1/4W, 1kQ, + 5% 7 ||
+CAPACITORS
+
+c119 ECKD1H472KB ECFFIE104ZF Ceramic, 25V, orur, + 98% Py ]
+C126 ECKD1H152KB ECQM1H562KV Polyester, 50V, 0.0056uF, + 10%
+234 Addition ECEA1CN100S Electrolytic, 16V, 10uF ee
+
+Addition MA165 Diode, Traverse servo control
+
+ae iy
+
+=
+

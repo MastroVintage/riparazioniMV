@@ -1,0 +1,139 @@
+@ DISASSEMBLY INSTRUCTIONS
+
+e How to remove the cabinet
+1. Remove the 4 setscrews [Fig 1 ;@ ~ @] to remove
+the cabinet in the direction of the arrow.
+
+e How to remove the front panel
+
+1. Remove the cabinet. [Refer to “How to remove the
+cabinet”. ]
+
+2. Remove the 2 setscrews [Fig. 1 :@. @] of the front
+panel.
+
+3. Remove the 2 setscrews [Fig. 2;@ , @] of the front
+panel fitting, and release the 2 claws.
+
+4. Pull out the lead wires from the connectors of the digital
+P.C.B. and remove the front panel in the direction of
+
+the arrow.
+
+Note:
+When installing the front panel, remove the power
+switch rod and install the front panel from the disc
+holder side. (Take care not to scratch the disc holder.)
+
+e How to remove the fluorescent display tube P.C.B.
+
+1. Remove the front panel. [Refer to “How to remove
+the front panel”. }
+
+2. Remove the 3 setscrews [Fig. 3 ; @ ~@] of the fluo-
+rescent display tube P.C.B. and release the 9 claws, then
+the fluorescent display tube P.C.B. can be removed.
+
+*Open/close, repeat button and search/index button can
+
+be removed by removing the fluorescent display tube
+P.C.B.
+
+e How to remove the servo P.C.B.
+
+1, Remove the cabinet. [Refer to “How to remove the
+cabinet’. ]
+
+2. Release the 2 claws [Fig. 4] in the direction of the
+arrow and then lift the servo P.C.B.
+
+3. Push the 3 claws [one by one] in the direction of
+the arrow (A) in Fig. 5, and remove the servo P.C.B. by
+pulling it in the direction of the arrow (B).
+
+4. To remove the audio P.C.B., remove the setscrew @ .
+[Fig. 4]
+
+*When checking the circuit, do the job as in paragraph 2.
+
+© How to remove the digital P.C.B.
+1. Remove the servo P.C.B. [Refer to ‘How to remove the
+
+servo P.C.B.”7]
+
+2. Remove the 2 setscrews [Fig. 6 : @, @ | of P.c.B.
+holder.
+
+3. Remove the setscrew [Fig. 6 ; @] of the output jack
+holder.
+
+4. Remove the P.C.B. (with holder) in the direction of the
+arrow. [Fig. 6]
+
+5. To remove the digital P.C.B., release the 9 claws of each
+holder.
+
+e How to remove the power transformer
+1. Remove the cabinet. [Refer to “How to remove the
+
+cabinet’’.]
+2. Pull out the disc holder in the direction of the arrow
+[Fig. 7].
+3. Remove the setscrew [Fig. 7 : @] of the spindle motor
+drive P.C.B.
+Lead wires 4, Remove the 2 setscrews [Fig. 7 : @ ~ @] of the power
+transformer.
+Connectors 5. Remove the radiator setscrew [Fig. 7 : @@ ] and then
+
+remove the transformer block.
+6. Remove the 2 setscrews [Fig. 7: @ , @] of power
+supply P.C.B.
+7. Unsolder the 8 portions of power supply P.C.B. to
+remove the P.C.B.
+. Remove the switch rod from the power switch.
+9. Remove the 2 setscrews [Fig 7: @. @] of fuse
+P.C.B. holder.
+10. Unsolder the 5 portions of fuse P.C.B. and remove
+the fuse P.C.B. from the power transformer along with
+the holder.
+
+oo
+
+Disc holder
+
+Z| terme
+
+Spindle motor
+drive P.C.B.
+
+Servo P.C.B.
+
+Fig. 7
+
+e How to remove disc clamper
+
+1. Remove the cabinet. [Refer to “How to remove the
+cabinet”. ]
+
+2. Pull out the disc holder.
+
+3. Remove the disc clamper setscrew [Fig. 8 ; @ ] and
+remove the spring.
+
+4. Remove the disc clamper in the direction of the arrow
+[Fig 8).
+
+Disc clamper
+Stopper
+
+Notes:
+
+1. Be sure to pull out the disc holder and remove the
+disc clamper.
+
+2. Do not remove the stopper. If it is removed, re-adjust-
+ment will be needed.
+
+i)
+
+Fig. 8

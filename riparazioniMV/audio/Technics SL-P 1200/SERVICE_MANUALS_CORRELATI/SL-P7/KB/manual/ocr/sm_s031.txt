@@ -1,0 +1,135 @@
+10 11 12 13 14 15 16 17 18 19
+
+Ploy 2ms,5V/DIV
+
+r F Notes:
+NW wal |» 1. $1 : Power switch in “on” position.
+2.° $2 : Voltage selector switch.
+™ : 3. $101 : Rest switch. (Disc innermost position detection)
+a Tt Dropout (36pat7BEuHaD Spindle motor drive 4. $102 : End switch, (Disc outside detection)
+, | | 5. $103 : Disc holder close detection switch.
+— TT. ° 6. $104 : Disc holder open detection switch.
+0 7. $105 : Disc holder close detection switch.
+8. S655 : Forward skip switch.
+1. | a j 9. S656 : Reverse skip switch.
+ES 5 a BE [etveonar | a 10. S657 : Reverse search switch.
+3 24 go 11. S658 : Forward search swich.
+147 Lem ssn | PS sor 12, S659 : Pause/stop switch.
+46 > {00 5 > 13. S660 : Repeat switch.
+tor 4 14.9) Bs 10554 14. $661 : Open/close switch.
+10554 Iss 15. $662 : Play switch.
+- 16. The voltage value, and waveforms are the reference
+voltage of this unit measured by DC electronic voltmeter
+- (high impedance) and oscilloscope on the basis of chassis.
+
+Accordingly, there may arise some error in the voltage
+values and waveforms depending upon the_ internal
+
+"0.5 ys ,0.5V/DIV
+
+a 1501
+0404,405,55!
+
+AN6637
+
+i. Plo
+qT , [rs
+\
+|
+1
+i
+
+ts Wears cess impedance of the tester or the measuring unit.
+peed adj. 1€502 * The parenthesized are the values of voltage generated
+MN4066BS AN78MI5 during playing. Others are the voltage values in stop
+
+mode.
+
+Ploy 136us(7.35kHz)
+17. Part No. with o mark are not identical between regular
+
+/
+
+<
+15 s part No. and repair part No. supplied.
+/BE34] Pe So, when placing an order for repair parts, use the part
+
+No. in the replacement part list of repair parts.
+
+18. —— : +B voltage lines. * + Audio signal lines.
+— : —B voltage lines.
+
+19. This schematic diagram may be modified at any time
+with the development of new technology.
+
+20. Important safety notice:
+Components idenrifier by As make have special char-
+acteristics important for safety.
+
+R566 10K
+
+)—2) £3 f O—-D
+6] 477 56] 56
+(a7) 4.711 47) r
+
+fe]
+ee a
+R555 |
+Yt)
+8 nen
+f—Paaoa ik
+
+A2
+
+H50!1,502
+
+OH-OOIH
+
+ra
+50V022/ 563 S0V022
+
+R321 22K ! 2
+Waveform shaping Ma} |x =| us
+R423 (00K ~ gz 136 ys (7.35kHz)
+305,554 ieaor x! 5 »
+A4056 SVITC4QHOO4 Ss ~ 1s x S18 3 D2
+33k RADE 10K Sly! ws [Si SVDSIWB40
+‘ Lan al 1¢401 1¢40! & }
+Re OS 5 ti 08 37 HPSo 3 é 12,5
+: . 24 0 “ AN78MI5
+=
+
+R408 22k
+
+tasemee rt
+10.403 soo
+MN40538[ | | |
+
+if a [Pea Hit 5b t2i2are D> 1389
+-
+°
+
+O
+SST (2.3)
+
+0.5us,2V/DIV
+1C406
+
+SVITCAOH386
+
+1cao04 5 4
+| MN4066BS aL :
+ee IC406 1 AC {10-120/
+ey 2 220-240V
+____
+| (50/60Hz)
+
+_ ee
+
+,05us,2Vv/ OV (Ploy) O.Sys,2V/DIV
+
+cN202 cn201
+
+Norma
+4 PCK
+

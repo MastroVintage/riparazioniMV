@@ -1,0 +1,222 @@
+m@ DISASSEMBLY INSTRUCTIONS
+
+CAUTION:
+It is very dangerous to look at or touch the laser
+
+radiation. (Laser radiation is invisible.)
+
+With the unit turned “on”, laser radiation is emitted
+from the pickup lens.
+
+When doing the job, removing the cabinet and disc
+' clamper of this unit, be sure to turn the power
+supply off.
+
+e How to remove the cabinet
+
+1. Remove the 4 setscrews [Fig. 1 :
+cabinet.
+
+2. Remove the cabinet in the direction of the arrow as in
+Fig. 1.
+
+@ ~ OQ) of the
+
+How to remove the front panel
+
+. Remove the cabinet.
+
+. Remove the front panel setscrew, [Fig. 2:@].
+
+. Slightly open the front panel on both sides (arrow (@)
+in Fig. 2}, then remove the front panel from the projec-
+tion of chassis.
+
+4, Remove the front panel in the direction of the arrow ®),
+
+with care not to scratch the disc holder. [Fig. 2]
+
+5. Open the lid of 4 connectors (CN401 ~ CN404) of main
+
+P.C.B. (arrow © in Fig. 2) and then pull out the flat
+
+cable,
+
+WH @
+
+© Front panel mounting
+
+1. Release the power switch rod from power switch.
+(Power switch should then be set at “off’’.)
+
+2. Insert the chassis between front panel and keyboard/
+display P.C.B., then lift the front panel top to fit the
+front panel on chassis. (Fig. 3) Take care not to damage
+the disc holder.
+
+3. Set the power switch rod.
+
+e How toremove the operation button
+
+. Removethe cabinet and front panel.
+
+. Remove the 3 setscrews [Fig. 4 :@ ~ @] of the rein-
+
+forcement plate.
+
+3. Remove the 3 setscrews [Fig. 4 : @ ~ @ ] of the
+keyboard/display P.C.B., then the keyboard/display
+P.C.B. can be removed.
+
+4. Release the 13 claws of operation button case to remove
+the opertion button case from keyboard/display P.C.B.
+
+5, Search button can be removed by releasing the claw (A)
+in Fig. 5.
+
+6. Play button ass’y can be removed by releasing the claw
+
+®in Fig.5.
+
+Note: Remove the search button before removing the
+
+playbutton ass’y.
+
+7. Memory/index/repeat button can be removed by releas-
+ing the caw©in Fig. 5.
+
+8. Numericbutton can be removed by releasing the claw ©)
+in Fig. 5.
+
+NO —
+
+—11—
+
+/
+Operation button
+case
+
+plate
+
+Chassis
+
+Memory/index/
+repeat button
+
+_
+
+How to remove the main P.C.B.
+
+. Remove the cabinet.
+. Remove the 3 setscrews [Fig. 6 : @ ~ @ ] of the main
+
+P.C.B.
+
+. Main P.C.B. is secured with claws of main P.C.B. support.
+
+So, release the claws to remove the main P.C.B. from
+main P.C.B. support.
+
+. Remove the main P.C.B. in the direction of the arrow as
+
+in Fig. 6.
+
+Note: The supplied of L.S.1. module P.C.B. is assembly.
+
+WN > 6
+
+Note: Shift the disc holder forward to remove the disc
+
+4.
+
+| CAUTION:
+Precuations for disc clamper fitting
+When fitting the disc clamper again, follow the pro-
+cedure given below. (Be sure to turn power switch
+“off'’.)
+1.
+2.
+
+3.
+4.
+
+5
+
+Note: If the above-mentioned size is deflected, noise
+
+. Remove the cabinet.
+. Shift the disc holder forward.
+. Remove the 4 setscrews [Fig. 7: @ ~ ® ] of the disc
+
+(Part No. SRDPO0O1NO2A)
+How to remove the disc clamper
+
+clamper, then the disc clamper can be removed.
+
+clamper.
+To remove the magnet of disc clamper, raise the claw of
+magnet fixing plate and turn it clockwise. [Fig. 8]
+
+Remove the magnet of disc clamper.
+
+Temporarily tighten the 4 setscrews of disc clamper
+with disc holder projected.
+
+Close the disc holder.
+
+Move the disc clamper so that the size between the
+turntable platter center spindle and disc clamper is
+as shown below. Then tighten the disc clamper
+setscrews.
+
+Set the magnet in place.
+
+might be produced from disc clamper during
+play mode.
+
+Adjust with these screws. &=
+=
+
+tatpt} Sizes ‘a’ and ‘b’ should
+hort be equal.
+
+PWN @
+
+How to remove the power transformer
+
+. Remove the cabinet.
+
+. Shift the disc holder forward.
+
+. Rélease power switch rod from une power switch,
+
+. Remove the 3 setscrews [Fig. 9: @ ~ @ 1 of the
+
+power transformer and take the power transformer
+block out of the chassis.
+
+. Unsolder the power transformer terminals of power
+
+source P.C.B., then the power transformer can be
+removed.
+
+. To remove the fuse P.C.B., unsolder at 5 portions of
+
+fuse P.C.B.
+
+Main P.C.B.
+
+L.S.1. Module
+(Digital) P.C.B.
+
+Fuse P.C.B.
+
+Unsolder
+
+Power switch rod
+
+Bottom side
+
+Power source P.C.B.
+
+Fig. 9

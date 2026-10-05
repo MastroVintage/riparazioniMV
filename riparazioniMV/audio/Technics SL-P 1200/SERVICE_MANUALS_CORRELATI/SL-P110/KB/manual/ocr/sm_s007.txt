@@ -1,0 +1,115 @@
+3 Random access play (When the unit is in the stop mode.)
+
+a
+———= = = ‘close rapeet tome moge “ST pene -tag —amarcr — stop-clear play:pause |
+
+1 While watching the track number display,
+press for an instant (less than one second) to
+specify the desired track. (See @ below.)
+
+Button to move the
+
+pickup forward. pickup backward.
+
+@ The display below shows track 3 is specified.
+
+Track number
+
+Button to move the
+
+play/pause
+
+2 Press
+
+(See @) below.)
+
+@ The play indicator (») illuminates and play begins from
+
+track 3.
+
+4 Skip play
+
+(During play or the pause mode.)
+
+@ Forward or backward track skip
+play
+
+@ While watching the track number display,
+press for an instant the forward or backward
+ey skip/search button until the desired track has
+been located. (See © beiow.)
+Forward skip/search button
+(Pickup skips forward)
+
+Backward skip/search button
+(Pickup skips backward)
+
+5 Manual search play
+
+(During play or the pause mode.)
+
+@ To play the disc from a specific
+point
+
+Keep the forward or backward skip/search
+
+button pressed to move the pickup forward or
+
+backward. Release the button when the
+
+desired point has been reached (as shown by
+the display). (See @ below.)
+
+Forward skip/search button
+
+[* ] (Pickup moves forward)
+
+Backward skip/search button
+(Pickup moves backward)
+
+| !
+
+S| openictove cepest tmemoae “EN — fae —search— s0p-csnar |
+
+=~ en Re
+
+@ Pressing one of the skip buttons for an instant activates the
+quick skip mode.
+
+Forward skip
+
+© During automatic play, the pickup skips to the beginning of
+the next track each time the button is pressed.
+
+During program play or program repeat play, the pickup
+skips to the beginning of the next programmed track each
+
+time the button is pressed.
+
+ww Backward skip
+
+During automatic play, the pickup skips to the beginning of
+the current track. If pressed again quickly, the pickup skips
+to the beginning of the previous track.
+
+®During program play (repeat function not activated), the
+pickup skips backward only to the beginning of the current
+track.
+
+*During program repeat play, the pickup skips to the
+beginning of the current track. If pressed again quickly, the
+pickup skips to the beginning of the previous programmed
+track.
+
+@ ®The pickup moves slowly at first and then rapidly if one of
+the buttons is held down for more than about 3 seconds.
+© If one of the buttons is pressed while a disc is being played,
+sound from the disc can be heard as the pickup moves. The
+output level at this time is decreased by 12 dB (1/4)
+
+compared with the normal level.
+
+eDuring program play, the pickup can only be moved
+between the beginning and end of the track currently being
+played.
+

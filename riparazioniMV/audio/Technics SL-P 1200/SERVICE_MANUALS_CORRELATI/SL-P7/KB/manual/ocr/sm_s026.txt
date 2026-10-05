@@ -1,0 +1,106 @@
+@ PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM
+
+Laser P.C.B.
+
+DIN SYNC
+JACK REC
+
+OUTPUT
+(R)
+
+Photo detector
+
+, DR a P.C.B.
+tT 2
+L HWY KRC B
+
+Servo P.C.B. ef O— 220m
+
+Brown Orange IC3
+ge oO
+
+1 8
+
+Tea. ee Oger
+
+LPF802
+
+1 8
+Q— Bue
+= jeneg D.
+eo. on
+
+Yellow White
+
+i CNIO? J
+
+Audio P.C.B.
+
+| CN202 |
+
+1
+s)
+Q
+»
+vu
+Oo
+o
+
+8
+
+rd
+
+8
+
+10
+
+Traverse
+
+Blue motor
+
+33) Red _
+Actuator g 5
+P.C.B. Fs MM ..
+
+13
+
+[iE] Head amplifier =
+P.C.B. -
+
+1
+0
+Q
+z=
+8
+| CN203 |
+10 1
+
+WW CNII2
+13 #12
+N
+5
+
+5
+CN106
+>.
+CNI05|
+Black
+Red
+Brown
+Brown
+Red
+
+a |
+44] i | a 7 CN203 I
+Spindle motor Spindle motor il n
+aa drive P.C.B. Brown H j it Pe]
+_ Loading $105
+motor 5 (Close 1)
+Red | =
+[|
+$103 $104 2 a 7 cnso2_
+
+(Close 2) (Open)
+
+{] Display P.C.B.
+

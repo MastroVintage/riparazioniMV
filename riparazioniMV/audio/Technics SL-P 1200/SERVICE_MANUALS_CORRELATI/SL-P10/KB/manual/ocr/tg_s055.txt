@@ -1,0 +1,52 @@
+6—3. CLV servo circuit operation
+
+The actual circuit of CLV servo is shown in Fig. 6-5.
+
+e Spindle motor drive circuit
+
+IC301 (AN6635) is the drive IC for spindle motor.
+
+Pins (10) and (11) of this IC are the reference voltage and
+control voltage terminals for motor control.
+
+In this unit, pin (ll) is the reference voltage terminal that
+is adjusted to 6.3 V by VR301.
+
+The control voltage of pin (10) is supplied through the analog
+switch of IC303 (MN4066B). Also, pin (9) of IC301 is ON/OFF
+terminal of IC and it is operated with open terminal (the
+inverter in the previous stage is open collector type) and its
+function stops at "L".
+
+Rough servo circuit
+
+Ic302 (AN660) is the control IC for rough servo.
+
+The reference signal fs of rough servo is applied to pin (1)
+of this IC, and comparison signal FG is applied to pin (16)
+from pin (1) of IC312.
+
+PT is equivalent to FG of spindle motor. The output of IC is
+speed control voltage at pin (8) and phase control voltage at
+pin (4), which are mixed by R309 and R312 before going into
+pin (6), and taken out of pin (7) as control voltage.
+
+The control voltage is put into pin (1) of IC303 (MN4066B) to
+set up rough servo when pin (13) is at "H".
+
+IC302 pin (13) is the reference voltage terminal of rough
+servo. The reference voltage is necessary to make a voltage
+in direct proportion to fs.
+
+The circuit to meet the purpose is F-V change-over circuit
+consisting of IC309 (A), Q301, D202, 204. The F-V changeover
+circuit is shown in Fig. 6-2.
+
+VR304 is used to adjust the time of one-shot multi IC309 (1/2)
+so that the voltage of IC302 pin (13) is about 5 V at 500r.p.m.
+and about 2 V at 200 r.p.m.
+
+VR303 is adjusted to 6 V to determine the synchronizing point
+of rough servo.
+
+—62—

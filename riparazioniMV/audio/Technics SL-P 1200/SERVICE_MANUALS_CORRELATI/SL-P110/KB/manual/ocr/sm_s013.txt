@@ -1,0 +1,88 @@
+@ PACKING
+
+P3-1 (Included in P3)
+
+@ REPLACEMENT PARTS LIST
+
+Notes: 1. Part numbers are indicated on most mechanical parts.
+Please use this part number for parts order.
+
+2. Important safety notice: (K) U.S.A,
+Components identified by A, mark have special (K) (S) ...Canada.
+characteristics important for safety. (K) (S) Switzerland and
+When replacing any of these components, use only Scandinavia.
+manufacturer’s specified parts. (K) (S) United Kingdom
+
+3. Bracketed indications in Ref. No. columns specify the area. o . .
+Parts without these indications can be used for all areas. (K) (S) .---Australia.
+
+4. The “S” mark is service standard parts and may differ from (K) (S) --F.R. Germany.
+production parts. (K) (8) ...Belgium.
+
+5. ®-marked parts are used for black type only, while O- (K) (S) .. Holland.
+marked parts are for silver type only. (K) (S) ... France.
+
+6. Part other than ®-and ©-marked are used for both black and (K) (S) i Italy.
+silver types. (K) (S) ....Asia, Latin America,
+
+7. The parenthesized numbers in the columns of description Middle Near East,
+
+stand for the quantity per set. Africa and Oceania
+
+Color (K) (S) ... Saudi Arabia.
+
+(K) (S) | [PA]....East PX.
+(h).~-Black Type (K) (S) .... European Miliary.
+(S)...Silver Type (K) (S) ....European Audio Club.
+
+INTEGRATED CIRCUITS
+
+1C801 SVIPCMS4HP ic
+(C803 AN8376S Ic
+1C804, 805 SVIGAO11 Ic
+
+TRANSISTORS
+
+Q11, 15, 141, 161, 2SD973A Transistor
+181, 402
+Q12~14, 16, 142, 2SB793A—QRS__ Transistor
+
+Description
+
+D114, 12 MA4091—M Zener
+015, 16 MA4068TA Zener
+D017 MA4330 Zener
+D18 MA4082M Zener
+D1i9~26 A. SVDMPG06G Rectifier
+D181, 182, MA165 Diode
+
+401~404, 406,
+
+408~ 413, 803
+
+1001~ 1004
+D407, 415~418 MA165
+
+Ref. No. Description
+
+INTEGRATED CIRCUITS
+
+1C11, 12 SVIFUIS
+1013 SVIM5236L
+1G101 AN8370S.
+1C102, 802 MN6636S
+16103, 104 ANOSS4NS
+1C301 MN6617S
+
+(C302 MN6618A
+1C303 MN4416S
+1€304 EHDGA1243
+1C401 MN15261PDF —1
+
+2SB642 Transistor Except {M, MC]
+1C402 AN6552 Q101 280637 Transistor D501 MA153
+1C403 MN1280—-R Q801, 802 28C03311—Q Transistor
+1C404 MN1550PDT Q803 UN4113 Transistor CRYSTAL
+Except [M, MC] Q1001 UN4212 Transistor
+1501 AN8290S UN4112 Transistor X301 SVQ16CKSS 16.9344 MHz
+

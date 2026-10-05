@@ -1,0 +1,42 @@
+Data transfer from MN6610 to system microcomputer
+
+The data transferred from MN6610 to system microcomputer
+MN1654 are converted into time information for PU position.
+The data line on the circuit is the arrow-marked part shown
+in Fig. 11-8. This line is the bus line.
+
+The operation of MN6610 is explained in the following. The
+
+inside block is shown in Fig. 11-9. Step pulses from traverse
+microcomputer (MN1400) are appplied to pins (7), (8) (SNSA,
+SNSB). The pulses are up-counted in forward direction and
+
+down-counted in reverse direction by the 10-bit counter.
+Also, the inner-most position detection signal is at pin (9)
+(LMT SW) and the counter operation starts with this signal.
+
+The contents of the counter indicate the PU position but it
+is better to convert them into time information for random
+access or display, therefore ROM is used for data conversion.
+The output of ROM is taken out as 16-bit data, and the detail
+is shown below.
+
+1 ~—-3 4 4 4
+t Upper part Lower part Upper part Lower part
+TOC area/ Of minute of minute of second of second
+Program
+area
+discrimination
+Fig. 11-7
+
+The multiplexer has a function to deliver the 16-bit data
+separately 8 bits each. When pin (2) (DISABL) is at "L",
+pin (3) (SELECT) is at "L" and the minute data, at "H", then
+
+the data are transferred from pins (13) - (20) (DO1l - DO8)
+to system microcomputer.
+When pin (2) (DISABL) is at "H", pins (13) - (20) (Do) parts
+
+are of high impedance to cope with bus line.
+
+—118-

@@ -1,0 +1,230 @@
+SL-P
+
+m@ REPLACEMENT PARTS LIST
+(Cabinet, chassis and Optical deck unit parts)
+
+Notes: 1. Part numbers are indicated on most mechanicai parts.
+Please use this part number for parts orders.
+
+(S) (K) eee
+
+2. Important safety notice: A.
+Components identified by A mark have _— special (S) (K) [MC]..... Canada. oo,
+eee t (S) (K) (E)...... Switzerland and Scandinavia.
+characteristics important for safety. (S) (K) [EK] Uni Kinad
+When replacing any of these components, use only (8) (K) EK]... ned inggom,
+manufacturer's specified parts. (Nik) | [EG]... FR Ger
+3. Bracketed indications in Ref. No. columns specify the area. (S) (K) [eB] | Bel “o rmany.
+Parts without these indications can be used for all areas. (S) (K) [EH]... Holland,
+4. The " G)” mark is service standatd parts and may differ (S) (K) [EF] ..... France ‘
+from production parts. (s) (K) [Eil...... Ital ‘
+5. ®) -marked parts are used for black only, while Omarked (S) (K) [XA] se Y . . .
+mI SL SYK) | OTXKAT OL, Southeast Asia, Oceania, Africa,
+parts are for silver type only. Middle Near East and C
+6. Parts other than (© -and Omarked are used for both black South A ar East and Centra
+and silver types. (s) (kK) | [Xz] New Zealand.
+7. The parenthesized numbers in the columns of description (S) (K) [PA]... East PX .
+stand for the quantity per set. (S)(K) | [PE] ..... European Military.
+(S)(K) | [PC] ..... European Audio Club.
+
+Perna [penne | oveeion
+
+CABINET and CHASSIS PARTS
+
+SRUZ001N03 Sheet, Cabinet
+SRUMO03N03 Terminal Plate (1)
+UR41FT8 Filter, Remote Control
+
+Receiver
+
+Part No. Description Part No.
+
+CABINET and CHASSIS PARTS CABINET and CHASSIS PARTS
+
+SRACOO3NO1E Front Panel Ass’y 16 SRGZO002N01 Rubber, LED Holder
+
+(Sitver Type)
+
+SRACOO3N21E | Front Panel Ass’y 17 © | SRKTOO3NO03 Knob, Timer
+(Black Type) (Silver Type)
+
+17 ® | SRKTOO3N23 Knob, Timer
+SRKTOO1N06 Button, Open/Close (Black Type)
+
+SRUPOO1NO5
+SRUMO01NO7
+SRDJO01N13E
+
+Base, Clamper
+Bracket, Switch 1)
+Connector Ass’y
+(2 pin) (1)
+Plate, Clamper (1)
+Sheet, Clamper
+Plate 2)
+Clamper, Disc (1)
+Magnet (1)
+Plate, Clamp 1)
+Clamp Shaft (1)
+Spring, Clamp (1)
+
+SRKBOOINO1 Badge, Technics 18 SRKTK15N26 Knob, Power
+(Silver Type) (Silver Type)
+SRKBO01N21 Badge, Technics ® | SRKTO15N26 Knob, Power
+(Black Type) (Black Type)
+
+SRUPOO1NO6
+SRUZO01NO2
+
+SRKKO03N01 Ornament Plate, SRUMO01N04 Rod, Power Switch
+Display (1) SRUMOO1NO02 Support, Main P.C.
+
+SRKKO02NO03 Filter, Display (1) Board
+SRUMOO1NO1 Terminal Plate
+
+SRUMOO03N01 Case, Operation Button SRDJO07N04 Jack, Sub Code
+(Silver Type) (1) SRDJOO7NO05 Jack, Rch Output
+SRUMO03N21 Case, Operation Button SRDJOO7NO6 Jack, Lch Output
+(Black Type) (1) SRQS001N01 Spring, Ground
+SRUPOO1NO1 Chassis
+
+SRUMO001N06
+SRKDOO1NO1E
+SRUPOO1NO7E
+SRXJO01NO1
+SRQA001NO1
+
+SRQA001N02 Spring, Clamp
+SRUMOO7NO5E | Disc Tray Ass'y 1)
+SRUMO001NO09 Disc Case (1)
+SRKKOO3N03 Ornament Plate,
+
+Disc Case (1)
+SRUM007N07 Cam, Disc Case (1)
+SRQHOO7N02 Spring, Cam (1)
+SRUPOO1NO9E Loading Guide (1)
+SRGCO07N05 Rubber, Loading
+
+Guide (2)
+SRUMOO1N13 Rack Gear (1)
+SRUMO01NO08 Switch Arm
+
+SRKTOO1NO1 Button, Play/Pause/
+Stop/Skip 27 [M, MC] | SRUPOO3N02 Rear Panel
+
+(Silver Type) 27 [other | SRUPOO3S02 Rear Panel
+
+SRKTOO1N31 Button, Play/Pause/ areas]
+
+Stop/Skip
+(Black Type) 28 SRGAOO8NO1 Foot
+
+29 SRUMO001N10 Spacer, P.C. Board
+
+SRKTO01N02 Button, Search Support
+(Silver Type) SRUMOSONOS Support
+
+SRKTOOIN32 Button, Search
+(Black Type) SRUMO001M03 Cover, Fuse P.C.
+Board
+SRKTOO3NO02 Button, Repeat 31 [other | SRUMOO1NO3 Cover, Fuse P.C.
+(Silver Type) areas] Board
+
+SRKTOO3N22 Button, Repeat
+(Black Type) 32 [MC] SJT345 Holder, Fuse
+
+32 Except | SUT347 Holder, Fuse
+
+SRKTOO1NO4 Button, Number 6~0 for (MJ
+(Silver Type) area
+
+SRKTOOIN24 Button, Number 6~0
+(Biack Type) 33 [XZ] A | SFDJHSC515-1 | AC Socket
+
+SFDJHSCO0509 | AC Socket
+
+SRQS007N02 Spring, Switch Arm )
+SRUMO07N15 Guide Plate (2)
+SRUPOO7NO7 Holder (2)
+SRUPOO1NO8R Loading Base (1)
+SRUMO07NO06 Lock Arm (1)
+SRQS007N03 Spring, Lock Arm (1)
+SRUMO07N17 Cover, Switch (1)
+SRDJOO1NO3E Connector Ass’y
+
+(2 pin) (1)
+SRUGOO7NO2 Gear, Transmission (1)
+SRUGOO7NO3 Gear, Loading (1)
+
+SRKTOO1NO5 Button, Number 1~5
+(Silver Type)
+SRKTOOIN25 Button, Number 1~5
+(Black Type)
+
+SRUGOO1NO1 Gear, Pulley 1
+SRMHO01NO02R_ | Motor Loading (1)
+SRDJOO1NO2E Connector Ass’y
+
+(2 pin) (1)
+SRGCOO01NO01 Rubber, Motor (2)
+SRGBO007N02 Belt, Loading Motor (1)
+SFYB~5-32-P | Ball
+SRGCO07N06 Rubber, Cam
+
+OPTICAL PICK-UP DECK UNIT PARTS
+
+SRLPOO7NO1A Optical Pick-Up Ass’y (1)
+SRUMO07N22 Bracket, Optical
+
+Pick-Up (1)
+Spring, Bracket (1)
+Cover, P.C. Board (1)
+Optical Deck Unit
+
+Base (1)
+Motor, Pick-Up Drive (1)
+Connector Ass'y
+
+(2 pin) (1)
+Cushion Rubber (1)
+Holder, Motor (1)
+
+SFDJHSC0515 | AC Socket
+
+SRKTOO3NO1 Button, Memory
+(Silver Type)
+
+SRKTO03N21 Button, Memory
+(Black Type) (1) SRACO01NO03 Cabinet (Silver Type) (1)
+
+SRACO01N23 Cabinet (Black Type) (1)
+
+SRKKOO1NOS Ornament Plate, Discc
+Holder (1) SRNNOO3C01 Name Plate (1)
+
+SRDJHLJ15401 | Jack, Head Phone (1) SRNNOO3S01 Name Plate (1)
+SRNNOO3G01 Name Plate (1)
+
+SRUMO002N03 Spacer (Silver Type) (1)
+SRUMO002N23 Spacer (Black Type) (1)
+
+SRQS007N01
+SRLCO07N03
+
+SRNNOO3X01 Name Plate (1) SRUKOO7NO2E
+
+SRKTOO2NO2 Knob, Headphone Level
+Control (Silver Type) (1) SRNNOO3PO1 Name Plate (1)
+
+SRKTO002N22 Knob, Headphone Level
+Control (Black Type) (1) SRNNOO3P02 Name Plate
+
+SRMHO01NO1R
+SRDJOO1NO1E
+
+SRGCO07N01
+SRUMO07N19
+
+SRUMOQ02N04 Holder, Disc SRNNOO3RO1 Name Plate
+Muminator (1)
+

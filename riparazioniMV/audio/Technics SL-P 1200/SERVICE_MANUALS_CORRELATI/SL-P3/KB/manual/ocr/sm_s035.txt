@@ -1,0 +1,134 @@
+Name
+of pin
+
+Name
+of pin
+
+1/0
+Division
+Attenuation ON/OFF,
+ATSB po effective at ‘‘H”
+MUTE | oo | Muting reay ON/OFF. .
+
+Effective with de-emphasis
+switch ON/OFF at ‘‘H’”’
+
+| oo | Disc holder open command
+P71 CLOSE | oo | Disc holder close command
+
+Pause indicator display
+P72 PAUSE Fo | (Light up at H"’) =
+| 63 osc1 | TTcK Clock (4.32 MHz) input
+
+P73 PLAY po | Play indicator display
+
+(Light up at ‘’H’')
+5V sep9 Electronic switch and volume control LED Driver
+
+Comparator circuit
+
+1/o 1/0
+Division Division
+
+Track counter
+
+Synchronizing signal extracted
+from disc
+
+Input for sub-code test from
+
+EFM demodulator.
+
+Tracking error signal input terminal
+
+Display data (segment) output
+
+a
+=
+Pie]
+
+vu
+~
+[=]
+
+37
+39
+Traverse servo standard detection
+
+Traverse servo standard detection
+
+Laser diode, focus servo ON/OFF
+
+Traverse Reverse command, 10G
+
+effective with ''H”’ pulse
+
+wo
+@)
+
+Traverse Forward command,
+effective with ‘“'H” pulse
+
+Key scan input
+
+OSC2
+
+x
+q)
+
+Display data (Digit) and key
+matrix data output
+
+<
+
+~
+
+a
+Q)
+
+~
+
+Be
+D
+je)
+o
+
+Spindle
+motor drive
+
+I
+
+o
+re
+@m
+TT ON
+
+D_ IS Sw IS
+
+5 Leh ab tend Yon)-b Con 15V
+AJ, \ AJ, ey Nt J
+(4) (6) (8) (10)
+
+TTT TS
+
+i (&) (2)
+
+ee 15V (pt)
+. : : es Fo)
+L
+~~ RL9OI 15V
+oo . t Battery “Eo & Pe Headphone
+ces
+
+I
+
+Ices!
+3
+
+TL >
+} ua
+
+PLL Circuit
+
+LT 1c303. =] tc303
+

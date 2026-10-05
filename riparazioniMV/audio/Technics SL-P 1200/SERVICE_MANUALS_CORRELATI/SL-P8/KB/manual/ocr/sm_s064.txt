@@ -1,0 +1,139 @@
+The pitch control of SL-P8 uses the master clock of the
+whole system as a fixed output, and takes out +6% variable
+output by putting the output into the frequency variable
+circuit.
+
+The clock selector is usually OFF and maintains a constant
+speed with the quartz oscillation output of master clock.
+With pitch control ON, +6% variable output is applied to
+SMCK reference timing clock, data demodulation PCK signal
+and spindle motor rough servo circuits, thereby performing
+smooth pitch control.
+
+3-3. Frequency variable circuit
+
+AN6682
+
+Phase comparator
+
+fo/8- fi /9
+
+Frequency subtract
+circuit
+
+Pitch
+control
+volume
+
+Input fi
+
+Fig. 12 Frequency variable circuit
+
+Pitch control IC AN6682 is able to change the frequency of
+CR oscillator by pitch control volume, and the output fre-
+quency can be stabilized by setting up an PLL configuration
+in combination with the frequency from external quartz
+oscillator.
+
+With input frequency fi, output frequency fo, and CR
+oscillator frequency fr, the following equations can be
+obtained.
+
+fo fi
+
+8 9
+
+fr = fo = 8 (fr + 1)
+
+Here, suppose the quartz oscillator frequency is 540 kHz,
+then fi/9 = 60 Hz. If fo = 540 kHz, fr is lower (actually,
+3 - 20 kHz) so that stable variable output can be obtained.
+
+3-4. Frequency multiplication circuit
+2 Times 16 Times
+
+1C 418
+AN6682
+
+C416
+1/2 divider
+
+8.64MHz
+
+IC 416
+1/2 Divider
+
+IC 417
+1/16 Divider
+
+270K Hz
+
++6% Variation
+
+Fig. 13 Frequency multiplication circuit
+
+—-12—
+
+Output fO
+
+from Quartz OSC.
+
+VoLl.A,
+
+This circuit multiplies the output frequency 540 kHz of
+AN6682 up to 8.64 MHz.
+
+IC416 performs 1/2 frequency division so that the output
+of AN6682 is 50% duty.
+
+Also, IC41l oscillates 8.64 MHz, cr | | | | |
+
+and it is subjected to 1/32 @ !
+
+frequency division and phase |
+comparison at IC419 in order to
+
+operate VCO of IC4ll ----- PLL @
+circuit.
+
+Since the input phase of IC419
+terminals 12 and 13 is deflected
+90°, the output at terminal 11 Input/output waveform of I¢419
+is 1/2 of the input.
+
+3-5. Clock selector circuit
+
+This circuit selects quartz oscillation frequency in pitch
+control OFF mode, and variable frequency from AN6682 in
+pitch control ON mode.
+
+Pitch control OFF
+
+Pitch selector switch S652 is OFF, 1C413 (11) at "L", (10)
+at "H", IC41l1 (5) at "H", and IC411l output stops.
+
+On the other hand, IC412 (9) is at "H", but the output of
+quartz oscillator is applied to IC412 (10) and the output
+is delivered to IC412 (8), and goes from (5) to (6).
+
+Pitch control ON
+
+Pitch selector switch S652 is ON, 1IC413 (11) at "H", (10)
+at "L", then IC41l operates and the output is delivered
+from IC41l (6) to IC41l2 (2), (3) and (6).
+
+On the other hand, IC412 (9) is at "L", and quartz oscilla-
+tor output is not applied to IC412 (8).
+
+c412 ¢eoeoroooO- Variable frequency
+
+pe oe ee ee ee oe
+
+Output
+
+8.64MHz S652
+Pitch selector
+
+Fig. 14 Clock selector circuit
+
+—13-—

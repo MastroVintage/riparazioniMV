@@ -1,0 +1,44 @@
+The block diagram of operation control circuit is shown in
+Fag. Lit,
+
+The operation control circuit has system microcomputer (MN
+1564) as the main component. LSI MN6611l demodulates control
+information from EFM data and transfers it to system micro-
+computer (and RAM).
+
+MN6610 converts PU position into time information.
+
+The system microcomputer uses these signals to control the
+traverse servo microcomputer (MN1400) thus operating the
+random access and controlling the display microcomputer (MN
+1542) to display the play time and bar graph.
+
+Also, there are sensor and timing ON/OFF signals as follows:
+° Sensor
+
+Disc check (DISC ON) ..... Confirming the insertion of disc
+into holder.
+
+Innermost periphery
+
+detection (LMT SW) ....... Confirming PU in the innermost
+position of disc.
+RF check (RF ON) ......... Confirming RF signal played
+
+back from PU.
+
+° Timing ON/OFF signal
+
+Laser ON & turntable rotation ...... (LD ON / TT ON)
+Focus servo ON command .............- (FO ON)
+Tracking servo ON command .......... (TR ON)
+
+Track jump direction command ....... (J.F/R)
+
+Muting relay ON/OFF command ........ (MUTE)
+Emphasis ON/OFF command ...........- (EMPHA)
+
+There are also key matrix and LED indicating functions.
+The pin functions of MN1564 are shown in Table ll-l.
+
+— 113 —

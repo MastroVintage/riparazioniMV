@@ -1,0 +1,55 @@
+7. Ajustement du décentrement d’alignement
+
++. Maintenir ‘interrupteur d’alimentation ‘‘on’’ (mise en circuit) de I’élément d’étalonnage et l’interrupteur rotatif de
+\'élément d’étalonnage sur “2”.
+
+2. Placer |’appareil sur le mode “EJECT” (éjection).
+
+3. Raccorder un voltmétre réglable 4 TJ103 sur la plaquette a circuits imprimés 03.
+
+4. Mettre en marche l‘interrupteur d’alimentaiton et ajuster VR106 de telle sorte que la tension de C.C. du voltmétre
+soitdeO+3 mV.
+
+Nota: Aprés I’ajustement mentionné ci-dessus, retirer I’élément d’étalonnage de |’ajustement du gain et raccorder
+
+CN103 pour rétablir la condition initiale de l'appareil.
+
+8. Ajustement du décentrement dans l’intensité de désexcitation
+
+1. Raccorder loscilloscope aux points mentionnés ci-
+dessous .
+Canal1....TJ101 (Plaquette a circuits imprimés 03)
+Canal 2... .7J103 (Plaquette a circuits imprimés 03)
+TJ401 (Plaquette a circuits imprimés 01).
+
+Régiage de l’oscilloscope:
+Tension 1V (les deux canaux)
+Balayage
+Entrée LA. Lh
+Déclenchement .... EXT. NORM Trigger [1
+. Faire jouer la plage 13 (zone de piste noire de 0,5 mm) du disque d’essai.
+_ Tout en observant la forme d’onde du canal 1 de |’oscilloscope, ajuster VR103 de telle sorte que l’amplitude de la
+forme d’onde a proximité du point de déclenchement soit réduite au minimum.
+Si elle n’est pas réduite au minimum, ajuster de telle sorte que le haut et que le bas de la forme d’onde soient sen-
+siblement symétriques.
+. Tout en observant la forme d’onde du canal 2 de oscilloscope, ajuster VR106 de telle sorte que l’amplitude de la
+forme d’onde a proximité du point de déclenchement soit réduite au minimum. Si elle n’est pas réduite au minimum,
+ajuster de telle sorte que le haut et que le bas de la forme d’onde soient sensiblement symétriques.
+
+. Ajustement le meilleur de |’oeil
+
+. Signal de hautes fréquences du moniteur d’analyse sur
+‘oscilloscope.
+. Raccorder [oscilloscope aux points mentionnés cides-
+sous.
+Canal 1 (+) TJ402 (Plaquette a circuits im-
+promés 01)
+Canal 1 (—) ..... TJ403 (Plaquette 4 circuits im-
+primés 01)
+Réglage de l’oscilloscope:
+Tension
+Balayage
+Entree
+. Ajuster VR102 de telle sorte que le modéle d’oeil du
+signal de hautes fréquences soit le plus largement ouvert
+possible.

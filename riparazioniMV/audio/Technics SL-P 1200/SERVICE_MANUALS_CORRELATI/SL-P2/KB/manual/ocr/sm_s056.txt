@@ -1,0 +1,25 @@
+. Después del ajuste arriba mencionado, remueva el cable
+corto en paso 3).
+_ Maximice VR501 (11T) girandolo completamente a la derecha.
+. Ponga el disco y apriete el botén de INTERPRETACION.
+En la modalidad de interpretacién, conecte TJ501 (11 TMODE) en P.C.B. 01 a tierra (GND).
+En la misma modalidad de osciloscopio como en paso 2), ajuste VR501 de manera que la onda de osciloscopio
+
+se forme como abajo.
+
+oon a
+
+11. Comprobacién de operacién de interpretaciOn después
+
+Comprobacidén de busca de salto
+1. Interpretar un disco ordinario.
+2. Oprimir el botén de salto y comprobar para ver si se da busca de salto. (Adelante y atras)
+Comprobacién de busca manual
+1. Interpretar un disco ordinario.
+2. Optimir el bot6n de busca manual y comprobar para ver si se puede hacer busca de salto suave a las velocidades
+baja y alta. (Adelante y atras)
+Comprobaci6n para defectos
+1. Interpretar la banda 12 de disco de prueba y comprobar para ver si no hay salto de sonido o ruido. (Punto negro)
+2. Interpretar la banda 14 de disco de prueba y comprobar para ver si no hay salto de sonido o ruido. (Huella digital)
+
+ESPANOL

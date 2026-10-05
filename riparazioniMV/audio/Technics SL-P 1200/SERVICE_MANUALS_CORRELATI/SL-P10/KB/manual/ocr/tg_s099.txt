@@ -1,0 +1,37 @@
+(LMTSW) (RMIN)
+|
+10bit
+
+Up-down counter
+
+Directio-
+nal
+
+(SNS. A)
+
+(SNS .B) @)
+
+(Fi) © eq 16bit<560 Ward
+
+(Fs) @)
+
+Multiplexer (3) (SELECT)
+Tiiiises
+
+Dol~Do8 data
+
+(DISABL)
+
+Fig. 11-9 Block diagram of MN6610
+
+MN6610 is equipped with a programmable frequency divider.
+It generates standard frequency FS of rough servo in CLV.
+(Refer to CLV servo on P 48)
+
+Frequency (254.22 kHz) divided from X'tal in demodulation
+LSE is at pin (6) (FI), and the division ratio of frequency
+divider is set by use of the output of the 10-bit counter.
+Therefore, frequency being reversely proportional to disc
+diameter can be taken out of pin (5) (FS).
+
+=120—-

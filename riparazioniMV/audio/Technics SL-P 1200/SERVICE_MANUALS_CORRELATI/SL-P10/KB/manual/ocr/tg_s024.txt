@@ -1,0 +1,75 @@
+Inverted amplifier consisting of IC203 (B) is a circuit to
+apply offset voltage to IC203 (A).
+
+VR201 is a semi-fixed resistor to adjust tracking servo loop
+gain and is adjusted so that output from photo detector is
+
+2 Vp-p at IC203 (A) with tracking servo loop switch OFF.
+VR202 is a semi-fixed resistor to adjust offset voltage of
+Ic203 (A) and is adjusted so that the voltage is at the same
+level of V REF (reference voltage) of CN202 pin (4) during
+stop mode.
+
+VR203 is a semi-fixed resistor to make the P-P levels of out-
+put delivered to D203 (anode) and D204 (cathode) equal to
+each other, and is adjusted so that the veaks of output wave-
+form of I1C203 pin (7) are same in positive and negative values
+with tracking servo switch OFF.
+
+4—3. Low frequency compensating circuit
+
+Tracking error signal from tracking error amplifier is shown
+in Fig. 4-4. It is subjected to low frequency compensation in
+order to stabilize the tracking servo operation.
+
++15V
+CN 203
+
+C218
+
+From tracking
+error amp
+
+R
+Le 4 3 R224C207 aie
+pO ,c
+
+4
+
+LL TE HOU} ro cw120
+
+St
+| me | nese
+S a 1€204(A) ~
+AN6552 in vn
+
++15V R24]
+
+o
+<n
+C211
+
+1 20
+IC204(B) =
+AN6552
+
+S1~S3
+1C206 g
+MN4066 CN 204
+From CN751
+
+Figo. 4—4. Low frequency compensating circuit
+
+TE signal from tracking error amplifier is applied to
+the input terminal [1C204 (A) pin (6)] of active
+filter consisting of IC204 (A), 205 and CR through S;,
+thereby attenuating the high frequency part, and is
+delivered from CN203 pin (1) as tracking hold (TE
+HOLD) signal in order to control the tracking focus
+calcultion of [01] PCB.
+
+° 7¢204 (B) serves to mix the DC part that is cut off
+by the input condenser C207 of IC204 pin (6) into
+Ic204 (A) pin (6) by R232.
+
+=)

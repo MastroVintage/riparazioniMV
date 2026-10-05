@@ -1,0 +1,23 @@
+9. Best eye adjustment
+
+1) Monitor RF signal on oscilloscope.
+
+2) Connect CH1 of oscilloscope to the points CN109 pin © (OLD P.C.B.) or RF pin (NEWP.C.B.)
+on 01 P.C.B.
+
+Oscilloscope setting:
+
+Volt .. 0. ee eee 500 mV
+SWEEP ................ 0.5 us
+Input ..............8-, AC
+
+10. Traverse offset adjustment
+
+1) Connect the DC voltmeter to the points Q205 emitter (OLD P.C.B.) or TVS pin (NEW P.C.B.}
+on 01 P.C.B.
+
+2) Shift the set to EJECT mode.
+
+3) Turn power supply ON, and adjust VR201 so that DC voltage of the voltmeter is O10 mV.
+
+—-1—

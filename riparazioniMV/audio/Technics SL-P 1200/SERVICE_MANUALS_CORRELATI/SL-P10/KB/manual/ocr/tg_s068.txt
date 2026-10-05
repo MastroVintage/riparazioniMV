@@ -1,0 +1,148 @@
+RF data pick-out circuit
+
+1V/DIV, 0.5usec
+
+ch)»
+
+tc6Ol Regt
+SVITC40HOO4P _— Auto Slice (Stop)24ms VGrtngS ECHtren es esctratar tag. 92(4W)
+ga =
+R603 12K RLOS 33K R607 33K R609 33K —t
+P coos 5 iS
+CNb04 BS} 2547 lot | appt we bran Hf B is 3) i
+| RO arOn ; > fa .
+TAN GND (2) R602 R404 2 3 R606 R608 2 ° =
+A sx gk At {K Ae 1K ae 1K aE “ (€401) ae 3 soai6
+ze _ AN78M05
+Oo REO
+2VIDIV 1ysec_ 843 10K
+TP602 RbI4 10K (1C602) ;
+S p< 1
+= 1607 nid 2
+ST] SVISN74SI24N | |” T
+= 4
+2414 50V33
+c602 x“ 2
+lin 1 ANG552 i Pie: | wcaoa) |
+Sx = S e + 45} 5 RNG2 bs Ye at
+ne im i i | FC2_ EN2 \ 5 4 a
+ad | 210 g 16 | D mY aa
++ 2ams ° | asf a, 2
+| t |
+Cc ig ot * if (1c609)
+CNOO [8 \23 ae 8
+f+ isv %) — a 2 1C60 |
+me i L_ esos) | | SVIHD74LS74< |
+I¢
+MN4066B Bs
+=
+S :
+OOD &
+2VIDIV, 0.5usec aii biel | =
+3
+
+C405 47P
+Cb04 33)
+
+/ (10609)
+
+ad 1C606
+s SVITC40HO74
+
+1c609
+
+wei dF acta SVIHD74LS04P
+
+——gat /
+Ha
+—JLL 0 510.11 6 S015)
+
+(1C609)
+SRDPOIONI8
+
+=a54
+_ (HCLOAT Reps 25 HCHOAY RAT :
+De K ay Soll E-
+Dan 138 * i 2 % Va 10.4)
+| mil (1C605)
+5
+a2 ae
+
+iC605
+SVITC40H 386 P
+
+2 Bry:
+
+06
+
+*reaos)”
+2.1
+
+Yaa
+(10606)
+
+4
+pa
+a
+8
+~
+oe
+s
+x
+10K =
+3l5|8
+Filter 602 S |S ).5
+2 a ed
+ies 4 “
+<0 ms 3
+R624 (10404) (C04) 3B 2 3
+3 10
+29 Dp? >
+Q601 ~ 604 0602
+StS) Ar Thy o2sciais MAISO
+2$s
+S = = 1c604
+&] Sl SVITC40HOO4P
+—
+
+rs
+Cb2t 25V10
+
+C$20 O04
+a
+
+t+—H
+C423 25V10
+
+C422
+i—t
+
+PLL Reference
+voltage adj.
+
+Fig. 7-13. Actual circuit of RF data pick-out ({ I!)
+
+Bly |:
+
+2V/DIV, 0.2usec
+
+1C608
+®@ 2 Pp u
+PhD bball te
+RTT eer ey OA eae
+co” __—_———
+i:
+BO
+BO
+—
+pe
+CN603
+Cee our | 02 |
+CN706
+PRS, an. a em mm
+ss
+fie E> VA Re ANT oh MM 3
+>
+CN602
+
+—79—

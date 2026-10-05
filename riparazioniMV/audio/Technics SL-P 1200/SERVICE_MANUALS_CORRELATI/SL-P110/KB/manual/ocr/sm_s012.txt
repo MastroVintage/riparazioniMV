@@ -1,0 +1,79 @@
+m@ HOW TO REPLACE IC’S (Small outline type)
+
+Reduce the amount of solder on (Example) H--130 e Recommended tool
+
+each pin of the integrated circuitby | § —§»_ SA, [tees Special soldering iron
+
+use of a solder sucker. * H605M and H-130.
+
+* H605E and H-130.
+
+¢ Do not touch the soldering iron to
+the area for along time. It may
+otherwise cause removal of the
+print foil.
+
+e When shifting the pin upward, do
+the job quickly while the solder is
+melting. If the solder is hard, it
+may cause removal or breakage of
+the print foil.
+
+¢ When using a pencil type solder-
+ing iron.
+
+1. Completely remove the solder
+from each IC pin by use of solder
+sucker.
+
+2. Raise each pin by means of an
+eyeleteer, hold the pliers then
+
+remove IC package from P.C.B.
+
+Solder
+sucker
+
+Melt the solder on the pin (one elec-
+trode) with the soldering iron.
+
+While the solder is melting, shift
+the pin upward by the soldering iron
+to remove it from the foil.
+
+Remove each pin from the foil
+according to the above-mentioned
+procedure. a OAT a eee
+
+ae il
+
+ers ais
+
+(Refer to Technical Infosmation, ORDER NO. GADS4125486T1)_.For U.S.A. and Canada
+(Refer to Technical Information;QRDER NO. GADG4115476T8)_For others
+
+eH—605 Spot Heater (hot-air solder Iron)
+This device that uses hot air to melt solder was developed to remove Flat-Package ICs, RHCs and chip parts.
+
+e H—605M (For 120V power source) eH—617 Twin Nozzle (for spot heater)
+¢H—605E (For 200V/220V/240V power source) Special nozzle for the removal of RHCs and chip
+resistors. (Nozzle diameter: 1.0mm x 2)
+
+eH— 130 Slim Pencil Solder Iron
+An ultrasmall ceramic heater solder iron is extremely
+handy for soldering chip parts, RHCs, ICs etc., to high-
+density circuit boards.
+
+Features:
+e Rated power: 100V, 15W
+Max. temp.: 400°C
+¢ Heater: ceramic (long life)
+eInsulation resistance: 100MO
+Length: 178mm
+Weight: 16g (not including cord)
+H—130 eH—131, H—V13 Cap Bits
+; Solder tip for the slim pencil Solder Iron is composed
+“ of a bit holder and a corrosion resistance solder tip.
+ZZ - S H—131 Permits changing of solder tips even while still hot.
+. / H—V13 ¢Solder tip: 0.3mm
+H—617

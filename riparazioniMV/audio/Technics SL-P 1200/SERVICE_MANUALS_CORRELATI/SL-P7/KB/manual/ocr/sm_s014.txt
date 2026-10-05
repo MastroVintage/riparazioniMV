@@ -1,0 +1,104 @@
+* In order to improve the performance and servicing convenience of SL-P7, discontinuing of P.C.B. (EE) P.C.B. ; audio
+circuit, P.C.B. ; CLV circuit), change of P.C.B. pattern diagram ( P.C.B. ; servo circuit, P.C.B. ; digital
+circuit) and circuit change are conducted during production.
+
+* The present change is of the sets after the change mark [K) shown in the serial No. sheet provided on the rear chassis of
+the unit and the carton box.
+
+Also confirm that the label @)- is provided on AC socket top of rear chassis.
+
+® label
+
+Serial No. sheet
+
+DOOOOOWOOoO
+
+Serial No. sheet
+
+* This supplement refers to after-change P.C.B., schematic diagram, P.C.B. checking method and replacement parts list.
+The other descriptions are the same as in the service manual (Order No. DPD83080021C9) of SL-P7.
+* This supplement is intended to be used together with the service manual (Order No, DPD83080025C1) of SL-P7.
+
+m SAFETY PRECAUTION
+
+Before servicing, unplug the power cord to prevent an electric shock.
+
+When replacing parts, use only manufacturer's recommended components for safety.
+
+. Check the condition of the power cord. Replace if wear or damage is evident.
+
+After servicing, be sure to restore the lead dress, insulation barriers, insulation papers, shields, etc.
+
+Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+prevent the customer from being exposed to a shock hazard.
+
+OPRYONS
+
+e INSULATION RESISTANCE TEST
+
+1. Unplug the power cord and short the two prongs of the plug with a jumper wire.
+
+2. Turn on the power switch.
+
+3. Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+screwheads antenna, control shafts, handle brackets, etc. Equipment with antenna terminals should read between 3MQ
+and 5.2M22 to all exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+all exposed parts. (Fig. B)
+
+Note: Some exposed parts may be isolated from the chassis by design. These will read infinity.
+
+Antenna
+terminal
+
+Exposed Exposed
+metal metal
+part part
+Ohmmeter
+(Fig. B)
+Resistance = 3MQ—5.2MQ Resistance = Approx 00
+
+4. If the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+repaired and rechecked before it is returned to the customer.
+
+\ By
+
+Caution : This product utilizes a laser diode. © Use of caution labels
+
+SRNZO10S01
+
+CLASS 1
+LASER PRODUCT
+
+ADVARSEL-Der vil udstra- DANGER- invisible laser
+Jes osynlig laser nar appara- | | radiation when open.
+
+tet Abnes. AVOID DIRECT EX—
+UNDGA AT BLIVE UDSET
+FOR LASERBESTRALING| |POSURE TO BEAM.
+
+"CAUTION-wizansous Laser, ano ELECTROMAGHETIC
+RADWTION WHEN OPEN AND TERLOCK DEFEATED”
+
+“AUTENTION-navoumeuenr casen et EvectRowacnerioue
+BANGERESI Si GUVERT AVEC L'ENCLENCHEMENT DE SECURITE
+
+m LOCATION OF CONTROLS
+
+e Front panel view
+
+(3) Disc holder open/close button
+(4] Display
+
+Pe itch
+@ Power swite! © Pause/stop button
+
+Play button
+
+Forward and
+backward search/
+index buttons
+
+@ Disc holder ,
+
+Forward and beckwerd
+skip buttons

@@ -1,0 +1,98 @@
+ORDER NO. DAD84110110C0
+A6
+
+Service Manual
+
+Compact Disc Player
+SL-P3
+
+(M] ...U.S.A.
+
+[MC]...Canada.
+
+[E] ...Switzerland and
+Scandinavia.
+
+[EK] ...United Kingdom.
+
+{XL] ...Australia.
+
+[EG] ...F.R. Germany.
+
+[EB] ...Belgium.
+
+[EH] ... Holland.
+
+[EF] ...France.
+
+[Ei] ...Italy.
+
+[XA] ...Southeast Asia,
+Oceania, Africa,
+Middle Near East and
+Central South America.
+
+(S) (K)
+(S) (IK)
+(S) (K)
+
+(S) (K)
+(S) (K)
+(S) (K)
+(S) (K)
+(S) (K)
+(S) (K)
+(S) (K)
+(S) (K)
+
+Color (S) (K) | [XZ] ...New Zealand.
+(S)...Silver Type S) Hy Has ~ East PX. mitit
+..curopean Military.
+(K)...Black Type (8) (K) | [PC] ...European Audio Club.
+m@ CONTENTS
+Page
+SPECIFICATIONS (English) rr a ar er rae”
+TECHNISCHE DATEN (Deutch)... 2... 2-2-2 ee eee ee ee es see weer eee ee 29
+CARACTERISTIQUES (Francais)... 6. ee eee eee eee 3,4
+ESPECIFICACIONES (Espafiol) 0... ee ee ee eee ee ee hh
+SAFETY PRECAUTION. 2... 00. ce ee te ee ee ee ee ee eee 5,6
+LOCATION OF CONTROLS... 1... cc ce eee eee eee ees 6
+FUNCTION. 2... cc ee ee ee eee ee eee ee ee ee ee 7~10
+PLAYING ADISC ....... 00 eee eee ee te eee eee ee ee 11~15
+INSTALLATION . 00. ce ee ee ee ee ee ee ee 16
+CONCERNING COMPACT DISCS... 2... 2. er eee ee eee ee eee ee ee 16
+DISASSEMBLY INSTRUCTIONS ...... 02 cee eee ee ree ee wer eee ee tte tees 17 ~22
+HOW TO REPLACE IC’S (Small outline type) 6 0. ee ees 22
+HOW TO CHECK THE PRINTED CIRCUIT BOARD... 1... ec ee ee ee tes 23, 24
+REPLACEMENT PARTS LIST (Mechnical Parts) 2... 6 ee ee ee ee ee 25, 26
+EXPLOCED VIEWS
+Cabinet and chassis parts... ee ee ee ee ee ee ee eee es 27, 28
+Loading drive mechanism and optical deck unit parts ©. 6 66 ee ee ee te ees 29
+Remote control unit parts... 0 ee eee eee eee eee ees 30
+RESISTOR AND CAPACITORS... 2... eee ee eee eee ee ete ee eee ee ee 30, 31
+REPLACEMENT PARTS LIST (Electric Parts). 20. ee ee eee eee 32
+PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM. ..... 2-22 eee eens 33, 34
+PRINTED CIRCUIT BOARDS... 1... ce ee ee te ee ee ee eee ee ee ee ee 35 ~ 40
+TERMINAL FUNCTION OF MICRO COMPUTER (MN1402PCT) ......-- 0 ee eee eee eens 41
+SCHEMATIC DIAGRAM ... 1. ee ee ee ee ee ee eee 42 ~ 46
+BLOCK DIAGRAM, ......-0. 02s eee ete ee eee eee ee ee ee ee 2. 47 ~49
+TERMINAL FUNCTION OF MICRO COMPUTER (MN15844PCU). . 0... ee ee ee es 49
+PACKING... 0... 0.0 cee eee ee ee ee ee ee ee ee ee 50
+ADJUSTMENT MANUAL. .. 2.2... 0c eee eee te et ee ee ee ee eee ee Inserted
+Matsushita Engineering and Panasonic Hawaii Inc. Panasonic Sales Company,
+Service Company 91-238 Kauhi St. Ewa Beach Division of Matsushita Electric
+50 Meadowland Parkway, P.O. Box 774 ot Puerto Rico, Inc.
+
+@
+Secaucus. New Jersey 07094 Honolulu, Hawaii 96808-0774 Ave, 65 De Infanteria, KM 9.7
+ec | | Ie S Victoria Industrial Park
+Matsushita Efectric Carolina, Puerto Rico 00630
+
+of Canada Limited
+5770 Ambler Drive, Mississauga,
+Ontario, L4W 2T3
+
+Panasonic Tokyo
+
+Matsushita Electric Industrial Co., Ltd. Matsushita Electric Trading Co., Ltd.
+1-2, 1-chome, Shibakoen, Minato-ku, Tokyo 105 Japan P.O. Box 288, Central Osaka Japan

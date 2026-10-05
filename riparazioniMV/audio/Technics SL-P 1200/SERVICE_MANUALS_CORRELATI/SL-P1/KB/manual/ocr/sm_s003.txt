@@ -1,0 +1,58 @@
+Espafiol @ SAFETY PRECAUTION
+
+ESPECI FICACION ES Las especificaciones quedan sujetas a cambios sin aviso previo. 1. Before servicing, unplug the power cord to prevent an electric shock.
+El peso y las dimensiones indicados son apromimados. 2. When replacing parts, use only manufacturer’s recommended components for safety.
+. nditi er cord. if wear or damage is evi .
+@ En general @ Fonocaptor : check the co “ition of the pow co ‘ Replace “ at ger ge is evident wield
+Fuente de alimentacién: 110-120/220-240 V, 50/60 Hz Tipo: Astigmatico de 3 haces . After servicing, e sure to restore tr e lead dress, insulation barriers, insulation papers, s iel s, ete.
+Consumo de corriente: 30 vatios Fuente de luz: Laser de semiconductor 5. Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+Tensién de salida: 2 voltios (a 0 dB) Longitud de onda: 800 nm prevent the customer from being exposed to a shock hazard.
+Impedancia de salida: 3302.
+Impedancis de carga; mas.ae oko @ Funciones/Ventajas e INSULATION RESISTANCE TEST
+imensiones: . | . . . .
+(An. x Prof, x Al.): 43 x 33.4x 82cm Ventajas: Ejecucién automatica 1. Unplug the power cord and short the two prongs of the plug with a jumper wire.
+Cuando el compartimiento del disco Acceso libre a las piezas 2. Turn on the power switch.
+esta abierto: 45,9 (prof.) neces fibre alos ineices 3. Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+Peso: 5 kg (nomoria oe te oiaas) screwheads antenna, contro! shafts, handle brackets, etc. Equipment with antenna terminals should read between 3MQ
+Salto hacia adelante and 5.2MQ. to all exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+@ Audio Salto hacia atras all exposed parts. (Fig. B)
+Cantidad de canales: 2 (derecho e izquierdo, estéreo) Busqueda hacia adelante Note: Some exposed parts may be isolated from the chassis by design. These will read infinity.
+Respuesta de Busqueda hacia atras
+frecuencias: 4 — 20,000 Hz +0,5dB Ejecucién repetida
+Gama dindmica: mas de 96 dB Exhibicién: Num. de piezas
+Relacion de sefial Tiempo total (minutos, segundos)
+a ruido: mas de 96 dB de ejecucién Antenna
+Distorsion arménica total: | menos de 0,003% (1 kHz, 0 dB) Pieza que se esta ejecutando terminal
+Separacién de canales: mas de 90 dB Num. de (ndice
+Ululaciones y trémolo: Inferior a limite medible Botones de operaci6én: Botones basicos: 7
+Botones de programas: 12 Exposed Exposed
+~ Botdn de repeticién: 1
+metal
+@ Formato de las sefiales Carga del disco: Tipo horizontal accionado por motor t metal
+Frecuencia de muestreo: 44,1 kHz par part
+Sistema de correccidn: Algoritmo superdescodificador
+Technics Ohmmeter Ohmmeter
+Conversién numérica-
+analdgica: Lineal de 16 bitios (Fig. A) (Fig. B)
+Resistance = 3M2—5.2MQ Resistance = Approx oo
+| CONTENTS 4. If the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+Page Page repaired and rechecked before it is returned to the customer.
+SAFETY PRECAUTION... 2... 0.0 eee ee ee ene rene 4,5 REPLACEMENT PARTS LIST
+LOCATION OF CONTROLS........ eee eee 5~7 (Cabinet, chassis and optical deck unit parts)........ 22, 23
+CONCERNING COMPACT DISCS. .........2- 202 eee 7 RESISTOR AND CAPACITORS............20005 23, 24
+PLAYINGADISC...........- Lee eee eens 8 ~ 10 PRINTED CIRCUIT BOARD AND Caution : This product utilizes a laser diode.
+DISASSEMBLY INSTRUCTIONS ........ bees 11~15 WIRING CONNECTION DIAGRAM............. 25, 26 ADVARSEL : I dette apparat anvendes laser.
+HOW TO CHECK THE PRINTED CIRCUIT BOARD..... 16, 17 PRINTED CIRCUIT BOARDS........ eee ee 27 ~31
+REPLACEMENT PARTS LIST (Electric Parts)........... 18 PIN FUNCTION OF MN15844PCO ....... peewee eee 32
+EXPLODED VIEW SCHEMATIC DIAGRAM ...........-2 0000008 33 ~ 36 e Use of caution labels
+Cabinet and chassis parts... 6. 0 ee ee ee ee ee 19, 20 BLOCK DIAGRAM..............:. wen eee eee 37 ~39
+Loading drive mechanism and optical deck unit......... 21 PACKING .. 02. ec cc eee ee tee tes 40 PCT sia. | Canada | Europe | Others _|
+' SRNZO10S01 xX x O Oo
+SRNZO07S05 O x O O
+SRNZO0O7C01 xX O x x
+Note: © Mark Label is used. X Mark Label is not used.
+CLASS | This is a must if the laser component inside the equipmente mits
+LASER PRODUCT radiation exceeding the limit value for class 1 during to rmal
+operation or when in a fault condition.
+SRNZO10601 .
+

@@ -1,0 +1,255 @@
+m@ SCHEMATIC DIAGRAM @&)
+
+1
+
+Notes:
+
+1. $1
+$2
+
+$101
+
+>
+
+4. $102
+5. $103
+6. $104
+7. $601
+8. S602
+9. $603
+10. S604
+11. $605
+12. $606
+13. $607
+14. $608
+15. $609
+16. $610
+17, $611
+18. S612
+19. S613
+20. S614
+21. S615
+22. $616
+23. $617
+24. $618 ~S626
+25. $627
+
+2
+
+: Power switch
+: Voltage selector switch.
+
+(Except for [M], [MC] areas.)
+
+: Rest switch.
+
+(Disc innermost position detection.)
+
+: End switch. (Disc outside detection.)
+: Disc holder close detection switch.
+: Disc holder open detection switch.
+: Disc holder open/close switch.
+
+: Play (start) switch.
+
+: Repeat switch
+
+: Pause switch
+
+: Stop switch
+
+: Remaining time switch.
+
+: Forward search switch.
+
+: Backward search switch.
+
+: Memory switch
+
+: Forward skip switch.
+
+: Backward skip switch.
+
+: Recall switch.
+
+: Forward index skip switch.
+
+: Backward index skip switch.
+
+: Music scan switch.
+
+: A—B repeat switch.
+
+: Clear switch.
+
+: Nemeric switch.
+
+: Index switch.
+
+Q601-~603 |
+280637 Ate
+
+15
+cn] | om |B] Pe
+
+L
+Om ~ : = e
+JV — g 3
+oe H+-— LED drive
+15 a ,
+
+26.
+27.
+28.
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+4 5 6 7
+
+*For U.S.A and Canada
+
+$628 : Nemeric (No, 1) switch.
+$629 : Output level control switch. (Up) BEL
+$630 : Output level contro! switch. (Down) J ra
+$631 : Timer play/auto pausel/auto cue selector 4
+
+switch, Ac (CANADA):---Used
+
+This schematic diagram may be modified at any time with
+
+the development of new technology.
+
+The voltage value, and waveforms are the reference voltage
+
+of this unit measured by DC electronic voltmeter (high
+
+impedance) and oscilloscope on the basis of chassis.
+
+Accordingly, there may arise some error in the voltage
+
+values and waveforms depending upon the internal
+
+impedance of the tester or the measuring unit.
+
+“The parenthesized are the values of voltage generated
+during playing. Others are the voltage values in stop
+mode. .
+
+Part No. with @ mark are not identical between regular AC NO-127220° 240
+
+part No. and repair part No. supplied.
+
+So, when placing an order for repair parts, use the part No.
+
+in the replacement part list of repair parts.
+
+: +B voltage lines owees t+ Audio signal lines
+
+: —B voltage lines.
+
+Important safety notice:
+
+Components identified by A mark have special character-
+
+istics important for safety.
+
+105 | SROPOOIXOS
+
+$63!
+D6ol~609,618~620 pe OL
+MAIG5 [re ee NP} SRDPOO3NO4 104 |
+- Co |
+Oo oO e) Oo O O41
+o60! 0619 -_f-~--4f-p 4 0621 ~ 625 0626
+
+LN3G LN2G
+
+[~] .
+Ig SVDGL-SHY4 eee
+ro i
+
+'c602, AN6876
+(8 83 72 91 10
+
+IN IL LEDS GND LED4 LEDS LED2 LEDI
+
+SAREATC
+LH Giglglg
+
+R635 Ys
+0626 D6 4
+6.8K nh 28 062: ) gs
+4 *
+ss —e
+I re3a 52110)
+2 (4) [(M.SCAN)] (RECALL) (MEMORYI( 2.2K 062!
+21 | sere | seis | sez | seo9 | seoe
+: 2. 2. 2. 2. Q Q
+- : 5 O45 G45 O45 ©
+__ . (DD)
+gor (CUE) R624
+Ss D610 220
+. <h _
+s ( ay
+soa
+H O D627 R626 o6n g
+a — SO
+WH) ffs
+#8 oka?
+a 0628 RE2r_ ~NO8'? E A>
+a 33k SS
+FL Display (oown)
+$630 Q611, 612
+5 O- 2S0637
+so 3-
+—_ $629
+uP) 0627,628 0610
+
+MAI65 SVDGL- 9PR4
+
+BT60I
+
+0CO9 COB CO7 CO6 COS,Ai3 Al2 All AIO Bi3 Bi2 Bit Bio,
+ese! — haat
+
+Power supply circuit
+
+106] SROPOOINOS
+or
+
+SVDS 1 WB40
+
+(U.S.A)-- ---Not used, shorted. °°!
+
+Remote [~~ tse AVANN eso: mntaozpct ~fL{Lt=
+control { SOON E 7p 8) S3m
+recelver Oo 45
+00 RST £03 E02 EO! EOO
+sT602 oo cr 66) G3 | Ga 63 Gz 1 7 _ ea, (9 a i
+en (a : —S a
+Eels Fidhi}tiitt}ititin jaya Fea G lle ’ reo
+% ae’ (as) ca [m scan] turnal TRACK [ INDEX | Time | MIN wo | sce lo onng
+0633 bea! S3m0 J
+0631 ~ 633 a ee UT TF \od061a~617 a6 21,622 ‘ete
+SVOSLR-54MW 0613 187ps MAI65 2580637
+SVDGL- 9PR4
+
+7
+
+,
+
+—t | |
+
+o901
+
+8901
+BATTERY

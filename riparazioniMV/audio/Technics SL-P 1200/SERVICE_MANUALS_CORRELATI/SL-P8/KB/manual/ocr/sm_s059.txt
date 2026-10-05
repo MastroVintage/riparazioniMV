@@ -1,0 +1,68 @@
+2. Operation control circuit
+
+Functions of Operation Controller MN1564PCL
+
+Pin Name
+
+Se a a oe a a
+OANA & w DM
+SS
+
+>
+ive}
+
+DCLOSE
+D OPEN
+REST
+END
+
+51 P 92 CLOSE 2 *
+52 P 93 CLOSE 1 ”
+53 P 94 OPEN *
+
+RF
+TCNT
+KICK 16)
+KICK F/R *
+LDON
+TRON
+
+43 P72
+44 P 73
+
+Function
+
+Data input terminal
+
+From microcomputer for MN1421
+
+remote-control decoder
+
+Timer play select “L" .. 2.2... Timer play
+
+Auto pause select “L’’........ Auto pause
+
+(In/Output from MN2114)
+
+Address output of 4K RAM
+| Data in/out of 4K RAM
+
+WE signal of 4K RAM
+Disc hoider [ __sd| OPEN | CLOSE | STOP |
+
+PL P7op 1 fo i
+control LP7i} 0 [ty iT |
+Reset position detector “L’'........... ON
+Disc outermost detector terminal ‘’L’’... ON
+Disc holder ‘‘open close’’ detector ““L’’.. .ON
+
+RF signal detection "L’.............. RF signal
+
+Track counter input
+Kick pulse
+
+Kick pulse ’’L” reverse
+TT ON signal
+TR ON signal
+
+Table 3 Function of operation controller MN1564PCL

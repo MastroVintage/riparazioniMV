@@ -1,0 +1,67 @@
+@ HANDLING PRECAUTIONS FOR OPTICAL PICKUP
+
+‘The laser diode in the optical pickup may break down due to potential difference caused by static electricity of
+
+clothes or human body.
+
+So, be careful of electrostatic breakdown during repair of the optical pickup.
+
+© Handling of optical pickup
+
+1. Do not give excessive shock to the optical pickup
+because it is of extremely precise structure.
+
+2. To prevent the breakdown of the laser diode, an anti-
+static shorting pin is inserted into the flexible board.
+(FPC board)
+
+When removing or connecting the short pin, finish the
+job in as short time as possible.
+
+3. Take care not to apply excessive stress to the flexible
+board. (FPC board)
+
+4. Do not turn the variable resistor (laser power adjust-
+ment). It has already been adjusted.
+
+© Grounding for electrostatic breakdown prevention
+
+1. Human body grounding ;
+Use the anti-static wrist strap to relieve the static
+electricity from your body.
+
+2. Work table grounding
+Put a conductive material (sheet) or steel sheet on the
+area where the optical pickup is placed, and ground the
+sheet.
+
+Caution:
+
+The static electricity of your clothes will not be grounded
+
+through the wrist strap. So, take care not to let your
+
+clothes touch the optical pickup.
+
+Optical pickup
+
+Variable resistor \ ~-7
+
+(Do not turn)
+
+Lens (Do not touch)
+
+FPC board
+(Handle it carefully)
+
+\, Be sure to short this portion
+(Use the shorting pin or clip.)
+
+Clip Shorting pin
+
+1MQ
+
+iron plate or some metals
+ww to conduct electricity.
+
+—

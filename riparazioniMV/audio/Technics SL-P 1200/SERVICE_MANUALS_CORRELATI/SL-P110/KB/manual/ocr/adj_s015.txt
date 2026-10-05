@@ -1,0 +1,127 @@
+6. OPTICAL PICK-UP ADJUSTMENT
+
+6-1. Evaluation of Optical Pick-up Serviceability
+
+Connect oscilloscope to the Jumper
+
+(RF test point = GND) on the main |
+
+(Note) @ Check if the optical pick-up is serviceable in the tion.
+following methods prior to the adjustment of the optical 1
+pick-up.
+
+e if faulty, follow the next paragraph on optical pick-up
+replacement and adjustment.
+
+Out of Focus Servo
+
+Is DC voltage at pin @
+(optical servo circuit)
+of CN101 5V?
+
+Turn on the power supply switch of
+Place the test disc, then set to play
+
+Focus §
+TOC is
+noisy.
+
+Probably faulty location
+0 1C~42
+oOther
+
+No
+
+Check R
+(Connec
+
+_
+
+Yes ker
+
+— : to the j
+
+Check visually if focus Check S$ OUT signal point) 4
+lens moves up and at pin @ of 1€101. Probably faulty location.
+
+No 0 1C-101 Sweep ~~
+
+down for about 5 = —p—» Sweep....... Volt --
+
+seconds. (Disc needs ° Other Input --
+
+not be inserted. )
+
+Probably faulty location
+° Optical servo circuit
+
+Check focus search
+signal at pin @ of
+CN101.
+
+Yes
+Check coil resistance
+pins @ and Oof
+CN101 with power
+supply off.
+
+(1C-104, Q141, Q142)
+° Other
+
+Replace optical pick-up
+(SOAD30A)
+
+Check t
+(Refer
+Adjust
+(Refer
+Yes
+Adjus
+(Refe
+
+Probably faulty location
+© Deterioration of
+
+laser diode if voltage
+difference is about 1.0V.
+
+ts voltage difference
+across R115 about
+
+0.5 Vv?
+(Optical servo circuit)
+
+Replace optical pick-up
+
+NO (SOAD30A)
+
+Place test disc.
+
+Disc detector circuit. No | Probably faulty location
+
+Is SENSE signal level o 1C101 Repl
+. epg > place
+at pin @ of IC 401 "H"? ° Other ( SOAD3
+Yes
+
+No| Probably faulty location
+°1C101
+
+Temporarily adjust
+focus offset voltage to
+0 mV at loading out or
+
+Does disc run and does | NO
+focus servo work?
+
+Yes disc standing mode.
+(Method) wack
+Test point ----- T3102 or
+Adjusting VR-- VR105
+Ts Check
+(Refer
+
+Probabl:
+° Servo
+© PD bal
+

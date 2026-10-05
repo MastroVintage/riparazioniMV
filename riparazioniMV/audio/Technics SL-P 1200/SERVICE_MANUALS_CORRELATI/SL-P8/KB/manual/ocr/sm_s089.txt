@@ -1,0 +1,102 @@
+CLV Servo
+(11T circuit)
+
+Check the signal applied to
+Q551 ©.
+
+YES
+
+12)
+
+P.D
+Check 270 kHz +6% signal from | NO (C416, 447
+1C416 pin @). AAC
+YES
+(2) ®
+
+Check 8.64 MHz +6% signal
+
+Check ‘’H” level of 1C413
+from 1C412 pin ©
+
+pin a.
+
+Check “‘H"’ level of 1C412
+pins @ and ©).
+
+Check 2.16 MHz +6% signal
+from 1C414 pin @).
+
+Check DC voltage (about 4 V
++6%) from 1C415 pin @).
+
+RF data pick-out
+(PLL circuit)
+
+P.D
+1C415, 0401, 402, 403
+A.A.C
+
+3 V +6%) from 1C402 pin @.
+
+—19—
+
+Check the control voltage (about
+
+Check “‘L"’ level of 1C413
+pin a.
+
+1C412 pin ©.
+
+Check 8.64 MHz signal from
+
+Check ‘‘H” level of 1C412
+pins @ and @).
+
+1C414 pin ®.
+
+P.D
+1C405, 415
+
+A.A.C. from 1C415 pin @).
+
+CLV Servo
+(11T circuit)
+
+P.D P.D
+(C402, 415 asst © signal applied to 1C415, 0401, 402, 403
+AAC AAC
+
+*
+
+Re-check the item 12 with
+reference to the Adjustment
+manual.
+
+No problem in pitch
+
+control circuit
+
+If it is bassically not understandable, refer to item 3 in circuit description.
+
+Check 2.16 MHz signal from
+
+Check DC voltage (about 4 V)
+
+—20 —
+
+RF data pick-out
+(PLL circuit).
+
+Check the control voltage
+(about 3 V) from 1C402
+
+pin @.
+
+NO
+
+P.D
+1C402, 415
+
+AAC
+

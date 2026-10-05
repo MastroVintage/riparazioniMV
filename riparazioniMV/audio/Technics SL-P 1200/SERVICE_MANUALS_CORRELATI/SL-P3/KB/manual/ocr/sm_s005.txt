@@ -1,0 +1,204 @@
+SL-P3 SL-P3
+
+Unidad de contro! remoto por infrarrojos
+
+Funciones de
+control remoto:
+
+Dimensiones
+Botones basicos—6 (An. xAl.xProf.):
+Botones de programas—12 Pilas:
+Boton de exploracién de musica—1
+Botén de repeticion—1
+Botén de repeticién A-B—1
+Boton de llamada—1
+
+5,6xX13,5x1,5
+Pilas UM-4 ‘‘AAA”, IER RO3 0
+equivalentes (2x 1,5 V)
+
+m SAFETY PRECAUTION
+
+.. Before servicing, unplug the power cord to prevent an electric shock.
+
+. When replacing parts, use only manufacturer’s recommended components for safety.
+
+. Check the condition of the power cord. Replace if wear or damage is evident.
+
+. After servicing, be sure to restore the lead dress, insulation barriers, insulation papers, shields, etc.
+
+. Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+prevent the customer from being exposed to a shock hazard.
+
+Op WN —
+
+e INSULATION RESISTANCE TEST
+
+1. Unplug the power cord and short the two prongs of the plug with a jumper wire.
+
+2. Turn on the power switch.
+
+3. Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+screwheads antenna, contro! shafts, handle brackets, etc. Equipment with antenna terminals should read between 3M2.
+and 5.2MQ. to all exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+all exposed parts. (Fig. B)
+
+Note: Some exposed parts may be isolated from the chassis by design. These will read infinity.
+
+Antenna
+terminal
+
+Exposed Exposed
+metal metal
+part part
+Ohmmeter Onmmeter
+(Fig. A) (Fig. B)
+
+Resistance = 3M2—5.2MQ Resistance = Approx oo
+
+4. \f the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+repaired and rechecked before it is returned to the customer.
+
+Caution : This product utilizes a laser diode.
+ADVARSEL : I dette apparat anvendes laser.
+
+e Use of caution labels
+
+USA Others
+
+Rear panel
+
+sa
+sanzorosor[ x | x | O | Oo
+rsawzo07s08 | O| x | 0] 0]
+sanzoorcor |x | O | x |x
+rsrwzorosoz| x | x] 0 | 0
+
+Note: © Mark Label is used. X Mark Label is not used.
+
+CLASS 1
+LASER PRODUCT
+
+SRNZ010801
+
+ADVARSEL-Usynligt
+laserlys udstrales ved
+
+Sbning. UNDGA DIR-
+EKTE BESTRALING.
+
+radiation when open.
+
+POSURE TO BEAM.
+
+"CAUTION-nazaroous Laser, AND ELECTROMAGNETIC
+RADIATION WHEN OPEN”
+
+“ATTENTION-ravonneMent LASER ET ELECTROMAGNETIQUE
+DANGEREUX SI OUVERT”
+
+SRNZO007C01
+
+DANGER-invisible !aser
+
+AVOID DIRECT EX—
+
+SRNZ007S05
+
+vaarallista lasersateilya.
+
+m LOCATION OF CONTROLS
+
+& Disc holder
+
+Power switch iuminator
+
+Q Disc
+reflector
+
+€ Headphone
+Jack
+
+@® Headphone level
+control knob
+
+@ Timer play/auto pause/auto cue
+selector
+
+& Numeric buttons
+@ A-B repeat button
+
+@® Memory button —__
+
+@ Repeat button
+
+® Clear button____
+
+| VAROITUS! Laite sisaitaa laserdiodin,
+l joka lahettaa nakymatonta — silmille
+|
+|
+
+& Open/close button
+
+© Output levei indicator
+
+@ Music scan
+button ——_____~
+
+@® Recall button —_
+
+@ Variable line
+out terminals
+
+@ Line out terminals
+
+@ Subcode socket
+
+Apparaten innehaller laser
+Komponent av hdger laserklass
+an klass 1.
+
+& Remote control
+receiver
+
+© Pause indicator
+
+(9 Display panel ( Cue/standby
+
+indicator
+
+button
+@® Pause button
+® Stop button
+
+(B Forward and backward
+search buttons
+
+“6) Forward and backward
+skip buttons
+
+Output level control buttons
+
+2) Forward/Backward index skip
+buttons
+
+® Remaining time button
+
+Index button
+
+Voltage selector
+(Except for [M], [MC] areas)
+
+|
+
+NORMAL
+
+9
+© ©
+
+aCAH
+
+@ AC soc ket
+
+~cpanah gies ts Sh escig ck ph

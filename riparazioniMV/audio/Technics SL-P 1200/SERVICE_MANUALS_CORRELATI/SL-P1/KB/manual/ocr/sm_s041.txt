@@ -1,0 +1,211 @@
+3. Mise au point mécanique
+
+. Installer le disque d’essai sur la platine avec |’aimant de fixation.
+. Raccorder l’oscilloscope 4 TJ402 sur la plaquette 4 circuits imprimés 07.
+
+. Mettre l’appareil en marche et choisir le mode d’audition.
+
+. S’assurer que le signal 4 haute fréquence est tel que celui montré 4 la Fig. A. S‘il n’y a pas de signal, passer a
+
+|'étape suivante.
+
+Sile signal 4 haute fréquence est tel qu’il est montré, sauter |’étape 5.
+. Ajuster la vis hexagonale (utiliser une clé hexagonale de 2 mm) vers la droite ou vers la gauche pour obtenir un
+signal a haute fréquence (vérification visuelle) tel qu’il est montré a la Fig. B.
+
+Pignon sur
+glissiére
+
+Fig. A Signal 4 haute fréquence
+
+Axe de suspension
+
+Ne pas toucher
+
+Fig. B Vue de dessous de I’unité transversale
+
+4. Mise au point de la trame
+
+. Placer le disque d’essai sur la platine et fixer avec I’ai-
+
+mant.
+
+_ Raccorder l’oscilloscope de la maniére suivante:
+
+Tension
+
+Canal 1 TJ402 (Plaquette a circuits im-
+primés 01)
+C164 sur la plaquette 4 circuits
+imprimés 03. (broche 17 de [C104)
+
+. Mettre !’appareil en marche et choisir le mode d’audition.
+
+. Si le signal a haute fréquence et le repére “N’’ sont
+présents aucune mise au point n’est nécessaire, comme il
+est montré é la Fig. A.
+
+Si le signal 4 haute fréquence et le repére “‘N’ sont ab-
+sents, passer a l’étape 5.
+
+_ Insérer loutil d’ajustement de la trame dans l’orifice
+situé sur le cOté gauche du corps du capteur optique,
+comme il est montré a la Fig. B.
+
+. Tourner l’outil d’‘ajustement de la trame vers la droite ou
+vers la gauche, jusqu’a ce que le repére “’N" soit Je plus
+net possible et qu’un signal 4 haute fréquence maximal
+soit obtenu.
+
+Signal a
+
+haute
+
+fréquence
+
+au canal 1 !
+
+Repére “’N”’
+au canal 2
+
+Repére “’N”’
+
+Fig. A Signal haute fréquence et repére “N”’
+
+. Plateau de lecture
+Capteur optique
+
+Axe de
+suspension
+
+LLL MUM LLL LLL
+
+Avant de la platine
+
+Insérer l’outi! d’ajustement
+de la trame
+
+Fig. B Vue latérale gauche de I’unité transversale
+
+5. Alignement électrique de l’unité principlale. Suivre le réglage, en se référant aux pages 11 ~ 14.
+
+6. Vérification du module 03
+
+* Aprés le réglage, dresser tous les éléments du montage en
+
+les disposant a plat sur le odule 03 et réassembler sur
+l‘unité transversale.
+
+Une fois que le module 03 est monté, s’assurer que la
+face inférieure du capteur n’interfére avec aucun des
+éléments du montage.
+
+Par conséquent, s’assurer que les pistes sur le bord
+extérieur du disque soient accessibles.
+
+1. Ajuste de posicién de reposo
+
+Disposition des
+
+(oO
+Di 0. _
+isposition des P109| éléments plats
+
+éléments plats
+
+Disposition des
+éléments plats Disposition des
+
+CN103 éléments plats
+
+. Asegurese de que los interruptores de hoja $101 (posi-
+cidn de reposo) y $102 (posicidn de fin) no han sido
+magullados durante el rearme y, por lo tanto, puestos
+en “ON”.
+
+Si estén, cuidadosamente separe los contactos unos
+2mm.
+
+. Aplique energia a la unidad. Esto hard que el motor de
+movimiento transversal enrolle el fonocaptor d6ptico a
+la posicidn de REPOSO.
+
+. Desconecte el interruptor de alimentacion.
+
+. Coloque la galga de posici6n de REPOSO sobre el
+plato giradiscos.
+
+. Asegdrese de que la lente esta concéntrica dentro del
+agujero de la galga de posici6n de REPOSO, como
+mostrado en Ja Fig. B.
+
+Fonocaptor oOptico esta demasiado
+
+cerca del plato giradiscos. (Fig. B)
+
+Para ajustar:
+
+1. Afloje el tornillo de sujecién y
+gire el ajustador de interruptor
+de REPOSO a la derecha.
+
+. Observe que si el interruptor de Galga de posicién
+detecci6n de Reposo (S101) de REPOSO
+esta. demasiado hacia $102,
+
+Lente de
+enfoque
+
+Tornilio de
+sujeci6n
+
+Ajustador de
+interruptor
+de REPOSO
+
+Plato giradiscos
+
+entonces el fonocaptor reposara
+demasiado apartado del plato
+giradiscos en la _ posicidn de
+Reposo. Si asf fuera, aplique
+energia y repita el paso 1 de
+arriba hasta que se detecta la
+detecci6n de Reposo cuando la
+lente esta concéntrica con el
+agujero de la galga de posicién
+de REPOSO.
+
+No se requiere ningin ajuste (Fig. C)
+
+Lente de
+enfoque
+
+Galga de posicién
+de REPOSO
+
+Fig. C “Ok”
+
+Lente de
+enfoque
+
+Galga de posicién
+de REPOSO
+
+Fig. D “NG” (demasiado ,partado)
+
+Fonocaptor optico esta demasiado apartado del plato giradiscos. (Fig. D)
+
+Para ajustar:
+
+Afloje el tornillo de sujecion y gire el ajustador de interruptor de Reposo a la izquierda.
+
+6. Para verificar el ajuste correcto, coloque el disco sobre el plato giradiscos y aplique energia a la unidad. fsto auto-
+ciclaré el fonocaptor éptico. Vuelva a comprobar alineamiento con la galga de posicién de REPOSO, comormostrado
+
+en la Fig. C.
+
+FRANCAIS
+
+ESPANOL
+

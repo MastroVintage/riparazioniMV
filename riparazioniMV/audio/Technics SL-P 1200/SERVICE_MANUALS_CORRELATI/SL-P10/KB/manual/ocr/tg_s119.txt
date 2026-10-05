@@ -1,0 +1,24 @@
+IC502 IC511
+(MN4028)
+
+C501
+(MN1542)
+
+Fig. 12—3. Scan signal OSC circuit
+
+Ee eS
+see ee 7
+
+ed Ce
+
+—— — =
+ms — S
+Eel = a
+a a a.
+Ww ar ~
+
+0.9ms
+
+Fig. 12—4. Display Micon counter out-put
+
+—42—-

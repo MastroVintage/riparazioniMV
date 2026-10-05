@@ -1,0 +1,33 @@
+12. FL Display circuit
+12—1. Function of FL display
+PL display circuit performs TOC display, play position
+display and play time display to the data transferred from
+system microcomputer.
+Bar graph and 7 segments are used for display.
+
+12—2. Configuration of FL display
+
+¢ Fluorescent display tube
+
+10 20 30 40 90 60 70 80
+
+LtjbLisyLiytisvtLiyttyutijyriy
+A
+
+time
+docation PHNININNM UIT INEM M1 HMIITNINT HITICUIE ANNQNNNNEE HUEEENEUNE WHETIEIIN
+selection HII AVIV THTNINE HUtUtAE HIRI TRUTUIG THAIS. UTI
+track FF} time Fi Ch: Fo
+PE] pee oS
+7 segment driver
+driver OSC
+svete decorder decorder
+micon — Display
+SBT-
+
+micon
+MN1542
+
+Fig. 12-1. FL Display Block Diagram
+
+= 140 -

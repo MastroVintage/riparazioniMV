@@ -1,0 +1,88 @@
+L301
+
+vco 0.12 y1s(8.64MHz)
+
+REE
+
+I kHz, OdB
+
+)| Ic30l
+
+RF signal
+wave form
+shaping
+
+Deglitch
+
+LPFS8OI 1c803
+
+6
+7
+
+\c802 Aoud io
+circuit
+
+LPF802 IC806
+
+IkHz ,OdB
+
+Ea
+
+synchron |
+=
+
+5V
+-I5V
+
+D/A Converter
+
+8.643MHz
+
+Muting contro!
+
+play |!3ms
+
+verse
+or
+
+@ PACKING
+
+1, Put a soft cloth under the unit to protect
+it from scrathes.
+
+2. Turn the lock shaft 180° clockwise.
+
+3. Turn the lock screws (about 5 to 6 times)
+clockwise.
+
+Bottom view Soft cloth
+
+Lock screws
+
+LOCK
+SCREW
+
+oe
+sie, 6yY
+
+. Plase the unit (with cushions attached, as
+
+. Fold the flaps according to the line marks.
+. Seal the top with adhesive tape. ;
+
+ed : Pgh gts
+
+illustrated.
+
+Use gum tape or adhesive cloth tape of
+50mm wide at least.
+
+. For the edges, first fold the flap “a” and
+
+then flap “b”, and staple. Remember to
+staple only flap “b’’. (Use 15 or 16mm
+staple) ‘
+
+Printed in Japan
+840908400 @) AM/YW
+

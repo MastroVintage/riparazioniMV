@@ -1,0 +1,70 @@
+(3)
+
+FO ON signal is applied to CN704 pin (2) from system micro-
+computer, then IC103 pin (2) goes "H" and the ZERO detection
+block in IC103 stands by.
+
+When focus servo is activated and TR ON signal is delivered
+from system microcomputer, then IC103 pin (19) goes "H",
+
+As a result, C115 to set the ZERO CROSS detection start time
+is charged by R122.
+
+As Cl15 is charged causing IC103 pin (18) to go "H", then
+ZERO detection block in IC starts to detect ZERO CROSS. In
+this condition, the tracking error signal from CN120 pin
+
+(3) crosses with V REF (reference voltage) of IC103 pin (7),
+then IC103 pin (20) goes "H",.
+
+When IC103 pin (20) goes "H", I¢909 pin (9) changes to "H",
+Consequently, FG signal applied to IC909 pin (8) is deliver-
+ed to 1¢909 pin (10). FG signal thus delivered causes the
+system microcomputer to be informed of the ZERO CROSS point.
+The ZERO CROSS timing is shown in Fig. 4-18,
+
+, 7 key ON
+en ead
+
+(FO ON)
+
+|
+cos@——_!
+
+(TRACK)
+
+t
+i
+a er a
+
+|
+|
+4t |
+
+CN103
+TE(HK)
+
+|
+V. REF intersects point
+
+10103 “~~V REF level
+
+161039 —$—$_/.
+Oe een eee nn
+(ZERO)
+
+icg99®
+
+(FGA)
+
+icgo9
+(FG OUT) 0.5~25 |
+
+Auto focus | { ZERO CROSS completion
+{ (minimum deviation point)
+ZERO CROSS start
+ZERO CROSS start timing setting
+
+Fig. 4-18. ZERO CROSS timing
+
+— 39 —

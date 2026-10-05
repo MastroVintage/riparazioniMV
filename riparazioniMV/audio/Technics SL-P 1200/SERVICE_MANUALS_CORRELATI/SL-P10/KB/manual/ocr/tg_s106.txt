@@ -1,0 +1,65 @@
+— Contents of data transferred —
+
+The upper 4 bits of serial 8 bits are given for data No.,
+and the lower 4 bits, for data.
+
+time
+
+location
+selection
+
+8 bit
+
+Fig. 11-15 Display
+
+Display data in SL-P10 are as follows:
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+
+f/TEN
+\i 3)
+
+7-segment (track & time) display
+
+Time bar code display
+
+Location bar code display
+
+Selection bar code display
+
+Read-out position display
+
+Selection erase (end of 1 step of program)
+Group progam "-" display
+
+Program overflow "F" display
+
+Program error "E" display
+
+SKIP display
+
+SEARCH display
+
+SKIP-SEARCH display
+
+Complete erase (in EJECT mode)
+
+Selection and 7-segment erase (stop, clear)
+7-segment erase (recall)
+
+a be
+
+— 127 —-

@@ -1,0 +1,49 @@
+9—3. Signal processing in recording system
+
+— Encoder —
+
+GL
+scramble
+
+wi
+we
+
+l frame symbol data
+
+C2 scramble
+
+W23
+we p> Disc cutting
+
+C2 Inter-
+encoder leave
+
+EFM & SYNC added
+
+Fig. 9—2. Signal Processing in recording system
+
+Signal processing in recording system
+
+The block diagram of CD is shown in Fig. 9-3. A breif
+explanation is given in the following.
+
+(1) Sampling frequency of CD is 44.1 kHz. For quantizing,
+it is A-D converted to 16 bits per sample.
+
+Next, the 16 bits are divided into the upper 8 bits and
+lower 8 bits.
+
+* l-sample 16-bit is called "data word", and l-symbol
+8-bit is "symbol data".
+That is, 2 symbols make 1 data word.
+
+1-sample 16-bit 1-sample 16-bit
+channel (left) channel (right)
+
+1-symbol 1-symbol
+
+aa Tee
+
+Fig. 9-3 Symbol data and data word
+
+— 9? —

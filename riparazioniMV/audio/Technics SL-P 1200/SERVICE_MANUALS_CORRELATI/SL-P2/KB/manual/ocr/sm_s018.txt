@@ -1,0 +1,85 @@
+Loading drive mechanism and optical deck unit parts
+52)
+
+(wr? . ae ota
+
+i
+ea
+
+— 31 ——
+
+Optical Servo P.C.B.
+(Head amplifier)
+
+_SL-P2 SL-P2
+
+e Remote control unit parts
+
+m@ HOW TO REPLACE CHIPS
+(Resistor, capacitor and jumper)
+
+e Removing procedure
+
+. Completely remove the solder from both ends of the
+chip by use of solder sucker.
+
+2. Touch the soldering iron to the end of the chip as shown
+in Fig. 22, then turn the tweezers in the direction of
+
+Ps
+
+Witout color cord With color cord
+
+=
+
+the arrow.
+
+Chip resistor
+
+Do not re-use chip resistor or capacitor without color
+cord.
+
+e Replacing procedure
+
+1. Place solder on the foil where the chip is fitted.
+Then solder the chip by holding the soldering iron as
+shown in Fig. 23.
+
+Note:
+1. If the chip jumper is removed, connect a coated lead
+
+wire to the part. (See Fig. 24).
+Chip jumper is marked with ‘J’ on the printed circuit
+
+board.
+
+Coated lead wire
+
+Solder Solder
+
+Fig. 24
+
+WN @
+
+-
+
+Tweezers
+
+Soldering iron
+
+|TV Se a
+WRALAAVRALAALRLLERLLRSSSLRLLRARTRLSELS UG
+
+Fig. 23
+
+Note for replacing chips
+Do not heat the chip more than 3 seconds.
+Do not rub the electrode against the chip.
+
+. Use the tweezers with care not to damage the surface
+
+of the chip.
+
+. It is desirable to use a pencil type soidering iron. And
+
+use soldering iron less than GOW.

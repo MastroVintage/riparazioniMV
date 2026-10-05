@@ -1,0 +1,84 @@
+4-4, Display ON-timing
+We owe | pe
+
+® Cos | ae 31Spsec,
+
+ot
+cos = i
+H (35sec
+ng { (35sec
+@ C04 “ .
+‘aiSusec
+4" | |
+(y COB
+
+t
+5 | | |
+@ co02 I ! a
+gt | |
+(Col
+
+' :
+I9Sysec 135ysec 3!Szsec
+
+t
+Colon signal
+
+@DO7 ! ‘
+| iy
+1
+'
+
+@ooo |
+1
+| |
+
+§ 1
+DOG
+® {> $$$ 1909 —
+35sec >}
+Digit signal Fo Le
+
+I
+i
+
+iSpsec I5yusec
+
+Fig. 23 Display ON-Timing
+
+4-5. Display command to display microcomputer
+
+Various display command from operation control are put in
+A port of display microcomputer as shown in the following.
+
+MN |430PCG
+
+input Port Input data FL display
+
+—
+
+For LED ON [SCAN REPEAT PAUSE | PLAY |
+
+0101 PLAY and REPEAT ON
+
+Without colon segment ON 1B4BB15 --- LI
+
+210B314
+
+ee er
+Pua
+
+With colon Segment ON
+B means blank
+
+Bar code all off Rest
+
+Bar code all ON A 0812-+- 8th — 12th bars lighted
+
+Bar code flash ON B 04--+--» 4th bar flashes
+
+Bar code ON Light up the 3rd bar
+
+Bar code off Light off the 3rd bar.
+
+—23~

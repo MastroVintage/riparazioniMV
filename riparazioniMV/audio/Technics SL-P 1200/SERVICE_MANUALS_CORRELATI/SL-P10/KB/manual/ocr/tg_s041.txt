@@ -1,0 +1,51 @@
+1C 103 22 EN |
+
+(KICK)
+9,1ms
+
+1C 10314 | | i ee a
+(J.TIME)
+
+About 0,3ms =
+1C 103
+(Jump pulse)
+1C 103 8)
+(Jump pulse)
+
+IC 103 1?
+
+Track jump detection
+
+11036
+1c1036 |
+(Brake a 4 rs A
+| |
+_ |
+10103) | | | 1 |
+a Oe
+t
+11 | ty
+lt |
+101019 |
+Jump pulse | | l ; |
+differentiation | I
+|
+
+cn
+
+Acceleration | Spe
+
+RF signal
+
+Jump completion point
+Track middle point, brake start point
+Track skip detection start point
+Jump start point
+About 0.54ms
+
+k#——>|
+Back jump Forward jump
+
+Fig. 4-23. Jump control timing
+
+— 44 —

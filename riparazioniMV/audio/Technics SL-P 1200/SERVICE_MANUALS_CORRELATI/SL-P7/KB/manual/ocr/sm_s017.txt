@@ -1,0 +1,202 @@
+5. Manual Search Play
+
+Manual search play can be performed when the
+player is in the play or pause mode.
+© To move the pickup to a specific point
+
+@ Press the forward or reverse search/index button to
+move the pickup to the desired point.
+
+a a Cd
+(forward search)
+ss
+hh
+(backward search) _
+
+@ The pickup will move slowly at first and then switch to
+rapid movement if the button is held down for more
+than about three seconds.
+
+@ When manual search is performed while the player is in
+the play mode, the desired point can be located by
+watching the display. (at a level of about —12 dB of the
+present volume setting).
+
+®@ During the pause mode, watch the display to locate
+the desired point on the disc.
+
+Note:
+
+@ When the player is in the single track repeat mode,
+the pickup can only be moved to locations within
+that track.
+
+m HANDLING COMPACT DISCS
+
+e Handling precautions
+Only compact discs identified with this
+mark can be used with this player. aise
+
+DIGITAL AUDIO
+
+®@Hold compact discs by the edges so the
+surface is not soiled with fingerprints.
+
+©Be careful not to scratch the surface with fingernails or
+other sharp objects, particularly when inserting and
+removing discs in their cases.
+
+®@Do not bend the disc.
+
+®@Do not use record cleaning sprays or static electricity
+prevention liquids.
+
+@Do not wipe with benzene, thinner or any other
+solvent. If the surface is soiled, wipe gently with a soft
+damp (water only) cloth.
+
+6. Repeat Play
+
+1. To repeatedly play an entire side:
+Press the repeat button until the @l-@m™Jindicator lights.
+
+2. To repeatedly play one track:
+Press the repeat button until the[i_am indicator lights.
+@The repeat pley mode can be activated while a disc is
+being played.
+Follow directions in the direct access section, if you
+want to specify the track to be played repeatedly.
+
+3. To cancal the repeat mode:
+To stop repeat play, press the repeat button until
+all repeart indicators are out or press the pause/stop
+button to stop disc play.
+
+Note:
+
+Repeat play can only be done for an entire disc side or
+an entire track. It can not be set by index numbers.
+Therefore, on discs having only one track, the entire
+side and single track repeat modes will both play the
+entire side repeatedly.
+
+7. Timer Play
+
+1. Turn on the power switches of all components in the
+timer play chain.
+
+Note: The timer of the audio timer should be off at this
+
+time.
+2. Set the amplifier input selector to the position for this
+player.
+
+. Insert a disc in the holder.
+
+4. Confirm the present time and set the audio timer to
+the desired start and stop times.
+
+5. Turn the audio timer on. The audio timer will now turn
+power off to all components in the timer play chain.
+
+6. The disc will now be played from track one at the
+preset time.
+
+w
+
+@lf the disc is brought from a cold environment into a
+warm room, dew may form on the disc. Wipe this off
+with a soft, dry cloth before using the disc.
+
+®@Do not write on the label with a ball-point pen, hard
+pencil or other hard writing utensil.
+
+@Always remove the disc from the disc compartment
+when you have finished listening to it.
+
+e Storage precautions
+
+@Be sure to store discs in their cases to protect them
+from dust, scratches and warping.
+®Do not place or store discs in the following places:
+1) Locations exposed to direct sunlight.
+2) Locations with high humidity or a lot of dust.
+3) Locations directly exposed to a heat outlet or
+heating appliance.
+4) In the glove compartment or rear ledge of an auto-
+mobile.
+
+=
+
+mg DISASSEMBLY INSTRUCTIONS
+
+e How to remove the cabinet
+
+. Remove the 4 setscrews [Fig 1; @ ~ @] to remove
+the cabinet in the direction of the arrow.
+
+e How to remove the front panel
+1. Remove the cabinet. [Refer to “How to remove the
+
+cabinet”. ]
+
+2. Remove the 2 setscrews [Fig. 1 :@, @] of the front
+
+panel.
+
+3, Remove the 2 setscrews [Fig. 2 ;@ . ©] of the front
+
+panel fitting, and release the 2 claws.
+
+4. Pull out the lead wires from the connectors of the digital
+
+P.C.B. and remove the front panel in the direction of
+
+the arrow.
+
+Note:
+When installing the front panel, remove the power
+switch rod and install the front panel from the disc
+holder side. (Take care not to scratch the disc holder.)
+
+the front panel”.
+
+2. Remove the 3 setscrews [Fig. 3 ; @ ~@] of the fluo-
+
+rescent display tube P.C.B. and release the 9 claws, then
+the fluorescent display tube P.C.B. can be removed.
+
+*Open/close, repeat button and search/index button can
+
+be removed by removing the fluorescent display tube
+P.C.B.
+
+e How to remove the servo P.C.B.
+1. Remove the cabinet. [Refer to “How to remove the
+
+cabinet’. ]
+
+2. Release the 2 claws [Fig. 4] in the direction of the
+arrow and then lift the servo P.C.B.
+
+3. Push the 3 claws [one by one] in the direction of
+the arrow (A) in Fig. 5, and remove the servo P.C.B. by
+pulling it in the direction of the arrow (B).
+
+4. To remove the audio P.C.B., remove the setscrew Q.
+[Fig. 4]
+
+*When checking the circuit, do the job as in paragraph 2.
+
+How to remove the fluorescent display tube P.C.B.
+1. Remove the front panel. [Refer to “How to remove
+
+Claws
+
+Claws Fig. 3
+
+Servo P.C.B.
+Lead wires
+
+|
+7 ® figs

@@ -1,0 +1,49 @@
+11. Operation control circuit
+
+11—1. Role of operation control circuit
+
+A great merit of CD is that random access is possible. Using
+control signal recorded in the disc, it is able to access the
+munite and second as well as tune No.
+
+* SL~-P10 was able to access the unit of second. It is fur-
+ther able to access the position up to the unit of frame
+(1/75 sec.) on the control signal.
+
+Uniike the stylus of a conventional analog player, CD reads
+Signal by use of laser beam.
+
+Therefore, an optical servo circuit is built into the system,
+and various servo timings are required for correct applica-
+tion of laser spot to the specified position. The operation
+control circuit works as a control center for the whole
+system.
+
+11—2. Configuration of operation control circuit
+
+(MNE6EL! (MN6610:
+
+EFM PU
+demodul- position
+ation detection
+
+PU posiltion
+
+Control (time in|formation)
+informa-
+
+tion
+
+Q System microcomputer FL
+AM (MN1564) display
+iMN2114' (MN1542i
+
+System sensor :
+Traverse Y & orrass, =a ing
+wre ON/OFFcontrol| fion ETE SE Se
+
+(MA1400
+
+Fig. ll-1 Block diagram of operation control circuit
+
+et

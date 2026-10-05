@@ -1,0 +1,52 @@
+VRLO1l is a semi-fixed resistor to adjust the
+AMP in IC101 (AN7673), and it is adjusted so
+flows into actuator coil during STOP mode.
+
+VR102 is a semi-fixed resistor to adjust the
+in IC101 (AN7673), and it is adjusted to the
+position.
+
+VR103 is a semi-fixed resistor to adjust the
+
+offset of FE
+that no current
+
+gain of FE AMP
+maximum gain
+
+offset of TE AMP
+
+in IC101 (AN7673), and it is adjusted so that no current flows
+
+into actuator coil during STOP mode.
+
+VR104 is a semi-fixed resistor to adjust the
+
+gain of TE AMP
+
+in IC101 (AN7673), and it is adjusted so that the tracking
+
+servo loop gain is 70 dB.
+
+VR107 is a semi-fixed resistor to adjust the
+signal amplifier, and it is adjusted so that
+equal to that of (TE+FE) signal amplifier.
+
+gain of (TE - FE)
+the gain is
+
+C105 and R102 determine the frequency characteristic of focus
+servo loop. The frequency characteristic and gain of focus
+
+servo loop are shown in Fig. 4-15.
+
+(dB)
+
+65
+
+Fig. 4-15. Frequency characteristic and again of
+loop
+
+= 8B
+
+focus servo

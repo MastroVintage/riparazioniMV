@@ -1,0 +1,49 @@
+e Configuration of optical servo
+
+The block diagram of optical servo is shown in Fig. 3-1.
+
+The procedure of complete operation of optical servo: Focus
+servo ON (FO ON) + Auto focus * RF signal detection (RF ON)
++ Tracking servo ON (TR ON).
+
+Firstly, FO ON signal from the system microcomputer enters the
+point (a), then the auto focus circuit delivers sawtooth wave
+output to directly drive the focus error amplifier (II). Thus,
+the lens is moved vertically and RF signal is delivered when
+the lens is focused. This operation is called auto focus and
+it is illustrated in Fig. 3-4.
+
+Sawtooth wave output
+PO Ve" TS is moved with
+this voltage.
+RF signal
+
+ad
+
+RF signal delivered with lens focused
+
+Fig: 3-4. Auto focus
+
+When the RF signal enters the point (b), the auto focus opera-
+tion is stopped and RF ON signal is generated to close S2, acti-
+vating the focus servo. The RF signal is shown in Fig. 3-5.
+
+RF ON signal also enters the system microcomputer.
+
+The system microcomputer confirms the signal and then delivers
+TR ON output. S: is closed, activating the tracking servo.
+The RF signal is illustrated in Fig. 3-6.
+
+Fig. 3-5. RF signal with only Fig. 3—6. RF signal with focus
+focus servo ON and tracking servo ON
+
+As the tracking servo is activated and the lens starts to follow
+the track, the traverse servo operation is required.
+
+The tracking servo functions with the input signal at point C
+that is delivered from the tracking error head amplifier.
+
+The comparator and traverse microcomputer convert the signal
+change into pulses to operate the stepping motor.
+
+~ 15 —

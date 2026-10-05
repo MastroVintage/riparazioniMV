@@ -1,0 +1,48 @@
+Random access
+start
+
+CN902¢) [ | . |
+ame) ———]_ SLT
+
+1C111@ ___t |__| U =
+
+(MN1400) ‘ (
+
+e150 ——_______{ L__—___{1_]l_
+1C 15020) JT
+‘ i) 1
+
+) |
+i]
+ser hee zoonerd fe ce
+(1) Traverse extra-high speed start point
+(2) Traverse stop point | ——
+(3) Tracking servo ON command point TR ON stop period
+
+Fig. 4-10 Operation timing in random access PLAY mode
+
+Note) Width and number of pulses delivered during period
+A vary depending upon traverse stop position.
+
+PLAY key ON
+10150242 a
+
+CN9024))
+(TRACK)
+10150243
+(TRACK)
+
+r
+
+IC 150241)
+(TRACK)
+
+0.5~2s
+t= pLay
+i
+
+Auto focus
+
+Fig. 4-11 Operation timing in STOP > PLAY mode
+
+Das

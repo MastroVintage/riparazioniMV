@@ -1,0 +1,68 @@
+| SCH EMATIC DIAG RAM ( This schematic diagram may be modified at any time the development of new technoligy.)
+1 2 3 4 3 5 6 7 8 9 10
+
+Play 2ms,5V/0IV Ploy 2ms,5V/DIV
+
+all
+
+Focus gain adj. Drop out detecting
+
+Focus servo
+
+A
+0302-303 @oaso: €92302~306 oe
+o5us,1v/ ov 33 leks z MAI65 » @O 2SA564 ~ 2SC828 Tce
+sth 43 oF S
+| SRK tata ts |S OS &
+; ee ee ee
+a |
+~ ell bh BEE EY
+@-O-C9-Z)-2-B-L9-43-D-D-C | 0401,581 a8
+AN7677S ec cea] femveatces 2SC1047
+Focus balance. — =i ~---~--~~-4- SS
+adj. C{ cont]
+B 0
+Tracking balance
+PHOTO DETECTOR oss Tracking error
+c SROPOO7N32 MA4056 208 gop amplifier
+1c102
+AN7678S
+1cl1os
+AN78LO5
+clos
+AN79NO5
+Laser power adj.
+SRDOO7N3S A | a ee Sy es ee R32) 22K
+“ Tracki oaonnoe 3 Waveform sh:
+Tracking gain adj. 'Tacking — " 0305,554 ica
+D {RoPoo7Nos Offset adj. 0228 ee MAI65 MA4o56 SVITC4:
+|03 tc103 191. 22K si lary cal oo R403. 33K pane R495 10K
+' } & lo2 K
+ANGS56S “ih 1 “fe ee ne ee “C204 Rao? ® .
+Laser power control e2ie 90's & 2 __ aK 1C401_
+1€204,209 3s R407 10K 9
+1c104 EE Meee MN4011BS ad ,
+AN6552S
+E
+g x
+23ms o ; OT : S.
+- 3 4 : >—t—~ fie AE
+(se) | | 9 <j x q208-
+'Q602 ,605 0601,603~607 48 j
+[ore HL Are.) 28c028 /\MAI65 ah =i ; Q 2S01266 | 258941 ___
+(_ =a | | 1C205,23 0
+F LOADING = MN403BS ah ;
+MOTOR O-O-O-O-G-O-)-OG eas) g
+fek:) et 1.6 6 95 AN655!NS
+(Mp 3 ae a SR dah 1c404
+3 ‘ a ST ae
+CRT EIR
+SS NS NS GS ES MS |
+Bam eer an cal TT oma LU tT traverse som (| | hd ———
+Loading motor ca a an . o {\4 ae: cnioa ~ Fwo REV Fwo | rev PN Piers a Se Sb Sb i ES Sie Gee Se eee | ee
+G —)
+control 1 osms | | {Mn #2 fees
+oT —? (-) Hw Tr rrr °
+G TRAVERSE vasa
+
+jo2

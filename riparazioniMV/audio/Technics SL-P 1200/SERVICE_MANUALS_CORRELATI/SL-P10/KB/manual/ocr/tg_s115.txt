@@ -1,0 +1,48 @@
+Random access operation
+
+POINT setting POINT represents target position.
+
+tra-high speed ; :
+ses : 7 It is controlled by MN6610 data.
+
+Time difference between P and Rough
+
+TR ON is calculated. (P stands for POINT.)
+
+(Rough stands for PU position by
+rough data of MN6610.)
+
+High-speed
+REV
+
+=> Rough search
+4
+D
+‘)
+
+Time difference between Q and PU
+
+t
+t
+I
+
+av an ee. es hen we is checked.
+
+{(Q stands for Q data. )
+<> (PU stands for PU position at present.)
+
+YES
+Kick back read start It is done until At is minimized.
+TR ON. MUTE ON No sound is produced with MUTE ON.
+
+Fine search qa
+
+v
+
+YES
+
+MUTE OFF MUTING released.
+
+Fig. 11-18 Flow chart during random access
+
+— 138 —

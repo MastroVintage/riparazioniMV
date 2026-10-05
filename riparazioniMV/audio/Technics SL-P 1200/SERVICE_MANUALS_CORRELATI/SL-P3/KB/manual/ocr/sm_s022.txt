@@ -1,0 +1,59 @@
+SL-P3 SL-P3
+
+m@ PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM
+
+|O6| Power source P.C.B.
+
+BT
+
+Main P.C.B.
+
+Power-
+transformer
+
+Optical Pick-Up
+
+Electronic volume PCB
+
+CN805 CN803
+
+PCK
+TJ 404
+ee LS.1 Module P.C.B. fil Motor coil P.C.B.
+7Pin 13702 a o!
+. pce
+(0K optical servo P.C.B. CLOCK ©
+(Head amplifier) FCLK
+RFGND
+NEE TJ 403 | @ CNSOI
+| RF
+of
+cnaio. |
+DropOut
+CN4II
+White Lit
+HF? ] cnaos (efsJta)Head phon = (fsb)
+Traverse @ PF] cna08 @. amp, P.C.B Head phon
+motor j
+© @) Jensor Gap jack PC.B.
+O
+rown [2 |cn406 ae
+5102 row: Load: Grey CN4O! cNn402 CN403 CN404
+(End) = White moter CN405
+SIol _ White 3
+(Rest) =a *
+White ie PS vt Remote control
+$103 White i
+(Close) go wS recwer
+Orange Jl4
+Ji BT6SS
+$104 ah?
+(Opens LKR |
+Close) aD
+a eae,
+( ———“
+104 [ey
+Disc L.E.D. re
+
+BT603 [123]
+

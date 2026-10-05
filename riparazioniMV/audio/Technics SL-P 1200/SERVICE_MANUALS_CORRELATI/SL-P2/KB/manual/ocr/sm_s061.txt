@@ -1,0 +1,65 @@
+. Mechanical adjustment
+
+. Place the Test disc on the turntable with clamper magnet.
+
+_ Connect the oscilloscope to TJ402 pin on 01 (Main) P.C.B.
+
+. Apply power to the unit and select the play mode.
+
+_ Confirm that RF signal is as shown in Fig. A. If it is not present, proceed to next step.
+If RF signal is as shown, skip step 5.
+
+_ Adjust hexagonal screw (Use a hexagonal wrench 2 mm) to the right or left to obtain the RF signal (Visual check)
+as shown in Fig. B.
+
+on RWN > w
+
+Suspension shaft
+
+lool
+a ey ey
+
+Fig. A. RF signal
+
+Do not touch
+
+Fig. B. Bottom view of traverse unit
+
+1. Place the Test disc on the turntable and clamper with
+
+the magnet.
+2. Connect the oscilloscope as follows: RF signal
+at CH1
+Sweep speed...... 2us.
+CH1........--- TJ402 pin on Q1 (Main ) P.C.B.
+CH2........0-- C164 on 03 P.C.B. (1C104 17 pin)
+
+3. Apply power to the unit and select play mode.
+4, If RF signal and ‘‘N” mark are present no adjustment is
+
+Nak i
+required as in Fig. A. at Ch2 (TUTTE TS ATT TT
+
+XN
+~ ¢
+
+If RF signal and “N” mark are not present, perform
+“N” mark
+
+step 5.
+5. insert the Grating adjustment too} into the hole on the Fig. A RF signal and “N” mark
+left side of the optical pick-up body as shown in Fig. B.
+6. Rotate the Grating adjustment tool toward right or
+left until the “N’ mark is sharpest and maximum RF
+signal is obtained. Optica! pick-up
+
+Turntable
+
+Suspension shaft
+Front of deck
+
+Insert the Grating
+adjustment tool
+
+Fig. B. Left side view of traverse unit
+

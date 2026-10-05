@@ -1,0 +1,36 @@
+Door motor drive circuit
+
+The motor drive circuit is shown in Fig. 11-3.
+IC7 (BA6209) is a drive IC.
+
+The door can be operated by OPEN/CLOSE key.
+
+"IL" signal enters IC7 pin (5) in OPEN mode, then the voltage
+is 0 V at (p02) pin (2) and 8 V at pin (10).
+
+"EZ" signal enters IC7 pin (6) in CLOSE mode, then the volt-
+age is 8 V at (P03) pin (2) and 0 V at pin (10).
+
+SL-P10 has auto loading function, and delivers CLOSE signal
+(P03) when disc sensor (refer to P96) is operated.
+
+The loading mechanism is shown in Fig. 11-4.
+
++15V
+
+(open)
+Po2
+
+Po4
+(close)
+
+Speed setting
+
+Door motor
+
+IC7
+BA6209
+
+Fig. 11-3 Door motor drive circuit
+
+—115-

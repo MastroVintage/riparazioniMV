@@ -1,0 +1,140 @@
+st4j
+ig
+
+Q655
+Traverse servo Loading motor drive !IT Servo control 2SC33il
+
+1€402 i
+
+0203 SV1BA6209
+c202 0.068
++H
+9.4
+020s (Pasty 9 sag 'B% fo ©-O-O-D-O-O-O-O-O-0
+R215 04 u
+Pole TapnASh
+50. O7
+By | or
+
+Q4ol
+
+2SAI309
+
+0504505 / wr
+neat |
+a Pi ——
+‘coe | a 7 palo ay,
+ae Diss AN4558|_, § 38 MA4056 jo] |
+“107 — = 1c404 i 8x B 22
+0407 o6R94] +— AN78LO5 os aso3_{76)
+o8 2SD636
+MAIGS. 0405,406 NI358 (33
+
+SVDISR35200V ANI358 '33
+
+Q201, 202
+
+2SC33lt 2
+
+R307
+4.7K
+
+waveform shaping
+'C301 1€302
+SVITC4OHOO4P = SVINJMO82D
+
+Q408
+
+2SA1309
+
+042i Q408
+
+Spindle motor drive
+
+Auto cue control
+
+' hog f e R502 acbd
+1c501 c5I7 4.7 100K (48) x
+ee ay 3 "4
+rT | | ft feo on 88 g
+= } . ~ (C09
+bee Ft ee
+
+: PS S signal processing MN4OIIB
+r) Fa}
+haar ees Wave form shaping
+
+— PrIiCLOSE)| | (REV) Pz2@7 0402
+
+Ggr72ipause}| fiLoon) P21 @6 UN4212
+| ___Sgersiecarn| fsrrose n206
+— aa yaar 6g | | ty
+| 49a | rraverreotss 1
+
+a
+
+8)
+
+i
+—, o- i
+32S _| |svea) 381 G9} J
+| ee
+eyo ie
+A os rar 8
+TEP EEE Ey ot 38 Ce a
+— “tf +++ }—— #441 a es
+f im 2D [oXe) (REST) PS! —|——_H] rtd
+a 52. Ss ‘T STOPIPSO ee zy
+ps7] eons —f rgoe $85 200)
+c —4 rst (1) lOOKTE=o 5
+Bee | oe !
+G (KICK FI PIS ait eS
+b ier mieatsy —f Tt} aa tBe
+a= fran mi (|_| | + aro [os 63
+' Cam gs 4p" TOR ae
+Se. | z4 oe
+Det [os —1
+———
+: eo
+|_b2 J
+
+1C401
+
+MNI5844PCU
+
+ina.
+=e
+|{
+
+R663 [+O
+270K f 88
+
+allo
+Silo
+|r|
+CXR
+Een)
+
+1C505
+
+ANS0B20
+
+C404
+0.001
+
+D/A Converter
+
+1 image 1V/01V
+
+c | Module
+270K F BB CLV Servo control b igital circuit)
+d
+e LSI Module
+[te fe | 20 ar“ Teardeapslesler] 26 [29 fo-X[m-s[seadzopo] a= sr Tse ~ 60 pep fep os Ts sy es Try es 7] 2 | pa] fisfef ir Te Te 20 Tt TT ee
+24 - O.46usec [LB msec
+a 136 psec olsslad 07 4.7\4 3 p(B S4MH2) 37] 136usec
+ee eee cs 2) 2] 44 THE G WEE prs:
+i TS) Se He + ~ a LT | MM JAM,
+O} O.t msec Olmsec  |iOmsec op 06 5} 0 cc 34vp-p | O2usec
+Iv Oly te) Olv
+

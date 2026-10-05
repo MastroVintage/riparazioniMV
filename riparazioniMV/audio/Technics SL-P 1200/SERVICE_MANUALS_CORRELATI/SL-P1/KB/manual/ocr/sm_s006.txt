@@ -1,0 +1,241 @@
+e To program more than one track
+(multi-program)
+
+1. To play several tracks out of order
+(Example: To play track 3, track 5 and track 1 in that
+other.)
+
+3 memory 5 memory. 1
+
+a
+, oF r n
+
+Track no, Program Track no. Program Track no.
+
+play >
+
+@ The disc is played in the programmed sequence.
+(A maximum of 15 tracks can be programmed.)
+
+e To enter a program during disc play
+
+A new program can be éntered while a disc is being played.
+When the new program is entered, the previous programs
+will be erased and disc play based on the new program will
+begin.
+
+Note:
+
+@ When entering a program during disc play, the
+program buttons must be operated without
+interruption. If there is a gap of more than 30
+seconds between the time two program buttons
+are pressed, the new program will not be entered
+and disc play will continue in the normal manner.
+
+@ It is impossible to program index numbers.
+
+@ To cancel a program
+Press the stop button. The program will be cleared.
+
+5. Skip Play
+
+Skip play can be performed when the player is in the play
+or pause mode.
+
+@ To move to the beginning of the next
+track or several tracks ahead
+(forward skip)
+
+Example: While listening to the third track the
+forward skip button is pressed to adv-
+ance to the beginning of the fourth
+track and then again to advance to the
+beginning of the fifth track.
+
+P___
+
+k wee ee
+
+Pressed here. Pressed again.
+
+4
+
+ee ers es SS SS SS AO SSS SS ee
+
+(Standby) (Auto-return)
+
+eThe pickup skips the same number of tracks as the
+number of times the button is pressed.
+
+eWatch the display to be sure the desired track has been
+located.
+
+eDuring program disc play, the pickup moves to the beginning. of
+the next programmed track when the forward skip button is
+pressed.
+
+eThe pickup moves to the beginning of the next track (or
+programmed track) each time the skip button is pressed.
+
+eTo skip directly from the third track to the beginning of the fifth
+track, press the forward skip button twice in a row.
+
+(Skips to the beginning of the next programmed track during
+program disc play.)
+
+e@Holding down the skip button activates the quick skip mode.
+
+When the button is pressed during the last track, the
+pickup will go to the beginning of the last track (unless the
+repeat function is on).
+
+@ To return to the beginning of the
+present track or any previous track
+(backward skip)
+
+Example : While listening to the third track the
+backward skip button is pressed to
+return to the beginning of that track
+and then again to return to the begin-
+ning of the second track.
+
+\
+
+{
+
+rt
+Pressed”
+again. a Pressed here.
+
+4
+
+ee es ee es es es ee ee ee ee ee ee ee ee es ee ee ee
+
+(Standby) (Auto-return)
+
+eThe pickup skips the same number of tracks as the
+number of times the button is pressed.
+
+eWatch the display to be sure the desired track has been
+located.
+
+During program disc play, the pickup moves to the beginning of
+the previous programmed track when the backward skip button
+is pressed.
+
+eThe pickup returns to the previous track (or programmed track)
+each time this button is pressed.
+
+To return quickly to the beginning of track 2 when listening to
+track 4, quickly press the backward skip button three times.
+
+@Remember that for backward skip, the present track is included
+in the count.
+
+Holding down the skip button activates the quick skip mode.
+
+6. Manual Search Play
+
+Manual search play can be performed when the player is
+in the play or pause mode.
+
+@ To play the disc from a specific point
+
+ePress the forward or backward search button to
+move the pickup forward or backward.
+The pickup moves slowly at first and then rapidly if
+a search button is held down for more than about 3
+seconds.
+
+e@Release the button when the desired point has
+been reached (as shown by the display).
+
+elf a search button is pressed while a disc is being played, sound
+from the disc can be heard as the pickup moves. The output
+level at this time is — 12 dB (%) compared with the level during
+standard disc play.
+
+(Forward search)
+
+(Backward search)
+
+eDuring program disc play, the pickup can only be moved
+between the beginning and end of the track currently being
+played using the search buttons.
+
+@To use search for another track during program disc play, press
+one of the skip buttons to move to the desired track and then
+use the search buttons.
+
+@ INSTALLATION
+
+@ This unit incorporates many sensitive optical
+components. To enjoy optimum performance
+at all times, avoid using this unit under the
+following conditions.
+
+ein a closed vehicle or other location where the temperature
+could exceed 100°F (40°C).
+
+eFor long periods of time in direct sunlight.
+
+eVery cold places. (below 40°F; 5°C)
+
+eVery humid locations.
+
+eNear a heat outlet or heating appliance.
+
+eDusty or smoky locations.
+
+eLocations prone to vibrations.
+
+eWhen placed on an unstable or uneven surface.
+eNear appliances generating strong magnetic fields.
+eWithin reach of children.
+
+7. Repead Play
+
+Press the repeat button to activate the repeat
+mode before starting disc play.
+
+ePress the repeat button again to cancel repeat
+play and resume normal disc play.
+(Repeat play can also be cancelled by pressing
+the stop button. In this case, disc play will be
+stopped.)
+
+Repeat indicator lights.
+
+eRepeat indicator goes out.
+
+Repeat play can be used to repeatedly play an entire disc side
+or combined with program disc play to repeatedly play only a
+particular section or sections of a disc.
+
+@ Do not place near a tuner or television.
+This unit uses high frequency signals and can cause inter-
+ference with radio and television reception. If this occurs move
+this unit farther away from the radio or television or chance from
+an interior to an exterior television antenna.
+
+Do not biock the ventilation openings.
+
+This unit is equipped with ventilation openings to prevint the
+
+internal temperature from rising too high. Therefore, do not
+
+operate it with a tablecloth or other covering placed overihe top
+
+or with the unit placed on a bed, deep carpet or otter soft
+
+surface. If proper ventilation is obstructed, the internal tenpera-
+
+ture will rise and the laser diode protection circuit vill be
+
+activated to shut off the player.
+
+ein locations where ventilation is insufficient.
+
+In locations where the rear panel is less than 10 cm awy from
+the wall or back of an audio rack.

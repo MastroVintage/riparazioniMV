@@ -1,0 +1,51 @@
+5. Turn over the traverse unit and remove the 4 nuts
+(Fig. 13), then the traverse unit ass’y can be removed,
+
+6. Remove the head amplifier P.C.B.
+
+7. Fix the traverse unit ass’y on the jig. (Fig. 14)
+
+8. Check each part.
+
+® -] Spring (Silver)
+‘S) pring ) iv}
+Seems ES)
+
+om ‘S)
+
+= — Spring Sa ilver
+Head amplifier Ss) (Yellow)
+
+Traverse
+unit ass'y
+
+Jig
+(SZZP1016F)
+~
+
+e@ Spindle motor drive P.C.B.
+
+eS
+1. Remove the cabinet.
+
+2. Check each part. (Part side)
+3. How to check soldered parts:
+(1) Remove the switch rod from the power switch.
+(2) Remove the 2 setscrews of the power transformer.
+(Fig. 15)
+Remove the radiator setscrew and take the power
+transformer block out of the chassis. (Fig. 15)
+(4) Remove the setscrew and latch. (Fig. 16)
+(5) Turn over the P.C.B. and check the P.C.B.
+Caution:
+When fitting the P.C.B., be sure to set the insulator sheet.
+
+8
+
+Spindle motor
+drive P.C.B.
+
+Insulator sheet
+
+Fig. 16
+

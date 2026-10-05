@@ -1,0 +1,50 @@
+(3)
+
+(5)
+
+Regarding the frames for signal processing, one frame
+consists of 12 sample data (6 each for R and L).
+
+That is, 24 symbol data make 1 frame, and Wl - W24 in
+Fig. 9-4 correspond to it.
+
+Wl - wW24 data are first subjected to C2 scramble.
+Scramble is similar to interleave. In C2 scramble, it
+is delayed over 2 frames alternately in terms of sample
+data. (Independent R, L)
+
+The effect of scramble results in signal processing for
+facilitation of average value interpolation during play-
+back.
+
+After C2 scramble, the data enters C2 encoder. The C2
+encoder makes 4-symbol parity signals Ql - Q2 from 24-
+symbol data by reed solomon code, and arranges them at
+the center of frame.
+
+Here the number of symbol data within 1 frame is 28 in
+total.
+
+It is followed by interleave.
+
+As is evident in the illustration, it is delayed over 4
+frames up to 108 frames as against 28-symbol data includ-
+ing Q parity.
+
+Cl encoder makes 4-symbol parity signals Pl - P4 from
+28-symbol data, re-arranged through interleave, by reed
+solomon code, and arranges them at the end of the frame.
+Here the number of symbol data within 1 frame is 32 in
+total. (Refer to Fig. 9-4.)
+
+1 frame = 32 symbols
+
+WI w-----2oneeeeceeee eso [PL P2 PB PA
+
+Fig. 9-4 Configuration of CIRC symbols
+* 4-symbol parity of Pl - P4 is added to 28 symbols in
+
+1 frame horizontally, and 4-symbol varity of Q1 - 94
+is added to 24 symbols aslant in the middle of frame.
+
+— 93 —

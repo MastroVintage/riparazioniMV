@@ -1,0 +1,233 @@
+Nach der Justierung sind alle Komponenten umzubiegen,
+so da sie flach auf dem 03-Platine liegen, und dieses
+wieder in die Traverseneinheit einbauen.
+
+Nach Montieren des 03-Platine ist sicherzustellen, da&
+
+Komponenten
+
+Komponenten
+P flachlegen
+
+. ; . flachlegen
+die Unterseite des Abtasters keine der Komponenten
+
+behindert.
+Daher ist sicherzustellen, da die Spuren am AuRenrand
+der Platte erreichbar sind.
+
+Komponenten
+
+~ ae
+flachlegen
+EST Senne
+flachlegen
+
+wm
+<x
+ao
+2
+a
+joa
+rw
+
+1. Réglage de la position de repos
+
+1. S'assurer que les interrupteurs a lames $101 (détection
+du repos) et $102 (détection terminale) n’ont pas été
+mélangés pendant le réassemblage et par conséquent
+réglés sur “ON” (en circuit).
+
+S'ils le sont, séparer avec. soin les contacts d’a peu
+prés 2 mm.
+
+2. Mettre l’appareil en marche. Cela entrafnera le moteur
+transversal 4 enrouler le capteur optique a la position de
+REPOS.
+
+3. Tourner le commutateur d’alimentation sur “OFF”
+
+Capteur
+optique
+
+(hors circuit).
+4. Placer le calibre de positionnement de REPOS sur la
+platine.
+5. S’assurer que la lentille est concentrique en deca de
+REPOS,
+
+Ajusteur du
+commutateur
+de REPOS
+
+orifice du calibre de positionnement du
+comme il est montré a la Fig. B.
+
+Le capteur optique est trop proche
+
+de la platine. (Fig. B)
+
+Pour régler:
+
+1. Desserrer la vis de blocage et
+tourner l’ajusteur du commu-
+tateur de REPOS dans le sens .
+
+wo Calibre de
+des aiguilles d’une montre. positionnement
+
+2. Noter que si I‘interrupteur de du REPOS
+détection de repos S101 est
+trop proche de $102, le capteur
+sera alors trop éloigné de la
+platine a la position de repos.
+Si c’est le cas, appliquer |’énergie
+et répéter l’étape 1 ci-dessus
+jusqu’a ce que la détection de
+repos soit détectée lorsque la
+lentille est concentrique ‘avec
+
+Lentille
+convergente
+
+Platine
+
+Fig. A
+
+Lentille
+convergente
+
+Lentille
+convergente
+
+begs : woe . Calibre de
+
+‘orifice du calibre de positionne- positionnement Calibre de
+
+mentdu REPOS. du REPOS positionnement
+du REPOS
+
+Fig. C ‘‘Correct’’
+
+Aucun réglage n’est nécessaire. (Fig. C) Fig. D “Incorrect” (trop loin)
+
+FRANCAIS
+
+Le capteur optique est trop éloigné
+de la platine. (Fig. D)
+
+Pour régler:
+
+Desserrer la vis de blocage et tourner |’ajusteur du commutateur de repos dans le sens inverse des aiguilles d’une montre.
+
+6. Pour vérifier si le réglage est correct, placer le disque sur la platine et appliquer I’énergie 4 !‘appareil. Cela provoquera
+la cyclisation automatique du capteur optique. Vérifier A nouveau \‘alignement avec le calibre de positionnement du
+REPOS, comme il est montré a la Fig. C.
+
+2. Réglage de la hauteur de la piatine
+
+Nota: Réglage nécessaire aprés que le moteur sur pivot a
+entrafnement direct soit remplacé ou qu’un signal
+a haute fréquence ne soit pas obtenu. .
+
+1. Retirer la broche de court-circuitage de CN103 sur la
+plaquette 4 circuits imprimés 03.
+
+2. Insérer l’extrémité mince du calibre a lame d’épaisseur
+entre la platine et le support de axe.
+
+3. Faire glisser le calibre 4 lame d’épaisseur vers |’extré-
+mité épaisse et faire un trait de repére sur le calibre avec
+un crayon 14 QU ‘il touche la platine et jusqu’a ce que
+la lame ne puisse s’introduire davantage. Puis, retirer le
+calibre.
+
+4. Raccorder |'oscilloscope a TJ402 sur la plaquette a
+Circuits imprimésol.
+
+5. Placer un disque sur la platine et le fixer avec I’aimant.
+
+5. Mettre l'appareil en marche.
+
+7. Appuyer sur I’éjection “OUT” (extérieur) et l’éjection
+“IN” (intérieur).
+
+3. S’assurer si un signal 4 haute fréquence est présent. Dans
+la négative, passer a |’étape suivante.
+
+9. Pour s’assurer:
+
+Tapoter doucement le disque au point “A”. Si un signal
+a haute fréquence apparait, la platine est disposée trop
+bas. Si un signal 4 haute fréquence n‘apparaft pas,
+tapoter doucement le disque au point ’B”’.
+
+Un signal 4 haute fréquence apparaftra indiquant que la
+platine est disposée trop haut.
+
+10. Pour régler:
+
+(1) Insérer le calibre 4 lame d’épaisseur entre la platine et le
+
+support de l’axe au point de repére marqué préalable-
+
+ment.
+
+Desserrer la vis hexagonale de fa vis de réglage de la
+
+platine. (Utiliser une clé hexagonale de 1,27mm.)
+
+Si la platine est trop basse, glisser le calibre 4 lame
+
+d’épaisseur d’d peu prés 4mm - (5/32 de pouce) vers
+
+'extrémité épaisse, puis retirer le calibre a lame
+
+d’épaisseur.
+
+Remettre en marche l’énergie et vérifier s’il y a un
+
+signal 4 haute fréquence.
+
+(Ceci étant une mise au point “d’essai et d’erreur”,
+
+plusieurs tentatives devront étre effectuées pour obte-
+
+nir un signal 4 haute fréquence.)
+
+(4) Si la platine est trop haute, insérer le calibre a lame
+d’épaisseur et déplacer d’a peu prés 4 mm (5/32e de
+pouce) vers |l’extrémité mince, en utilisant la méme
+méthode qu’a |’étape 3.
+
+(5) Reconnecter CN103 pour permettre la recherche de
+
+focalisation.
+
+Signal 4 haute fréquence
+
+Platine
+
+Capteur optique
+
+Disque
+
+th
+
+Vue de haut de I’installation du disque
+
+(2
+
+~—
+
+Vis hexagonale Platine
+
+(3
+
+—
+
+<— Insérer le calibre
+a lame d’épaisseur
+
+Vue frontale de l’unité transversale
+

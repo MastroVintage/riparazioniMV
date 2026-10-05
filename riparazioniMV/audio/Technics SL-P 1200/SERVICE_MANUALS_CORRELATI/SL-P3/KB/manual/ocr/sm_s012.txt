@@ -1,0 +1,198 @@
+=
+
+How to remove the main P.C.B.
+
+. Remove the cabinet and front panel.
+
+. Remove the 2 setscrews [Fig. 10:@ ~ ® J of the main
+P.C.B.
+
+. Main P.C.B. is secured with claws of main P.C.B. support.
+
+So, release the claws to remove the main P.C.B. from
+main P.C.B. support.
+
+. Remove the main P.C.B. in the direction of the arrow as
+
+in Fig. 10.
+
+Note: The supplied of L.S.!. module P.C.B. is assembly,
+
+Wn- ®@
+
+(Part No. SRDPOO1NO02A)
+How to remove the disc clamper
+
+. Remove the cabinet.
+. Shift the disc holder forward.
+
+Remove the 4 setscrews [Fig. 11: @ ~ @ | of the disc
+clamper, then the disc clamper can be removed.
+
+Note: Shift the disc holder forward to remove the disc
+
+clamper.
+
+4. To remove the magnet of disc clamper, raise the claw of
+
+FWNH- @
+
+i .
+Power switch rod
+
+magnet fixing plate and turn it clockwise. [Fig. 12]
+\\
+
+How to remove the power transformer
+
+. Remove the cabinet.
+
+. Shift the disc holder forward.
+
+. Release power switch rod from the power switch.
+
+. Remove the 3 setscrews [Fig. 13: @ ~ @ 1 of the
+
+power transformer and take the power transformer
+block out of the chassis.
+
+. Unsolder the power transformer terminals of power
+
+source P.C.B., then the power transformer can be
+removed.
+
+To remove the fuse P.C,B., unsolder the terminals of
+fuse P.C.B.
+
+Power transformer
+
+IN
+
+|
+
+Bottom side
+
+\
+\
+Power source P.C.B.
+
+ee ee
+
+Main P.C.B.
+
+L.S.1. Module
+(Digital) P.C.B.
+
+~ Support
+
+CAUTION:
+
+Precuations for disc clamper fitting
+
+When fitting the disc clamper again, follow the pro-
+
+cedure given below. (Be sure to turn power switch
+
+“off".)
+
+1, Remove the magnet of disc clamper.
+
+2. Temporarily tighten the 4 setscrews of disc clamper
+with disc holder projected.
+
+3. Close the disc holder.
+
+4. Move the disc clamper so that the size between the
+turntable platter center spindle and disc clamper is
+as shown below. Then tighten the disc clamper
+setscrews.
+
+5. Set the magnet in place.
+
+Note: If the above-mentioned size is deflected, noise
+
+might be produced from disc clamper during
+
+play mode.
+ao =e
+RLF OP
+
+Adjust with these screws.
+=
+
+ratb-- * Sizes ‘a’ and ‘b’ should
+— be equal.
+
+|
+
+apwWN — @
+
+How to remove the disc holder
+
+. Remove the cabinet and front panel.
+
+. Shift the disc holder forward.
+
+. Remove the disc holder setscrews. [Fig. 14: @,@].
+. Release the 2 claws from the bottom.
+
+. Remove the disc holder in the direction of the arrow as
+
+in Fig. 14.
+
+. Before fitting the disc holder, make sure that the switch
+
+arm end is on the groove side of drive rack top.
+(See Fig. 15)
+
+Drive rack
+
+Switch arm
+
+Fig. 15
+
+How to remove and set the disc tray
+
+. Remove the disc holder.
+. Release the 2 claws from the bottom of disc holder and
+
+then remove the disc tray.
+
+. When setting the disc tray, accurately fit the lever onto
+
+the boss as illustrated.
+
+* It can be easily set by pushing the lever in the direction of
+
+_
+
+the arrow. [Fig. 16]
+
+How to remove the loading guide
+
+. Remove the disc clamper and disc holder.
+
+2. Remove the 6 setscrews [Fig. 17: @ ~ @] on the
+
+NO —
+
+right and left side of loading guide holder. Then the
+loading guide can be removed.
+
+How to remove the drive rack
+
+, Remove the loading guide.
+. Move the drive rack in the direction of arrow (@)while
+
+opening the switch arm in the direction of arrow@®) and
+then pull out the drive rack downward. (Fig. 18)
+
+. When the drive rack is fitted, the switch arm end should
+
+be on the groove side of drive rack top. (See Fig. 15.)
+
+Fig. 14
+
+Fig. 17
+
+Loading guide

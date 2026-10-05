@@ -1,0 +1,159 @@
+m@ TERMINAL FUNCTION OF MICRO COMPUTER (MN1402PCT)
+
+Name /0 Name 1/0
+of pin Devision of pin Devision
+
+[ve [—— [oom
+a [coe | | vores
+Test mode for clock frequency 17
+adjustment
+3 cos e@ Pull up input terminals BI2 and
+BI3 to VDD (5V) and reset them.
+
+Function
+
+Data output
+e “H” output in timing of key scan
+input (AIO ~3, BIO ~3, SNSO).
+
+outout in duty 1: 7.
+
+co7 Volume down control of remote
+control (effective at ‘“H”)
+cos Volume up control of remote control
+ffective at “H"
+(effective at ) Not used
+Remote control signai reception
+display LED output
+
+e “L” output when signal is
+Ee
+
+received by remote control input
+Remote control signal receiving
+terminal
+@ Data code shown below is received.
+
+terminal (SNS1).
+
+ie Clock frequency (600kHz) input
+
+terminal.
+e Remote control transmitter data code (MN6030).
+
+Custom code Data code Inverse custom code Inverse data code
+Head pulse (5 bit) (6 bit) (5 bit) (6 bit)
+
+1 10000000 1 1001 1 ol 1 1 1
+
+Fall in
+
+8T | 8T
+oT
+
+Key scan strobe
+
+6T
+
+150T
+
+90T
+
+*1T = 0.420ms~0.424ms (U.S.A. and Canada)
+1T = 0.454ms~0.460ms (Europe and Others)
+
+Data Code
+| dt | ooo010 | ctear 10100 _|
+| 2 100010 _|
+| 3 ono010 || repeat | 111000 |
+| 4 | ttoo10 |] Mscan 111100 |
+| soto ff rece | t00100 |
+| 6 | t01010 | 4 search [01000 _|
+a ee ee
+| 8 ttt010 fh
+| 8 | 00710 |
+ee
+| memory |
+
+8T
+
+Data 1
+
+Data O
+
+HL sause [011000
+memary [010101 || play _p | 010700
+[Volume Bows | 101001 | Votuime Up | 001001
+
+SL-P3 SL-P3
+
+m SCHEMATIC DIAGRAM (A) (Remote control circuit)
+
+1 2
+
+R800 |C800
+
+IS5OK
+
+=
+3
+°
+ad
+°
+°
+-
+=
+e
+i}
+rs)
+-
+3
+a
+£
+>
+a
+x
+
+mi
+Timing generation circut
+
+MAI54WK
+
+D6,7
+MAIS4WA
+
+F 02,3
+MAIS4WA
+
+Note:
+
+1. The voltage value is the standards of this unit
+measured by DC electronic voltmeter (high
+impedance).
+
+2. The waveform are those generated during signal
+transmission. (‘‘play’’ button depressed for signal
+transmission.)
+
+3
+
+D636
+0.8] DETECTION TISV
+
+SIGNAL AMP
+
+C807
+50V 0.22
+ny
+
+tol: 1OOP (USA.and.Canada)
+| Cl: 470P (Other Areas)
+1 C2: |OOP (USA and Canada)
+i C2: 120P (Other Areas)
+
+3. This schematic diagram may be modified at any
+time with the development of new technology.
+
+4.—:
+
++B voltage line.

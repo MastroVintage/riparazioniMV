@@ -1,0 +1,71 @@
+540K
+IC 418
+
+AN6682
+
+540K
+
++6 Variation
+
+1C705 (XT1)
+Standard clock
+
+for SMCK
+
+IC 416
+
+1/2
+
+1C 417
+
+1/8
+
+IC 414 IC 414
+
+1/2 1/2
+
+270K
+
+convertor V1 convertor
+
+IC 419
+Phase comparator
+
+1C411
+vco
+
+Clock selector
+
+fpr on es nee ce ea eR ON ay
+
+t t
+
+C417 5 O t
+
+1 ~ j
+
+2 Jsqok} 116 | 8.eamten | O
+L.
+
+8.64MHz
+
+1C 407 1C412
+540KHz
+1/2 8.64MHz aa | |-
+Clock for operation control O
+
+System master clock
+
+Divided 1C415 PCK Data for
+
+Operation
+point decision
+
+voltage PLL circuit demodulation
+
+avi 1C415~ 0402 0561 CLV
+control
+
+Fig. 16 Block diagram of pitch control
+
+—16—

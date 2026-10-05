@@ -1,0 +1,84 @@
+cr
+
+78M 15
+
+ict
+
+11
+
+1c2 1c3
+
+AN79NI5 AN7805
+
+CN6S3
+@pin
+CN6S3
+
+Electronic
+switch & volume
+control
+
+12
+
+SRDPOO7 NII
+
+H501, 592
+
+OH-OOI
+
+Aa AZ A2 Al
+
+0901~903,905
+MAI65
+
+Rech
+CN904
+
+13
+
+14 15 16 17 18° 19
+
+Focus servo Focus offset adj. a
+x Focus gain adj,
+
+VRIO!
+
+AN79NO5
+
+Iclo3
+
+AN7677S
+
+{clol
+
+AN78LO5
+
+SRDPOOINOS.
+
+1c104
+
+AN7678S
+
+SRLPOO7NOIA
+
+OPTICAL PICK-UP ASSY
+
+Ci3t_ RI3I
+0027 820
+
+C134 RI37 [O
+AS5OVI 47K
+
+Tracking control
+(clos
+
+RI83 100K
+
+aio7,109 Q105 arot
+2SD973A 2SK30I 2SD638
+
+aios,io & tos 102,103,104
+2SB793A UN4212 2SB64 1
+
+Laser power control
+

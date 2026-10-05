@@ -1,0 +1,258 @@
+SL-P2
+
+* Optical servo (Head amplifier) P.C.B. TERMINAL FUNCTION OF MICRO COMPUTER
+1. Remove the cabinet and front panel. 5. Remove the disc clamper magnet from the disc e MN15844PCO
+fe [| me [oe]
+
+2. Disconnect connectors (CN405 ~ CN409, CN411, clamper.
+CN412, CN501) of main P.C.B. Fst | on) Fameton |
+Devision
+effective at ‘‘H”’
+34
+
+3. Remove the traverse unit. The entire traverse unit
+ATSB oO
+Turntable ON/OFF select.
+(ON at “L"} MUTE oO Muting relay ON/OFF
+
+Turntable stop command 35 SYNCREC | oo | Synchro-recc control
+
+(stop at “L"’)
+oO Effective with de-emphasis
+
+Turntable drive command switch ON/OFF at ‘’H”
+(ON at “H’’)
+
+foren | e} Dise holder open command
+CLV servo selection command
+
+CLOSE | o | Disc hoider close command
+Pause indicator display
+PAUSE 0 (Light up at “H’’)
+16)
+
+Play indicator display
+fray | (Light up at ““H’’)
+
+10G
+
+D7 8G
+
+can then be removed from the unit.
+
+36
+37
+
+7
+
+vo) 0
+w
+o
+
+Tracking servo ON/OFF select
+
+3S
+
+6. Temporarily faster the tray and front panel. After
+that, connect only connectors (CN405, CN406 and
+CN408) remove in step 2.
+
+7. Remove the insulator rubber and optical servo
+P.C.B. of traverse unit.
+
+8. Mount the traverse unit on the traverse unit base.
+
+9. Connect connectors (CN407, CN409, CN411,
+CN412, CN501) removed in step 2.
+
+10. Shift it as in Fig. 31 check.
+
+Tracking servo ON/OFF select
+
+Kick direction (Reverse) command
+Kick direction (Forward) command
+oe
+
+Reset terminal
+(Micom is reset at “L”’)
+
+l Sub-code terminal
+
+Turntable stop command.
+
+1
+72
+3
+
+P7
+
+Oo
+Gl
+
+ol2{2z/ 2] 2
+He] e]sl ste
+ro)
+
+AAG
+ajalal a
+AlAZlei 2
+
+11 !
+
+a
+n
+4
+
+a
+N
+x
+OQ
+iss)
+-
+x
+re)
+yas
+
+~~
+:
+
+re) Display data (Digit) and key
+
+Not used :
+matrix data output
+
+6G
+| RE signal detection, effective at “L” faz joa | sc |
+CLOSS ; Track jump control rae foo |
+es
+
+G
+Synchronizing signal extracted foo =| 1c |
+
+53 |s7_ |
+| — |
+pt
+
+o
+:
++
+n
+4
+:
+a)
+
+Fig. 28
+
+4. Turn over the traverse unit and remove the nuts.
+The tray and the traverse unit can then be separated.
+
+& pring (~)
+
+Ss (Yellow) @ ©
+oe . Sori
+| Weltow! Sa (Silver)
+
+= =
+~N oO
+v
+io)
+nN
+a
+n
+1s)
+m
+rc
+
+i) Spring (Silver)
+
+a
+
+Display data (segment) output
+
+Optica! servo
+P.C.B.
+
+N
+3
+(77)
+Cc
+o
+[e)
+
+mr
+ng
+Sc
+at
+20
+37
+wa
+ge
+co
+ao
+Ro
+oa
+no
+a
+oO
+a
+4
+ae
+2
+°
+3
+
+NIN
+Oo]
+o
+aD
+<
+m
+
+h
+
+Traverse servo standard detection 57 53
+Traverse servo standard detection [se [so |
+1 VPP
+
+a
+
+Traverse
+
+_ o
+n
+ies)
+t=)
+
+N
+a
+uv
+N
+[s)
+n
+i
+pe]
+fe)
+is)
+m
+
+unitass ¥ 26 | p21 | CODON re) Laser diode, focus servo ON/OFF [so fst
+Traverse Reverse command,
+27 P22 REV 9 effective with “H” pulse | eo [so |
+
+6 Power suppl
+Traverse Forward commend, Let | VPP | ——~ | t | Powersuppiy |
+28 P23 FWD ie) F ereerrety ‘
+
+29 | P30 osc1 | TTCK Clock (4.32 MHz) input
+ce [voo | —
+Key scan input
+
+Optical servo P.C.B. Power Supply (+5V)
+
+Traverse (03 P.C.B.)
+
+unit base
+
+Fig. 31
+
+—21-— — 22 —

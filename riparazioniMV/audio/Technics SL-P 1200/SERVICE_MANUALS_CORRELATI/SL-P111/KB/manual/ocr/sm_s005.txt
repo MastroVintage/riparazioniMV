@@ -1,0 +1,297 @@
+GIS
+
+DIGITAL AUDIO
+
+Compact Disc Player
+
+SPECIFICATIONS
+
+@ Audio
+
+Number of channels:
+Frequency response:
+Dynamic range:
+
+S/N ratio:
+
+Harmonic distortion:
+Total harmonic distortion:
+Channel separation:
+
+Wow and flutter:
+Low-pass filer:
+
+m@ Signal Format
+Sampling frequency:
+Correction system:
+
+D-Aconversion:
+
+@ Pickup
+
+Access time:
+
+Light source:
+Wave length:
+Traverse system:
+
+@ Functions
+Automatic play:
+Direct access play:
+Repeat play:
+Search:
+
+Program play:
+
+2 (left and right,stereo)
+
+2~ 20,000 Hz (EIAJ)
+
+92dB
+
+96dB (EtAJ)
+
+0.004% (1kHz,0dB)
+
+0.006% (1kHz,0dB) (ElAu)
+96dB (EIAJ)
+
+Below measurable limit
+High-resolution digital filter
+
+44.1kHz
+
+Technics Super Decoding
+Algorithm
+
+16-bit linear
+
+1 second
+
+(access to the last track)
+Semiconductor laser
+780nm
+
+High-speed linear access system
+
+All tracks
+Track number
+
+Preset edit play:
+
+Display:
+
+Time display:
+Indicators:
+
+Disc loading:
+
+Remote control terminal:
+
+m General
+
+Power supply:
+Power consumption:
+Output voltage:
+Output impedance:
+Load impedance:
+Dimensions(WxDxH):
+
+Weight:
+
+Entire disc or programmed tracks
+
+Forward/backward track skip
+
+Forward/backward manual search
+
+For up to 20 selections
+
+Technics
+
+ORDER NO. HAD8703018C1
+
+AS
+
+Service Manual
+
+Compact Disc Player
+
+OL-P117
+
+Color
+(K)........ Black Type
+
+Up to 99 minutes
+(for program play)
+Total tracks
+Current track
+Programmed order
+min.,sec.
+
+Play indicator
+Pause indicator
+Repeat indicator
+Disc indicator
+Motor-driven horizontal type
+1/8 inch stereo
+
+AC 120V, 60 Hz
+
+10W
+
+2V (at 0dB) (EIA)
+
+Approx. 550Q
+
+More than 10kQ
+
+43 X 24X 7.7 cm
+
+(16-15/16” X 9-7/16” X 3-1/32”)
+<When disc holder is opened:
+37.2 cm (14-21/32”) (D) >
+
+3.1kg (6.8ibs.)
+
+Specifications are subject to change without notice.
+
+Weight and dimensions are approximate.
+Measured by E!AJ (CP-307).
+
+Matsushita Services. Company
+50 Meadowland Parkway,
+Secaucus, New Jersey 07094
+
+Matsushita Electric
+
+of Canada Limited
+
+5770 Ambler Drive, Mississauga,
+Ontario, L4W 2T3
+
+Panasonic Hawaii, Inc.
+91-238, Kauhi St. Ewa Beach
+P.O. Box 774
+
+Honolulu, Hawaii 96808-0774
+
+Panasonic Sales Company,
+Division of Matsushita Electric
+of Puerto Rico, Inc.
+
+Catle Rosarito, Edif
+
+D Ceramica Industrial Park
+Carolina, Puerto Rico 00630
+
+m CONTENTS
+
+Page
+SAFETY PRECAUTION ..............:cceeeceeceee cece ee teeter eteteeeeeeeeseeeee 2
+PRECAUTION OF LASER DIODE... eeeeee ee eeeeeeeees 2
+
+LOCATION OF CONTROLS
+BEFORE USING THIS UNIT
+
+HANDLING PRECAUTIONS FOR OPTICAL PICKUP.............. 5
+DISASSEMBLY INSTRUCTIONS. .......c..ccscsecsceseessesseeseseeneeee 6
+HOW TO REPLACE IC’S(Smail outline type)... 10
+MEASUREMENTS AND ADJUSTMENTS .........cccsccsseeseeoees 141
+
+Page
+EXPLODED VIEW ooo. eceeececccee cece sete eetntereesesentrnieaeeenen 17
+REPLACEMENT PARTS LIST ........... ce ceeeeeeee cece eae er ereeee 19
+RESISTORS AND CAPACITORS............ cece ee eens 21
+BLOCK DIAGRAM ...........::.cccccseeeeeeeeeeceneenerenerereesenenaaenanenes 23
+PRINTED CIRCUIT BOARD AND
+WIRING CONNECTION DIAGRAN ........ eee rene 26
+SCHEMATIC DIAGRAM ............... ceeceeeeeeeeeeecee nese eeeeteenennreee 29
+TERMINAL FUNCTION OF LSI....... cc ecceecceeee ee eeeenneeneeee 33
+
+m@ SAFETY PRECAUTION (this “safety precaution” is applied only in U.S.A.)
+
+OpaWNh =
+
+. Before servicing, unplug the power cord to prevent an electric shock.
+
+When replacing parts, use only manu facturer’s recommended components for safety.
+
+. Check the condition of the power cord. Replace if wear or damage is evident.
+
+. After servicing, be sure to restore the lead dress, insulation barriers, insulation papers, shields, etc.
+
+. Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+
+prevent the customer from being exposed to a shock hazard.
+
+e INSULATION RESISTANCE TEST
+
+1. Unplug the power cord and short the two prongs of the plug with a jumper wire.
+
+2. Turn on the power switch.
+
+3. Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+
+screwheads antenna, control shafts, handle brackets,
+
+etc. Equipment with antenna terminals should read between 3MQ
+
+and 5.2MQ. to al! exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+
+all exposed parts. (Fig. B)
+Note:
+
+Antenna
+terminal
+
+Exposed
+metal
+part
+
+Ohmmeter
+
+(Fig. A)
+Resistance = 3M2—5.2MQ
+
+Some exposed parts may be isolated from the chassis by design. These will read infinity.
+
+Exposed
+metal
+part
+Ohmmeter
+(Fig. B)
+Resistance = Approx oo
+
+4. If the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+repaired and rechecked before it is returned to the customer.
+
+m@ PRECAUTION OF LASER DIODE
+
+Caution: This product utilizes a laser diode.
+
+¢ Use of caution label
+
+usaf O
+[3
+
+=
+fenese | 0
+
+Note: © Mark is used, < Mark is not used.
+
+"CAUTION -hazaroous Laser,
+AND ELECTROMAGNETIC RADIATION
+WHEN. OPEN”
+
+“ATTENTION —ravonnement
+LASER ET ELECTROMAGNETIQUE
+DANGEREUX S} OUVERT”
+
+SOWD33
+
+DANGER-Invisibie laser radiation when open.
+AVOID DIRECT EXPOSURE TO BEAM.
+
+Disc clamper ]
+

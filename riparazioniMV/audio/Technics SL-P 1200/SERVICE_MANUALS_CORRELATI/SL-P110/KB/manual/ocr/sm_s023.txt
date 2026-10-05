@@ -1,0 +1,23 @@
+@ TROUBLESHOOTING
+
+Notes:
+1. Carefully handle the compact disc because stain, dust or warping may cause generation of noise.
+2. For the voltage value and waveform, refer to the schematic diagram. (The voltage value and waveform slightly
+
+varies depending on the measuring set and tester.)
+3. Possible defects are mainly shown by the name of semi-conductor. The adjacent electronic circuits (such as C
+
+and R) are omitted.
+
+e Check points
+
+CN401
+7
+
+A
+
+® TJ306
+
+32 2827 24 13
+C401
+

@@ -1,0 +1,79 @@
+1c1001
+MN60308
+
+Chattering simul-
+depression inhibit
+circuit
+
+01007,1008
+LN66
+
+LAK
+
+B1008 RIOOS
+
+Q1001
+280636
+
+Q1002
+2S0638
+
+Timing generation circuit
+
+DI009
+LN26 RP
+
+R1I006 @1003
+3.3K
+
+DIO, 1003,1005,1006
+MAIS4 WK
+
+QI003
+280636
+
+Control button Data cord Control button Data cord
+00000 [_ 1
+10000
+1000
+1000 |
+
+Clear
+>i
+d<
+>>
+I 1000
+
+Repeat 1000
+
+1
+1
+1
+1
+1
+> Play 0100 1
+0
+0
+)
+
+-}
+
+0
+1
+0
+1
+
+|
+1100 000
+
+“| 100
+0010
+0010 oO101
+10010 |; 01000
+
+Fig. 4 ‘1 and “0” of serial signal Table 1 Serial signal data
+
+(In transmitter, oscilloscope can be
+checked by 01001 emitter and IC611l
+terminal 21 of the set.)
+

@@ -1,0 +1,89 @@
+= Tah
+
+pated = 7 { i +++
+q
+Nils
+- 0
+TCO lea) ~~ “Lead-in
+Ose { kal Ic714
+OSC 2|4i SVIM53207P
+PES bays
+PB2 |sql
+tie ee 4 PB |sqo
+ee oo es PBO [spo
+PAS [sé
+| a PA2 |s
+HT Stl | | PAL [sa 08 :
+2| SYNC |] O| PAD
+TST CN
+\ 13| SiR c 9
+4] TRB] wD P92 Ist
+Pott Ts Fa SET] OL Pot Isp
+ee Oe BD| 21 P90 [49
+West) s cas
+ot 18| P20 P82 (47
+aes ig] P2t| w[ Psi |e
+= aii S| ps0 |e
+cS) Hd — ai] p23] 2 p73 leah
+=e | O22] P30 P72 |e
+| 23, P34 PU [a2
+e j ee re P10 at
+= | | ‘ P33 | P43 [40
+a —- 24] P40 Pb2 [39
+— — = 26] P42 Pé0_B7
+J Writing Q data) |g) eg es baa bes
+M 30] P50 LOM BSI
+| = mI pHy4 tt. Bi] P54 VMM Ze %
+N 22.7 us P52 VoD Bat Poe >8
+|
+ifig.@ i 1cH3 ICH
+ain )
+— | s + arr
+SE = + Ht sl | > [>
+lag aI | ICW8 e142
+| ;Si5i 7 tA T
+“R703
+(4TKx6)
+EFM Demodulator 5 |
++ +-
+a vt t ={s IC713
+i ! als i+ SVITC4069UBP|
+51331 voo EST 44]32 - me S| 3
+a4iTestio| = [_ mck | Le Sis SVIHD74L SO5P
+35/TEST 3 SMCK |30 i ileal : salne vs 7
+3O[TEST 4 NDRI 129 heen
+SI[TEST 5 EDR! [28 Sail 1 Ti
+ag] TEST & wis [27 im : |
+3ITEST 1 CLK |26)
+AOlTES fh Writing si
+44/CIADRG MUTE 224) 9 sg
+42)CIADRB CK |23 iB
+43/CIADR1 BuSy |22 UL i t
+44/C/ADRE ado |2I ae T
+45|C/ADR D4 (20 =
+—asiciadRa _ [ad2 g
+a7[ciaDR3| —T an3ir
+agiciape2) $9 [awe ty «=
+49CIADRI] 2 |_ QAO [16 8
+SOlCIADRO] El gA4 75) 6
+St1C/ DATA @A2 [14 = Random access
+S2cIDATAY 6 |_@A3 |I3
+53! DATARS = | @A4 (12 tel
+s4kci DATA) «=~ | PDATALH
+SSICL WE ESTs 31/0
+54] PCK sy 10
+—57| EFM RWDATA|
+SSI TEST 12 CK 8 RAM
+TEST 9 LKCK '
+S0\TEST 2 CERCKIS] [KN 10710 (a) 4 address
+{|CLDOCK EEMOUT| 4
+2] JUMP g 3 _ | bed
+63] VALID CKSG [2 0
+= t44l cx vss [i A13.3ms)
+Yv
+dhe | 0
+Lead-in
+R701 10K
+2 1 r
+Fig. 11-1l 0 data wriring
+

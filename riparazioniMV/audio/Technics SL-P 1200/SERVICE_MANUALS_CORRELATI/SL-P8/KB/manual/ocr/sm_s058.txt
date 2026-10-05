@@ -1,0 +1,29 @@
+Operation
+
+contro!
+
+10612
+MN1564PCL
+
+Microcomputer
+for remote
+control decorder
+
+10611
+MN1421PCM
+
+TIMER
+AUTO © O pLay
+PAUSE
+
+$651
+
+Output waveforms:
+
+with power ON and all switches OFF
+Remote-control decode microcomputer
+
+Output port name Output waveform
+
+J—0.8ms—] e150
+

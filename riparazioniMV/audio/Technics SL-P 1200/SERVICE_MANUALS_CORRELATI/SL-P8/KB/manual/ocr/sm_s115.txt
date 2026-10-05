@@ -1,0 +1,197 @@
+1. Approval judgement of defect for optical pick-up (SRLPOO7NO01A)
+
+Out of Focus Servo
+
+Check the DC Voltage
+(5V) from CN304 pin
+
+4) on 03 P.C.B.
+
+Yes
+
+Visually check the operation
+of the Focus lens Up-Down
+adout 5 sec.
+(no need a disc)
+
+Check the DC Voltage of
+R106 both ends on 03 P.C.B. | NO
+and confirm the potential
+
+difference about 0.5V.
+
+Check the Focus balance
+from TP1 on 03 P.C.B.
+by oscilloscpe
+(200mV/5ms Div AC)
+
+P.D.
+Electric Circuit
+(mainly 03 P.C.B.)
+
+Check the Sawtooth
+Waveform from CN105
+
+Pin @) of SL-P7 or CN106
+Pin @) of SL-P8 on 01 P.C.B.
+
+Check the Coil resistance
+(30) from CN105 Pin (3),
+@) of SL-P7 or CN106 Pin
+@), (4) of SL-P8 on 01 P.C.B.
+
+VOL
+
+a4
+
+Common 03 P.C.B.
+
+SL-P7, P78, P8 01P.C.B.
+
+SL-P7 01P.C.B.
+
+Connect the Oscilloscope
+to TP107 of SL-P7 or CN109
+Pin (3) /RF Test pin of SL-P8
+(500mV/0.5usec. Div AC)
+
+Pick-up, following this chart.
+
+Place the Disc into the disc
+holder and apply power to
+
+the unit and select the play
+mode.
+
+Check the TTON Signal
+(L) from CN109 pin @).
+P.D. = Possible Defect
+
+FOCUS. SERVO "OK"
+
+A.A.C. = And Associated Components.
+(but NO TOC or Noisey)
+
+oO
+
+Check the RF best eye Signal
+from. TP107 of SL-P7 or
+CN109 Pin @ /RF TEST Pin
+of SL-P8 (500mV/0.5usec.
+Div AC)
+
+Yes
+
+P.D. -
+1105, Wire short
+
+A.A.C,.
+NO
+
+oO
+
+Check the RF amplitude
+
+(1.5 — 3.0V P-P) from TP107 | NO
+of SL-P7 or CN109 Pin @)/RF
+TEST Pin of SL-P8
+
+P.D.
+
+NO
+
+Electric Circuit
+A.A.C,
+
+(500mV/0.5usec. Div AC)
+Yes
+
+NO Replace the Optical Pick-up
+
+Part No. SRLPOO7 NO1A Mechanical adjustment require
+
+P.D.
+If DC Voltage is about 1.0V
+Should be laser was snaped.
+
+Replace the Optical Pick-up
+
+Part No. SRLPOO7 NO1A Grating adjustment require
+
+Need a Focus balance
+Adjustment
+
+(refer to adjustment manual
+vol. 3 Item 2)
+
+Replace the Optical Pick-up
+
+Replace the Optical Pick-up
+Part No. SRLPO0O7 NO1A
+
+Part No. SRLPOO7N O1A
+
+Note: Before adjustment of the Optical | Test Points |
+
+TP1
+
+TP2
+
+Head Amp. Circuit
+
+Servo Circuit ’ Servo circuit’.
+
+Pre adjustment |
+
+Before judgement of optical pick-up, confirme the
+position of each volume as shown in figure 1-2.
+
+Fig: 1-1. Connection view of the each P.C.B.
+
+TP2 vont hob
+* VR107_, vR105 VRIO4
+
+30° goo. 90° . 45°. . 90° | g0°
+aera ot MN
+
+P.D.
+
+Electric Circuit
+
+(Specialy Pick-out or PLL
+circuits) ;
+
+Fig: 1-2 Confirme the position of each volume..; -
+
+Replace the Optical Pick-up °
+Part No. SRLPOO7. NOIA .
+
+IF lest than 1.5V P-P should
+
+be leser diode become Worst
+
+Refer to the next steps Page 9. (Grating adjustment)
+and confirm the N mark Waveform as shown in figure @).
+
+RF signal ce
+500mV/0.5usec. Div AC
+
+Refer to the next steps page 8. (Mechanical adjustment)
+and confirm the RF best eye Signal as shown in figure). -
+
+2) 3) RF signal at CH1 4] ~------- yr
+| \ a
+b
+fe tiie
+5.6 Vp- N mark
+pp atCh2 awrsy, Focus balance
+Co or AO 200mV/5ms Div AC
+
+“N" mark
+
+RF'signal/N mark
+200mV/2ysec. Div AC
+
+Fig: 1-3 Confirme the each waveform
+
+~2—

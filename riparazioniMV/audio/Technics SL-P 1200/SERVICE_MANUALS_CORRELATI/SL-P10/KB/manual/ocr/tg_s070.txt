@@ -1,0 +1,68 @@
+Ic604 (A) (B) and ICc605 (A) are playback signal edge detec-
+
+tion circuit, and its width is changed to 0.5T according to
+
+the constant of CR to take out the edge. It is illustrated
+
+in Fig. 7-15.
+
+* 1T is 4.32 MHz, and EFM data of playback signal is modulat-
+ed at 37 = Li.
+
+Ic607 (748124) (A) is changed in frequency of output pin (10)
+according to the PC voltage of pin (1) (FC input) by VCO of
+PLL.
+
+The free-run frequency of VCO is about 8.64 MHz. It changes
+into PCK of about 4.32 MHz (= 1T) through 1/2 frequency divi-
+sion at IC606.
+
+ICc605 (A) compares PCK (= 1T) and edge pulse (= 0.5T) and PC
+(phase comparator). It is illustrated in Fig. 7-16.
+
+PLL is locked when phase difference between PCK and 0.5T is
+90°, (Area is equalized at{ jmarks.)
+
+Q601 - 9604 set up LPF and changes the output difference of
+PC into DC to control the FC input of VCO.
+
+iceos [| [ o.st
+—6)
+
+pulse
+
+Fig. 7-16
+
+1C605(A) 1C605(B)
+1¢604 | 1C604(A) 1C604(B) 2
+o 41> 0
+
+WA ee et
+
+1c603
+(MN4066)
+
+From RF 4
+Input < warveform
+shaping
+
+a
+T.EFM °
+
+Drop-out ;
+detection 4"
+
+iDROPOUT- CONT
+
+IC 608(B)
+| puro—40 of
+Output °
+fo=8.64MHz
+
+1C607(A) Q601~604
+For semplifying the circuitry, it is partially (748124) (L.P.F)
+omitted or equiralent circuits are used. (v.C.0)
+
+Fig.7-17
+
+= iI

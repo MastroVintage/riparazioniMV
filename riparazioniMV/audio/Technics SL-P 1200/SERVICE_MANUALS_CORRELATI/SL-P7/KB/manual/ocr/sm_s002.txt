@@ -1,0 +1,119 @@
+mw CONTENTS
+Page
+SAFETY PRECAUTION. .........0 00000: e cence (Cabinet and chassis parts)... 0... eee 18,19
+LOCATION OF CONTROLS. . . we eee (Loading drive mechanism and optical deck unit parts) . . . 20,21
+PLAYING A DISC 2... 1. ee ee ee ee REPLACEMENT PARTS LIST
+HANDLING COMPACT DISCS. ... 2... 2-2 ce eee eee eee (Loading drive, optical deck unit parts)... ......-206- 22
+OISASSEMBLY INSTRUCTIONS PRINTED CIRCUIT BOARD WIRING
+HOW TO REPLACE CHIPS CONNECTION DIAGRAM......... 0000s ee eee 23,24
+HOW TO REPLACE IC’S .........----+-+-- PRINTED CIRCUIT BOARDS.............-00005 25~30
+RESISTORS AND CAPACITORS SCHEMATIC DIAGRAM ..........- 0.0050 31~34
+REPLACEMENT PARTS LIST DESCRIPTION OF EACH TERMINALS ..........-0 05 35
+(Electric Parts) 2.0. ee ee 17 BLOCK DIAGRAM. Lae 35~37
+(Cabinet and chassis parts)... ..--- 60-2 e 18 PACKING... 0... 0 cece ee eee ee eens 38
+EXPLODED VIEWS
+
+m SAFETY PRECAUTION
+
+. Before servicing, unplug the power cord to prevent an electric shock.
+
+. When replacing parts, use only manufacturer's recommended components for safety.
+
+. Check the condition of the power cord. Replace if wear or damage is evident.
+
+. After servicing, be sure to restore the lead dress, insulation barriers, insulation papers, shields, etc.
+
+. Before returning the serviced equipment to the customer, be sure to make the following insulation resistance test to
+prevent the customer from being exposed to a shock hazard.
+
+OLWN —
+
+e INSULATION RESISTANCE TEST
+
+1. Unplug the power cord and short the two prongs of the plug with a jumper wire.
+
+2. Turn on the power switch.
+
+3. Measure the resistance value with ohmmeter between the jumpered AC plug and each exposed metal cabinet part, such as
+screwheads antenna, control shafts, handle brackets, etc. Equipment with antenna terminals should read between 3M2.
+and 5.2MQ to all exposed parts. (Fig. A) Equipment without antenna terminals should read approximately infinity to
+all exposed parts. (Fig. B)
+
+Note: Some exposed parts may be isolated from the chassis by design. These will read infinity.
+
+Antenna
+terminal
+
+Exposed Exposed
+metal metal
+part part
+Ohmmeter Ohmmeter
+(Fig.A) (Fig. B)
+
+Resistance = 3M2—5.2MQ Resistance = Approx 00
+
+4. lf the measurement is outside the specified limits, there is a possibility of a shock hazard. The equipment should be
+repaired and rechecked before it is returned to the customer.
+
+“war. oy
+
+Caution : This product utilizes a laser diode. e Use of caution labels
+
+ADVARSEL : | dette apparat anvendes laser.
+
+SRNZO10S01
+
+CLASS 1
+| Fsanzoroeor
+LASER PRODUCT
+
+ADVARSEL-Usynligt DANGER-invisible laser
+laserlys udstréles ved radiation when open.
+abning., AVOID DIRECT EX—
+
+UNDGA DIREKTE Pi RE TO BEAM.
+BESTRALING. osuRE TO ® Speszeront
+
+“CAUTION-nizaroous user, amp tecroowcarnec
+
+RADIATION WEN OPEN AND WTERLOCK DEFEATED”
+“ATTENTION-aavownenent vase £1 eLecTRoMaceenieut
+DANGERERL 31 OUVERT AVEC L'DICLENCREMENT BE SECURITE
+nm”
+
+m@ REPLACEMENT PARTS LIST
+
+Notes:
+
+(1) Mentioned in this parts list are only those changed in Model No. SL-P7 for destination [E] area.
+
+(2) Important safety notice: Components identified by A mark have special characteristics important for safety.
+When replacing any of these components, use only manufacturer's specified parts.
+
+(3) The “©” mark is service standard parts and may differ from production parts.
+
+| ___._Changeof PartNo. | of | ___._Changeof PartNo. | No. R k
++ ee emarks
+Ref. No. SLPT/K) SL-P7/(K) Part Name & Description
+(OLD) (NEW)
+
+INTEGRATED CIRCUITS
+i
+[cas] acess [eos [anes se
+
+eT sviyowosee PSMSSNA | Coenen anette
+[16105 8) [-sviurososaec | Anwlop Swich SST
+
+eset svioneana [baton presence
+TRANSISTOR
+
+|_a20e | ascrsaa | asc 3z8—T CLY Control PF 1 OT
+
+a a
+[pa07 [wares
+[a0 | mates ae EE Eee
+
+VARIABLE RESISTOR
+
+EVN32CA00B14 | EVN32CA00B53 | Tracking Balance Adj., 5k (B) ee
+

@@ -1,0 +1,169 @@
+ENGLISH
+
+e Servo gain adjuster and its connection
+
+Low sw frequency
+
+(9000,
+01 P.C.B.
+[20009 OOO?
+(+15V) Red
+GND ‘. IN
+(-15V) Blue
+
+Chassis ; Green
+
+Oscilloscope
+
+| Adjustment Procedure |
+
+1. Focus gain adjustment
+
+1.
+
+Connect the gain adjusting jig with conversion connector to
+
+the set.
+Jumper beside 1C301 pin 13 on 01 P.C.B.
+Jumper beside 1C301 pin 12 on 01 P.C.B.
+Chassis
+
+Connector... . Pull out the shorting pins of CN103 on 03
+P.C.B. and connect the conversion connector
+to the jig and then connect then connector
+(5P) from conversion connector to CN103.
+
+. Adjust the low frequency oscillator to 750 Hz frequency and
+
+150mVp-p output voltage, and connect it to TEST pin OSC
+IN and GND of the servo gain adjuster.
+
+. Connect CH1 and CH2 of oscilloscope to TP1 and TP2 of the
+
+servo gain adjuster. (TP3 is GND).
+Oscilloscope setting:
+
+Caution:
+
+BWABSVBaBaaaa
+
+(1) Do not took into the lens when power is applied to
+the unit, since there is laser radiation (H.H.S./D.H.W./
+
+etc., regulation).
+
+(2) These steps must be followed in order.
+
+VOLT 100mV (both channels), SWEEP 2ms, Input AC, Mode CHOP
+
+. Set the servo gain adjuster power SW “on” and the rotary selector switch to “‘1’’ and place the disc on turntable.
+. Turn power switch ON. When turntable beings to rotate, 750 Hz signal appears on the oscilloscope.
+
+Then adjust VR101 so that the waveforms of both channels are equal to each other.
+
+. Focus balance adjustment
+
+. Set the servo gain adjuster power SW “on” and the
+
+rotary selector switch to ‘2’’ and disconnect the
+input from the oscillator.
+
+. Connect TJ102 on 03 P.C.B. to ground by use of
+
+clip lead.
+
+. Pullout connector CN501 on 01 P.C.B.
+. Connect the oscilloscope to TJ101 on O3 P.C.B.
+
+and place the disc on turntable. Note:
+
+Oscilloscope setting:
+VOLT 500mV, SWEEP 5ms, Input AC
+
+. Turn power switch ON. When the laser lights up,
+
+S-shaped waveform appears on the oscilloscope.
+Then adjust VR102 so that the top and bottom
+peak values are equal to each other.
+
+The above-mentioned S-shaped waveform will
+continue for about 2 minutes if CN412 pin 4
+(O01 P.C.B) is connected to ground while LD is
+lighted as LD stops in 5 ~6 sec.
+
+6. After the adjustment, shift the clip lead and CN501
+back as they were.
+
+3. Focus offset adjustment
+
+1. Set the servo gain adjuster power SW “‘on” and the rotary selector switch at “2’’,
+2. Place the unit in the Eject mode. (tray open).
+
+3. Connect a voltmeter to TJ101 on 03 P.C.B. (Optical servo).
+
+4. Turn power switch ON, and adjust VR103 so that DC voltage is O + 10 mV.
+
+4. Tracking gain adjustment
+
+1. Set the servo gain adjuster power SW “on” and the
+rotary selector switch to “3”,
+
+2. Adjust the low frequency oscillator to 1.5 kHz and
+150mVp-p output. And connect it to TEST pin OSC
+IN and GND of servo gain adjuster.
+
+3. Connect CH1 and CH2 of oscilloscope to TEST pin
+TP1 and TP2 of the servo gain adjuster. (TP3 is GND),
+and place the disc on turntable.
+
+Oscilloscope setting: VOLT 100mV (both channels),
+SWEEP 2ms, Input AC, Mode
+
+CHOP TP2E,
+
+4. Turn power switch ON. When turntable beings to rotate,
+
+1.5 kHz signal appears on the oscilloscope. Then adjust
+VR104 so that the waveform amplitudes of both channels,
+are equal to each other.
+
+TPIp
+
+. Tracking offset temporary adjustment
+
+. Set the servo gain adjuster power SW ‘‘on” and the rotary selector switch to ‘2’, and disconnect the input from
+oscillator.
+
+2. Place the unit in the Eject mode (tray open).
+
+3. Connect a voltmeter to TJ103 on 03 P.C.B. (Optical servo).
+
+. Turn power switch ON, and adjust VR106 so that DC voltage is0+ 3 mV.
+
+. Tracking balance adjustment
+
+. Set the servo gain adjuster power SW “on” and the
+rotary selector switch at “2”.
+2. Connect the oscilloscope to TJ103 on 03 P.C.B. and
+then place the disc on turntable.
+Oscilloscope setting:
+VOLT 200mV, SWEEP 5ms, Input DC
+3. Turn power switch ON. When turntable begins to rotate
+and the tracking servo switch of servo gain adjuster is
+turned OFF, TE (tracking error) signal appears, on the
+oscilloscope.
+Then adjust VR105 so that the top and bottom peak
+values are equal to each other.
+
+. Tracking offset adjustment
+
+. Set the servo gain adjuster power SW “on” and the rotary selector switch at “2”.
+. Place the unit in the Eject mode (tray open).
+. Connect a voltmeter to TJ103 on 03 P.C.B (Optical servo).
+
+. Turn power switch ON, and adjust VR106 so that the DC voltage is 0 + 3mV.
+Note: After completing the above-mentioned adjustment, remove the servo gain adjuster and insert the shoringg pin
+into CN103 as it was.
+
+PWrm =
+

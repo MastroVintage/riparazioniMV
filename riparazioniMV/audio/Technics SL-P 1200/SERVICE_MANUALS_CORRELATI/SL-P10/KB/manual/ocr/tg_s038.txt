@@ -1,0 +1,52 @@
+@ Manual low-speed search forward
+
+When the set is in manual low-speed search forward, the
+laser beam lets the display time advance 3 times faster
+than in play mode according to the jump timing command
+from system microcomputer. As shown in Fig. 4-20, the
+disc rotation is jumped by 2 tracks each to shift the
+laser beam to the outer periphery.
+
+Track
+
+Laser beam following
+
+J. TIME command from
+system microcomputer
+
+1 rotation
+
+Fig. 4-20. Track jump in manual low-speed search
+forward mode
+
+e@ Manual low-speed search reverse
+
+When the set is in manual low-speed search reverse mode,
+the laser beam lets the display time delay 3 times faster
+than in play mode according to the jump timing command
+from system microcomputer. As shown in Fig. 4-21, the
+disc rotation is jumped by 3 tracks each to shift the
+laser beam to the inner periphery.
+
+Leon Rotating direction
+
+, iss
+= N
+
+™~S
+
+<1 Track
+an Laser beam following
+\
+
+@ Jump from point A to C.
+@ Jump from point B to D.
+
+J. TIME command from
+
+system microcomputer.
+1 rotation
+
+Fig. 4—21. Track jump in manual low-speed search reverse
+
+—A1—

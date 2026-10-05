@@ -1,0 +1,35 @@
+MN6613
+
+Cl DATAI~4
+
+C2 FLAG
+
+ia
+{4g
+
+1ADRO~9
+
+MUTE
+PCK
+EFM
+IUMP Mal «lx
+VAUO 3/9 eae)
+CLOCK zZ “SE
+HI ey PFLAG
+ia a IR 2 aecgy
+= ae io fo dtclncas Be neaces
+QA0~4 Dn Ib
+Q00~3 ‘aaa
+Test i ———= poe
+; woe
+ots 2
+|
+RWDATA CFRCK BUSY PDATA
+w WE BLKCK
+ited SMCK Fl 0 LSH
+X-tol
+8 .6436MHz
+
+Fig. 9-ll Digigal signal processing LSI blcck
+
+— 104 — — 105 —

@@ -1,0 +1,144 @@
+one
+
+How to remove the turntable
+
+. Remove the traverse unit.
+. Remove the spindle motor drive coil P.C.B.
+
+Remove the C ring which fastens the magnet shaft of
+spindle motor. [Fig. 18]
+
+. Remove the screw [Fig. 18 : @ ] by use of a hexagonal
+
+wrench, then the turntable can be removed.
+
+*If the turntable is removed, it is necessary to re-adjust
+the height of turntable:
+
+On @
+
+5.
+
+How to remove the laser pickup
+
+. Remove the traverse unit.
+. Remove the optical servo P.C.B.
+
+Pull out the connectors (CN101, CN102) of optical
+servo P.C.B.
+
+. Remove the bracket setscrew [Fig. 17: @] of pickup
+
+to remove the bracket.
+Remove the guide rail retainer setscrew [Fig. 18: @ ]
+and pull out the laser pickup from the two guide rails.
+
+*The pickup must be re-adjusted when it is replaced or
+
+fitted after removal.
+
+m HOWTO REPLACE IC’S (Small outline type)
+
+Replacing procedure
+
+Spring
+
+Turntable
+
+Laser Pick-up
+
+Guide rail
+
+Fig. 18
+
+1 | Reduce the amount of solder on each
+pin of the integrated circuit by use of
+a solder sucker.
+
+Solder
+sucker
+
+Spare
+chip
+
+___—
+
+Melt the solder on the pin (one
+electrode) with the soldering iron.
+
+3 | While the solder is melting, shift the
+pin upward by the soldering iron to
+remove it from the foil.
+
+4 | Remove each pin from the foil
+according to the above-mentioned
+procedure.
+
+@ Recommended tool
+cetteeeeeee Special soldering iron
+(with spare chip) HM-354
+
+® Do not touch the soldering iron to
+the area for a long time. it may
+otherwise cause removal of the print
+foil.
+
+@ When shifting the pin upward, do
+the job quickly while the solder
+is melting. If the solder is hard, it
+may cause removal or breakage of
+the print foil.
+
+@ When using a pencil type solder-
+ing iron.
+
+1. Completely remove the solder
+from each IC pin by use of
+solder sucker.
+
+2. Raise each pin by means of
+an eyeleteer, hold the pliers
+then remove !C package from
+P.C.B.
+
+m@ HOW TO CHEK THE PRINTED CIRCUIT BOARD
+
+* For removal of each part, refer to disassembly instruction on pages 11 ~ 15.
+e Main P.C.B.
+
+1. Remove the cabinet.
+2. Check each part. (Part side)
+
+3. Check the P.C.B. as shown in Fig. 22.
+
+3. When checking the soldered parts and replacing them,
+(1) Remove the 3 setscrews of the main P.C.B.
+(2) Place the main P.C.B. as shown in Fig. 20.
+
+Note: When checking as in Fig. 20, be sure to connect
+
+the ground spring of main P.C.B. to the chassis
+
+lead wire.
+
+4. Also remove the 6 setscrews of reinforcement plate
+and keyboard/display P.C.B.
+
+. —
+Reinforcement
+plate
+
+Operation button
+case
+
+Fig. 23
+
+5. Shift it as in Fig. 24 and check.
+Note: Take care not to damage F. L.
+
+e Keyboard/display P.C.B.
+
+1. Remove the cabinet.
+2. Remove the front panel setscrew.
+3. Remove the front panel.
+

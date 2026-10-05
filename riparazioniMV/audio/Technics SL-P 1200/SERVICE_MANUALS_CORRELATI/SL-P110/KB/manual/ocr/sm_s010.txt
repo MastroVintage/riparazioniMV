@@ -1,0 +1,62 @@
+6. Place the main P.C.B. as shown in the Ground terminal of
+line out terminal 4
+
+figure.
+Lead wire
+
+Cautions:
+
+1. Be sure to connect the P.C.B. ground
+terminal (line out terminal) and chassis
+lead wire.
+
+. Connect the ground terminal of loading
+base to the chassis.
+
+Procedure
+1-6
+
+eRemove in the numerical order shown.
+(Shift the disc holder forward.)
+
+Remove the
+2 setscrews.
+
+i \
+| Pull out the
+
+ei connector.
+
+IPERS ‘ Caution for fitting
+
+_— tee “~~ Fit the P.C.B. in the
+How to remove the disc holder. groove of chassis.
+
+(disc tray) ;
+1>2-5-7
+1. Push the holder lever backward, (From
+e¢ Make the drive gear as shown below. underneath the loading base.)
+(Turn it completely to the right, then 2. Pull the disc holder and bend the 2
+turn it to the left by about 20° so claws of disc holder stopper of loading
+that drive gear teeth or projection base toward the optical pickup.
+will not touch the rack of disc 3. Further pull out the disc holder to
+holder.) remove it. Stoppers
+
+Optical pickup
+
+Drive gear
+projection
+
+Leaf switch
+(S101)
+
+Loading base
+
+Holder lever
+¢ Caution for fitting
+*To remove the drive gear When fitting the disc holder, make the drive gear
+Remove the screw ® of leaf switch as shown on the left, and then insert the disc
+(S101), then remove the drive gear holder along the guide of loading base.
+setscrew ©. After inserting the disc holder completely, turn
+
+the drive gear to the right completely.

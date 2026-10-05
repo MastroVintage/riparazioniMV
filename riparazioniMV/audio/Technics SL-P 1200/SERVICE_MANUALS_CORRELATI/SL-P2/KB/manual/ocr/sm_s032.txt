@@ -1,0 +1,88 @@
+SL-P2
+
+e Focus servo circuit
+
+Q19 |
+2SB641
+
++™ RIZ26 47K
+
+C120 50Vv2.2
+
+cli8 RI25
+330P 3.9K
+
+Q621,622
+
+osc v0D
+
+f P:
+Change of Part Remarks
+
+Description Remarks
+
+INTEGRATED CIRCUITS
+
+1302 SVINJMo82D «| SVITLos2cP _| Operational Amp
+10401 MN18844PCQ | MN15844PCV
+
+1C651 .
+
+TRANSISTORS
+Qi 2SA564A 2SB644 Regulator Change
+
+Too 25068
+sence eens 2SB641 Addition
+
+2SD63700 ittttttt tte freer ssttts Deletion
+
+Deletion
+
+EROS2TKF5600 | 5600, 1/4W, +1% Addition
+
+EROS2TKF3001 | 3kQ, 1/4W, +1% Addition
+ERD25FJ103 10kQ, 1/4W, +5% Addition
+
+ERDS2TJ683 ERDS2TU333 33kQ, 1/4W, +5% Change
+ERDS2TJ472 4.7kQ, 1/4W, +5% Addition
+
+vette cece ERDS2TJ223 22kQ, 1/4W, £5% Addition
+
+ERDS2Tw153 15kQ, 1/4W, +5% Addition
+
+Regulator
+
+Focus Servo
+
+ERDS2TJ152 ERDS2TJ222 2.2kQ, 1/4W, £5%
+ERDS2TJ152 ERDS2TJ222 | 2-2kQ, 1/4W, £5%
+
+2SA1309Q rte frst Deletion
+
+ERDS2TJ103 ERDS2TJ473. 47kQ, 1/4W, +5%
+ERDS2TJ151 ERODS2TJ181 1800, 1/4W, 5%
+ERDS2TJ472 4.7kQ, 1/4W, £5% Addition
+
+DIODES
+
+foe wanes fn ost
+
+a fev fotaion |
+VARIABLE RESISTOR
+
+re | EVMH1GA00B24 | Clock Adjustment
+
+CERAMIC OSCILLATOR
+
+sveosasoortt [os fee
+
+ERDS2TJ474 ERDS2TJ102 7 1kQ, 1/4W, +5% Change
+
+ERDS2TJ472 Deletion
+
+Deletion
+
+Deletion
+
+Addition
+

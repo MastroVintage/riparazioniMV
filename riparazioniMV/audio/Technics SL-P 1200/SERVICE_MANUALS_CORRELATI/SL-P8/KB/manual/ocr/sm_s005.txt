@@ -1,0 +1,159 @@
+@ Play button
+
+® Press this button to begin disc play. The play indicator
+(P) lights up to show when this button has been
+pressed.
+
+®@ When this button js pressed during disc play, the pickup
+returns to the starting position and disc play starts
+again from the beginning. During program disc play,
+disc play starts again from the beginning of the program.
+
+@ When this button is pressed while the pause mode is
+activated, pause is cancelled and the player returns to
+the play mode.
+
+© Forward and backward search buttons
+@ Use these buttons to move the pickup forward and back-
+ward. The buttons are used in the following manner.
+1. Use the search buttons when the player is in the pause
+mode or during disc play to move the pickup to a
+specific point on the disc.
+2. Use the digital track number display and playing time
+display to locate the desired point on the disc.
+® During disc play, search can be performed while
+listening to the signal from the disc to aid in locating
+a specific point. The output level is —12 dB com-
+pared with the level during standard disc play.
+e@ Press the Cc} button to move the pickup forward.
+® Press the @@=ZIbutton to move the pickup backward.
+@ When either of these buttons is pressed, the pickup will
+move slowly at first and then rapidly if the button is
+held down for more than about three seconds.
+
+© Forward and backward skip buttons
+
+1. During the pause mode or disc play, press one of the
+skip buttons to perform forward or backward skip
+operation.
+
+2. During program disc play, the pickup either moves
+ahead to the beginning of the next programmed track
+or back to the beginning of the previous programmed
+
+track.
+
+@ Press the button to move the pickup
+forward.
+
+@ Press the button to move the pickup
+backward.
+
+@ When either of these buttons is held down, tracks
+are skipped continuously. (Quick skip)
+
+@ Repeat button
+
+@ Press this button to activate the repeat play mode.
+The repeat indicator lights to show when the repeat
+mode is activated.
+
+@ ‘f the repeat mode is activated during program disc
+play, the program will be played repeatedly.
+
+@ Press this button again to cancel the repeat mode (repeat
+indicator goes out).
+
+@® Program clear button
+
+@ Press this button to erase the program in the memory.
+This button is also used to cancel the index and remain-
+ing playing time display modes.
+
+® Time button
+
+The time button is used for the following functions:
+
+1. To start disc play after a track number or time has
+been input using the numeric buttons.
+
+2. To start disc play after a track number or time has
+been programmed.
+
+3. To switch the display to the remaining playing time
+mode. (not possible during program disc play)
+
+4. To return the display from the remaining playing time
+mode to the elapsed time mode.
+
+5. To return the index number display (activated by
+pressing the index button) to the elapsed playing time
+mode.
+
+6. To display the number of tracks on a disc and the
+playing time of each track one by one when the player
+is in the standby mode.
+
+® Index button
+
+The index button is used for the following functions:
+
+1. When an index number is specified for direct access disc
+play.
+
+2, To start disc play at a specific index number.
+
+3. To display the index number currently being played.
+
+4. To switch the display from the remaining playing
+time mode to the index number mode.
+
+5. To perform index skip operation,
+
+@ Memory button
+
+@ Press to store a track number, index number or playing
+time in the memory for program disc play.
+
+@ Upto 32 steps can be programmed in any order,
+
+® Numeric buttons
+
+The numeric buttons are used for the following functions:
+1. To specify track and index numbers.
+
+2. To specify playing times in minutes and seconds,
+
+@® Music scan button
+
+@ When this button is pressed, the music scan inciicator
+lights and the first 10 seconds of each track onthe disc
+or each track in the program is played. Once scanning
+has ended, the indicator goes out and the disc's played
+from the beginning or from the first progammed
+track if the player is in the program disc play mode.
+
+@ Press the play button during one of the 10 secord disc
+play periods to cancel music scan and begin disc play
+from that point (indicator goes out).
+
+@ Music scan can also be cancelled by pressing the pause/
+stop button.
+
+@ Pitch control slider
+
+@ Use this slider to adjust the speed at whichtine disc
+rotates. This control can only be used after the pitch
+switch has been pressed to light the pitch indicator.
+
+©@ Pitch is displayed by an approximate percentae— Pitch
+is adjustable +6%.
+
+@ Press the pitch switch again to return to staniard disc
+play.
+
+@® Pitch switch
+
+@ Press to activate the pitch control functio; (pitch
+indicator lights). Press again to return to stantard disc
+play (indicator goes out).

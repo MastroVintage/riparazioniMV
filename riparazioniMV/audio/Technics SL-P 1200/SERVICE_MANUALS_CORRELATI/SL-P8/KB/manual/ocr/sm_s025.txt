@@ -1,0 +1,92 @@
+m@ PRINTED CIRCUIT BOARD AND
+
+Part No Description WIRING CONNECTION DIAGRAM
+SRUMO07NO6 {Lock Arm
+57 SRQS007N03 Spring,Lock Arm (1)
+58 SRUPOO7NO3R_| Loading Base Ass'y q)
+59 SRDJOO7N13E | Connector Ass’y (1)
+60 SRUMO07N17 Cover, Switch (1)
+61 SRGBOO7NO02 Belt, Loading Motor 4)
+62 SRUGOO7NO1 ‘| Pully,Gear mM Traverse
+63 SRQHO007NO03 Spring,Clamp plate a) a
+64 SRUGOO7NO2 Gear,Center {1} Power source H 3 ) 4 +6 motor <p)
+65 |SRUGOO7NO3 | Gear Drive a) Laser Photo detector Pc. B.
+66 | SRMHOO7NO1A Motor,Loading Mechanism
+67 | SRDJO07N10E__| Connector Ass'y (1) P.C.B P.C.B.
+OPTICAL PICK-UP DECK UNIT PARTS _ Servo P.C.B. a
+71 |SRUKOO7NO2R | Optical Pick-up Ass'y (1) 32 | s s
+72 SRUMO07N22 Bracken Optical Pick-up ; Solder side ow Parts side ra}
+ss’'y
+
+73 SRQS007NO1_—_| Spring, Bracket ) Solder side - ee
+74 SRXJOO7NO1 Shaft,Optical Pick-up HWYKRCB =) H
+
+Bracket (2) ae Zz a
+75 SRUKOO7NO2E | Optical Deck Unit Base KR 4 oR
+
+Ass'y (1) - g
+76 SRUPOO7NO9 | Bracket (1) co he Brown
+77 SRXJOO7NO1 Bracket (1) °
+78 SRGCO07NO2 | Rubber Cushion (4) 2
+79 SRQA007NO02 Spring, InsulatorA) (2) OB
+80 SRUPOO7N12 Holder,Spring (4)
+81 SRQAO07NO1 Spring, InsulatorB) (2) _e ~
+82 SRMHO07NO02A_ | Motor,Optical Pick-up - oO
+
+Drive (1) Zz $
+83 SRQA007NO3 =| Spring (2) Solder of ; of
+84 SRTEOO7NO2 =| Holder (1) side _ (
+85 SRQAO10N04 —_| Spring (1) -
+86 SRTEOO7NO1 Turntable Platter (1)
+87 SRTMOO7NO1A_ | Magnet Ass'y (1)
+88 SRDJOO7NO3E | Connector Ass’y 8P (1) © 5
+89 SRUMO007N19 Holder,Motor (1) - - ! 7
+90 SRDJOO7N14E Connector Ass'y (1) N
+91 SRXGOO7NO1E | Pully Screw (1) = 2 S CN207
+92 SRGCO07NO01 =| Rubber Cushion,Motor (1) . 2 2
+93 SRGBOO7NO3_| Belt (1) Parts side Ss) Oo
+REMOTE CONTROL PARTS ia e
+100 = OJURS1VCS95 ‘| Case,Cover(Silver) (1) Head amp. PC.B ~ g lok
+100 ®]UR51VCS101 | Case,Cover(Black) (1) Sold id See © z Oo
+101 URS1BT5B Button (Blue) (13) older side = G a 13
+102 URS1BT5F Button,(Orange) (1) 2 20513 15 | 2 BCN206
+103 URS1BT5 Button (Grey) (8) io | OPE CNIOICNIO4ICN105 oR
+104 URS1CT11D Rubber, Point (1) = 2 2
+405 URC180TD8 —| Battery Terminal‘). (1) CN552 CNIO3 :
+106 URC180TD9 Battery Terminal (1)
+107 URC180TD10A | Battery Terminal (1) ||
+108 ©]URS1VCS100 Case,Bottom(Silver) (1)
+108 ) | UR51VCS102 Case,Bottom(Black) (1)
+109 UR51SB4 Cover (1) ' 2
+110 ©} UR51VEC99 Battery Cover(Silver) (1) j _ .
+110 {UR51VEC103__| Battery Cover(Black) _(1) LT TT -CN209..-
+SCREWS,NUTS AND WASHERS S607 Brown
+M 1XTV3+6BFN | Screw,H3X6 (i (Close) a a,
+N2 ©] SNE2095-2 Screw (Silver) (4) e Red
+N2 ‘K) | SNE2095-3 Screw (Black) (4)
+N3 S1XTV3+10BFN | Screw,3X10 (2)
+N4 © | XTvV3+8BFN Screw,F:3X8 (8) S603 Red © Brown
+NS XNSS8 NUT, $8 a) (Close) Brown
+N6 XNSS12 NUT, $ 12 a) —_ eH Red Loading CN607
+N7 ‘S|XTV3+14BFN | Screw,P3X14 (2) KO motor 2 | CN605
+NB ©|xtv3+8BFz | Screw.3X8 (2) (Open) [0] Brack Red 12
+NO © |XTN3 + 6B Screw,3X6 (2) S608 ;
+N10 © | XWE3 Washer, $3 (2) UC ee O38) D 's P | ay PC. B.
+N11 XYN3+C8S Screw,3X8 (3) Brown
+N12 XTW3+80 Screw, 3X8 a) S605 (End) Solder side / Fel
+N13 SFXGVO5NO3_ | Screw (1)
+N14 SRXGO07N04 Screw (1)
+N15 SRXWO07NO3__‘| Washer (1)
+N16 GTw-3 Washer (1) Yellow
+N17 XXE26D5FZ Screw (1) —_
+N18 S| XTN3-+6B Screw,43X6 (4) = -—-
+Nig ® | XNG26EBW Nut, $ 2,6 (4) Orange SG04(Rest)
+N20 SRXGOO7NO7 | Screw a ;
+N21 @ |XTN2+6B Screw,@2X6 (1) Solder side
+N22 SRXGOO7NO6 ‘| Screw (1)
+
+SRXGO007NO2 =| Screw (1) Keyboad P.C.B.
+@1XSS26+10BN__| Screw,2.6X10 W) Note: Ref. No. 71 is supplied in the
+(a)
+
+from of optical pickup ass’y.

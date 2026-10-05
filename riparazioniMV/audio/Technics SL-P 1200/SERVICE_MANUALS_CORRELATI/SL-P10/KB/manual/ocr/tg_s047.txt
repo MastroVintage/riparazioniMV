@@ -1,0 +1,26 @@
+corresponds to about 40 tracks. Therefore, the gain of
+amplifier for tracking error signal, that is, the traverse
+gain set by VR108 is adjusted so that voltage of 0.6-0.8V
+can be obtained when deviation equivalent to 40 tracks is
+generaged in the output of L.P.F. I1C1l12 (AN6914) is an
+open collector type comparator that compares the DC voltage
+of L.P.F. output with the reference voltage from IC108 (A),
+(B), and delivers l-step feed command pulse to MN1400 in
+FWD and REV directions.
+
+Since tracking error signal is inverted by IC108 (C), the
+comparison voltage in the case of L.P.F. output gradually
+drops in FWD direction.
+
+Error signal per
+
+disc rotation Lens returns to neutral point
+averse basemoves ‘
+
+i. eter. FWD time
+
+REV time
+
+Fig. 5-7 Error voltage of tracking error signal
+
+a ee

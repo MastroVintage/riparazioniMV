@@ -1,0 +1,62 @@
+© 02 P.C.B.
+
+NS
+=
+o
+
+ra x
+ci)
+alee?
+
+7
+t
+| VR
+t
+4
+a
+
+© 23 P.C.B.
+
+e 01 P.C.B. (OLD) e071 P.C.B. (NEW)
+
+r=4
+4
+
+t
+tm R201
+
+ml Ws
+
+CN108 Emitter
+TP514 fey}
+
+52
+© TP512 ye
+e
+TP513
+e
+
+Emitter
+
+Q305
+
+Colector {]
+
+Cj
+
+Q305
+
+Colector []
+
+C4
+
+Red wire
+
+Blue wire
+
+e 08 P.C.B.
+
+poe
+
+Display panel
+

@@ -1,0 +1,80 @@
+aise
+
+(DIGITAL |
+
+olf AuDIO
+
+NADK
+ORDER NO. HAD8508232S0
+
+Service Manual
+
+Compact Disc Player
+
+~SLP2
+
+Please use this manual together with the service manual for Model No. SL-P2, Order No. DAD84100105C0.
+
+Notes:
+
+DAD84100105C0).
+
+* This supplement contains the following. Please keep this point in mind when servicing.
+1. The circuit has been changed for the improvement of performance.
+2. List of parts replaced as a result of circuit change.
+3. Correction of adjustment manual.
+4. Correction (re-check) of DC voltage in schematic diagram.
+* This supplement should be filed with the service manual for Model! No. SL-P2, (Order No.
+
+e Power supply circuit
+
+AN7805
+MA1180
+MA1082
+2SA564A
+
+Technics
+
+m@ CHANGE IN SCHEMATIC DIAGRAM
+
+Matsushita Engineering and
+Service Company
+
+50 Meadowland Parkway,
+Secaucus. New Jersey 07094
+
+Panasonic Sales Company,
+Division of Matsushita Electric
+of Puerto Rico, Inc.
+
+Ave, 65 De infanteria, KM 9.7
+Victoria Industrial Park
+Carolina, Puerto Rico 00630
+
+MA1240
+
+Panasonic Hawaii inc.
+91-238 Kauhi St. Ewa Beach
+P.O. Box 774
+
+Honolulu, Hawaii 96808-0774
+
+Matsushita Electric
+of Canada Limited
+
+5770 Ambler Drive, Mississauga,
+
+Ontario, L4W 2T3
+
+2SB64 |
+
+Matsushita Electric Trading Co., Ltd.
+P.O. Box 288. Central Osaka Japan
+
+Panasonic Tokyo Office
+Matsushita Electric Trading Co., Ltd.
+6th Floor, World Trade Center Bldg.,
+No. 4-1, Hamamatsu-cho 2-Chome, Minato-ku,
+
+Tokyo 105, Japan
+A4oe

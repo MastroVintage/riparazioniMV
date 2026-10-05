@@ -1,0 +1,169 @@
+. Place the Test disc on the turntable with clamper magnet.
+. Connect the oscilloscope to TJ402 pin on 01 (Main) P.C.B.
+. Apply power to the unit and select the play mode.
+. Confirm that RF signat is as shown in Fig. A. If it is not present, proceed to next step.
+
+. Mechanical adjustment
+
+If RF signal is as shown, skip step 5.
+
+. Adjust hexagonal screw (Use a hexagonal wrench 2 mm) to the right or left to obtain the RF signal {Visual check)
+
+as shown in Fig. B.
+
+Fig. A. RF signal
+
+4. Grating adjustment
+
+. Place the Test disc on the turntable and clamper with
+the magnet.
+. Connect the oscilloscope as follows:
+Sweep speed...... 2us.
+CHT... .. 6. ee TJ402 pin on 01 (Main ) P.C.B.
+CH2........... C164 on 03 P.C.B. (1C104 17 pin)
+
+. Apply power to the unit and select play mode.
+. If RF signal and ‘‘N” mark are present no adjustment is
+
+required as in Fig. A.
+lf RF signal and ‘‘N” mark are not present, perform
+step 5,
+
+. Insert the Grating adjustment tool into the hole on the
+
+left side of the optical pick-up body as shown in Fig. B.
+
+. Rotate the Grating adjustment tool toward right or
+
+left until the ‘““N” mark is sharpest and maximum RF
+signal is obtained.
+
+Suspension shaft
+
+Suspension shaft
+
+Do not touch
+
+Bottom view of traverse unit
+
+RF signal
+at CH1
+
+Fig. A RF signal and “N’’ mark
+
+Optical pick-up Turntable
+
+Front of deck
+
+B Cuss
+
+Insert the Grating
+adjustment tool
+
+Fig. B. Left side view of traverse unit
+
+DEUTSCH
+
+5. Electrical alignment of main unit. Follow the adjustment, refer to pages 1 ~ 6.
+
+*
+
+After adjustment dress all components to lay flat on 03
+P.C.B., and reassemble on the traverse unit.
+Once the 03 P.C.B. is mounted, assure that the bottom
+
+of the pick-up does not interfere with any of the com-
+ponents.
+
+Therefore make sure that the tracks in the outer edges
+of the disc are accessible.
+
+6. Check of the 03 module (Head amplifier module)
+
+Lay flat
+components
+
+Lay flat
+
+components
+Lay flat
+components
+
+Shorting pins
+
+lj’ MESSUNGEN UND JUSTIERUNGEN == De UtSCh see
+
+1. Justierung der Ruheposition
+
+1. Sicherstellen, da& die Blattschalter $101 (Ruhedetek-
+tion) und $102 (Endedetektion) wahrend des Zusammen-
+baus nicht zerdriickt wurden und daher auf “ON” ein-
+stellen.
+
+Falls sie zusammengedriickt wurden, die Kontakte ca.
+2 mm trennen.
+
+2. Dem Geradt Strom zufiihren. Dies verursacht, da& der
+Traversenmotor den optischen Abtaster zur Ruhe-
+position umspult.
+
+3. Den Netzschalter ausschalten.
+
+4. Die Ruhepositions-Schablone auf den Plattenteller auf-
+legen.
+
+5. Uberpriifen, ob die Linse im Loch der Ruhepositions-
+Schablone konzentrisch liegt., wie in Abb. B gezeigt.
+
+Wenn der optische Abtaster zu nahe
+beim Plattenteller ist (Abb. B):
+Justierung:
+
+1. Die Befestigungsschraube ldsen
+
+und die REST-Schaiter-Justi- Fokuslinse
+erschraube im  Uhrzeigersinn
+drehen.
+
+Ruhepositions-
+Schablone
+
+2. Falls der Ruhedetektionsschalter
+(S101) zu nahe bei $102 ist,
+ist zu beachten, da der Abtaster
+in der Ruheposition zu weit
+weg vom Plattenteller zu liegen
+kommt. In diesem Fall ist die
+Stromzufuhr einzuschalten, und
+Schritt 1 oben ist zu wieder-
+holen, bis die Ruheposition
+erfaRt wird, wenn die Linse
+konzentrisch im Loch der Ruhe-
+positions-Schablone fiegt.
+
+Fokustlinse
+
+Ruhepositions-
+
+Befestigungs-
+schraube
+
+Optischer
+
+Abtaster REST-schalter-
+
+Justierschraube
+
+Plattenteller
+
+Abb. A
+
+Abb. B: schlecht (zu nahe)
+
+Fokuslinse
+
+Schablone Ruhepositions-
+Schablone
+Abb. C: gut Abb. D: schlecht (zu weit weg)
+
+Justierung ist nicht nétig (Abb. C):

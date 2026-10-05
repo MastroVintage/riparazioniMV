@@ -1,0 +1,173 @@
+Der optische Abtaster ist zu weit
+weg vom Plattenteller (Abb. D):
+Justierung:
+
+Die Befestigungsschraube ldsen und die REST-Schalter-Justierschraube entgegen dem Uhrzeigersinn drehen.
+
+6. Um richtige Justierung zu tberpriifen, die Platte auf den Plattenteller legen und Stromzufuhr einschalten.
+Dadurch wird der optische Abtaster in den Auto-Zyklus versetzt. Die Abgleichung mit der Ruhepositions-Schablone
+
+erneut lberpriifen, wie in Abb. C gezeigt.
+
+2. Justierung der Tonarmhodhe
+
+Anmerkung: Dies ist ndétig nach Ersetzen des Direktan-
+trieb-Spindelmotors, oder wenn kein HF-
+Signal vorhanden ist.
+
+1. Den kurzen Stift von CN103 auf der 03-Platine heraus-
+ziehen.
+
+2. Das diinne Ende der Fuhleklingenlehre zwischen dem
+Plattenteller und dem Achslager einfiihren.
+
+3. Die Fithlerklingenlehre gegen das dicke Ende schieben
+und die Stelle, wo sie den Plattenteller beriihrt und
+bis sie nicht mehr weitergeschoben werden kann, mit
+Bleistift markieren. Dann die Lehre entfernen.
+
+4. Das Oszilloskop an den TJ402-Stift am 01-Platine
+
+(Servo} anschlieRen.
+
+5. Eine Platte auf den Plattenteller legen und sie mit dem
+Magneten festklemmen.
+
+6. Die Stromzufuhr zum Gerat einschalten.
+
+7. “Eject Out’’ und ‘Eject In’’ driicken.
+
+8. Uberpriifen, ob HF-Signal vorhanden ist.
+
+Falls nicht vorhanden, mit dem nachsten Schritt weiter-
+fahren.
+
+9. Zutiberprifen:
+
+Die Platte am Punkt ‘’A” leicht antippen. Fall HF-
+Signal auftritt, ist der Plattenteller zu tief. Falls kein
+HF-Signal auftritt, an Punkt ‘’B’’ auf die Platte tippen.
+HF-Signal sollte auftreten um anzuzeigen, daf% der
+Plattenteller zu hoch ist.
+
+10. Justierung:
+
+(1) Die Fihlerktingenlehre zwischen dem Plattenteller und
+dem Achslager bis zum vorher markierten Punkt ein-
+fiuhren.
+
+(2) Die Sechskant-Plattenteller-Befestigungsschraube ldsen.
+(1,27mm-Sechskantschlussel verwenden.)
+
+(3) Falls der Plattenteller zu tief ist, die Fihler-klin-
+genlehre ca. 4mm gegen das dicke Ende hin schieben und
+siedann entfernen.
+
+Stromzufuhr wieder einschalten und prufen, ob HF-
+Signal vorhanden ist.
+
+(Es handelt sich hier um eine Justierung ‘‘auf gut
+
+Glick’; es dirften daher mehrere Versuche notig sein,
+bisein HF-Signal auftritt.)
+
+(4) Der Plattenteller ist zu hoch; die Fiihlerklingenlehre
+einflhren und ca. 4mm gegen das diinne Ende hin
+schieben, d.h. auf gleiche Weise vorgehen, wie in
+Schritt 3.
+
+(5) CNI03 wieder anschlieRen, damit Fokus-Suchlauf funk-
+tioniert.
+
+HF-Signal
+
+Ansicht von oben bei aufgelegter Platte
+
+Sechskantschraube Plattenteller
+
+<— Die Fihlerklingenlehre
+ainfiihren.
+
+Vorderansicht der Traverseneinheit
+
+3. Mechanische Justierung
+
+RON >
+
+Die Testplatte auf den Plattenteller legen und mit dem Magneten festklemmen.
+
+. Das Oszilloskop an den TJ402 am 01-Platine (Servo) anschlieRen.
+. Die Stromzufuhr zum Gerat einschalten und Wiedergabe-Betriebsart wahlen.
+
+Uberprifen, ob das HF-Signal so ist, wie in Abb. A gezeigt. Falls nicht vorhanden, mit dem nachsten Schritt
+
+weiterfahren.
+
+Falls HF-Signal wie gezeigt ist, Schritt 5 iberspringen.
+
+Die Sechskantschraube (mit einem 2mm-Sechskantschltssel)
+tritt (Priifung von Auge), wie in Abb. B gezeigt.
+
+Fishrungs-
+schnecken-
+getriebe
+
+Abb. A: HF-Signal
+
+4. Gitterjustierung
+
+. Die Testplatte auf den Plattenteller legen und mit dem
+Magneten festklemmen.
+
+. Das Oszilloskop wie folgt anschlieRen:
+SWEEP............. 2us
+CH1 (Kanal1) ........ TJ402 an 01-Platine
+CH2 (Kanal2) ........ C164 an 03-Platine (Stift 17
+
+von IC104)
+. Stromzufuhr des Gerates einschalten und Wiedergabe-
+
+Betriebsart wahlen.
+
+. Falls HF-Signal und ‘‘N’’-Marke vorhanden sind, wie in
+
+Abb. A gezeigt, ist keine Justierung ndtig.
+Falls HF-Signal und ‘’N’’-Marke nicht vorhanden sind,
+Schritt 5 durchfihren.
+
+. Den Gitterjustierstift in das Loch auf der linken Seite
+
+des Gehauses des optischen Abtasters einfiihren, wie in
+Abb. B gezeigt.
+
+. Den Gitterjustierstift links- oder rechtsherum drehen,
+
+bis die ‘‘N’’-Marke am scharfsten und das HF-Signal
+maximal ist.
+
+Aufhangungsachse
+
+nach links oder rechts drehen, bis HF-Signal auf-
+
+Aufhangungsachse
+
+Traverseneinheit von unten gesehen
+
+HF-Signal
+bei Kanal 1
+
+“N''-Marke
+bei Kanal 2
+
+Abb. A: HF-Signal und “N’’-Make
+
+Optischer Abtaster Plattente Iler
+
+Vordese ite des
+Gerate
+
+Den Gitterjustierstit
+hier einfuhren.
+
+Abb. B: Ansicht der linken Seite der Traversineinheit
+

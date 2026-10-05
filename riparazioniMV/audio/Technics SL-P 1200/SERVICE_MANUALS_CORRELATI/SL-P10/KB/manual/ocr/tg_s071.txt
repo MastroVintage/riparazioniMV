@@ -1,0 +1,55 @@
+PLL lock range detection and search circuit
+
+Ic606 (40H074) (B) controls the relationshin between edge
+pulse and PC phases. It is illustrated in Fig. 7-18.
+
+In normal playback, the signal is picked out at the rise of
+edge pulse whose phase difference from PCK is 90°, therefore
+the output level is "H" constant and IC604 pin (12) is "L"
+and IC604 pin (10) "H", then search oscillation circuit does
+not operate.
+
+coos Sf LFS LS LJ Le
+
+—()(D input)
+
+a Soe OO oo OD Oe
+
+—(3)(CK)
+
+In case of high-speed search, PLL comés outside the lock
+range, causing the input phase relation of IC606 (B) to be
+disturbed, then the output at IC606 pin (5) (Q output) is
+wrong, but it is filtered by C607 so that the level of ICc604
+pin (13) becomes "L" and IC604 pin (10), "L" as well.
+
+As a result, the search oscillator consisting of 1C607 (745
+124) (B) is shifted to oscillation mode. Then, analog switch
+IC603 pins (11) - (10) turn ON due to IC609 (A), and FC input
+of vcO is swept to detect the optimum value, then PLL is lock-
+
+ed again.
+
+Drop-out control circuit
+
+IC603 (MN4066B) pins (1) - (2) and (3) - (4) are drop-out
+control circuit. If RF signal is missing due to drop-out,
+then 0.5T edge pulse cannot be detected and PLL does not
+operate. So, in case of drop-out, it is remedied through
+the following operation.
+
+Drop-out detection signal ("H" in drop-out mode) is applied
+
+to CN605 pin (1). (Refer to the section of Drop-out detection
+circuit on page 68. ) Thus, during normal playback mode, RF
+signal with shaped waveform is selected. T-EFM signal is
+selected in drop-out mode.
+
+T-EFM signal is pure electrical EFM data mode by demodulation
+LSI.
+
+That is, during drop-out, PCK is properly controlled through
+substitution with T.EFM, while the correcting circuit of
+demodulation LSI will take care of data missing.
+
+—82-

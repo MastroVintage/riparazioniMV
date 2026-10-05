@@ -1,0 +1,265 @@
+1cai8
+AN6682
+
+Pitch control
+
+540kHz 1
+15V
++
+2
+CR
+Q
+(178)
+A
+a Ct
+po PR
+72)
+540kHz> L_CR
++6% D
+~ 5V
+| 1C416
+VR403 I B
+Reference 3 [ + 5V
+frq.adj. rad Phose
+I comporotor!
+Pitch control = LPF
+ie4t2 3 4 'c4il 1c419
+
+16% Ic413
+
+Soc"
+0 8.64MHz
+
+13
+TF icai2
+L 5V
+
+erence clock
+
+1C412
+
+L
+zo 12
+Lr?
+D655
+%) T gp
+
+3
+° Le |
+
+0 off
+1C412 gl Regu o °
+
+°
+Ic413 ($652)
+
+Clock select Pitch selector
+
+13,
+(172) ane)
+git Q
+cR CR
+13) x 12
+o
+ic416 | sical7
+x
+=
+v
+©
+@o
+
+8.64MHz
+or Deglitch : , - 1kHz,0dB (L+R)
+Low pass filter Equalizer Phase shifter
+{
+1€803 LN
+1C805_ Buffer / r
+an lp |e 1c807 /
+T 52 7 L.PF 5 1C803 /
+1 ' 5 Z /
+4 6 3 ® + o——) teh
+16805 1c807 2 ,
+oN ys -?-5
+t 1 |
+IkHz,0dB Ed
+(L+R) igh \
+af |
+| D
+op LPF . M 9 © Rem
+1 j ! 2 H 17
+Ls! ee te ie 1C806 oe | r i
+| 1
+ann ° vr ian
+iz) 1C B06 1c804 ! pues a aS a
+L | r Equalizer
+4, 1 p
+Muting relay drive | LL > hones
+5V \ — —_—_——_—
+| N,
+! ) 1c8sl
+82 1
+| 1
+| - fan |
+1s
+mots a \2 i>
+|
+-ov sit Phones
+o,2 ifi
+ale amplifier
+>!
+i
+|
+I
+
+it from scrathes.
+
+2. Turn the lock shaft 180° clockwise.
+3. Turn the lock screws (about 5 to 6 times)
+
+clockwise.
+
+Lock screws
+
+LOOK —\
+screw (@)
+LOCK
+SCREW
+
+Lock shaft
+
+“ey
+
+FREE
+
+4. Plase the unit (with cushions attached, as
+
+’ illustrated.
+
+. Fold the flaps according to the line marks.
+
+. Seal the top with adhesive tape.
+
+Use gum tape or adhesive cloth tape of
+50mm wide at least.
+
+7. For the edges, first fold the flap “‘a’’ and
+then flap “b’’, and staple. Remember to
+staple only flap “b’’. (Use 15 or 16mm
+staple)
+
+oo
+
+Ref. No.
+
+A1(EK)
+A1(EN
+A1(EG, EF
+XA, XL
+XM
+A1fE, EB
+EH, EC.
+AI [PA PE
+PC
+A2(EK) ZN
+A2(xL) ZN
+A2(XA, XM)
+
+“re |
+PC
+a
+A2[orner|
+Areas.
+
+A3
+A4(XA, XM)
+
+AS [ PA, Pe
+PC
+
+AG
+
+Part No.
+
+SRNUO008G01
+SRNUOOBIO1
+SRNUOO8X01
+SRNUOO8S01
+SRNUOOS8P01
+SFDACO05G02
+SFDACOSLO1
+SFDACOSX01
+
+SFDACOSNO1
+
+SFDACOSE02
+
+SFDHCO5NO01
+SFDKI19118
+
+QJP0603S
+
+UM-4NE-2P
+
+PACKING PARTS
+
+P1(EF]) ©] SRHPOO8CO1
+P1(EF) ®|SRHPOO8C51
+
+P41 [Prner|
+Areas;
+
+PI ner
+Areas,
+
+®
+
+SRHPOO8MO01
+
+SRHPOO8M51
+
+SRHHOO8NO1
+
+SFYF23A35
+
+Description
+
+ACCESSORIES ssid
+
+Instruction Book (1)
+Instruction Book
+Instruction Book
+
+Instruction Book
+instruction Book
+AC Cord
+AC Cord
+
+AC Cord
+
+AC Cord
+
+AC Cord
+
+Pin Plug Cord
+2Pin Plug
+
+Plug
+
+Battery
+
+Carton Box(Siiver)
+Carton Box(Biack)
+Carton Box(Silver)
+
+Carton Box(Black)
+
+Pad,Left Side
+Pad,Right Side
+Polyethlene Bag
+Polyethiene Bag
+Pad,Cabinet
+Polyethlene Bag,
+Accessories
+
+Printed in Japan
+831010200 @) AM/YW

@@ -1,0 +1,33 @@
+4. Tracking servo circuit operation
+
+4—1. RF ON detection circuit operation
+
+The actual circuit that delivers RF ON signal to the system
+microcomputer is shown in Fig, 4—1.
+
+10111
+From MNL400PCA (25)
+
+(H) Level in PLAY mode is parenthesized.
+
+Fig. 4-1 RF ON detection circuit
+
+(1) When PLAY key is depressed, CN251 pin (12) goes "H" on
+laser lighting.
+
+(2) When auto focus is activated due to focus search
+operation, IC104 pin (8) goes "H",
+
+(3) When (1) and (2) are at "H", CN704 pin (7) delivers
+RF ON signal to system microcomputer.
+
+After confirming the RF ON signal, system microcompu-
+
+ter delivers TR ON signal to activate tracking servo
+
+and simultaneously delivers PLAY command signal to
+MN1400 traverse microcomputer,
+
+1C111 MN1400 pin (25) will become ‘’H”’ from this command.
+
+a

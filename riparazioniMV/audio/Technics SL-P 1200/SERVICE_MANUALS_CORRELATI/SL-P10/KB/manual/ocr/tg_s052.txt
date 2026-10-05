@@ -1,0 +1,32 @@
+Pin (26) (D03) goes "H" only when the set is in PLAY mode,
+and then fine servo is selected in CLV servo circuit.
+(For CLV servo, refer to page 66.)
+
+Pin (25) (D02) goes "H" only when the set is in PLAY and
+manual search low-speed modes.
+
+Pin (3) (C08) and pin (22) (SNSA) operate in relation
+with each other.
+
+Q103 operates so that jump signal will not be applied to
+IC103 (AN7674) in traverse start timing even when system
+microcomputer delivers jump pulse output to ICl103.
+
+Finally, the function of IC1206 gate circuit is explained
+
+although it is not directly related with the function of
+MN1400.
+
+The mode command signal from system microcomputer is
+applied to B10, Bll, and Bl2 and "ZL" during stop and
+pause modes.
+
+IC1206 operates receiving these signals as input. There-
+fore, the gate output in the above-mentioned mode is at
+"H" and plays the same role as FCN Signal.
+
+The explanations given so far are mainly for PLAY mode, and
+the functions of MN1400 in other traverse modes are shown
+in Table 5-1.
+
+57 L.

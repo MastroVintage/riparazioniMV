@@ -1,0 +1,54 @@
+(7) In Cl scramble, only even-number symbols of 32-symbol
+data in 1 frame are delayed to the next frame.
+The effect of Cl scramble results in signal processing
+for improving the ability to detect errors that occur at
+random relatively in a short time.
+
+(8) Control data P - W are also called sub-codes or user's
+bits, and include time information for random access
+and display, consisting of 1 symbol (8 bits).
+
+The signals are arranged at the head of the frame.
+With the control signal applied, the number of symbol
+data in 1 frame is 33 in total.
+
+The detail of control data is explained on page 98.
+
+(9) Finally, the 1-frame symbol data are subjected to EFM
+modulation and are recorded on the disc with frame
+synchronizing signal added.
+
+The details of EFM modulation is explained in the next
+paragraph.
+
+In the above-mentioned recording signal processing oneration,
+Q parity is made in the earlier stage of interleave, and P
+parity is made in the latter stage.
+
+Each of these is intended to improve the error correction
+ability, and this system is called CIRC (Cross-Interleave
+Reed Solomon Code).
+
+EFM modulation
+
+EFM modulation is a new modulation system for CD which con-
+verts symbol data bits (8 bits) to channel bits (14 bits),
+and EFM stands for Eight to Fourteen Modulation.
+
+EFM is necessary because it is unable to define the arrange-
+ment of data bits, that is, "1" and "0", without modulation
+of symbol data. For example, if "1" or "0" continue very
+long, then the data is DC, making it impossible to generate
+self-clock at the tracking servo (activated by use of pit) or
+the playback system.
+
+Shit
+aie teneldieepn i —chaweesi eat
+
+Doh polo] fe
+
+EFM Conversion
+
+Fig. 9-5 EFM modulation
+
+~94 —

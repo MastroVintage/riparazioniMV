@@ -1,0 +1,53 @@
+1-3. Remote-control receiver amplifier
+
+ictiol AN5020
+
+ciiog
+
+(1)} GND
+Ic6tl
+1
+(2)) SIG ©
+
+Receiver
+DHO!
+
+Fig. 5 Receiver amp circuit
+
+This circuit eliminates AM from the optical signal converted
+into AM of the remote controller, and puts only serial signal
+into IC611 terminal 21 of microcomputer.
+
+Operation
+
+1. Optical signal of remote controller is converted into
+electrical signal by photo diode D1101 (1). It is put
+in IC1101 (1) of receiver amp, and put out to terminal
+(7).
+
+2. It is then amplified by Q1101; tuned to 36.7 kHz by
+T1101; subjected to AM detection at D1102; and amplified
+by optical amplifier. Then the output is put into Icé6ll
+(21) as serial signal.
+
+3, The serial signal is same in phase as the emitter wave-
+form (with AM) of Q1001 of remote-control transmitter.
+
+1-4. Operation of microcomputer for remot-control decode
+(MN1421PCM)
+
+Name of port Function Function
+
+Al port Key scan input DO port Data output
+to operation | opecon
+BI port ” a CO port control
+
+EO port Key scan output cos
+
+Light up the sensor
+during redeiving from
+remote control
+
+Sensor input | Remote control co9
+SNSO signal input
+

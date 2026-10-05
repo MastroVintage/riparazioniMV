@@ -1,0 +1,24 @@
+4—7. Track jump control circuit operation
+
+During the above-mentioned pause and manual low-speed search
+forward mode, laser beam jumps from inner to outer periphery
+of the disc, and the back jump control circuit operates.
+During manual low-spneed search reverse mode, laser beam jumps
+from outer to inner periphery of the disc, and the forward
+jump control circuit operates. These two control operations
+are explained in the following.
+
+4—8. ZERO CROSS detection circuit opertion
+
+It detects the minimum deviation point of the disc and works to
+send the signal of minimum deviation point to
+computer.
+
+the system micro-
+
+1€1502
+!
+
+Fig. 4—17. ZERO CROSS detection circuit
+
+—_ 35 —-

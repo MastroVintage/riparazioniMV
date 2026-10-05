@@ -1,0 +1,44 @@
+2—4. Optical PU of SL-P10
+
+The traverse unit incorporates a spindle motor to drive the
+disk and a stepping motor to move the optical PU in the
+direction of radius and an optical PU in aluminum diecast.
+
+(See Fig. 2-3.)
+Stepping Motor
+
+Travers feed screw
+
+Actuator lens
+
+Diecast base
+
+Laser Pick-up
+Fig. 2—3. Travers Servo Structure Diagram
+
+2—5. Traverse unit of SL-P10
+
+The uni-body construction improves the mutual position
+accuracy Of component parts. Also, laser APC and RF signal
+head amplifier are built into the unit. An extra-mini 1Z-pole
+slotless DD motor is employed as a spindle motor.
+
+A precision feed screw and stepping motor are used for the
+traverse mechanism to move the optical PU so that both high
+speed feed and position generating purposes required for
+random access can be achieved.
+
+Stator coil
+
+\
+Rens
+
+LED
+Photo senser Rotor magnet
+Stator yoke
+
+FG
+
+Fig. 2—4. Spindle Motor Diagram
+
+—g—

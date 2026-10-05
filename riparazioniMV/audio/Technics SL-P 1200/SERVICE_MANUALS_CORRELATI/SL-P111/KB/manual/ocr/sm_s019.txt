@@ -1,0 +1,71 @@
+— CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM
+
+T1[POWER TRANSFORMER
+
+e Terminal guide of IC’s, transistors and
+
+diodes
+
+AN8370S
+SVIL833M
+SVIBA4560F
+
+MN6636S
+AN6554NS
+MN1550PDT
+AN8371S
+
+2SB1862
+2SB793
+2SD973
+2SD637
+
+MN15261PDU .
+SVIPCM55HP-2
+
+MN6617S
+MN6618A
+
+28D1450
+2S8C3311
+
+MA4068 = MA4056
+MA4091-M MA4330
+
+mark
+
+Cathode
+
+DP
+
+SVD1SR35200A
+
+ion
+
+Cathode { Anode
+
+AC OUTLET Ac IN
+
+(lZ0V. 60Hz)
+
+| jst
+
+Resistance Unit
+(Speed Sensor) LI
+
+Optical Pickup
+
+BRN ————__—— 2 —
+RED ——————- | —
+BLU—— 5 — CN402
+ORN—— 3—
+YEL—— 4 —
+
+(S101)
+
+BRN 1 CN35I
+
+Spindle Motor
+
+Loading Motor
+

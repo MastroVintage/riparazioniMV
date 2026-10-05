@@ -1,0 +1,26 @@
+Door motor
+
+OPEN
+
+detection
+switch
+
+hr
+~——~ON
+
+detection
+switch
+
+Holder
+Drive gear
+
+Microswitch is
+pushed by this edge.
+
+OPEN
+detection
+switch
+
+Fig. 11-4 Loading mechanism
+
+— 116 —

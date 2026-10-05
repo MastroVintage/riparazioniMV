@@ -1,0 +1,86 @@
+Py
+
+®
+e
+@
+
+SUPD860
+
+OPEN/CLOSE
+
+F.SKIP —SEARCH- R.SKIP
+
+A
+e
+o
+
+PLAY/PAUSE
+
+RO12(123456789)
+
+| 10 1 ; 12
+
+@ SCHEMATIC DIAGRAM
+
+(This schematic diagram may be modified at any time with the
+development of new technology.)
+
+Notes:
+
+1. $1 : Power switch in ‘on’ position.
+
+2. $2 : Voltage selector switch.
+
+(For {XA}, [XB], [PA], [PE} and [PC] areas)
+
+3. $101  : Disc holder open/close detection switch.
+4. $401: Play/pause switch.
+
+5. $402 : Stop/clear switch.
+
+6. $403: Forward skip/search switch.
+
+7. $404 : Backward skip/search switch.
+
+8. $405 : Memory/recall switch.
+
+9. $406 : Time mode select switch.
+
+10. $407: Repeat switch.
+
+11. $408 : Open/close switch.
+
+12. The voltage value and waveform are the reference voltage
+of this unit measured by DC electronic voltmeter (high
+impedance) and oscilloscope on the basis of chassis.
+Accordingly, there may arise some error in voltage vatues
+and waveforms depending upon the internal impedance of
+the tester or the measuring unit.
+
+* The parenthesized are the values of voltage generated
+during playing (Test disc 1kHz, L+R, 0dB), others are
+voitage values in stop mode.
+
+13. Important safety notice:
+
+Components identified by A\ mark have special
+
+characteristics important for safety. When replacing any
+
+of these components, use only manufacturer's specified
+parts.
+
+4.
+
+: Positive voltage lines and negative voltage lines.
+_. saeeaane > Audio signal lines.
+* Caution!
+_ 1C and LSI are aensitive to static electricity.
+Secondary trouble can be prevented by taking care during
+repair.
+%* Cover the parts boxes made of plastics with aluminum foil.
+* Ground the soldering iron.
+
+* Put a conductive mat on the work table.
+* Do not touch the legs of IC or LSI with the fingers directly.
+

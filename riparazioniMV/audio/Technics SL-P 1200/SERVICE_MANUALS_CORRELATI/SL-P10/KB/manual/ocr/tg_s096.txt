@@ -1,0 +1,48 @@
+Disc detection circuit
+
+The disc detection circuit is shown in Fig. 11-5. PC2 is
+
+a reflection type photo sensor attached to the disc holder
+in the door panel. Because of reflection type, the disc
+inserted causes base bias to Q14, and the collector of Q14
+goes "L", and that of Q15 goes "H". This is the disc detec-
+tion signal (DISC ON) to the system microcomputer. When the
+door panel is in OPEN mode, the sensor operates (disc inser-
+tion) and then the door motor is driven in the direction of
+CLOSE. When the sensor is not operated, the system micro-
+computer does not accept signals except for open/close key.
+
+PA2
+(DISC ON)
+
+Fig. 11-5 Disc detection circuit
+
+PU innermost position detection circuit
+
+The innermost position detection circuit is shown in Fig.
+11-6.
+
+Pcl is a penetration type photo sensor attached to the bottom
+of LED. Because of penetration type, when pickup comes to
+the innermost periphery, Q12 is cut off and its collector be-
+comes "H", and the collector of Q13 goes "L".
+
+This signal is the innermost position detecting signal (LMT
+ON) to the system microcomputer. All the operations of the
+system microcomputer are based on the detection signal.
+
++5V
+Shielding R21
+
+plate RIS
+
+PAI
+(LMTON)
+
+PU
+Position display
+LED
+
+Fig. 11-6 PU innermost position detection circuit
+
+=e =

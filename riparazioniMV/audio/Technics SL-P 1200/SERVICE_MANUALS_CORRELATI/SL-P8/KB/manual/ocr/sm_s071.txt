@@ -1,0 +1,37 @@
+cI A »
+
+ch) oma be
+
+AC3V
+
+MUSIC SCAN
+
+REPEAT
+
+PAUSE
+STOP
+
+Sv Ic6s1 +15V
+MNi430PCG ————1
+
+Display microcomputer
+
+On
+fe}
+
+[ieee
+
+(@) co 5 |
+
+() co 4 |
+
+S) co 3 |
+E)-co_2 |
+
+Operation control
+(C612
+MN1564PCL
+
+Fig. 21 Circuit diagram of display
+
+-21-

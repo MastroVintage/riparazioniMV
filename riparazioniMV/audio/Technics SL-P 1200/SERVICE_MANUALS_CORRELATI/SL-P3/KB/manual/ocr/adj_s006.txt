@@ -1,0 +1,144 @@
+| m MESURAGES ET REGLAGES sees Fran¢ ais Se
+
+”
+<x
+7
+2
+<x
+foal
+u
+
+1. Ajustement de I’amplification de focalisation
+
+1. Raccorder le gabarit d’ajustement de gain avec le connec-
+teur de changement de !’appareil.
+Rouge....... Fil d’interconnexion (+15V) a
+cété de la broche 13 IC301 sur la
+plaquette a circuits imprimés 01.
+Bleu........ Fil d’interconnexion(—15V) a cété
+de la broche 12 1C301 sur la
+plaquette a circuits imprimés 01.
+Vert........ Chassis
+Connecteur ... Retirer la broche de court-cir-
+cuitage de CN103 sur la plaquette
+a circuits imprimés 03 et raccorder
+le connecteur de changement au
+gabarit. Puis, raccorder le connec-
+teur (5P) 4 partir du connecteur de
+changement 4 CN103.
+
+2. Régler |’oscillateur 4 basse fréquence sur la fréquence de
+750 Hz et sur une tension de sortie de créte 4 créte de 150 mV, et le raccorder 4 la masse (GND) et a I’entrée
+d’oscillateur (OSC IN) de labroche d’essai (TEST) de |’élément d’étalonnage.
+
+3. Raccorder les canaux 1 et 2 (CH1/CH2) de Il’oscilloscope a TP1 et TP2 de I’élément d’étalonnage (TP3 est Ja masse).
+Réglage de |’oscilloscope: ;
+
+Tension. ......... 100 mV (les deux canaux) Mode........ CHOP
+Balayage......... 2ms
+Entrée........... C.A.
+
+4. Régler |’interrupteur d’alimentation ‘‘on” (mise en circuit) de I’élément d’étalonnage et |’interrupteur rotatif de
+I’élement d’étalonnage sur ‘’1”’ et installer le disque.
+
+5. Mettre en marche l’interrupteur d’alimentation. Lorsque la platine commence 4 tourner, un signal de 750 Hz apparait
+sur l’oscilloscope. Ajuster ensuite VR101 de teile sorte que les formes d’ondes des deux canaux soient réciproque-
+ment égales.
+
+2. Ajustement de I’équilibrage de focalisation
+
+1. Régler linterrupteur d’alimentation ‘on’ (mise en circuit) de l’élément d’étalonnage et |’interrupteur rotatif de
+I’éleément d’étalonnage sur ‘2 et débrancher l’entrée provenant de !’oscillateur.
+2. Raccorder TJ102 sur la plaquette 4 circuits imprimés 03 a la masse (GND) en utilisant un fil de raccordement a pince.
+
+3. Retirer le connecteur CN501 situé sur la plaquette 4 circuits imprimés 01.
+4, Raccorder l’oscilloscope 4 TJ101 sur la plaquette 4 circuits imprimés 03 et placer le disque.
+
+Réglage de I’oscilloscope: Tension.......... 500 mV
+Balayage......... 5 ms
+Entrée.......... CA
+
+5. Mettre en marche |’interrupteur d’alimentation. Lorsque le laser s’éclaire, une forme d’onde en forme de S apparait
+sur l’oscilloscope. Ajuster alors VR102 de telle sorte que les valeurs de créte supérieure et inférieure soient mutuel-
+lement égales.
+
+TP 1
+
+Nota: La forme d’onde en forme de S ci-dessus mentionnée continuera pendant a peu prés 2 minutes si la broche
+4 de CN412 est raccordée a la masse (GND) alors que LD est éclairé dés que LD s’arréte en 5 ou 6 secondes.
+6. Aprés la mise au point, remettre en place le fil de raccordement a pince ainsi que CN501, comme {Is étaient.
+
+. Ajustement du décentrement de focalisation
+
+. Maintenir l’interrupteur d’alimentation “‘on” (mise.en circuit) de l’élément d’étalonnage et |’interrupteur rotatif
+
+de |’élément d’étalonnage sur “2”.
+
+. Placer l‘appareil sur le mode “EJECT” (éjection).
+. Raccorder un voltmétre réglable 4 TJ101 sur la plaquette a circuits imprimés 03.
+. Mettre en marche |’interrupteur d’alimentation et régler VR103 de telle sorte que la tension de C.C. du voltmétre
+
+soitdeO+10mvV.
+
+. Ajuster l’oscillateur 4 basse fréquence sur 1,5 kHz et
+
+. Raccorder les canaux 1 et 2 (CH1/CH2} de !’oscilloscope
+
+. Maintenir l’interrupteur d’alimentaiton “on” (mise en
+
+. Raccorder loscilloscope 4 TJ103 sur la plaquette a
+
+. Ajustement du gain d’alignement
+
+“ ”
+
+. Régler l’interrupteur d’alimentation “on” (mise en
+
+circuit) de |’élément d’étalonnage et |‘interrupteur
+rotatif de l’élément d’étalonnage sur 3”.
+
+sur une puissance de sortie de créte a créte de 150 mV et
+le raccorder a 1a masse (GND) et a lentrée d’oscillateur
+(OSC IN) de la broche d’essai (TEST) de |’élément
+d’étalonnage.
+
+a la broche d’essai (TEST) TP1 et TP2 de |'élément
+d’étalonnage (TP3 est ja masse).
+Réglage de I’oscilloscope:
+Tension 100 mV (les deux canaux)
+Balayage
+
+Mode
+
+. Mettre en marche I’interrupteur d’alimentation. Lorsque la platine commence 4a tourner, un signal de 1,5 kHz
+
+apparait sur l’oscilloscope. Ajuster ensuite VR104 de telle sorte que les amplitudes des formes d’ondes des deux
+canaux soient réciproquement égales.
+
+. Ajustement temporaire du décentrement d‘alignement
+
+. Régler l’interrupteur d’alimentation “‘on’’ (mise en circuit) de I’élément d’étalonnage et l’interrupteur rotatif de
+
+l’élément d’étalonnage sur ‘2’ et débrancher |’entrée provenant de I’oscillateur.
+
+. Placer l'appareil sur le mode “EJECT” (éjection).
+. Raccorder un voitmétre réglable 4 TP2 sur Ja plaquette 4 circuits imprimés 03.
+. Mettre en marche |’interrupteur d’alimentation et ajuster VR106 de telle sorte que la tension de C.C. du voltmétre
+
+soitdeO+3 mV.
+
+circuit) de I!’élément d’étalonnage: et |'interrupteur
+rotatif de l’élément d’étalonnage sur “2”.
+
+circuits imprimés 03, puis installer le disque.
+Réglage de |’oscilloscope:
+
+Tension...... ++. 200 mV
+Balayage......... 5 ms
+Entrée....2...... C.C.
+
+. Mettre en marche l’interrupteur d’alimentation. Lorsque la platine commence 4 tourner et que |’interrupteur
+
+asservi d’alignement de |’élément d’étalonnage est mis hors circuit, le signal TE (erreur d’alignement) apparait.
+sur l’oscilloscope.
+Puis, ajuster VR105 de telle sorte que les valeurs de créte supérieure et inférieure soient égales mutuellement.

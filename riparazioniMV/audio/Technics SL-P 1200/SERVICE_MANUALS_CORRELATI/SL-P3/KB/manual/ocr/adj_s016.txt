@@ -1,0 +1,200 @@
+2. Ajuste de altura de plato giradiscos
+
+Nota: Necesario después que el motor de huso de acciona-
+
+1. Saque el perno corto de CN103 en P.C.B. 03.
+. Inserte el extremo fino de la galga de cuchilla palpadora
+
+10.
+
+(1)
+
+(2)
+
+(3
+
+—
+
+(4)
+
+(5)
+
+3. Ajuste mecanico
+
+. Coloque el Disco de prueba sobre el plato giradiscos con fijador de iman.
+. Conecte el osciloscopio a perno TJ402 en P.C.B. 01 (Servo).
+
+. Aplique energfa a la unidad y seleccione la modalidad de interpretacién.
+. Confirme que la sefial RF es como mostrado en la Fig. A.
+
+BRWN =
+
+. Deslice la galga de cuchilla palpadora haca el extremo
+
+. Apriete eyeccion “‘out” y ejeccién “IN”.
+. Confirme si se presenta sefial RF. Si no, proceda al
+
+. Para confirmar:
+
+. Ajuste el tornillo hexagonal (use una llave hexagonal 2 mm) a la derecha o izquierda para obtener la sefial RF
+
+miento directo es reemplazado o no se obtiene sefial
+RF.
+
+entre el plato giradiscos y el cojinete de eje.
+grueso y marque la galga con un ldpiz donde ésta y el
+
+plato giradiscos se toquen y hasta que la cuchilla no se
+pueda meter ya mds, entonces remueva la galga.
+
+. Connecte e! osciloscopio a perno TJ402 en P.C.B. 01
+(Servo).
+
+. Coloque un disco sobre el plato giradiscos y fijelo con Sefal RE
+el iman.
+
+. Aplique energta a la unidad. ile
+
+Fonocaptor éptico
+siguiente paso.
+Suavemente golpee el disco en e! punto ‘‘A’’. Si aparece
+sefial RF, el plato giradiscos estdé demasiado bajo. Si no
+aparece sefial RF, golpee el disco en el punto ‘’B”.
+La sefial RF debe aparecer indicando que el plato
+giradiscos demasiado alta.
+
+Para ajustar:
+
+Inserte la galga de cuchilla palpadora entre el plato
+giradiscos y el cojinete de eje al punto previamente
+marcado.
+
+Afloje el tornillo hexagonal del tornillo de ajuste de
+plato giradiscos. (Use una llave hexagonal 1,27 mm) sin
+Si el plato giradiscos estd demasiado bajo, deslice Ja
+galga de cuchilla palpadora unos 4 mm (5/32’’) hacia
+el extremo grueso y remueva fa galga de cuchilla
+palpadora.
+
+Vuelva a aplicar energia y compruebe por sefial de RF.
+(Este es un ajuste de “prueba’’. Puede requerirae varios
+tanteos para obtener sefial RF).
+
+Si el plato giradiscos estd demasiado alto, inserte la
+galga de cuchilla palpadora y mueva unos 4 mm(5/32"')
+hacia el extremo fino, usando el mismo método que en
+el paso 3.
+
+Vuelva a conectar CN103 para habilitar exploracién de
+enfoque.
+
+Disco
+
+Vista superior de disco colocado
+
+Tornillo hexagonal Plato giradiscos
+
+Se |. Insertar la galga de
+cuchilla palpadora
+
+Vista frontal de unidad transversal
+
+Si ésta no se presenta, proceda al siguiente paso.
+Si la sefial RF es como mostrada, salte el paso 5.
+
+(comprobacién visual), como mostrado en Ia Fig. B.
+
+—
+oO
+Zz
+<x
+jou
+<p)
+ud
+
+. Conecte el osciloscopio como sigue:
+
+. Aplique energia ala unidad y seleccione la modalidad de
+
+. Si se presentan sefial RF y marca “‘N’”’, no se requiere
+
+Fig. A Sefial RF!
+
+4. Ajuste de rejilla
+
+fije con el iman.
+
+BARRIDO
+TJ402 (P.C.B. 01)
+C164 en P.C.B. 03 (Perno 17 de
+1C104).
+
+interpretacién.
+ningUn ajuste como en ia Fig. A.
+
+Si no se presentan sefial RF y marca “N”, efectue el
+paso 5.-
+
+. Inserte la herramienta de ajuste de rejilla dentro del
+
+agujero del lado izquierdo del cuerpo de fonocaptor
+Optico como mostrado en ia Fig. B.
+
+Eje de suspensién
+
+. Coloque el Disco de prueba sobre el plato giradiscos y
+
+Marca ‘"’N"’
+
+Fig. A Sefial RF y marea “N”
+
+Fonocaptor éptico
+
+. Haga girar la herramienta de ajuste de rejilla hacia la Eje de
+
+direcha o izquierda hasta que fa marca “N” es lo Suspensién
+
+mas nitida y se obtenga la maxima sefial RF.
+
+6. Comprobacion del P.C.B. 03 .
+
+* Después del ajuste, ordene todos los componentes para
+
+que estén planos sobre P.C.B. 03, y rearme sobre la
+unidad transversal.
+
+Una vez se ha montado el P.C.B. 03, asegdrese de que
+la parte inferior del fonocaptor no interfiere con nin-
+guno de los componentes.
+
+Por lo tanto, asegtirese de que los surcos en los bordes
+externos del disco son accesibles.
+
+planos
+componentes™ @
+Fone
+
+0 et a
+
+Poner
+compo AN
+planos
+
+Plato giradiscos
+
+Parte frontal
+de deck
+
+Insertar la herramiento
+de ajuste de rejilla
+
+componentes
+F102 planos
+
+Poner
+componentes
+planos
+
+Printed in Japa
+841008800 ®@ Al
+841109200 ®

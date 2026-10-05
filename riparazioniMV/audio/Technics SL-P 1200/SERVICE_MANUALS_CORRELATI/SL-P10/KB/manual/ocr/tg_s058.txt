@@ -1,0 +1,26 @@
+The last one is the signal taken out of 9301 collector as FGA.
+The signal finally goes into the system microcomputer. The
+system microcomputer counts the FG signal (64 pulses/turn) to
+determine the output timing of pins (22) and (23).
+
+It goes "H" when deviation
+zero cross is detected.
+
+t
+'
+@) —
+Pin TR-ON ‘
+System '
+microcomputer '
+
+23) J-TIME |
+
+Pin = : § j
+
+* The above timing signal is given at the 32nd
+pulse (64/2), counting the FG signal from devia-
+tion zero cross.
+
+Fig. 6-3 Use of FG signal P49
+
+at

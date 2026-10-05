@@ -1,0 +1,58 @@
+4—11. Back jump control circuit operation
+
+(1) With CN704 (KICK F/R) at "L", J. TIME command is given
+to IC103 pin (14) from system microcomputer at the
+minimum deviation point of disc, then the jump pulse
+of IC103 pin (8) changes from "L" to "H" and simulta-
+neously TR ON signal at IC103 pin (1) changes to "L"
+causing tracking servo to be released. (Jump start
+point)
+
+xJump pulse delivered to IC103 pin (8) is differenti-
+ated by Cll2 and is applied to the tracking error
+amplifier of AN7673 pin (19) . Then, the focus lens
+start to jump toward the inner periphery of the disc.
+
+(2) On start of jump in step (1), C116 of IC103 pin (17)
+starts to be charged by R121, causing IC103 pin (17)
+to go "H". (Track skip detection start point)
+
+(3) As the focus lens moves to the middle point between
+tracks due to the jump pulse while IC103 pin (17) is
+at "H", TE(HK) signal from IC103 intersects with V REF
+(reference voltage). As a result, the jump pulse of
+IC103 pin (8) changes from "H" to "L", and simultane-
+ously C117 of IC103 pin (16) starts to be charged by
+R126 and VR106. (Track middle point, brake start
+point)
+
+*When jump pulse of IC103 pin (8) changes from "H" to
+"LD" ("L" > "H" in forward jump mode), the pulse
+applied to AN7673 pin (19) is opposite to that of step
+(1) . This pulse becomes the brake signal for jump function.
+
+(4) When C117 of step (3) is charged causing 1C103 pin
+(16) to go "H", TR ON signal of 1C103 pin (1) changes
+to "H" on releasing of brake, and then tracking servo
+is activated. (Jump completion point)
+
+4—12. Ford jump control circuit operation
+
+(1) With CN704 (KICK F/R) at "H", J. TIME command is
+applied to IC103 pin (14) from system microcomputer
+at the minimum deviation point of disc, then jump
+pulse of IC103 pin (9) changes from "H" to "L" and
+simultaneously TR ON signal of IC103 pin (1) changes
+to "L" causing tracking servo to be released.
+
+(Jump start point)
+
+* Jump pulse delivers to IC103 pin (9) is applied to the track-
+ing error amplifier of AN7673 pin (19). Then, the focus lens
+starts to jump toward the inner periphery of the disc.
+
+al |
+(3) r Same as for back jump control operation.
+(4)
+
+a AS

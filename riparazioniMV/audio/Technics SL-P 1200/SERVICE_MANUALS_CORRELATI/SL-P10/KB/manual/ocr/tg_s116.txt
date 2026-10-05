@@ -1,0 +1,38 @@
+Random access operation includes rough search and fine search.
+(Refer to Fig. 11-18.)
+
+— Rough search —
+
+(1) Traverse is forwarded to the programmed target point
+(AMN, ASEC) by the data (1.25 m/s) of MN6610 in the
+extra-high speed mode.
+
+(2) When it reaches the target point, it reads the 0 data
+of disc with TR ON, and time difference AT is calculat-
+ed, then the traverse is forwarded by AT +a (or AT - a
+in REV mode) in the same mode.
+
+* At that point, the target position is very much close
+to the PU position, PU position is away from target
+position for kick back in the next time research.
+
+—— Fine search —
+
+(3) Again Q data is read with TR ON, and time difference At
+is calculated.
+
+(4) In kick back 1 read operation equivalent to At (unit in
+sec) x 3, it is repeated until At is minimi’zed and 0
+data is nearer than target position.
+
+(5) When the position in step (4) has been decided, MUTE
+ON is delivered with TR ON.
+
+* Then the system is in play mode but no sound is
+produced.
+
+(6) When Q data has reached the target position, audio
+signal is delivered with MUTE OFF. (Muting relay
+released.)
+
+— 139 —

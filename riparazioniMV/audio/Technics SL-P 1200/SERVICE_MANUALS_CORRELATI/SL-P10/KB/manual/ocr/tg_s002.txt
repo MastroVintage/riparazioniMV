@@ -1,0 +1,46 @@
+CONTENTS
+
+. Location of controls
+1—1. Specifications
+1-2. Block diagram of SL-P10
+. Optical pick-up and traverse unit
+2—1. Function of optical pickup
+2—2. Configuration of optical PU
+2—3. Optical pick-up and traverse unit
+2—4. Optical PU of SL-P10
+2—5. Traverse unit of SL-P10
+. Focus servo circuit
+S— 1. PUnCHONOT FOCUS SEN « wise nme Rerelen Ker INN ews CH Gino OG Nie © NE
+3—2. Block diagram of focus servo
+3—3. Circuit operation of optical servo
+. Tracking servo circuit operation
+—1. RF ON detection circuit operation
+. Tracking error head amp circuit operation...........000 eee ee eens
+. Low frequency compensating circuit
+. TR ON signal processing block circuit diagram... .....20 een ee eee 2
+. Calculation and actuator drive circuit operation
+. Reference voltage generation circuit (V REF) operation
+. Track jump control circuit operation
+. ZERO CROSS detection circuit operation
+. Track jump control
+4— 10. Track jump control circuit operation
+4—11. Back jump control circuit operation
+4—12. Ford jump control circuit operation
+. Traverse servo circuit
+5—1. Function of traverse servo
+5—2. Configuration of traverse servo
+5—3. Traverse servo circuit operation
+. CLV servo circuit
+6—1. Function of CLV servo
+6—2. Construction of CLV servo
+6—3. CLV servo circuit operation
+. RF data pick-out circuit
+7—1. Roles of RF data pick-out circuit
+7—2. Configuration of RF data pick-out circuit
+7—3. RF data pick-out circuit (1) .. P.C.B. (only Domestic Model)
+7—4. RF data pick-out circuit operation ( II)... [18] P.C.B. (Exs)
+. Drop-out detection circuit
+8—1. Role of drop-out detection circuit
+8—2. Configuration of drop-out detection circuit
+8—3. Drop-out detection circuit operation
+

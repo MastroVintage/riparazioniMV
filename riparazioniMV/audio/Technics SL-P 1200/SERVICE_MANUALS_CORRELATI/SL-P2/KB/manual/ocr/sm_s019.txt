@@ -1,0 +1,82 @@
+@ PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM
+
+101 | Main P.C.B.
+
+|O6| Power source P.C.B.
+
+BTI
+
+Power-
+transformer
+
+CN8O0S CN803
+
+Optical Pick-Up
+
+Optical servo P-C.B.
+(Head amplifier)
+
+RF
+CN410 2
+Drop Out
+
+[ CN411
+i LIT
+White
+1? | CN409
+Traverse © {i CN408 Q
+motor & S
+S
+
+Brown
+2 CN406 4, 12
+
+“Gray CN4O! CN402 CN403 CN404
+sio2 scout — 1) hota i) [8]
+(End) — motor
+. an CN405
+siol _ White 3 J6
+(Rest) 4 BT654
+653 [i---- 4] J7
+White “ “% 48
+$103 omr 2 lt 2 vi3
+(Close) ya
+Orange ri BT655
+
+$104 White 5
+(Open/ ar a !
+Close)
+
+FC604
+
+FC6OI FC602
+
+04 Keyboard / Display P.C.B.
+
+V23) [i<--8]
+PCK
+T5404
+LS.I Module PC.B. fil
+TJ 702 o
+CLOCK of
+©
+FCLK
+RFGND
+CN412 | TJ.403 | 403 @ pe
+
+eksa Head phon
+
+Motor coil P.C.B.
+
+Remote control
+reciver
+
+Disc L.E.D.
+
+amp. P.C.B.
+
+Osh
+
+Head phon
+jack PCB.
+

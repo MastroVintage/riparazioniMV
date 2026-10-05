@@ -1,0 +1,45 @@
+@ Fine servo
+
+IC304 (TC5081) is the phase comparator for fine servo. During
+fine servo operation, the servo is activated with the 2 sig-
+nals from demodulation LSI.
+
+FCLK -------- Reference signal from X'tal through frequency
+division (7.35 kK)
+
+CLDCK =--——--= Comparison signal detected from disc (7.35 kK)
+
+The 2 signals enter IC304 pins (7) and (8) from which the
+error signal is delivered to pin (3).
+
+The error signal is DC-converted at IC311l1 (AN6552) into con-
+trol voltage and put into IC303 (MN4066B) pin (4), setting uv
+fine servo when pin (5) is at "H",
+
+The error signal (fine servo synchronizing waveform) with
+fine servo activated can be monitored by TP307.
+
+e FG circuit
+
+IC312 (AN6552) is the FG signal amplifier.
+
+FG signal is used for 3 purposes in the system.
+
+The first 1s comparison signal for rough servo. IC302 pin (16)
+corresponds to this purpose. The second is spindle drive IC
+function stop.
+
+FG signal amplified by IC312 enters the one-shot multi of
+IC309 (1/2) through Q301, where the one-shot pulse is longer
+than the period of FG signal and therefore it is always
+retriggered at the rotational speed during playback. Accord-
+ingly, the flip-flop consisting of NAND gate of IC308 does
+not cause pin (6) to go "L". But if the mode is shifted to
+stop in operation control, then brake command is applied to
+IC301 (AN6635) pin (10) through IC303 (MN4066) pins (10) anda
+(ll), thus braking the spindle to decrease the rotational
+speed. Then, the period of FG signal becomes longer, and
+when retriggering operation exceeds the time, IC301 pin (9)
+goes "L" to stop the drive function.
+
+iG <a

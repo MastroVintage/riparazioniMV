@@ -1,0 +1,95 @@
+oat ‘pee
+
+0
+
+Lead-in Lead-out Lead-in Lead-out
+
+0305,306
+MA26WO
+
+0304
+€Mai5o
+
+0302
+MAIO56
+
+1c302
+
+IC309
+
+SVIHO74LSI23 1C312
+
+AN6552
+
+a lei
+
+Lead-in Lead-out
+
+\
+(13) C318 04 R345 1K
+enmes = 18
+CN302 +
+3 BS
+= SL oT) a
+y . i
+LEGA at as} 8 BL SS
+x 41K) ~ Ss
+
+136ys (7.35kHz)
+
+280636
+1C304
+
+CN705 § Cc ca
+B
+8 = | R301 082(2W)
+as St
+ee +
+45 >2 S Icao!
+' AN6635
+0 Spindle motor drive
+136 us
+(7.35 kHz)
+CLV servo adj.
+3 12 ax
+IC3U
+365 AN6552 gz VA
+SVIHD74LSO04P i
+B 1C307 5 =i iS =
+m0 R234. 100 = er 1K SVIHD7ALSIOP a at aa Bel
+01 th 28 |+ R47 FS y= ON ected 1C306 ey
+CN202 SSH 220.9 en Aa SL EN | SVIM53216P IL 2 0 1m | | /
+tl = . “<2 84 ay 35, ; ig i 4 16303 | le
+= Sou se D : rs @ =
+" =s bo O4)-O-® Z
+= psa )2 a <
+J 8 oO
+D206 1C203 x
+103 | MAIO56 AN6552 R233 {09K a [| — a
+Head amp. balance adj. | | MN4066B Motor reference
+
+Fig. 6-5 Actual circuit of CLV servo.
+
+a69 =
+
+MA26WO
+ay
+1
+sT | 3s
+Ny! 3S
+ce ite
+%
+8
+ran)
+
+0.2f > sid
+
+Lead-in Lead-out
+
+Motor rotation
+23ms
+
+Za Aland A2_
+Between A3 and A4
+
+a GO) =

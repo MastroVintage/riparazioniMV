@@ -1,0 +1,49 @@
+4. Display circuit
+
+4-1. Function of display
+
+Display microcomputer MN1430G operates according to the data
+of operation controller for display purposes.
+
+1.
+
+Music No. scale:
+
+Displays up to 20 tunes. Keeps lighting with power ON.
+
+Music No. display bar:
+
+20 tunes max.; if it exceeds 20 tunes, "over" mark
+"~" lights up on the right-hand side of bar.
+Music No. display bar blinks during play mode. Play
+
+END bar goes out. Programed music No. display bar is
+shown.
+
+Track display:
+Displays the number of tunes.
+Time display:
+
+Displays total play time (reading TOC), play and
+remaining time.
+
+With index key depressed, index No. is displayed.
+
+Differences in display function between SL-P7 and SL-P8
+
+l.
+
+Display tube of SL-P7 is provided only for the track
+and time, and not for music number scale and music No.
+display bar.
+
+In terms of circuit, B port of display microcomputer
+MN1430G is for model selection, and the inside program
+can be selected by setting the level to H (15 V) in
+SL-P7 and L (0 V) in SL-P8.
+
+In SL-P7, bar code is not used, therefore nothing is
+connected to E port, while it is used for bar code in
+the case of SL-P8.
+
+-19—

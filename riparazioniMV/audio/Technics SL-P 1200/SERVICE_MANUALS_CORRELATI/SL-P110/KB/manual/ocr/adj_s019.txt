@@ -1,0 +1,17 @@
+(7) Disconnect the optical pick-up 17-pin flexible cord from connector CN101 on the main PCB.
+Note: 1. Pull out the connector at the point indicated by the arrow side.
+2: Pull out the flexible cord.
+
+(8) Remove the three optical pick-up fastening screws.
+~(9) Remove the optical pick-up fastening shaft.
+Note: Be careful not to lose or misplace the cushion rubber.
+(10) The optical pick-up has been completely separated with this.
+It is not necessary to remove the traverse unit as before.
+
+If the unit needs to be removed,
+pay attention to the four springs during removing.
+
+@ screw
+
+Cushion rubber
+

@@ -1,0 +1,166 @@
+Icl (c2 1c3
+
+AN78MI5 ig, AN79NI5 AN7805
+
+CN653
+Opin
+CN65S3
+® pin
+
+2SA564A
+
+30 ve MAIOS1
+
+DROPOUT
+
+9
+
+AN79NO5
+
+Iclol
+
+AN78LO5
+
+DIOL
+
+Focus servo Focus offset adj. Focus gain adj
+
+2) (9—~(6)
+
+rep epceoee
+
+C104
+
+AN7678S
+
+PHOTO DETECTOR
+
+Cil4 25V3.3
+
+ow
+
+Tracking balance adj.
+
+.7K(B)
+VRIOS 4. 7KiBR
+
+Tracking servo
+
+SRDPOOINO3
+
+eee
+O-~O~9-6-6-5-0
+
+5 ereen
+
+SRLPOO7NOIA
+
+OPTICAL PICK-UP ASSY
+Tracking offsetadj. | Focus error amp.
+
+IC105
+AN6554S
+
+0.027
+
+Tracking
+error amp.
+
+RI83 100K
+
+Q107,109 o
+
+2S0973A
+
+aioe,1io &
+
+2SB793A
+
+Q105 aol -48
+2SK301 2SD638 (29)
+102,103,104
+
+106
+UN4212 2SB641
+
+Laser power control
+
+(ON SRDPOOINO!
+
+$1 : Power switch
+
+$2 : Voltage selector switch.
+
+(Except for [M] , [MC] areas.)
+$101 : Rest switch.
+(Disc innermost position detection.)
+
+$102 : End switch. (Disc outside detection.)
+
+$103 : Disc holder close detection switch.
+
+$104 : Disc holder open detection switch.
+
+$601 : Disc holder open/close switch.
+
+$602 : Play (start) switch.
+
+$603 : Repeat switch.
+
+$604 : Pause switch.
+
+$605 : Stop switch
+
+S607 : Forward search switch.
+
+$608 : Backward search switch.
+
+$609 : Memory switch.
+
+$610 : Forward skip switch.
+
+$611 : Backward skip switch.
+
+$618 ~S626 : Nemeric switch.
+
+$627 : Index switch.
+
+$628 : Nemeric switch.
+
+This schematic diagram may be modified at any time with
+
+the development of new technology.
+
+The voltage value, and waveforms are the reference voltage
+
+of this unit. measured by DC electronic voltmeter (high
+
+impedance) and oscilloscope on the basis of chassis.
+
+Accordingly, there may arise some error in the voltage
+
+values and waveforms depending upon the _ internal
+
+impedance of the tester or the measuring unit.
+
+*The parenthesized are the values of voltage generated
+during playing. Others are the voltage values in stop
+mode.
+
+Part No. with Wr] mark are not identical between regular
+
+part No. and repair part No. supplied.
+
+So, when placing an order for repair parts, use the part No.
+
+in the replacement part list of repair parts.
+
+: +B voltage lines : Audio signal lines
+: —B voltage lines.
+
+Important safety notice:
+
+Components identified by \ mark have special character-
+
+istics important for safety.
+

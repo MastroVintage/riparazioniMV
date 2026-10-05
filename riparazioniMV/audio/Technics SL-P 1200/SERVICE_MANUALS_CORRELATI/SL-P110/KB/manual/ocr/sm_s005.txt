@@ -1,0 +1,89 @@
+The following explanation is for a disc containing 7 tracks having a total
+
+Pp | ayi n g a d isc playing time of 49 minutes and 58 seconds.
+
+1S min. i 4 min. ‘ 21 min. 58 sec. | 5 min. 4 min.i4 min.’ 6 min.
+
+oe ame ee oe oe oe oe (Auto-return) ome me we ow om ow a oo
+
+(Stop mode)
+
+1 Automatic play (To play a disc from beginning to end.)
+
+power
+
+1 Press a
+
+(-— m).
+(See @ below.)
+
+6 Press
+
+(See @) below.)
+
+3 insert a disc with the label side facing upward.
+
+(See @ below.) play/pause
+
+5 Press [|
+(See ©) below.)
+
+@ Press to briefly interrupt
+play. (See © below.)
+
+™@ Press to resume play.
+(See @ below.)
+
+open/close stop/clear
+2 Press LJ. Press [*] to stop play.
+4 (See ® below.)
+Press.
+
+(See @), @ below.)
+
+@ Display illuminates as shown below:
+
+Oo -88.308
+
+| Cl ee a
+
+©® ©The play indicator (») itiuminates and play begins.
+
+1 Gf:
+
+(om
+
+@ Insert the disc only after the disc holder has opened all the
+
+way. If the disc is inserted too soon, it may be damaged. After the last track has been played the pickup returns to
+Do not tilt the unit while the disc holder is opening or closing the beginning of the first track and the unit switches to the
+since the disc could fall out of the holder. stop mode.
+
+@ Step 4 can be skipped by pressing the play/pause button
+after inserting a disc. In this case, the holder will close and
+disc play will begin immediately from track 1, but the tracks
+and total playing time will not be displayed.
+
+@ If the open/close button is pressed, the display illuminates @® The play indicator (») goes out, the pause indicator (48)
+as shown below. illuminates and the unit switches to the pause mode.
+
+@ The pause mode is cancelled and play is resumed.
+
+Disc information is
+read. @® The pickup will return to the beginning of the first track and
+
+the unit will switch to the stop mode.
+
+Reading of disc
+
+information finished. @® When the end of the disc is reached, the pickup returns to the
+beginning of the first track and the unit switches to the stop
+Stop mode. mode.
+
+#Remove the disc from the disc holder.
+®Turn off the power if the unit is not to be used again for a
+while.
+
+@ Since steps 1, 2, 3, 4and6in this procedure are the same for all play procedures, they are not included in
+the following explanations.
+

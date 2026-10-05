@@ -1,0 +1,46 @@
+4-2. Configuration of display circuit
+
+Time display
+Track Min Sec
+Music No. scale A A A
+
+rt. : age | eee Os ee ee (|
+ie Cc os
+sees eee aes anne silences | t he ti at qa
+TUTTE TEL THOS oi:
+3 ee RIS | MNSRPRIODE x SURO COR GC | |
+Segment
+
+CO1~COG DO0~D06
+
+EOO ~ E03
+MUSIC SCAN co7 “D07
+; coo Operation control
+B de dat 7 Segment
+ar code cata decorder
+PAUSE
+STOP
+coll . . Alo
+REPEAT 5 Display Microcomputer an MN1564PCL
+cos MN 1430G SNS 0
+
+SNS 1
+
+Fig. 20 Display circuit
+
+FL lighting operation
+
+Display digit is decided from C output port of display
+microcomputer, and 7-segment display data is delivered
+
+from D port for the purpose of track and time display.
+
+The music No. bar code is lighted by E00 - E03, C07 and
+DO7. The output of DO7 becomes the "over" mark command
+(over 21 tunes) during the 4th digit display, and the colon
+lighting command of segment display during the 5th digit
+display.
+
+Also, 4 LED's are lighted by the output of C08 - COll.
+
+—20—

@@ -1,0 +1,67 @@
+[5] How to Check Remote and Operation Control System
+
+(1) Main roles of remote and operation control circuit (4) Items to be confirmed before checking
+
+e Setting of each mode
+(Input signal)
+
+@ e D1007 (D1008)............ Check infrared LED ON.
+
+e Remote control of each mode
+e Control! of whole system
+
+(2) Main symptoms (Control signal)
+© No TOC reading @e 1C611 Pin @®-— @.......... Scan pulse “ | ff ”
+
+© No loading operation @ e 1C612 Pin 64 (DECHO) ..... Check by display circuit.
+
+e Abnormal operation of whole system @ © 10612 Pin (BLKCK) .....
+Oe 1C612 Pin @ (CLDCK) ..... Check by digital signal processing circuit.
+(3) Block Diagram @ e 1C612 Pin @ (SUBQ) ......
+@e |C612 Pin 6 (TTCK) ....... Check by pitch control circuit.
+@e 1C612 Pin @ (REST).......
+1e612 © 10612 Pin @ (END) .......
+C5 ‘ay AKRAM Oe 10612 Pin 6) (CLOSE2) ....|Check by Loading mechanism.
+ne oe OSE @ e 1C612 Pin 6 (CLOSE1) ....
+@)-» D OPEN @Me 10612 Pin & (OPEN) ......
+1C611 Operation KICK @ e 10612 Pin @ (RF)......... Check by focus servo circuit.
+ie1001 ic1t01 Or-M Control DICK F/R  @®e 10612 Pin @ (TCNT) ....... Check by RF data pick-out circuit.
+Remot contro! (23 (2) LD ON @e 10612 Pin © (TIMER PLAY). “L” (Switch ON)
+(4)>@1) Decord 26 TR ON ® e 10612 Pin @ (AUTO PAUSE). “L” (Switch ON)
+Contra Receiver microcomputer am REV @ e 10612 Pin 48 (SYNCHRR REC).”L’’ (Synchro Rec mode)
+mitter (2) 60 FWD
+(1) iil EMPH (Output signal)
+
+MUTE
+
+ATSB @ e 10612 Pin (D CLOSE)....
+D CLOCK @ e 1C612 Pin @ (DOPEN)..... fom by loading mechanism.
+D SEND @ e 1C612 Pin @ (KICK) .......
+=) D DATA @ © 1C612 Pin @ (KICK F/R) ... Check tracking servo circuit.
+@  1C612 Pin @ (TRON)......
+
+63B)4DEIENEDEDEICOGD @ e 1C612 Pin@ (LDON)....... Check by focus servo circuit.
+
+TIMER e 10612 Pin 6D (REV)......
+
+i. | i | t | I I I I ® . © Check by traverse servo circuit.
+-«w @e 1C612 Pin @ (F WD).......
+
+: 2 ww sexe 3 @® e 1C612 Pin 68 (EMPH) ....... Check by D/A converter/audio circuit.
+
+PAUSE Sue aazHe ad ® © 1C612 Pin @ (MUTE) ...... a a
+@ 10612 Pin @ (ATSB) ...... ]eneek by digital signal processing circuit.
+
+REC @e 1C612 Pin & (DCLOCK) ..
+
+@® e 10612 Pin 6) (DSEND).....
+
+_ Jeheck by display microcomputer circuit.
+@ e 1C612 Pin 4 (SYNC) a
+
+2V/0.5msec. Div. AC
+
+If all the items mentioned above are satisfied, there is no problem in remote/operation
+control circuit. If not, you must go to the following procedure.
+
+—-3— —10-

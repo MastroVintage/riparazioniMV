@@ -1,0 +1,47 @@
+7—4, RF data pick-out circuit operation (II) .... P.C.B. (Exs)
+
+The actual circuit of RF data pick-out (II) is shown in Fig.
+fT...
+
+RF signal waveform Shaping circuit
+
+IC601 (40H004) serves to shape the waves of RF signal from optical
+PU while amplifying the signal. IC602 serves to check the inte-
+grated value (DC) of wave-shaped RF signal and to feed it back
+
+to IC60l-pin (1) so that the value is always 1/2 Vcc.
+
+If the DC part of IC60l-pin (1) is deflected to higher voltage,
+it will result in pin (3) \ pin (5) 7 pin (13) \y pin (11) 7 pin
+(10) \y, thereby controlling the positive (+) input of IC602.
+Becuase the negative (-) input is constant, the feedback voltage
+to Ic601l-pin (1) serves to make up for the alteration of DC
+voltage of input RF signal.
+
+As a result, the alteration of DC level generated in the course
+of disc manufacture or optical PU is absorbed to restore the
+
+correct digital signal. _—
+40H004
+
+RF signal ©
+
+TP60l O
+
+TP602
+
+Fig. 7—14
+
+PLL circuit (PCK generating circuit)
+
+IC603 (MN4066B) pins (1) - (2) and (3) - (4) are equivalent
+to SWl shown in the block diagram. In normal playback mode,
+playback signal with shaped waveform is obtained at IC604 pin
+(5). (Drop-out detection signal is applied to IC609.)
+
+10604
+len a os ee Oe
+
+Fig. 7-15 Edge pulse generation
+
+— 80 —

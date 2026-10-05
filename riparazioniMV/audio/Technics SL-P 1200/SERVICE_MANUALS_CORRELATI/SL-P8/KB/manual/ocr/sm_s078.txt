@@ -1,0 +1,24 @@
+FOREWORD
+
+This trouble shooting is intended to be used for seminars and selfstudies in Combination with the
+trouble shooting of SL-7. Therefore those Common to SL-P7 are omitted.
+
+Accordingly, main differences from SL-P7 are involved.
+1. Remote Control system and Expanded function of Operation Control.
+2. Pitch Control.
+3. Expansion of Display function.
+
+These trouble shooting are described in 3 chapters, and other related circuit are omitted, So
+refer to the trouble shooting of SL-P7 and adjustment manual of SL-P8.
+
+CONTENTS
+Page
+[1] Outlines of Trouble Shooting........ 0 cece eee eee eee eee eee eet eens 1
+[2] Circuit Configuration... 0.2.0.0. c eect eeee eee eee eee e eens 2
+[3] Block Diagram of Signal Line and Main roles. ........ 0. cece eee eee eee ees 4
+[4] How to check Power Supply Circuit (Firstable check the Power supply
+circuit before check the other circuit)... ...0.0 00. ee eee eee ee eens 6
+[5] How to Check Remote and Operation Control System ...... 0.0.0. e eee eee 9
+[6] How to Check Pitch Control Circuit ...... 0.0. cece eee ees 15
+
+[7] How to Check Display Circuit... 1... 0... cece eee eee eee 23

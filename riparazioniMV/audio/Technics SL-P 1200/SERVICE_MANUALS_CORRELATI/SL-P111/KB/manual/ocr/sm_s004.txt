@@ -1,0 +1,79 @@
+© Power supply circuit
+© For [M] and [MC] areas
+
+i A A
+(sont), Aci20v
+(60Hz)
+A
+AC OUTLET
+POWER _ SUPPLY POWER SUPPLY
+¢ For [E], [EG], [EB], [EH], [EF], [Ei] and
+[XL] areas
+Af Asi
+-- tLe TI25mA = ( POWER) A
+
+AC220V, 240V
+
+QOOCOO®
+
+(50Hz)
+POWER SUPPLY
+© For [EK] area
+Bri Ac.) Arce! Arms Aster! A
+AC 240V
+(50Hz)
+POWER SUPPLY
+© For [XA], [XB], [PA], [PE] and [PC] areas
+AF Asi
+TI25mA (POWER) A
+ACIIOV,127V
+
+220V,240Vv
+(S0/60Hz)
+
+(VOLTAGE
+SELECTOR)
+
+QQeYOO©L®@
+
+POWER SUPPLY
+
+@ CIRCUIT BOARDS
+¢ POWER SOURCE P.C.B.
+
+© For [M]} and [MC] areas
+
+AC IN
+
+(l2OV__60Hz)
+
+POWER TRANSFORMER
+
+To CN11
+
+POWER
+° For {E], [EG], [EB], [EH], [EF]. [Ei] and veo
+[XL] areas
+
+* | POWER TRANSFORMER
+
+To CN11
+
+POWER
+
+(240V, 50Hz)
+
+e For [EK] area
+
+To CN11
+
+127V) 220V
+
+To CN11
+
+—
+
+SUPD 1460
+
+Printed in Japan
+870312000@TK

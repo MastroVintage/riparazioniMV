@@ -1,0 +1,50 @@
+[6] How to Check Pitch Control Circuit
+
+(1) Main roles of pitch control circuit (4) Items to be confirmed before checking
+e It delivers clock (4.32 MHz) output for system control (OSC1). Input signal
+e It delivers reference timing clock for SMCK. e 10412 pin @ (system clock) ...... 00. cece eee cece eee eees 8.64 MHz.
+
+e |t controls data demodulating PCK signal and CLV servo (11T circuit).
+
+Output signal
+(2) Main symptoms e 1C412 pin © (master colck for SMCK)
+
+e No TOC reading © 10407 pin © (clock for system control)
+e@ No loading operation
+
+eee eens 8.64 MHz
+
+(3) Block diagram
+e 0551 © (CLV servo (11T circuit) control signal) .......
+
+10418 10416
+
+2V/50usec. Div. AC
+
+Pitch
+control 1C417
+540K A, 1/8 1/2 16 p
+(1) (5) frequency (1) Frequency (118) frequency (13) 0 © 1C402 pin © (PLL circuit, PCK generation) control signal ..... About DC 3 V
+Division Division 540K] Division O
+£ +6%
+Variable : . oe . . .
+Reference lf all the above-mentioned items are satisfied, there is no problem in pitch control
+lock for . . .
+Clock for 4.32 MHz system circuit. If not, you must go to the following procedure.
+System micon. : clock
+4.32 MHz
+1C402 1C415
+
+PLL Circuit Operation
+ircul point
+(PCK) (6) (7) deter (6)
+mination 1C405 1C414 1C414
+
+1/2 1/2
+(5) (9) (8) Frequency! 1 (6) Frequency 3
+Division Division
+1C552 1C415
+CLV Servo vil Reference clock for SMCK
+(11T) (3) (1) Converter (3) (8.64 MHz)
+
+—15— — 16 —-—

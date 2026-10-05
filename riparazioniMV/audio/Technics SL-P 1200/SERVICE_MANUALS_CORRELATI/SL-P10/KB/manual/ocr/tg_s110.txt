@@ -1,0 +1,77 @@
+System microcomputer and various timing signals
+
+The system microcomputer delivers various timing signals
+according to the modes. The relations with modes are shown
+in Table 11-5.
+
+J F/R JAMP TIMING
+Remarks
+& 2
+L Inner and outer peripheries are
+— changed over at 40-min position.
+a Manual search low speed mode is a
+H as ae 2 state with FWD search key depressed
+|i step during PLAY.
+(Upper part of AMIN + 4)
+Read 2 kick forward
+Only search key is depressed
+iby 1 step.
+|® Search key is depressed 2 steps
+during PLAY.
+L ® Only search key is depressed 2
+steps.
+—— | Random access (rough search)
+: Jump pulse " 7 >
+sos | 1 kick back at deviation zero
+| crossing point
+1 turn 1 kick back
+
+Jump pulse
+
+(Upper part of AMIN + 4)
+
+Read 3 kick back
+
+T-cnTcOtraver) | p/Tr ON FO ON TR ON
+‘o. - a se micon
+No raverse mode ele @ @ ® @ ®
+1 STOP BE | i | bf} b E, L L
+| me
+2 PLAY(innerperiphery)! L | L | Lj) H
+PLAY
+3 (outer periphery) L)L)uy Lk
+| Low speed
+4 FWD (inner) | 1, H | H H H H
+Manual | paxtphary)
+search "Low speed
+5 'FWD (outer L|H!bLiLb
+jpertphery)
+6 Low speed FWD L |} Hi} LY H 5 a L
+Manual search PLY + FWDe2°-''- YH”
+7 | ; L H H L FWD neg vases °° JUL
+| High speed FWD FWDoccee +77
+8 | Extra-high speed Fwo}] L | H|Hj,H L
+9 PAUSE A | ii ki b
+Low speed H H
+10 |REV (inner) y/ LL} H| #H H
+Mxwaal periphery)
+search Low speed
+11 REV (outer HII I
+| periphery) oy
+12 Low speed REV H;Hj]LI{H i Ts L
+Manual search PLY + REVo--- ELS ia
+13 High speed REV Hy} AH) HYL REVaccereceerseeees ie 0m
+uV2 REVoccrr ~
+| | Zo vate tases si?
+14 | Extra-high speed REV| HH} H{|H1{H — = | LE
+
+Table 11-5 System timing signal
+
+= 12 =
+
+Random access (fine search)
+
+i © Random access (rough search)
+° EJECT return
+
+— 133 —

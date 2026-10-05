@@ -1,0 +1,30 @@
+Suppose that the rotor magnet and stator core are as shown
+in Fig. 5-8.
+
+Then in tl timing of 4-phase pulse, exciting current "ic"
+and "iD" flows into stator coils gC and gD. Suppose that
+stator coils (Al) and (Bl) are excited in S pole due to
+ic and iD, then the rotor magnet rotates 45° clockwise.
+
+Next, iD and iA flow in t2 timing. S pole remains at (B1)
+due to iD, but N pole is excited at (Al) due to iA.
+
+In other words, S pole is excited at (A2). Accordingly,
+the rotor magnet rotates 45° clockwise in t2 timing.
+Current iA and iB flow in t3 timing.
+
+S pole remains at (A2) due to iA, and S pole is excited
+at (B2) due to iB, and further the rotor magnet rotates
+45° in the same direction. (In this timing, Mgl comes to
+the position of Mg2.)
+
+Similarly, the rotor magnet rotates 45° in t4 timing, and
+after that, it repeats rotating 45° each time the drive
+pulse changes, and the motor makes one turn in 8 steps.
+
+Since an actual stepping motor is 12-pole 24 slots, the
+rotation angle per step is 15°. The stepping motor cir-
+cuit and EO port output waveform of MN1400 are shown in
+Eiige 2—-Os
+
+—54—

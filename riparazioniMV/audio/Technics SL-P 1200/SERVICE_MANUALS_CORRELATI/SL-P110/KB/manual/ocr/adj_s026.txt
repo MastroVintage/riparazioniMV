@@ -1,0 +1,76 @@
+SL-P116°
+
+oa
+
+11. SCHEMATIC DIAGRAMS OF SERVO GAIN ADJUSTER
+
+(SZZP1017F)
+
+R1 10K
+Osc ©
+
+R3 10K
+INPUTO
+
+R2
+10K
+
+© TP 1
+
+Ref. No.
+
+R4 +) 12V
+NK ee b 72 SOV 10u
+MT
+: 10K
+3 Tc ; O OUTPUT
+8S AN6552 4 ee
+4.7K Re x O TP2
+
+C2
+yo
+c
+(-) 12V
+
+d mz 50V 10u
+
+(Circuit Protection)
+
+Part No.
+
+Ic
+
+AN6552
+
+R 1,2,3,4,6,7,9
+
+|
+
+ERDS2TJ103
+
+R 5,8
+
+ERDS2TJ472
+
+Cc 1,2
+
+ECKD1H103ZF
+
+Cc
+
+ECEATHU100
+
+Connector
+
+SSDJB13BXHA
+
+Lead Wire
+
+(180,600mm)
+
+3 Wire with
+
+abcd _ (Diode)
+
+Printed in Japan
+860611000 ® KM

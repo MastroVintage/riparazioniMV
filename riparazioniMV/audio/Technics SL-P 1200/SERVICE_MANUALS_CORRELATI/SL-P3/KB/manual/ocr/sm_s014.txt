@@ -1,0 +1,128 @@
+WN @
+
+How to remove the turntable
+
+. Remove the traverse unit.
+. Remove the spindle motor drive coil P.C.B.
+. Remove the C ring which fastens the magnet shaft of
+
+spindle motor, [Fig. 22]
+
+. Remove the screw [Fig. 22: @)] by use of a hexagonal
+
+wrench, then the turntable can be removed.
+
+*If the turntable is removed, it is necessary to re-adjust
+the height of turntable.
+
+WH 6
+
+5.
+
+How to remove the laser pickup
+
+. Remove the traverse unit.
+. Remove the optical servo P.C.B.
+. Pull out the connectors (CN101, CN102) of optical
+
+servo P.C.B.
+
+. Remove the bracket setscrew [Fig. 21: @)] of pickup
+
+to remove the bracket.
+Remove the guide rail retainer setscrew [Fig. 22 : @ |
+and pull out the laser pickup from the two guide rails.
+
+*The pickup must be re-adjusted when it is replaced or
+fitted after removal.
+
+How to remove the bottom cover of remote
+control unit
+
+. Remove the battery cover in the direction of the arrow
+
+and take out the batteries.
+
+. Remove the bottom cover setscrew. (Fig. 23: @)
+. Insert a screwdriver between bottom and top covers to
+
+release them little by little.
+
+. Releasing the periphery of cover in a similar manner,
+
+remove the bottom cover. (Portions 1 ~ 4)
+
+m@ HOW TO REPLACE IC’S (Small outline type)
+
+Shaft cover
+
+Spring
+
+Turntable
+
+Laser Pick-up
+
+[ Replacing procedure
+
+|
+
+Cautions
+
+——r
+
+1 Reduce the amount of solder on each
+pin of the integrated circuit by use of
+a solder sucker.
+
+Solder
+sucker
+
+Spare
+chip
+
+2 | Melt the solder on the pin (one
+electrode) with the soldering iron.
+
+el
+
+. Completely remove the solder
+
+. Raise each pin by means of
+
+i |
+3 While the solder is melting, shift the
+pin upward by the soldering iron to
+remove it from the foil.
+AWS
+— —
+4 Remove each pin from the foil
+
+according to the above-mentioned
+procedure.
+
+Recommended tool
+dececeeeees Special soldering iron
+(with spare chip) HM-354
+
+Do not touch the soldering iron to
+the area for a long time. It may
+otherwise cause removal of the print
+foil.
+
+When shifting the pin upward, do
+the job quickly while the solder
+
+is melting. If the solder is hard, it
+may cause removal or breakage of
+the print foil.
+
+When using a pencil type solder-
+ing iron.
+
+from each IC pin by use of
+solder sucker.
+
+an eyeleteer, hold the pliers
+then remove IC package from
+P.C.B.
+

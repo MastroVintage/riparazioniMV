@@ -1,0 +1,76 @@
+Focus mad
+
+off set adj.
+VR 101
+-5V Focus gain >
+
+o Actuator
+adg ° FEO
+sv iC 108 I ‘? i
+ht ® ih, rE @
+VR 106 Focus error
+Tracking
+@ off set adj. amp. sv -10.7
+-5V VRI04 Actuator drive
+
+Tracking servo Tracking
+
+gain adj.
+
+c Lt
+
+play
+“vere Tt
+
+Waveform shaping \
+
+RF signal
+wave form
+shaping
+
+search 5
+VRIOS 1a] 22] 19) | | | | }
+Tracki
+Sv balance adj. 5V play 4Vp-p
+Actuator drive
+. 9.4V
+Tracking \, aioe
+cl Remote control contro | cos \
+AN6030 transmitter \ us
+i
+
+TE® 0.23ys
+
+(4.32MHz)
+
+TEO LSI
+Module
+
+ps
+
+6
+
+search
+
+|
+
+Key switch
+ro
+
+play i3ms
+
+\
+\
+
+IC601
+
+MNI402 Play /search
+
+-— IN
+
+Traverse
+motor
+
+Traverse servo
+
+45

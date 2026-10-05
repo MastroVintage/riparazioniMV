@@ -1,0 +1,224 @@
+Touches opérationnelles: Touches de base—9
+
+Espafiol
+
+Sélection d’une piste,
+Sélection d’un repére.
+Affichage numérique:
+Nombre total des pistes,
+Durée d’audition totale (min., sec.),
+Piste en train d’étre jouée,
+Durée d’audition écoulée
+(min., sec.),
+
+N° du repére,
+
+Durée d’audition restante.
+Affichage a barres:
+
+Nos des pistes,
+
+Piste en train d’étre jouée,
+Nos des pistes restantes,
+Pistes programmées.
+
+Niveau de sortie du
+casque écouteur:
+
+Fonctions de la
+
+Touches de programmation—12
+Touche de repérage—1
+
+Touche d’exploration musicale—1
+Touche de rappel—1
+
+Touche de répétition—1
+
+Touche de répétition A- B—1
+Touche de durée restante—1
+Touches de régiage du volume—2
+
+Dimensions (LXHXP):
+Piles:
+
+Chargement du disque:
+
+Sélecteur d’audition sur
+programmateur/intermission
+automatique/pose-relevage
+automatique—1
+
+Réglage du volume du casque
+écouteur—1
+
+Type horizontal a commande par
+moteur
+
+Max. de 80 mW (régiable), 329
+
+Unité de la commande a distance a infrarouge
+
+commande a distance: Touches de base—6
+
+Touches de programmation—12
+Touche d’exploration musicale— 1
+Touche de répétition—1
+
+Touche de répétition A-B—1
+Touche de rappel—1
+§,6X13,5x1,5cm
+
+Piles UM-4 “AAA” ou IEC RO3 ou
+leur équivalent (1,5 Vx 2)
+
+m En general
+Fuente de alimentactén:
+Consumo de corriente:
+Tensidn de salida:
+Impedancia de salida:
+Impedancia de carga:
+OlImensiones
+
+(An. x Prof. x Al.):
+
+Peso:
+
+@ Audio
+
+Cantidad de canales:
+
+Respuesta de
+frecuencia:
+
+Gama dinamica:
+
+Relacién de sefial
+aruldo:
+
+Distorsién arménica
+total:
+
+Separacidén de canales:
+
+Utulaciones y trémolo:
+
+Sistema de correcci6n:
+
+Conversién numérica-
+analdgica:
+
+@ Fonocaptor
+Tipo:
+
+Fuente de luz:
+Longitud de onda:
+
+@ Funciones
+Ventajas:
+
+ESPECIFICACIONES
+
+110-120/220-240 V, 50/60 Hz
+33 vatios
+
+2 voitios (a 0 dB)
+
+3300
+
+mas de 5kQ
+
+43x33,4x8,2cm
+
+Cuando e! compartimiento del cisco)
+(ee abierto: 45,9 cm (prof.)
+
+5,3kg
+
+2 (derecho e izquierdo, estéreo)
+
+4-20.000 Hz +0,5 dB
+
+mas de 96 dB Botones de operacion:
+
+mas de 96 dB
+menos de 0,003% (1 kHz, 0 dB)
+
+mas de 90 dB
+Inferior a limite medible
+
+M@ Formato de las senales
+Frecuencia de muestreo: 44,1 kHz
+
+Algoritmo superdescodificador
+Technics
+
+Lineal de 16 bitios
+Carga del disco:
+
+Nivel de salida
+
+Astigmatico de 3 haces
+de los auriculares:
+
+Laser de semiconductor
+800 nm
+
+Busqueda manual,
+salto de piezas,
+salto de indices, exploracion de
+musica
+
+Seleccién de piezas,
+
+Las especificaciones quedan sujetas a cambios sin aviso previo.
+El peso y las dimensiones indicados son apromimados.
+
+seleccion de indices
+Exhibicion numérica:
+Cantidad total de piezas,
+tiempo total (minutos, segundos) de
+ejecucion, pieza que se esta
+tocando,
+
+tiempo de ejecucidén (minutos,
+segundos) transcurrido,
+
+num. de indice,
+
+tiempo de ejecucién remanente
+Exhibicion en barres:
+
+Num. de piezas,
+
+pieza que se esta tocando,
+num. de piezas remanentes,
+piezas programadas
+
+Botones basicos—9
+
+Botones de programas—12
+
+Boton de indice—1
+
+Botoén de exploracién de musica —1
+Botén de tlamada—1
+
+Botén de repetici6n—1
+
+Botoén de repeticién A-B—1
+
+Botén de tiempo remanente—t
+Botones de reglaje de volume: —2
+Selector de ejecucién por
+temporizador/pausa automatita/
+entrada automatica—1
+
+Control de volumen de
+auriculares—1
+
+Tipo horizontal con accionamieno
+por motor
+
+Max. 80 mW (regulable), 320
+

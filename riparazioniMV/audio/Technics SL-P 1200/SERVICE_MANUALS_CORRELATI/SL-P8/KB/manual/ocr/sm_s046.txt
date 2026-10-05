@@ -1,0 +1,107 @@
+on
+
+5v
+1C413 ($652) UA
+itch t t
+Clock select Piten selector <
+
+i) c on “io4 . Put a so cloth t
+CR .
+aan 1c4le it from scrathes.
+ANGGB2 2. Turn the lock shaft
+Pitch control 3. Turn the lock scre
+clockwise.
+540kHz 1
+15V
+2
+5 cR
+e 5v Lock screws
+(178)
+ia
+LOOK
+IC4I7 ‘ : SCRE
+A
+Penn "8
+CR
+13) x 12
+o
+ic4ie | tcai7
+x=
+=
+Tv
+I = o
+VR403 E oO
+Reference re [] + T Phase 5v
+trq.adj. =
+moon comporotor|
+Pitch control 3 ~ 4 ica, L.P.F 1c419
+S652 ON 8.64MH: +6% 1c413 13
+/ S652 OFF 8.64MHz s 3 7 @i(Gunam
+12
+4 eee (A)
+(i) Bo 0655
+ey
+L tf
+a Let a?
+
+1c703
+MN66I6 MN66I5
+
+CIRC Control
+
+. Reference clock
+Error correction
+
+1cBol
+AN6806 D/A Converter 8.64MHz P7
+
+I1/V Converter Deglitch ikHz,OdB(L+R)
+
+1\5'
+Buffer / '
+
+1C 803
+
+Low pass filter Equalizer Phase shifter
+
+1C807
+
+vResi
+3 MSB adj.
+
+MSB Correction
+
+Hy 1 ! __ 2 H 1
+5 IC614 \ is! a |e Je ; 1cB06 ce | r if
+: cs SS Anr b-et : |
+\ 22.7 us (44.1k iz) “Teso6 1c804 r TV, LL _ a = |
+lI I II . uf 5 Equalizer
+at” i Las |
+Muting relay drive | > Phones
+. 5V | ~
+if
+1c@s!
+a82
+- Lan |
+r Ic10o0 1c704 ~~ ~ nn a 1s >
+t 1 _ .
+Gain od) AN6030 MN4316-20 “ev sit Phones 4. Plase the unit (w
+: Remote control a amplifier illustrated.
+i >
+RUO3 al ranemuees | 5. Fold the flaps ac
+Battery | .
+lav dg > = 3y i 6. Seal the top with z
++ @@ GD =
+® 0077 D108] aico! Use gum tape
+DIIOI Ch 50mm wide at
+3 .
+ty a1002 Y 7. For the edges, fi
+4
+® then flap “b’’, a
+DI009 \v 4
+1 CH staple only flap
+staple)
+aa L
+
+Remote control key switch
+

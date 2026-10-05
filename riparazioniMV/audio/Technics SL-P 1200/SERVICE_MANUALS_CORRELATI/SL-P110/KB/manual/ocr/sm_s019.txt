@@ -1,0 +1,158 @@
+@ TERMINAL FUNCTION OF LSI
+¢ MN15261PDF (System Control and FL Drive)
+
+ie)
+Devision
+| GNDterminal = Optical servo IC control signal
+CNT3 (KICKF: Kick direction
+[Forward] command)
+CNT2 Optical servo IC control signal
+(TRON: Tracking servo)
+CNTI Optical servo IC control signal
+(FOON: Focus servo)
+Key input strobe and
+START processing status input from
+signal processing LSI traverse
+position detection.
+}benn | o | Data (end signal) signal
+Optical servo condition
+(focus) input
+Optical servo condition
+(track cross) input
+
+GND terminal
+
+Not used (Open)
+Optical servo condition input
+
+Spindle motor control signal
+(ON-OFF command)
+
+Synchro recording control
+(Not used)
+
+(Not used)
+
+Reset signal input
+(reset at “L’”)
+
+Sub-code block (Q data)
+clock (75Hz) input
+
+Sub-code frame clock
+-(7.35kHz)
+
+Sub-code Q data input
+Traverse servo control signal
+
+27
+
+39
+52
+
+M DATA
+
+MCLK
+MLD
+
+Loading motor close
+
+OSE command (ON at “L”)
+
+Loading motor open
+command (ON at “L”)
+
+Clock signal output
+Data start signal
+
+FL drive power supply
+
+(connected to —32V)
+
+FL grid signal and key
+scan signal
+
+BLKCK
+
+DAC
+
+<
+a)
+Uv
+
+PLL Aad? [3 2/3)9/8)2/ 8 Piel
+
+&
+4
+
+a l|elz
+AE
+a/%
+
+4
+a)
+fo)
+
+FL anode signal
+
+age *|F *
+
+Trarae roe commen
+signal
+
+Traverse forward command
+
+signal
+
+<
+~]
+o
+
+Power supply
+(connected to +5)
+
+Optical servo IC contro} signal
+(KICKR: Kick direction
+[Reverse] command)
+
+pe [ele lele}el sds s) =] s fe] =| sel] -fefe] + [+l] laa
+
+Bue
+DU
+
+¢ MN1550PDT (Remote Control Signal Processing)
+
+Power supply
+(connected to +5V)
+Reset signal input
+
+Remote control signal input
+
+Program enabie/de-enable
+control
+
+Clock output
+
+P10
+i Data
+P13
+Key strobe
+
+GND terminal
+
+on
+<
+z
+QO
+
+a~s
+
+~_
+“TS
+
+<
+n
+7)
+
+BSoodode
+PPE le

@@ -1,0 +1,37 @@
+2-1. Servo gain adjuster and its connection
+
+Oscilloscope
+
+(+12V)
+
+Chassis
+Green
+
+Blue
+
+Red wire
+
+(SZZP1032F) Yellow wire
+
+S
+
+Low frequency
+
+Orange wire oscillator
+Main P.C.B. OOOO
+CN102
+. GND OSC IN
+Brown wire
+(Note)
+CN102 of the main PCB is provided with
+a short circuiting connector.
+Remove the CN102 connector and install
+the conversion connector (SZZP1032F)
+for adjustment.
+On completion of adjustment, must return . .
+the short-circuiting connector to its place. Servo Gain Adjuster
+Caution:
+
+(1) Do not look into the lens when power is applied to the unit, since there is laser radiation
+(H.H.S./D.H.W. /etc., regulation).
+(2) These steps must be followed in order.

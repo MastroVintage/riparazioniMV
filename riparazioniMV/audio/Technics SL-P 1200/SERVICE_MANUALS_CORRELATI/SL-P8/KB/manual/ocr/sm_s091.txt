@@ -1,0 +1,61 @@
+[7] How to Check Display Circuit
+
+(1) Main roles of display circuit
+e It serves to display music No., track, and time.
+(Input signal)
+
+4.8V
+® in 62 (DSEND) .. 2... ce ee eee teens | |
+(2) Main symptoms 1) 1C612 Pin (D SEND)
+
+e No display at all.
+e Abnormal display. sev
+@ ® 10612 Pin 63 (DCLOCK) ..... ccc ccc cece cece eens Hl Ill
+0
+4.8V BV
+Time display TEL IAS |
+0 0
+
+Track Min Sec. ® © 10612 Pin G@ — 6 (PBO — PB3) ... eee cece cece eee eeeueues
+
+Music No. scale —_— Reon OR far
+) 0
+
+h 10G 9G 8G
+
+(4) Items to be confirmed before checking
+
+(3) Block diagram
+
+(Output signal)
+
+VL 1 =[ 1 14V
+
+reilerentenenell ene © © 1CG651 Pin @ (DECHO) .. 0... ccc cece eee ene nes yy ;
+ett
+
+ATUTNATIIE; HIT
+
+© e 1C651 Pin @ — 6?
+
+10V/2msec. Div. AC
+
+Ag) @ © ICG51 Pin D—@ oo. eee e cece ccc ee eecueeeeeeeceeues
+wy decorder (55)
+
+t- anlae
+D653 (Pouse/Stop oyster 10V/1msec. Div.
+@ > ———————
+D654 (Play) Display Mi t
+scant isplay Microcomputer e © C651 Pin @ _ 8
+SS
+1C651 1C612 10V/2msec. Div. AC
+@e IC651Pin®@ (0... cece eee en ee nee H (Play Mode)
+Oe 1C651Pin®@ .... eee H (Pause/stop Mode)
+@ oe IC651 Pin ®@ 2... cece cece cece eeeuneneas H (Repeat Mode)
+@Me IC651Pin@ oo. eee eee H (Music Scan Mode)
+
+If all the above-mentioned items are satisfied, there is no Problem in Display circuit.
+If not, you must go to the following procedure.
+
+—23- —24—

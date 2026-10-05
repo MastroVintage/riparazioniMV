@@ -1,0 +1,86 @@
+Replacement Procedure
+
+1. Mount the traverse unit on the traverse unit base, and
+
+make sure mounting screw is tight.
+
+. Position the assembly as shown in Fig. 1.
+
+3. Remove the optical bracket and screw from the optical
+pick-up body as shown in Fig. 2.
+
+Note: A) Be careful when removing the screw, the spring
+
+can snap out very fast and be lost.
+
+B) Also note the position of the spring so that
+when ready to re-assembly it, you will remember
+its position.
+
+4. Remove the shaft clamp mounting screw as shown in
+Fig. 3.
+
+5. Remove the two suspension shafts by lifting and pulling
+to the left. Optical pick-up body can be separated from
+the deck as shown in Fig. 3.
+
+6. Before proceeding to replace the optical pick-up, observe
+the following precautions:
+
+A) The laser diode can be destroyed if P1017 remains
+open too long (about 20 seconds).
+
+Do not remove the shorting pin from P101 until
+
+you are ready to connect it to 03 module CN101 as
+
+shown in Fig. 4.
+
+B) Be certain that rest detection switch (S101) and end
+detection switch (S102) have not been bent. If they
+
+have, traverse motor will remain on. (Fig. 5)
+
+7. Reassemble the optical pick-up to the traverse unit by
+following step 6 through 1 in reverse procedure,
+
+N
+
+_.——- Clamp mounting screw
+Optical pick-up body
+
+or / Turntable
+
+Suspension shaft
+
+[Fig. 3]
+
+* For servicing of traverse unit, refer to page 1.
+
+Traverse Optical servo P.C.B.
+unit base (03 P.C.B.)
+
+Fig. 1
+
+Focus fens
+
+Sprin
+pring Optical pick-up body
+
+Bracket
+
+$102
+
+$101
+
+Traverse
+motor
+
+CO) Prndue
+
+(Spindle motor drive coil module)
+
+Bottom view of traverse unit
+
+Fig. 5
+—20—

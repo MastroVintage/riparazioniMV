@@ -1,0 +1,80 @@
+Focus
+
+‘off set adj.
+VR 101
+-5V Focus gain iol, >
+
+adg. 8
+Sv IC 105 I
+
+136ys
+Actuator (7.35 kHz)
+
+FE ©
+
+FE
+VRIO6 Focus error ®
+Tracking
+
+off set adj. amp. -9.5V
+
+VRIO4 5Vv
+
+| Tracking 403
+gain adj.
+
+~5V
+
+Cc
+
+Tracking servo Actuator drive
+
+136ys
+(7.35kHz)
+
+play
+4Vp-p
+
+IC301
+Waveform shaping
+
+RF signal
+wave form
+
+\ search
+
+Tracking
+
+5V balance adj.
+
+play 4Vp-p 1C505
+
+Actuator drive
+9.5V
+
+Tracking
+control
+
+Icl05
+
+0.23 ys
+(4.32MHz)
+
+Tracking error amp. Tt 106
+
+-15V
+
+Loading
+motor
+
+Key switch
+ro
+
+play !3ms
+
+a liz , Lz Ti | Li
+
+Traverse
+motor
+
+Traverse servo

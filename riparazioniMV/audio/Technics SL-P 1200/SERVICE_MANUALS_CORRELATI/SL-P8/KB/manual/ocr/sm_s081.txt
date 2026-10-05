@@ -1,0 +1,47 @@
+[3] Block Diagram of Signal Line and Main roles
+
+| ras 1 eee 7 Te “
+Audio ! 1 I I
+Optical Pick-up -oL
+p I Focus Servo RF Data Pick-up > LINE OUT
+I
+| | | 1 1 i
+Da es ee ee oe I LNT —_! De
+Quartz
+Oe Y re -—- "4
+I t
+I I I Pitch Control (Purpose of this circuit).
+king Servo ! Drop-Out Detection oo | Quartz OSC. |
+i Tracking I rop = CLV Servo The pitch contro! of SL-P8 uses the master clack of l 8.64 MHz |
+| J \ I I the whole system as a fixed output, and takes out I I
+.— —— --——-— a J Low 4 +6% Variable output by Putting the output into the Lo d
+Display frequency Variable circuit. The clock selector is
+usually OFF and maintains a constant speed with
+ras TI the quartz oscillation output of master clock
+| Spindle Motor with pitch control ON £6%° Variable output is ap-
+roce coe j pone ee J plied to SMCK reference timing clock, data demo-
+| | | | dulation PCK Signal and spindle motor rough servo
+l . | | | circuits thereby performing smooth pitch control.
+| Loading Mechanism | Traverse Servo 1
+| | e@ Main symptons
+[ | t J * No roading operation
+SSS --o -—— * No pitch control operation
+| L * No reading of TOC
+ee ee me
+Traverse Motor
+Le ——_
+Remote Control System (Purpose of this circuit)
+In SL-P8, Play, Stop and other operations can be
+controlled by use of an infrared remote controller.
+However, remote control is not possible for Power  Tieianeaeninenaneieatemiententeememtedts.  iaatententenbenteetenton 7
+ON/OFF, AUTO PAUSE, and TIMER PLAY. | |
+Remorte Control @ Main symptons. . Operation Control I I Display l
+Transmitter No loading operation j
+No reading of TOC { I |
+Abnormal operation of whole system Le mee as -——_—o 4 Lo -!
+| iene — oe ng
+1 l
+} Control Keys
+to J
+PT a 7
+[ | Mark founctions are informend the SL-P7 trouble shooting manuals,

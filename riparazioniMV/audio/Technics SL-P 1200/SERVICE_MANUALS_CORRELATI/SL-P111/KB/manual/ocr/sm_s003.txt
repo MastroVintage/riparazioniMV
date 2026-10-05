@@ -1,0 +1,155 @@
+CHANGES
+
+@ REPLACEMENT PARTS LIST
+
+Note: Mentioned in this parts list are only those parts different from Model No. SL-P117 for each destination.
+Other parts are the same as for Model No. SL-P117 for each destination.
+
+Change of Part No. _
+
+[CABINET AND CHASSIS]
+
+Poa) SGPLPTI7Z-KM | SGPLPIII-KM | CHASSIS. |
+Pew) LP TKEK CT CHASSIS Addition _|
+PoieG) a ttKEG | CHASSIS. | dition _|
+PT (EBEHEF.E) [Cd SGPLPOIV-KEB [CHASSIS Addition |
+| T(PAPEPC) OTC SGPLPTTT-KPA | CHASSIS. | Addition _|
+Pay a tttcxA CHASSIS Addition |
+Poppy saeitickxe | CHASSIS. | Addition _|
+[ a(Mc) ST SGPLPTI7-KM | SGPLPIII-KMC | CHASSIS, |
+P2my CA stg AC SOCKET sition _|
+*fehPoxave.Pepay & ee nc
+(EH, PC, XA, XB, PE, PA)
+| 9 CC SBC -1 [spcess-s | BUTTONPOWER |
+Pas GLP HI7-KM | SGYLPINI-KM | FRONTPANEL |
+Pao usogzia CC AC OUTLETCOVER __| Deletion
+P3ooC‘dE SvpB PCC AC OUTLET | eeletion _|
+
+[LOADING MECHANICAL]
+
+SIRLP117-KM1 | SIRLP111-KM1_— | DISC HOLDER [|
+131-2 Pp —‘“T SSI SHEET
+
+[I.C. PROTECTORS]
+IC 1. 2 (EK)
+ICP101
+
+|.C. PROTECTORS iti
+|.C. PROTECTORS iti
+
+SRUDPFO6F6 FUSE Addition
+SRUDPTO8F6 FUSE Addition
+
+XBA2C012TBO FUSE Addition
+
+>|>
+aja
+alia
+s\=
+fou Ke)
+3s]5
+
+FP11 (EK)
+
+-
+z
+a
+x)
+mn
+A
+Ray
+
+i
+
+Fl (E, EG, EB, EH)
+
+(EF, Ei, EB, XL)
+F1 (XB, XA, PA) A XBA2C025TBO FUSE Addition
+(PE, PC)
+
+[COILS AND TRANSFORMERS]
+
+T(E, EG, EB, EH) SLTD5K028SE POWER TRANSFORMER Addition
+ere) 7 ec
+[tT (Lek) CAAT SkTDSKO29sG | POWERTRANSFORMER | Addition _|
+[T1 (XB,XA,PA,PE,PC) A[ —~ sd SLTDSKO30SX_ | POWERTRANSFORMER | Addition _|
+
+[$2 (XB,PA,PE,PC,XA) AT —— sd mta7-1 | SW.VOLTAGESELECT | Addition _|
+farm) Cd QUIT SQUDI89 | INSTRUCTIONMANUAL |
+SQULP117-KMC | SQULP111-KMC | INSTRUCTIONMANUAL |
+PAV(E,EB,EH) | CSE SQULPHHI-KE | INSTRUCTIONMANUAL__| Addition _|
+PAN(EK) EC Sut INSTRUCTIONMANUAL | Addition _|
+fAN(eG) CE Cd QUT INSTRUCTIONMANUAL | Addition _|
+PAN(EF) | SUD INSTRUCTIONMANUAL __|_ Addition _|
+TAME) OE Sut INSTRUCTIONMANUAL | Addition _|
+PAUL XA) | Cd SQUID INSTRUCTIONMANUAL___| Addition _|
+PAI(PA,PE,PC) | | SQULLP 111-KPA
+Ar) Cd SQULPTTA-KPBO | INSTRUCTIONMANUAL | Addition _|
+paz xy) A oat ACCORD dition _|
+[a2 (E,EG,EB,EHEFE) Al —— | SUAtTA ACCORD Addition _|
+pa (xB) CAC Stag ACCORD Adcition _|
+[a2 (XA,PA,PE,PC) AT —— sd Suto ACCORD Addition
+paz (EK) CAT CC CSCSCi‘i SDACOSGOR_=— | ACCORD, Adition _ |
+[Aa (XB,XA,PA,PE,PC) AT —— st Suponts | ADAPTOR =| Addition
+
+fPi(M)—ss—=—<“‘;S™™™~C~«drt SPNDIQR CC“ ;:S~*~“‘CCS)S*L SPN = CARTONBOX CT
+P1 (E, EG, EB, EH, Ei, EK) CARTON BOX Addition
+(XL, XA, XB, PA, PE, PC)
+fPi(Mc)——s—“~;*™*™*™CS SPN «= :C“‘CSNS:#S(L SPNDBQ) =| CARTONBOX CTC
+PPu(eF)C™—~—“—sCsYSC“‘CS—S~C‘C}WNTTCdS SPIO ——C“‘C;SN#SOC(L CARTONBOX | Addition |
+—~3-—
+
+@ SCHEMATIC DIAGRAM
+
+ndicates addition for the United Kingdom [EK] only.
+13 14 15 1
+
+@ FP11 and FP12 for the United Kingdom [EK] only.
+
+1c402 1c13 Qi Qi2 ~14
+
+AN6552S SVIM5236L 2SD1862QR 2SB793A Apes
+12.5 _ 8VDISR352008
+
+Aoz4
+SV0ISR35200A
+
+€2863V330
+
+G
+b
+POWER SOURCE
+
+OPTICAL PICKUP -
+%;
+
+Foc TRK
+
+SPEED SENSOR
++ s - + + =
+
+©) © Cum)
+owes | |] mops anaes an an ana a
+OOOO OO  OoOoOoOoooogo ©
+es es
+| { az
+sahil)
++128 = **
+8s Ww easy
+| S8y 887 53
+41,161,181
+Doran FOCUS SERVO ns sx
+Ic1o4 Ci42 00012
+$2,162,182 1C104
+B793A wv <<! awe]
+84 ° 5
+
+cl43
+0.047
+
+———— 1 |
+
+play 2mé iv/0lV
+parmereniary
+
+®1CP101 for the United Kingdom [EK] only.

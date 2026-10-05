@@ -1,0 +1,207 @@
+©) teh
+
+VARIABLE
+LINE OUT
+
+wer contro]
+
+Actuotor
+FEO
+@
+FE@
+
+a
+—|
+m
+Ps)
+=
+par
+
+NAL FUNCTION OF MICRO COMPUTER (MN15844PCU)
+
+Name 1/0 Name 1/0 Name 1/0 Name
+of pin Division of pin Division of pin Division of pin
+vss
+
+Synchronizing signal extracted
+from disc
+switch ON/OFF at ‘H”’
+
+Input for sub-code test from
+EFM demodulator.
+Tracking error signal input terminal | oo | Disc holder close command
+
+Attenuation ON/OFF,
+Ea ATSB Fo | effective at “"H"’
+Pause indicator display
+pd ae | p72 | pause | 0 | (Light up at "H")
+
+| oo Muting reay ON/OFF.
+
+Effective with de-emphasis
+
++
+Q
+2
+4
+
+o/s
+
+n
+a
+4
+Q
+ion
+ie]
+Qa
+ras
+=
+Cc
+4
+m
+N
+Q
+
+z
+ie}
+Nn
+
+Turntable ON/OFF select.
+
+(ON at “L"’)
+
+Turntable stop command
+
+(stop at “L"')
+
+Turntable drive command
+ACC (ON at "H”)
+
+37 P70
+CLV servo selection command
+
+Tracking servo ON/OFF select
+
+TRVE
+
+Tracking servo ON/OFF select
+VREF
+Kick direction (Reverse) command
+STROBE
+
+Traverse servo standard detection
+Play indicator display
+Traverse servo standard detection P73 PLAY po | (Light up at ‘H’’)
+Laser diode, focus servo ON/OFF
+
+Traverse Reverse command,
+effective with ‘‘H’’ pulse
+
+Kick direction (Forward) command
+
+fe)
+2
+
+UNDE
+
+D
+Not used
+
+an
+||
+2
+a
+
+N
+~
+
+Reset terminal REV
+
+(Micom is reset at ““L’)
+
+xD
+n
+4
+
+oa
+~
+
+Traverse Forward command,
+effective with “H’’ pulse
+
+Key scan input
+47
+
+8
+
+N
+oO
+
+Sub-code terminal
+
+Turntable stop command. 29
+
+Display data (Digit) and key
+matrix data output
+
+Not used 30
+
+(e)
+an
+g
+q
+re)
+R
+
+RF signal detection, effective at "L” | 31
+
+°
+oO
+nn ee
+
+cm
+cm
+ror [6
+fos
+
+Track Jump control 32
+
+=
+N ~N
+
+o!|m -+|| 0 Axial ala o 4
+clon oir ={|a] xi vi a a a
+ola al x 2121 all oj m m re)
+alm Alo AA Fl Sim >
+
+5V s629
+(up)
+RFDEL
+S630
+BREAK TTON (down)
+5V
+Spindle
+motor drive
+15V
+15V
+* Battery
+i eae
+1C403 Tek ;
+CLV Servo —
+, 1€504 PLL Ci it
+0 Spindle Ireut A
+motor B
+
+element
+1C304
+
+1C303
+> va va 6 13
+
+L 1c303 «= 1c303
+9 L30!
+; IT ot
+PLL adj.
+vco 0.12p1s(8.64MHz)
+4Vp-p °
+

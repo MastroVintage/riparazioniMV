@@ -1,0 +1,117 @@
+ol = i -7
+
+e Rear panel view
+
+® Line out terminals
+
+@ Power switch
+
+® Press once to turn power on and again to turn power off.
+
+@ When power is turned on, the display will read ( 9 ) for
+the track number and ( 222 ) for the time.
+
+@ When the auto-pause/timer switch is set to auto pause,
+the indicator in the play button ( & ) will light for only
+
+about 5 seconds if no disc is inserted.
+
+@ Disc holder
+@ The disc is inserted in this holder with label side up.
+
+© Disc holder open/close button
+
+@ Press this button to insert or remove a disc. When this
+button is pressed, the disc holder opens.
+
+@ Press this button again to close the holder.
+
+@ Display Section
+@ Segment display scale
+Shows the track number of each segment from 1 to 20.
+® Track number segment display
+@ Displays up to 20 tracks. For track numbers higher
+than 20, the overrun indicator ( > ) to the right of
+this display lights.
+@ The segment of the track currently being played
+flashes on and off.
+@ Once a track has been played, its segment goes out.
+@ Programmed tracks are also shown by the segment
+display.
+© Digital track number display
+® Elapsed/remaining playing time display (minutes)
+® The index number is displayed here when the index
+button is pressed.
+@ Elapsed/remaining playing time display (seconds)
+
+® @ ® @
+
+ee |
+
+an track index | time |
+Selection
+
+The information displayed differs according to the
+Present operating mode. Refer to the Playing a disc
+section for details.
+
+[4]
+
+@ Synchro rec terminal
+@® External terminal
+
+AC line-voltage
+selector
+
+) AC (mains)
+socket
+
+@ The unit switches to the standby mode when a disc is
+inserted in the holder. In the standby mode, the pickup
+is located at the beginning of the first track and the
+display is showing the total number of tracks on the disc
+and the total playing time.
+
+®@ The display shown above is for a disc containing a total
+of 7 tracks having a total playing time of 49 minutes
+and 58 seconds. However, if the play button is pressed
+while the disc holder is still open, the holder will close
+and the disc will be played from the beginning without
+the track numbers or playing time being displayed.
+
+Note:
+The pickup uses a laser to read the information on
+
+the disc surface. The pickup is not visible from the
+outside of the player.
+
+© Remote control receiver
+
+@ The infrared signal from the remote contro! unit in-
+cluded with this player is received here.
+
+®@ Before pressing one of the remote control unit buttons,
+the unit should be aimed at this receiver. The remote
+control indicator will light while the button is held down
+to confirm that a command is being received.
+
+@ Pause/stop button
+
+@ This button activates both the pause and stop (standby)
+modes.
+
+@ When this button is pressed while a disc is being played,
+the ## indicator lights to show that the pause mode has
+been activated. Press the play button to cancel the pause
+mode and resume disc play.
+
+e@ If the pause/stop button is held down for more than
+about one second, the stop (standby) mode is activated
+(the 4 indicator goes out) and the pickup returns to
+the beginning of the first track on the disc.
+
+@ The disc continues to rotate for about 20 seconds after
+the stop mode is activated so that the palyer can quickly
+switch to the paly or skip function if one of those
+buttons is pressed. If these buttons are not pressed
+during the 20 second period, the disc will stop rotating.

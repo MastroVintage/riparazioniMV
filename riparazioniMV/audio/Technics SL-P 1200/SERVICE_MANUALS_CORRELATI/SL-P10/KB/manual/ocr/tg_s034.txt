@@ -1,0 +1,38 @@
+4—6. Reference voltage generation circuit (V REF) operation
+
+The circuit generates DC operation reference (bias) voint voltage
+of focus and tracking servo amplifier to apply DC bias (medium
+point voltage) to tracking error amplifier and low frequency com-
+pensating amolifier (OP AMP). Also, it is the reference voltage
+for zero cross and on-the-track detection of AN7674.
+
+D104
+
+R186
+
+VR110
+
+To CN202
+(Tracking error amplifier)
+(Low frequency compensating
+
+amplifier)
+
+R187
+
+IC 103
+AN7674
+
+Fig. 4—16. V REF circuit
+
+° IC113 (B) consists of non-inverse buffer amplifier of OP AMP.
+So, the voltage of IC113 (B) pin (5) is changed in impedance and
+is delivered to IC113 (B) pin (7).
+
+° VR110 is a semi-fixed resistor to change the output voltage of
+Icl13 (B) pin (7), and it is adjusted so that the voltage is
+equal to the offset voltage at focus error amplifier of focus
+tracking calculation amplifier (AN7673). (The voltage is about
+5.7 V.)
+
+=a7\—

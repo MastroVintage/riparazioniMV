@@ -1,0 +1,209 @@
+e Check the power supply circuit
+
+Check point @
+
+Check the voltage of D19 terminal
+
+(cathode).......8.9V
+
+Check point@ YES
+
+Check the voltage of D22 terminal
+(anode)....... ©9.3V
+
+Check point @ YES
+
+Check the voltage of Q11 terminal (emitter)
+
+or CN401 4 pin.......8.5V
+
+Check point @ YES
+
+or CN401 3 pin......C8.5V
+
+Check point @ YES
+
+Check the voltage of Q12 terminal (emitter)
+
+Check the voltage of Q13 terminal (collector)
+
+or 1C401 64 pin......5V
+
+Check point @ YES
+
+Check the voltage of Q14 terminal (emitter)
+
+or jumer wire......O5V
+
+Check point @ YES
+
+Check the voitage of Q15 terminal (emitter)
+
+or IC801 26 pin.......6.5V
+
+Check point @ YES
+
+Check the voltage of Q16 terminal (emitter)
+
+or IC801 28 pin....... ©C6.5V
+
+Check point © YES
+
+Check the voltage of [C401 8 pin
+
+Check point @ YES
+
+Check the voltage of IC401 4 pin......
+
+Check point @ YES
+
+eeanene 12.5V
+
+O12V
+
+Check the voltage of Q17 terminal (emitter)
+
+or 10401 38 pin....... ©32V
+Check point @ YES
+
+Check the voltage of CN11 ©, @.
+
+AC 2.3V
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+NO
+
+"NO
+
+AC cord
+$1,T1, defective
+
+D19, 20
+
+021 } defective
+
+IC11.
+Qi1 defective
+D11
+
+C12
+Q12 defective
+
+D12
+
+1C13 ;
+Q13 } defective
+
+Q14
+
+1402 } defective
+
+Q1s :
+D15 } defective
+
+Q16
+
+016 \ defective
+D23 :
+D24 } defective
+
+D24 ;
+D25 } defective
+
+D18, 025 ‘ defective
+
+D26, Q17
+
+T1
+D18 \ defective
+
+© Check the focus servo
+
+Check the power supply circuit
+
+Check point ® YES
+
+Reset signal is “H (4.2V)"? NO
+
+(IC403 1 pin or 1C401 13 pin) ICC
+Check point @ YES
+
+Clock is oscillated (4.2336 MHz)? NO IC3x
+
+(IG401 63 pin) R40
+Check point ® YES
+
+Focus ON signal level is “‘L (OV)? NO ICA
+
+(1C401 28 pin) IC1¢
+Check point @ YES
+
+Laser A.P.C. signal is ON? NO Ic1
+
+(Q101 collector or C124) Q10
+Check point @ YES
+
+Focus search signal is emitted? NO
+
+(1C101 35 pin or C119) lor
+Check point ® YES
+
+Focus OK signal is “L (OV)?
+(1C401 31 pin)
+
+Focus lens moves up and down for a few
+seconds?
+(Not needed to set the disc)
+
+Check point ®
+
+Q14
+Pick
+
+RF signal is emitted?
+(Test pin TJ301)
+
+Pick
+
+¢ Check the tracking servo
+Check point @
+
+Check the TR ON signal (1C401 27 pin).
+“L” in play and “H” in search/skip.
+
+Check point @
+
+Tracking error signal is emitted?
+(CN102 1 pin or 2 pin)
+
+Check point @
+
+Track jump pulse is emitted during
+search/skip? (IC101 20 pin or jumper wire)
+
+Check point ®
+
+IC1€
+Q16
+Q16
+
+Tracking coil drive signal is emitted ?
+(CN101 8 pin)
+

@@ -1,0 +1,523 @@
+© Optical servo (Head amplifier) P.C.B.
+
+1. Remove the cabinet and front panel.
+
+2. Disconnect connectors (CN405 ~ CN409, CN411,
+CN412, CN501) of main P.C.B.
+
+3. Remove the traverse unit. The entire traverse unit
+can then be removed from the unit.
+
+4. Turn over the traverse unit and remove the nuts.
+The tray and the traverse unit can then be separated.
+
+e Spring (Silver)
+
+S m) vA
+Q-Veion & &
+
+7 . Spri
+a (Yellow) Ge (Sitver)
+
+Optical servo
+P.C.B.
+
+m@ REPLACEMENT PARTS LIST (Electric Parts)
+
+5. Remove the disc clamper magnet from the disc
+clamper.
+
+\
+A
+\
+
+Temporarily faster the tray and front panel. After
+that, connect only connectors (CN405, CN406 and
+CN408) remove in step 2.
+
+Remove the insulator rubber and optical servo
+P.C.B. of traverse unit.
+
+Mount the traverse unit on the traverse unit base.
+Connect connectors (CN407, CN409, CN41 1,
+CN412, CN501) removed in step 2.
+
+Shift it as in Fig. 28 check.
+
+Optical servo P.C.B.
+
+Traverse (03 P.C.B.)
+
+unit base
+
+Fig. 28
+
+Notes: 1.
+
+aaRwW N
+
+used for ali areas.
+
+Part No. Description
+
+Description
+
+Part numbers are indicated on most mechanical parts. Please use this part number for parts orders.
+Important safety notice:
+Components identified by A mark have special characteristics important for safety.
+The © mark is service standard parts and may differ from production parts.
+
+The parenthesized numbers in the column of description stand for the quantity per set.
+Bracketed indications in Ref. No. columns specify the areas. Parts without these indications can be
+
+Ref. No. Part No.
+
+Description
+
+INTEGRATED CIRCUITS
+
+TRANSISTORS
+
+IC1
+
+IC2
+
+IC3
+
+IC4,5
+(C101, 404
+16102
+1C103
+
+1C104
+
+1C105
+
+1C201
+
+1C301, 303
+(C302
+
+1C304
+
+1C305
+1C306
+1401
+1C402
+
+1C403
+1C§01
+
+1C502
+
+1C503
+
+1C504
+
+1C505
+
+1C651, 652
+IC653
+
+(C706
+
+1C801
+
+(C802, 805
+1C803, 804, 806
+
+LSI Module
+
+AN78M15
+AN79N15
+AN7805
+SVIICP— F15
+AN78L05
+AN79N05
+AN7977S
+
+Regulator
+Regulator
+Regulator
+
+IC Protector
+Regulator
+Regulator
+Head (Focus)
+Amplifier
+Head (Tracking)
+Amplifier
+Focus and
+Tracking Error
+Amplifier
+Operational
+Amplifier
+
+AN7678S
+
+AN6554NS
+
+AN6552
+
+SVITC40HO04P
+SVINJM082D
+
+Inverter
+Operational
+Amplifier
+Exclusive OR
+Gate
+
+SVITC40H386P
+
+Q107, 109
+
+Q108, 110
+
+Q201, 202, 407,
+503
+
+Q203
+Q204
+
+Q401, 408, 502
+
+Q402, 409, 504,
+505
+
+Q403 ~ 406
+
+Qs01
+
+Q601, 602
+Q651 ~ 654
+Q655
+
+28D1226M
+2SB910M
+2S8C3311-Q
+
+2SD1266
+
+288941
+
+2S8A1309Q
+UN4212
+
+UN4112
+28C641
+
+2SD636
+2SB641
+2SD636
+
+DN74LS74A
+DN74LS107
+
+D Flip Fiop
+JK Flip Flop
+
+DIODES
+
+MN15844PCQ
+SVIBA6209
+
+Micro Computer
+Loading Motor
+Drive
+Comparator
+Sprindle Motor
+Drive
+Operational
+Amplifier
+
+AN1393
+AN6638
+
+AN1358
+
+MN4066B
+MN4001B
+AN90B20
+MN4538B
+MN40238
+MN4069UB
+SVIPCM53JP— V
+SVIUPD4053BC
+SVILM833NA
+
+Analog Switch
+NOR Gate
+Inverter
+Multivibrator
+NAND Gate
+Inverter
+
+D/A Converter
+Analog Switch
+Operational
+Amplifier
+Digital P.C.B.
+Ass’y
+
+SRDPOO1NO2A
+
+TRANSISTORS
+
+D1 A
+A
+
+D4, 5, 405, 406
+
+D6, 7 ©
+
+D8
+
+D103, 301, 407,
+408, 420~ 422,
+601 ~ 603,
+606 ~ 609, 614,
+615
+
+D303
+
+D401
+D410, 801, 802
+D501
+
+D611
+0612
+
+D613
+D651 ~ 667
+
+SVDS1WB40
+SVDS2VB20
+MA1180
+SVD1SR35200V
+MA162A
+MA1051
+
+MA165
+
+SVDKV1230Z
+
+MA4047
+MA4056
+MA4091
+
+SVDGL - 9HY4
+SVDGL-9PG4
+
+SVDGL-9PR4
+MA165
+
+VARIABLE RESISTORS
+
+Actuator Drive
+Actuator Drive
+Traverse
+Control, Relay
+Drive and Drop
+Out Detector
+Traverse Motor
+Drive
+
+Traverse Motor
+Drive
+
+Regulator, Drop
+Out Detector
+Switching
+
+Switching
+Drop Out
+Detector
+
+Switching
+Switching
+Switching
+
+Rectifier
+Rectifier
+Zener, 18V
+Rectifier
+Switching
+Zener, 5.1V
+Switching
+
+Variable
+Capacitor
+Zener, 4.7V
+Zener, 5.6V
+Zener, 9.1V
+
+Pause Indicator
+Repeat
+Indicator
+
+Play Indicator
+Switching
+
+Q102~ 104
+Q105
+Q106
+
+Regulator
+Laser Power
+Control
+Laser Power
+Control
+Tracking
+Control
+Tracking
+
+@ Terminal guide of IC’s, transistors and diodes
+
+VARIABLE RESISTORS
+
+VR101, 103, 104,
+106
+
+SVN1C103B01L
+
+SVN1C222B01L
+
+Focus Gain,
+Offset and
+Tracking Gain,
+Offset Adj.,
+10kQ (B)
+Focus Balance
+Adj., 2.2k2 (B)
+
+VR105 SVN1C472B01L
+
+VR501 EVN38CA00B14
+
+SLO7KM8R1
+
+Tracking
+Balance Adj.,
+4.7kQ (B)
+11T Adj.,
+10kQ (B)
+
+PLL Adj.
+
+COMPONENT COMBINATIONS
+
+R524 EXBP84333K
+C11°12, 13°14 A| EXRFS203ZS
+
+33kQ x 4
+0.01nF x 2
+
+LOW PASS FILTERS
+
+LPF801, 802
+
+SVIALO16 Filter
+
+RLY801 SFDYG5A237P I
+
+Muting
+
+CRYSTAL
+X701 SVQNR8643
+
+FLUORESCENT DISPLAY TUBE
+
+FL601 | SRD9-ST~10K1
+
+8.643MHz
+
+Display
+
+POWER TRANSFORMERS
+
+A | SLT54JL8A
+A | SLT54uS8C
+T1 [other areas] A | SLT54JE7E
+
+SWITCHES
+
+$1 A | ESB823V
+
+$2 Exclude A | SRDSHXW0251
+[M, MC]
+
+$101, 102 SRDSBSW - 180
+
+$103 SRDSMLS- 1
+
+$104 SRDSBSW97 - 2
+
+$601 ~ 605, EVQQS405K
+
+607 ~ 611,
+
+618 ~ 628
+
+Power Source
+Power Source
+Power Source
+
+Power
+Voltage Control!
+
+Rest and End
+Close
+
+Open
+Operation
+Switch
+
+F1 [MC} A | XBA2F035NU
+F1 Except for A | XBA2CO25TRO
+[M] area
+
+F2 Except for A | XBA2CO12TRO
+[M, MC] areas
+
+250 V, 350mA
+250 V, T 250mA
+
+250V, T 125mA
+
+HALL ELEMENTS
+
+AN78M15 SVIBA6209 2SK301 SVIICP—F15 AN65546........
+AN7805 AN7678S..
+<> AN76776........
+I |
+G
+s / 1. In 1 2
+2. Out .
+AN79N05 r 2SA564 MA165 28C3311 AN4558 MN4069UB
+AN79N15 2SC641 SVDISR35200V 2SA1309 AN1393 MN4001B
+AN1358 8 pin MN4066B
+K——5)— a <> SVINJM082D DN74LS74A $14 pin
+E Lee SVILM833NA DN74LS107
+K A cg SVIUPD4053BC.......16 pin SVITC40HOO4P
+¢ AN90B20....... 18 pin SVITC40H386P
+ECB SVIPCM53JP— 24 pin
+MN15844PCO.......... 64 pi
+AN78L05 2SD1266 MA1180, MA4047| _ svDSiwB40 Pin
+2SB941 MA4056, MA4091
+EE MA1051 e
+‘£1. vin rt <1» " a
+2. GND
+3. Vout 8° E K 4 4a |
+AN6638 2SD636, 258641 | MA150, MA162A Vv SVDGL-9HY4
+280973, 2SB793 s a SVDGL—9HG4
+f i SVDGL-9HR4
+k— 1 }— 4) | | 3)
+~
+U 4 ; Y, kK —+d— a 7 i K—~@-A
+16 ) B c a |
+LL E + ~ ob K A
+
+Spindle Motor
+Control
+

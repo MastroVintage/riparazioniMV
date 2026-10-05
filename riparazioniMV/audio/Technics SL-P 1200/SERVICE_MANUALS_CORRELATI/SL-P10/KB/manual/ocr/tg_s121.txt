@@ -1,0 +1,46 @@
+Bar code display circuit
+
+The data for bar code display are time (PU position)
+location (tune head position) and selection (memory posi-
+tion). These are capable of minute-by-minute display on
+the ‘scale.
+
+IC501
+(MN1542)
+
+Each display is given by dynamic lighting, and the display
+microcomputer is provided with terminals corresponding to
+
+10 bars.
+
+PO port, Pl port, P20 and P21 ports correspond to bars
+
+1 - 10. Bar lighting data are switched in timing of P33,
+
+P23 ‘and P22.
+
+location bar tion bar
+
+MY @ 8 @ © © Q) @
+
+@ 4
+(1110) (2) (4) (15) On OmOmo
+a
+POO OO )-3)-2)-6)
+
+a ttf
+~
+
+time_bar
+
+(7) (8)
+
+(9)
+
+= 9 © © ® @ Ao
+
+Fig. 12—5. Bar cord Drive circuit
+
+> $AFe=
+
+~ 144 -

@@ -1,0 +1,130 @@
+2. To play several consecutive tracks,
+
+(Example: To play a disc from track 2 through track 6.)
+
+2 memory memory 6
+a
+Track no. tf
+
+For continuous play, press the memory button twice. It is
+not necessary to enter each track.
+
+This abbreviated procedure is not possible when program-
+ming disc play from track 6 back to track 2, however.
+
+3. To play one track from the middle to the end and then a
+second track from the middle to the end.
+(Example: To play the second track from the 50s. point
+the end and then the sixth track from the 1 min. 49s.
+point to the end.)
+
+2 time time 5 0
+
+Track no. Seconds
+
+For 0 minutes, press O button or this button.
+
+memory
+
+Program Track no, Minutes
+
+Seconds
+
+e To enter a program during disc play
+
+A new program can be entered while a disc is being played
+even if the program clear button is not pressed. When the
+new program is entered, the previous programs will still be
+erased and disc play based on the new program will begin.
+
+Note:
+
+@ When entering a program during disc play, the
+Program buttons must be operated without
+interruption. If there is a gap of more than 20
+seconds between the time two program buttons
+are pressed, the new program will not be entered
+and disc play will continue in the normal manner.
+
+e To cancel a program
+
+Press the program clear button. The program will be cleared
+from the memory and disc play will continue in the normal
+manner,
+
+6. Skip Play
+
+Skip play can be performed when the player is in
+
+the play or pause mode.
+
+e To move to the beginning or the next track or
+several tracks ahead (forward skip)
+
+Example 1: When the forward skip button is pressed
+while listening to the third track to advance to
+the beginning of the fourth track and then
+again to advance to the beginning of the
+fifth track,
+
+CS A CD
+
+- {Auto-return)
+During program disc play, the pickup moves to the beginn-
+ing of the next programmed track when the forward skip
+button is pressed.
+The pickup moves to the next track (or programmed track)
+each time this button is pressed.
+
+Example 2: To skip directly from the third track to the
+beginning of the fifth track, press the forward
+skip button twice in a row.
+
+(Skips to the beginning of the next program:
+med track during program disc play.)
+
+[iow [owe] wa dwn rn fre] ee]
+
+L
+Pressed 4 |
+twice here
+
+ee ee ee
+
+(Auto-return)
+
+@ To return to the beginning of the present track
+or any previous track (backward skip)
+
+Example 1: When the backward skip button is pressed
+while listening to the third track to return to
+the beginning of that track and then again to
+return to the beginning of the second track.
+
+an]
+
+iT
+
+wd
+Pressed again a
+ressed again 7
+
+Pressed here
+
+(Auto-return)
+During program disc play, the pickup moves to the beginn-
+ing of the previous programmed track when the backward
+skip button is pressed.
+The pickup returns to the previous track (or programmed
+track) each time this button is pressed.
+
+Example 2: To return to the beginning of track 3 when
+track 4 is being played.
+
+CS) oo at coe od os ce
+
+Pressed twice here.
+
+_— — — ——— 7
+
+{Auto-return)

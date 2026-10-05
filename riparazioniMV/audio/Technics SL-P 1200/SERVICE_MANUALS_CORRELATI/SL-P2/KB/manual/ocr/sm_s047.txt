@@ -1,0 +1,67 @@
+8. Offset-Justierung des Signalausfalls
+
+1. Das Oszilloskop an die nachstehenden Punkte anschlieRen.
+
+CH1 (Kanal 1) ...... TJ101 (03-Platine)
+
+CH2 (Kanal 2) ...... TP103 (03-Platine)
+
+=>, rr TJ401 (01-Platine)
+
+Einstellungen am Oszilloskop: TJ1018 VR103
+VOLT... . ee ee eee 1V (beide Kanale)
+
+SWEEP ......-2005- 0,5 ms _
+
+Trigger... . 2 eee eee EXT. NORM T5103 fe are sammmeens V R106
+
+2. Programm 13 (0,5 mm-groBer schwarzer Punkt) auf der
+Testplatte abspielen.
+
+3. Die Wellenform von CH1 auf dem Oszilloskop beobachten
+und VR103 so einstellen, da die Wellenform-Amplitude Trigger [| _
+nahe dem Triggerpunkt auf ein Mindestma& reduziert
+wird.
+
+Falls sie nicht auf ein Mindestma® reduziert wird, so einstellen, da& Unter- und Oberteil der Wellenform beinahe
+symmetrisch sind.
+
+4. Die Wellenform von CH2 auf dem Oszilloskop beobachten und VR106 so einstellen, da@ die Wellenform-Amplitude
+nahe dem Triggerpunkt auf ein Mindestma® reduziert wird. Falls sie nicht auf ein Mindestma® reduziert wird, so
+einstellen, da Unter- und Oberteil der Wellenform beinahe Symmetrisch sind.
+
+E Justierung auf ‘‘bestes Auge”
+
+1. HF-Signal auf dem Oszilloskop beobachten.
+2. Das Oszilloskop an die nachstehenden Punkte anschlieRen
+
+CH1 (Kanal1) ® ..... TJ402 (01-Platine)
+CH1 (Kanali) © ..... TJ403 (01-Platine)
+Einstellungen am Oszilloskop:
+
+VOLT... 2. ee eee 1V
+
+SWEEP .......---- 0,5 us
+
+Input 2... ee ees AC (Wechselspannung)
+
+3. VR102 so einstellen, dafé das Augenmuster des HF-
+Signals am weitesten offen ist.
+
+. Das Gerateschio& in die EJECT-Betriebsart stellen.
+2. Kanal 1 und Kanal 2 des Oszilloskops an 7J701 (FCLK)
+und TJ702 (CLDCK) auf der 01-Platine anschlieBen.
+Einstellung des Oszilloskops:
+
+Lene AC (Wechseispannung}
+Trigger ...-.-- CH1 + CH2 (NORM)
+
+_ Stift 13 von 1C301 auf der 01-Platine an Masse ansch-
+lieRen.
+
+4. L301 (VCO) so justieren, da& die Oszilloskopwelle so
+geformt ist, wie nachstehend gezeigt.
+
+Die Pulsbreitenmitte beider Wellenformen
+aufeinander ausrichten.
+

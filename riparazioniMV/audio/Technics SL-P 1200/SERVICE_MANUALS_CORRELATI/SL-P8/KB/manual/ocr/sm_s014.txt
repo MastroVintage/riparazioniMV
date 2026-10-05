@@ -1,0 +1,96 @@
+¢ How to remove the digital P.C.B.
+
+1. Remove the front panel,
+
+2. Puli out the connector CN201 (from constant voltage
+P.C.B.) and CN214 (from regulator 1C’s P.C.B.} of
+digital P.C.B.
+
+3. Pull out the connector CN107 (from constant voltage
+P.C.B.) and CN101 ~ CN106, CN109, CN552 (from
+optical deck unit) of servo P.C.B.
+
+4. Remove the 3 setscrews [Fig. 7: @ ~ @ 1] of P.C.B.
+holder.
+
+5. Remove the digital P.C.B. in the direction of the arrow.
+
+[Fig. 7] Digital
+
+P.C.B.
+
+*Precautions for removal of MN6616 and MN6806
+MN6616 and MN6806 attached to the digital P.C.B. are
+radiated by the radiator column. When fitting LSI, apply
+silicone compound (or equivalent head diffusing agent)
+to the radiator column. [Fig. 8]
+
+MN6806 Fig. 7
+
+~
+
+Magnet fixing
+
+plate N\
+
+Insulator rubber
+
+' Apply siticone &S
+& Insulator compound .
+
+y ~N
+
+' 7 tubber
+
+~ Apply silicone Radiator column
+
+i
+F The radiator column and insulation
+|
+ine [rn are fixed (glued) on P.C.B. ’
+
+@ How to remove the disc clamper
+1. Remove the cabinet. Fig. 9
+2. Shift the disc holder forward.
+3. Remove the disc clamper setscrew [Fig. 9: QD ]
+4, Remove the spring in the direction of arrow @ . (Fig. 9]
+5. Remove the disc clamper in the direction of arrow (@, @).
+Note:
+Shift the disc holder forward to remove th disc
+clamper. Fuse FCB
+6. To remove the magnet of disc clamper, hold the magnet \ 5
+fixing plate with pliers and turn it clockwise. 7
+e How to remove the power transformer Jet
+1. Remove the cabinet. °°
+2. Shift the disc holder forward. Holder
+3. Remove the switch rod from the power switch.
+4. Remove the 2 setscrews [Fig. 10: @) , @ | of power
+transformer.
+5. Remove the radiator setscrew [Fig. 10: &) ] and take
+
+the power transformer block out of the chassis.
+
+6. Remove the 2 setscrews [Fig. 10: @ , @ } of constant
+
+voltage P.C.B.
+
+. Remove solder at 8 portions of constant voltage P.C.B.
+
+8. Remove the 2 setscrews [Fig. 10: @ , @ ] of fuse
+P.C.B. holder.
+
+9. Remove solder on the fuse P.C.B. to’ detach the P.C.B.,
+and then the power transformer can be removed.
+
+NS
+
+Disc clamper
+
+x Disc holder
+
+777 _
+li
+
+Solder
+
+wer transformer

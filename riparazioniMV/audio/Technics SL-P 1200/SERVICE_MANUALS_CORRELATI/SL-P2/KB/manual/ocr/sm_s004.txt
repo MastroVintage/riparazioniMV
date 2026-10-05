@@ -1,0 +1,230 @@
+Fonctions:
+
+Affichage:
+
+Audition automatique,
+Accés aléatoire d'une piste,
+Accés sélectif d'un repére,
+Audition programmable,
+(Mémorisation de 15 pistes),
+Saut vers l’avant,
+
+Saut vers l’arriére,
+Recherche vers l'avant
+(piste et repere),
+Recherche vers l’arriere
+(piste et repére),
+
+Audition répeétée,
+
+Audition repétée A—-B,
+Exploration musicale.
+
+Chargement du disque:
+
+Niveau de sortie du
+casque écouteur:
+
+(Affichage numérique), Fonctions de la
+Nos des pistes,
+
+Durée d’audition totale (min., sec.),
+Piste en train d'étre jouée,
+
+Durée d'audition écoulée,
+
+Durée d'audition restante,
+
+Nos des reperes
+
+(Affichage a segments),
+
+Nos des pistes,
+
+Pistes programmées.
+
+Dimensions (LXHxXP):
+Piles:
+
+Touches opérationnelles: Touches de base—7
+
+Touches de programmation—12
+Touche d’exploration musicale— 1
+Touche de répétition—1
+
+Touche de répétition A-B— 1
+Touche de durée principale—1
+Type horizontal 4a commande par
+moteur
+
+Max. de 80 mW (réglable), 32Q
+
+Unité de la commande a distance a infrarouge
+
+commande a distance: Touches de base—6
+
+Touches de programmation—12
+Touche d’expioration musicale—1
+Touche de répétition— 1
+
+Touche de répétition A-B—1
+Touche de rappel—1
+5,6X13,5x1,5¢em
+
+Piles UM-4 AAA" ou IEC R03 ou
+leur equivalent (1,5 Vx 2)
+
+Espafiol
+
+ESPECIFICACIONES
+
+Las especificaciones quedan sujetas a cambios sin aviso previo.
+El peso y jas dimensiones indicados son apromimados.
+
+@ En general
+
+Consumo de corriente:
+Tension de sailda:
+Impedancia de sallda:
+im pedancia de carga:
+Dimensiones
+
+(An. xProf.xAl.):
+
+Peso:
+
+@ Audio
+
+Cantidad de canales:
+
+Respuesta de
+frecuencia:
+
+Gama dinamica:
+
+Relaclon de sefal
+aruido:
+
+Distorsi6n armonica
+total:
+
+Separacion de canales:
+
+Ululaciones y trémolo:
+
+Sistema de correccion:
+
+Conversidén numérica-
+analdgica:
+
+M@ Fonocaptor
+Tipo:
+
+Fuente de luz:
+Longitud de onda:
+
+Modalidades de
+busqueda:
+
+Fuente de alimentacion:
+
+@ Funciones (Ventajas)
+
+Funciones:
+140—120/220-—240 V, 50/60 Hz
+30 vatios
+2 voltios (a 0 dB)
+3300
+mas de 5kQ
+
+43x33,4x8,2cm
+
+Cuando el compartimiento del asco)
+esta abierto: 45,9 cm (prof.)
+
+5,1 kg
+
+2 (derecho e izquierdo, estéreo)
+
+Exhibicion:
+4—20.000 Hz +0,5 dB
+mas de 96 dB
+
+mas de 96 dB
+menos de 0,003% (1 kHz, 0 dB)
+
+mas de 90 dB
+Inferior a limite medible
+
+™@ Formato de las senales
+Frecuencia de muestreo: 44,1 kHz
+
+Algoritmo superdescodificador
+Technics
+
+Lineal de 16 bitios
+Astigmatico de 3 haces
+
+Laser de semiconductor
+800 nm
+
+Carga del disco:
+
+Nivel de salida
+de los auriculares:
+
+Busqueda manual
+Salto de piezas
+
+Exploracion de musica
+Programas de piezas
+
+Botones de operacion:
+
+Ejecucién automatica,
+acceso libre a las piezas,
+acceso libre a los indices,
+ejecucion programable
+(memoria para 15 piezas),
+salto hacia adelante,
+
+salto hacia atras,
+
+busqueda hacia adelante
+(piezas e indices),
+busqueda hacia atras
+(piezas e indices),
+
+ejecucién repetida,
+ejecucién repetida A-B,
+exploracién de musica
+(Exhibicién digital)
+
+Num. de piezas,
+
+tiempo total (min., seg.) de
+ejecucién,
+
+pieza que se esta
+ejecutando,
+
+tiempo de ejecucidn transcurrido,
+num. de indice,
+
+tiempo remanente
+(Exhibicion por segmentos)
+Num. de piezas,
+
+pieza que se esta tocando,
+piezas programadas
+Botones basicos—7
+Botones de programas—12
+Botén de exploracién de musica— 1
+Botén de repeticion— 1
+Boton de repeticién A-B—1
+Boton principal de tiempo— 1
+Tipo horizontal con accionamiento
+por motor
+
+Max. 80 mW (reguiabie), 32Q
+

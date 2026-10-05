@@ -1,0 +1,50 @@
+e Optical servo (Head amplifier) P.C.B.
+
+. Remove the cabinet and front panel. 5. Remove the disc clamper magnet from the disc
+. Disconnect connectors (CN405 ~ CN409, CN411, clamper.
+
+CN412, CN501) of main P.C.B.
+. Remove the traverse unit. The entire traverse unit
+
+can then be removed from the unit.
+
+6. Temporarily faster the tray and front panel. After
+that, connect only connectors (CN405, CN406 and
+CN408) remove in step 2.
+
+7. Remove the insulator rubber and optical servo
+P.C.B. of traverse unit.
+
+8. Mount the traverse unit on the traverse unit base,
+
+9. Connect connectors (CN407, CN409, CN411,
+CN412, CN501) removed in step 2.
+
+10. Shift it as in Fig, 33 check.
+
+4. Turn over the traverse unit and remove the nuts.
+The tray and the traverse unit can then be separated.
+
+©
+
+S Spring (Silver)
+
+pring . 2 iy)
+= a | Yellow) Er Ssitver)
+
+Spring
+
+Optical servo
+P.C.B.
+
+Traverse
+unit ass’y
+
+Optical servo P.C.B.
+
+Traverse (03 P.C.B.)
+
+unit base
+
+Fig. 33
+

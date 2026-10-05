@@ -1,0 +1,59 @@
+3—2. Block diagram of focus servo
+
+[ Focus Servo Mode
+
+BSS] Tracking Servo Mode S,. Tracking Servo Loop Switch
+KS} Community S.. Focus Servo Loop Switch.
+
+J (TE+FE) Poa See =
+
+(TE—FE)
+
+2 o, 4
+
+Power
+Control
+
+Head Amp.
+AN7670
+
+Focus Error
+Amp. (11)
+
+Focus Error
+Amp. (1)
+
+AN7675
+
+OY
+eee
+ooh oN
+
+—_> $s — as ee Gea ee
+
+TE: Tracking Error Signal (Bi—Baz) LD ON: Laser Diode ON Command.
+FE: Focus Error Signal (A, +As3)—(A2+Aa) FO ON: Focus Servo ON Command.
+RF: Disc Pick-up Signal (A, +A3)+ (Az+ Aa) LD ST: Laser State
+
+RF ON1: Confirmation Signal of RF Out-Put
+RF ON2: Confirmation Signal of RF Out-Put
+TR ON: Tracking Servo ON Command.
+
+TRACK : Tracking Servo Loop Switch ($1) Control
+
+- Fig. 3—3. Block diagram of optical servo
+
+—12- — T=
+
+60.6 OO ON OCOM
+eer B. | Ro a qe QR Actuator
+eB : es N Drive
+KS
+
+S Dri
+NS rive
+
+Actuator
+
+AN7671X2
+

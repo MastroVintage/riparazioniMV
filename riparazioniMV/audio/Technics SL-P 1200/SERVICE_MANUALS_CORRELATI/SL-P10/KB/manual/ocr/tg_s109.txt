@@ -1,0 +1,56 @@
+Pin functions of MN1564
+
+No NaneoEPin| r/o Function Remarks [No [Nameofpin I/o Functions
+
+VSS GND ~ 1331 vpp Power supply +5V PF
+P00 P DATA ... control P signal. 34 VMM I +5V
+
+Focus ON/OFF, ON at "H",OPF at "L" ae ees 35 | HLDM +5V
+Door open command. Open at “L". [36 P53 | Same asPso- ps2. |
+
+Door close command.Close at "L". 37 P60 ADR ... Memory address signal output.
+_ x 38| P61 1/0 CLV 2... PU position time Bus
+— — conversion data input. line
+Q data writingtiming. 39 P62 KSS ... Key matrix scan signal output.
+WE ... Q data readingmode setting. 40 P63
+Q DADR ... Q data reading address signal Bus line 4] P70
+output.
+10 KSS ... Key matrix scansignal output. 42 P71 KSI1 Key matrix signal
+43| P72 KSI2 RDU
+x
+12 44 P73
+BLOCK CK (Q data) MU6611 45 P80 TCNTO
+M4 eae eat ‘VEE PERIEER SESH ONES Seana. SVSE| “seeiG AST PRR TCNT 1 Traverse
+DISP = Dispaly trans-f crs t/ Display Traverse microcomputer mode Se aaa
+a) -fer clock inpu i c
+15 output. micro- 47 TCNT2 Comenand MN 1400
+DISP DATA ... Display trans-fer data i t computer 5 :
+ourpue- ike iasied CF (GAGE SRDUT SY Te scas 48| P83 6 rCNT 3
+RESET Effective at "L". i | 49 P90 Search FWD (DD)
+SELECT "L" ... MIN, WHY. ow Be 50 P91 Search REV (<1) ae uy
+MN6610 ON at "L LED ON
+DISABLE Data output fromMN6610 at "ZL". 51 P92 STOP
+PAUSE ON at "LL" Timing 52| P93 PLAY
+ON/OFF
+: cus Se LMT ON ... Disc innermost position
+TRACKING ON/OFF'ON ... "H",OFF ... "L Mehaenien aa Ua Abb onttce ta
+JUMP TIMING command in jump mode. DISC ON ... Disc detection."H" ... Disc ON.
+: : Sensor
+JUMP direction command. FWD at "HH",
+REV ak "Li". _
+= i 5 RF ON LDST RF signal detection.
+"H" in detection mode.
+26 QD 0 TT/LD ON Turntable &laser diode.
+MUTE ON... Muting relay ON/OFF.
+27 QD 1 cenena eda ON at "L",
+ontrol Q da ‘ = 9
+28 QD 2 ie Jkt EMPHA ON ay Set ara SW ON/OFF.
+09 apa i ee ed
+30 Q DADR Q data reading SMCK ... 4.32 MHz input P|
+address signal output. ;
+31 Bus line FG ... FG input signal 64 pulses/turn. (iia.
+CLV 1 PU position time
+
+Table 11. 1 MN1564
+
+= 139 = — 131 —

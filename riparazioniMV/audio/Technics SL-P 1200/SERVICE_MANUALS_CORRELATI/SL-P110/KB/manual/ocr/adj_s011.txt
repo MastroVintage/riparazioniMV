@@ -1,0 +1,84 @@
+E. Focus offset Adjustment
+
+(1) Connect CH-1 of the oscilloscope to the TJ301 (RF
+test point) and CH-2 to the terminal TJ102.
+(Focus offset test point) on the main PCB.
+TJ302 of RF test point (GND) on the main PCB as
+shown in illustration.
+
+TJ301 (CH-1) TJ102(CH-2)
+
+Volt 500mV 100mV
+Oscilloscope Sweep : 0. 5msec
+setting input Selector: AC pc
+Mode : NORM(Triggering Via CH-1).
+
+RF test point
+
+Ts301, (CH-1)
+
+CN102-“CN301 RF test
+ae
+
+(2) Turn on the power supply switch of the player.
+
+(3) Place the test disc (SZZP1057C . . . Black band disc)
+in to the disc holder by open/close key.
+
+(4) The player to the play mode.
+
+(5) Play TR9 of the test disc.
+
+(6) Check the waveforms of CH1 and CH-2 on the oscil-
+loscope and adjust VR105 so that the waveform around
+the triggering point as shown in litustration.
+
+Main PCB
+Smocth envelope
+
+Wiser:
+Amplitude minimize
+
+or @ and @) equal
+
+DADA
+
+NG Focus offset OK
+(7) Turn off the power supply switch of the player.
+
+F. Tracking offset Adjustment
+
+(1) Connect CH-1 of the oscilloscope to the TJ301 (RF
+
+test point) and CH-2 to the terminal TJ101. ©
+(Tracking offset test point)on the main PCB. 8
+Connect GND of the oscilloscope to the RF test Adjuster
+point (TJ302) on the main PCB as shown in illustra- 2. Ovr103
+A TJ101
+tion. C)
+T4301 (CH-1) TJ101(CH-2) Tracking ‘S) ;
+Volt 500mvV 100mv offset RF test point
+Oscilloscope | Sweep : 0. 5msec Test cnt 4301, A ee )
+settin Input Selector: AC Dc oint <= CN30 test
+4 Mode : NORM(Triggering Via (CH-2) EG] eno
+CH-1). 6) 11302 (7)
+(2) Turn on the power supply switch of the player.
+(3) Place the test disc (SZZP1057C . . . Black band disc) [Sebo
+(4) The player to the play mode. @ @
+(5) Play TR9 of the test disc.
+(6) Check CH-1 and CH-2 waveforms displayed on the oscil-
+
+loscope and adjust VR103 so that the waveforms as
+shown in illustration.
+
+NG Tracking offset OK
+
+Main PCB
+Smooth envelope
+
+Amplitude minimize
+
+or @ and @) equal
+
+(7) Turn off the power supply
+switch of the player.

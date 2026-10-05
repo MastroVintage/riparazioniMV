@@ -1,0 +1,54 @@
+1—2. Block diagram of SL-P10
+
+| SRDPO10 EE ‘ein midnees |
+Servre
+| (AN6635) Servo
+| | Spindel ee a Se ae
+CLV l pe a 5
+[Bie noon) || anor) SOP
+| R h Rough | | |
+Disc | oug Lon Veen ee
+| | , Control | —-——--—— — | (MN6611) [" (MN6612) |
+| H | Lee I EFM
+ead __,| CIRC
+| Amp. |__| Demo- “ |
+| (Tracking) SRDPO10 Ey | dulation ontro
+Lo a | | = | |
+| Drop-Out SRDP | |
+Spindle *| Detector 010 GE | — [pam |
+i a ———! | Correc-
+Motor || srppoi10 & | , on (AN6808) |
+Pe eee ] ! (MN6613) DIA ! :
+4 ; on- Deglitc
+$B | tet LL sem tae |v L. —— : (16 bit) verter | P
+pti
+4 Piceup | (RF Focus} sich , _—. cm
+4 | : | (AN7671x2)
+Stenning Laser | | Auto Actuator — !
+APC =
+Motor ! | : Focus Drive |
+| (AN7675) | (AN7672) |
+ee ae |
+oem eee lth
+1 | (MN1400PCA)
+Fuse & Power
+Filter LI_1,} Supply =a
+t tepping| | | | Qneratingn FY p---— -
+a sam |
+——— t
+SRDPO10 fi | (AN7676) a Control |
+| | Stepping |
+Motor | be —s—suw'l_}—h 6[ huh RBA pA RS
+Drive SRDPO10 fi
+
+(1) Focaus Servo
+
+(2) Tracking Servo
+
+(3) CLV Servo (4)
+
+Traverse Servo
+
+Amp,
+
+L-ch

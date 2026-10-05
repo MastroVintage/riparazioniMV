@@ -1,0 +1,42 @@
+After TOC reading, either of manual play and program play
+can be used. (Refer to Fig. 11-17.)
+
+— Manual play —
+
+Play is started in order from the lst tune, and is completed
+on detection of the last read-out.
+
+—- Program play —
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+The play position is designated by program key, and the
+program is played through random access.
+
+Program reception is possible up to 63 steps. In the
+case of group program, 2 steps (designation of start and
+end positions) are included in 1 program.
+
+When the commands are filled up, then "F" is displayed.
+And "E" is displayed where there is no designation on
+the disc.
+
+When program key (10-key) is depressed during play mode,
+the mode is shifted to program reception mode. In this
+condition, if key is depressed with 1 step of
+program completed, then all the previous programs are
+cleared resulting in entry of new programs.
+
+If program key is not depressed for consecutive 25 sec.
+or over during program or if PLAY key is not depressed
+within 25 sec. after the end of program, the program
+will be cancelled and the mode is shifted to manual
+play mode.
+
+-— 137 -—

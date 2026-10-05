@@ -1,0 +1,214 @@
+*The colors of this model include silver and black.
+*The black type model is provided with (K) in the
+
+Service Manual.
+
+Specifications
+# Audio
+
+No. of channels:
+Frequency response:
+Dynamic range:
+
+S/N ratio:
+
+Total harm. dist.:
+Channel separation:
+Wow and flutter:
+
+= Signal Format
+Sampling frequency:
+Correction system:
+
+= Pickup
+Type:
+Light source:
+Wavelength:
+
+« General
+Power supply:
+
+Power consumption:
+Output voltage:
+Output impedance:
+Load impedance:
+
+Weight:
+
+Technics
+
+Dimensions (WxDxH):
+
+Areas
+
+ORDER NO. DPD83080021C3
+
+Service Manual
+
+IDIGITAL_|
+
+Compact Disc Player
+
+SL- P7KK)
+
+[EK], [XL], “"
+EB}, [EH], [EF], [Ei],
+[XA], [PA], [PE], [PC]
+
+* [E]
+
+* [EK]
+* [XL]
+* [EG]
+* (EB)
+* [EH]
+* [EF]
+* [Ei]
+
+* [XA]
+* [PA]
+
+* [PE}
+* {PC]
+
+is available in Switzertand and Scandinavia.
+
+is available in United Kingdom.
+
+is available in Australia.
+
+is available in F.R Germany.
+
+is available in Belgium.
+
+is available in Holland.
+
+is available in France,
+
+is available in Italy.
+
+is available in Southeast Asia, Oceania, Africa,
+Middle Near East and Central South America.
+is available in far East PX.
+
+is available in European Military.
+
+is available in European Audio Club.
+
+Specifications are subject te change without notice for further improvement.
+Weight and dimensions shown are approximate.
+
+2 (left and right stereo)
+
+2 ~ 20,000 Hz + 0.5 dB
+
+more than 96 dB
+
+more than 96 dB
+
+less than 0.003% (1 kHz, 0 dB)
+more than 90 dB
+
+Below measurable limit
+
+44.1 kHz
+Technics Super Decoding
+Algorithm
+
+Astigma 3-beam
+Semiconductor laser
+800 nm
+
+~110—120/220—240V, 50 or
+60 Hz
+
+SOW
+
+2.0 volts (at O dB)
+
+330 ohms
+
+more than 5 kohms
+
+31.5 X 32.5 x 8.8cm
+
+When disc holder is opened
+(31.5x45.1x8.8cm)
+
+4.9 kg
+
+« Functions
+Search modes:
+
+Display functions:
+
+Operation buttons:
+
+Disc loading:
+
+Diameter:
+Thickness:
+Spindle hole:
+
+Min. inside diamet
+
+recorded section:
+
+Max. outside diam
+
+of recorded section:
+
+Direction of rotati
+
+Tracking speed:
+
+Rotations per minute:
+
+Playing time:
+
+Track pitch:
+Material:
+
+Manual search, Index search
+Skip search
+
+All tracks, All playing time,
+Playing track, Playing time
+Index number
+
+Basic buttons; 7
+
+Repeat button; 4
+
+Motor driven, lateral loading
+
+Disc specifications
+
+12cm
+
+0.12 cm
+
+1.5 cm
+er of
+5cm
+eter
+11.6 cm
+(disc is played from the inside
+to the outside edge)
+on: Counterclockwise
+(seen from recorded side of disc)
+1.2 to 1.4 meters/second, CLV
+(Constant Linear Velocity)
+About 500 to 200 rpm
+About 60 minutes (up to 75 min,
+can be contained)
+1.6um
+Clear plastic
+
+Matsushita Electric Trading Co., Ltd.
+P.O. Box 288, Centrat Osaka Japan
+
+Panasonic Tokyo
+
+Matsushita Electric Industrial Co., Ltd.
+1.2, 1-chome, Shibakoen, Minato-ku, Toky¢ uot tes

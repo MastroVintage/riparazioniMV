@@ -1,0 +1,52 @@
+7—3. RF data pick-out circuit operation (1) .... P.C.B. (only Domestic Model)
+
+The optical circuit of RF data pick-out (I) is shown in Fig.
+7-12
+
+RF signal waveform shaping circuit
+
+RF signal ©
+
+TP60IO
+
+TP6020
+
+(To data pickout)
+
+Fig. 7-4 RF signal waveform shaving circuit
+
+PLL circuit (PCK generating circuit)
+
+The PCK generating circuit is skown in Fig. 7-7. IC6ll (74cSs
+157) is an IC equivalent to SW, shown in the block diagram.
+In normal playback mode, playback signal with waveform shaped
+at pin (11) (input A) is obtained at pin (9) (output). 1c603
+(A) (B) and IC604 (A) are the playback signal edge detection
+circuit, which takes out the edge at IC603 and its width is
+changed to 0.5T at ICc604.
+
+*1T is 4.32 MHz, and EFM data of playback signal is modulated
+at 3T - 11T.
+
+est
+
+coos 1 LI LJ
+
+'
+0 '
+I
+
+IC603—)
+
+1
+C883 —@ ——,- 4, ——_y—
+
+1c604—12
+|
+H U :
+
+0.5 (Setting at VR601)
+
+Fig. 7-5 Edge pulse generation
+
+=7oS

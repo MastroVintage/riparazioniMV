@@ -1,0 +1,39 @@
+@ Stepping motor circuit
+
+The 4-phase pulse from MN1400 causes current to flow into
+
+the stator coil of stepping motor, thereby generating
+
+An actual stepping motor uses
+but the operation is here explained with
+
+magnetic field of rotation.
+
+1l2-pole 24 slots,
+4-pole 8 slots.
+
+Rotor magnet
+
+Stator
+core (A)
+
+Stator
+core (B)
++Vecc
+A
+? +iA —+iC
+$B
+(
+Figs 39-8
+
+Stator coil
+
+Rotor magnet
+
+— 53 —
+
+Stator core (A)
+
+Stator core (B)
+
+Stepping motor and its drive pulse

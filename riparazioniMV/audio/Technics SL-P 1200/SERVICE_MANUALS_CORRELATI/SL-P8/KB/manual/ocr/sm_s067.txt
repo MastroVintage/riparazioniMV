@@ -1,0 +1,81 @@
+3-6. CLV control circuit
+
+l. 8.64 MHz from IC413 is subjected to 1/4 frequency divi-
+sion at IC414 in order to make F-V conversion easier.
+
+2. The frequency is subjected to F-V conversion at IC405,
+and becomes DC voltage through R449 and C443 filter,
+and is applied to IC415 (3) of V-I conversion circuit.
+The output is applied to the base of Q403. Q401 and
+Q402 set up a current mirror, and the output current
+is applied to the 0551 collector from Q402 collector.
+
+3. 9551 collector current is much when pitch control is
++6%, and voltage charged into C571 is greater, causing
+the triangular output wave of IC552 to become larger.
+With pitch control set at -6%, the triangular output
+
+wave of IC552 becomes smaller.
+
+In this way, CLV control
+
+is performed by changing the output of 11T detection
+circuit.
+
+15V
+
+Q 402
+
+ME)
+iS VI convertor
+
+Q403
+
+- R433 | Re
+
+YR402
+
+Input A
+
+Output Q
+
+Q401
+
+| 3
+Divider
+
+st
+o
+t
+ax
+
+in/Out-put waveform of 1C405
+
+11T detector
+
+:
+
+Vi
+
+kK) T 1C552
+
+I Q551
+C57
+
+RF Signal
+5V
+2.16MHz
+7 5 5V
+R449
+Q B p
+C443 F i
+1 A
+rT |
+To iC415®@ 1405
+
+Fig. 17 CLV control citcuit
+
+~17—
+
+from 1C413 ©
+8.64MHz

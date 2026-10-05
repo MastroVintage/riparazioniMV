@@ -1,0 +1,49 @@
+Icl108 (A) (B) make the positive and negative reference
+voltage of comparator with V REF voltage (3 6 V).
+
+The devided voltage of R185 and R184 is about 0.6 v.
+Therefore, the reference voltage of comparator is (V REF
++ 0.6 V) on IC112 (A) side and (V REF - 0.6 V) on 1C112
+(B) side.
+
+The comparison voltage is DC voltage in accordance with
+the quantity of tracking error taken out of L.P.F.
+
+The relationship between servo gain and tracking error
+Signal is explained in the following.
+
+The principle of servo is shown in Fig. 5-6.
+
+ad
+
+Fig. 5-6 Principle of servo function
+
+D stands for the amount of deviation and Ad for servo
+accuracy, that is, the follow-up error. G stands for
+servo gain. When G is a limited value, servo is unable
+to make D completely "0", allowing some error to be
+included.
+
+In Fig. 5-6, error voltage Ad can be obtained as follows:
+
+_ D . D
+Ad = TTS ae
+
+In the case of actual CD, as the lens is gradually inclin-
+ed, starting to follow the track from the neutral point,
+then error voltage that depends upon servo gain is
+accumulated on tracking error signal. It is indicated in
+£Figa 5=7'.<
+
+L.P.F. eliminates undulation generated per disc rotation
+in the illustration, and therefore the output signal of
+L.P.F. is complete DC voltage.
+
+The operation illustrated in Fig. 5-7 is in the FWD direc-
+tion. In the case of REV deviation, error voltage is
+generated as shown by broken lihes.
+
+One-step feed of traverse base is 15° in rotation angle
+of stepping motor and 62.5 uwW in distance on disc. This
+
+=i

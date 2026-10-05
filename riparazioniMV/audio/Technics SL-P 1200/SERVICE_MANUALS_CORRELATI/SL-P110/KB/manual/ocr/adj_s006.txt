@@ -1,0 +1,59 @@
+3. ELECTRIC ADJUSTMENT STEPS AND POINTS
+
+Set up player to the power on
+check status according to
+
+the disassembing procedure
+of player. (as shown Fig.
+
+After evaluating if optical
+pick up is abnormal:
+
+‘Replace optical pick-up according!
+__- to given replacement procedure i
+;and set player so that power-on |
+i check can be made. ;
+
+-A)
+
+Check positions of VRs visually.
+(Temporary set VRs according
+‘to Fig. )
+
+TTI =a.- heck can be mades
+po----------- V_.__ __----- -
+VR101 | {Turntable height adjustment. |
+(PD balance) iateiateliatetteiateietantels ietetetieietenenaieies
+pean Foran tes nna
+; Mechanical adjustment 1
+vriota{ Focus gein adjusiment J | | b= “SAP =5. pence nod
+|
+L_---------- J
+
+VR102 Tracking gain adjustment See Page 18 and on for the detailed
+adjusting procedure.
+VR105.| Temporary focus and tracking
+VR103 | offset adjustment
+Refer to Page 8 and
+on for the detailed
+VR.105 Focus offset adjustment adjusting procedures.
+VR103 Tracking offset adjustment
+Tracking error
+VR105 Compensation adjustment
+VR301 PLL adjustment
+Check of playback on
+completion of adjustment
+e Check of skip search
+
+e@ Check of manual search
+® Confirmation of defect
+
+Refer to the operation manual or
+the service manual for the detailed
+operation procedure etc.
+
+By setting the VRs temporarily as shown in Fig.
+the player run somehow that the optical pick-up
+is satisfactory but VRs must be adjusted optimumly
+
+finally.

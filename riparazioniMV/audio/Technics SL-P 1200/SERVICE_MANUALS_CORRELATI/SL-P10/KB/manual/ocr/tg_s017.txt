@@ -1,0 +1,51 @@
+Ic252 (AN7675) is for APC.
+
+When the circuit receives LD ON signal from the system micro-
+computer, the level at pin (4) of IC252 becomes "H".
+
+Then, the level at pin (8) becomes "H" causing Q251 to operate
+and LD (laser diode) lights up. At the same time, LD STATE
+(laser confirming) signal at pin (6) becomes "H".,
+
+APC operation detects the light intensity of LD by the pin
+diode.
+
+If the light intensity of LD is increased, the voltage at pin
+(7) is lowered, causing the voltage at pin (8) to lower.
+Conversely, if the light intensity of LD is decreased, the
+voltage is lowered.
+
+° VR254 is a semi-fixed resistor to change the voltage detected
+
+at pin (7) of I1C252, and it is able to change the light
+intensity of LD. In SL-P10, it is adjusted so that the
+light from the focus lens is 0.32 mW.
+
+Incidentally, -15 V from CN251 pin (9) is supplied through LD
+switch (that turns ON with holder closed) of the loading mecha-
+nism.
+
+The laser diode lighting timing ranging from insertion of disc
+into disc holder to play mode is illustrated in the Fig. 3-10.
+
+LO Switch PLAY standby
+Holder completed
+closed PLAY key ON STOP key ON
+
+Holder
+operated aoe PLAY
+ecto mode mode
+(—15V) a
+
+(LD ON) ee eee a ee ON with
+
+(LD ST) this signal at "H"
+
+bout 3S
+| abou toa wot ba.
+
+Fig. 3—10. Laser diode ON timing
+
+Disc-in
+
+(B=

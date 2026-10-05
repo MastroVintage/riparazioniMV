@@ -1,0 +1,110 @@
+—
+
+SRDPOOINOI
+
+PLLcircuit
+P30
+R318 C310 VCO adj.
+1c304 ° |
+' RBIG ; 0.022 16303 1¢303 1¢303
+(2.449 "304 2 1p 10K x AA ,; us) 1¢303
+= oS: “ OG 3 R317 47K 241 S —2_&: 0! ~ tS fl: SVITC40HOO4P
+R315 (2.4) s rT vy 7 5
+aol (5 2
+
+1C304 R323 C312 R324
+R319 22K 00047 18K D303
+s loK | #5.
+
+10 oS ’
+D.. zat 5 iad, 38 SVDKVI230Z
+fo} 8 an NH 1c302(v2) 8 -
+<O6 1¢305 1C304 a t Be vo D301,422 e409
+ns ans DN74LS74A SVITC40H386P ost [&3 MAI65 UN4I12
+62) © (2302. — = H — ~ SUB CODE
+ae ES 2 : Scena
+A202) F (2an_2 3 [ tk 5 OBR @®_ ©
+icsozi272) RF signal 8% : ) > ep . 6a Q| Teal @) &) ©
+waveform shaping ' (23) | 16308, 5 £306 Oo® 1C706 a409
+1c301 1¢302 CR PR EE CRPR : ee CR R326 46 ©
+SVITC4OHOO4P SVINJMO82D 1 G Ee (On _
+= ae ee ee 8| °
+Pp Ig
+i vt
+Ive O hg b de fac °
+e R502 acbd iain PCK nave
+47 100K (48) x
+itch Audio circuit D422
+= —— wales
+1€804(1/2)
+ne i+ 3 1 46 aN BOO! o 5 C808 RBI3
+as 8 : hy | levlo0 226
+Ss wy : ran
+a Trae
+7 2 fe) H 8 ty
+x
+. vm ai
+MA4056 2 ° 18
+\cso3(2/2) Js [4 [3 Tease
+1
+= 1
+—-S aS icsol 8= ©>S R808 1
+88 88 ~SVIPCM53uP-V 88 g8 aK |
+0X. Bx |
+FOLK ae Be \
+defgh a3 @BQO) cn7o1
+Ad et
+[ow] Pao 1
+= ) Von i | IPFLAG @2
+SK [ee re [016 _ 1C803,804,806
+rv (4) EFM | [dis @9 .
+: | _"°5) “sack —| [pia 68 SVILM833NA
+u L pe suse § 018
+) rsiz_|2| diz 6
+as ee Te ee
+}—___» (3) cick | S| “p10
+CR OD rca ° ee 7 5 1c806(172)
+: $  W)wue2 ] Ge 6 ——
+»s id TRON |@ {7 6 | Lpreoz
+a Ral2 390
+w ee 'S 4 3
+3 (pa
+a =|
+fo} | 03 @&—__+4
+= (bz ——
+G{_pi_ @&
+
+3)
+
+R821 390
+
+LOGL ©&
+4
+53)
+
+OG
+[| xtz_ @
+
+1€802,805
+
+SV Ip PD4053BC
+
+D/A Converter
+
+Q407
+
+p4z0 psoz
+MAI65 MA4056 2SC3311
+
+« LSI Module :
+| zt | ae | es | eaes [ee] e7{ ee~s: [| 42 | 43 faalas
+
+0.23 usec 36 psec 0.23 psec . 16 msec
+6 (452M E7 lo] ool 7 ; oe (432MHz)| |-Omsec 1, | | 37) '36usec | | 22-7usec 44
+LI, MM, a2 | L | o| mr444 4.4 ann nn’
+. fo) Tr 3.4Vp-p | O.2 usec Jul Tf Oo ° ° 4-6
+° DIV O2msecDIVi Sysec,DIV 2Opsec, DIV | |36yusec
+
+136 psec 50 psec
+(7.35kHz) DveDIV
+

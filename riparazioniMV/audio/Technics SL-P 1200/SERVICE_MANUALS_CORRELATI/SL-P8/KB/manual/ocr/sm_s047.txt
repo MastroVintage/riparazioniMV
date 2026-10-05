@@ -1,0 +1,71 @@
+7.35kHz) 1c501
+SxS ¢ , Spindle motor drive AN6637
+
+{SV
+
+136us
+(735 kHz),
+
+5
+
+Ls
+
+nporator|
+
+Hall element
+signal process-
+ing circuit
+
+Output drive
+circu
+
+15V
+
+Hall element
+
+1C408 1C408
+
+m@ PACKING
+
+1. Put a soft cloth under the unit to protect
+
+Ica1e it from scrathes.
+° .
+AN6682 2. Turn the lock shaft 180 clockwise.
+Pitch control 3. Turn the lock screws (about 5 to 6 times)
+clockwise.
+S54O0kHz 1
+15Vv
+;
+2
+oF 5V Lock screws
+(178)
+A
+LOOK
+IC417 ~_ a | SCREW Lock shaft
+D PR @ 6 8 Fa PR o 13. A
+pa) 172)),, 8 ia “t@y
+3 cR cR CR
+OS OkHr 7 a x 12 ©@ FREE
+~ 5V oO
+IC416 cae tical?
+x=
+EY 3 3|
+L rh o
+VR403 o
+
+Reference re [ aug L Phose i
+frq. adj. - comporotor
+Pitch control - 1c41)L.P.F 1c419
++6% 1c413 ieale 1c4l2 13
+
+°
+($652) f
+Pitch selector 7 A3
+
+Al
+
+Tape
+
+SC _ fllnrhl eoalart
+

@@ -1,0 +1,58 @@
+L.P.F./Buffer Amp Circuit
+
++15V 1€811 TLO82 1807 TLO82
+R811
+
+from deglitch
+circuit IN
+
+wm
+=
+Oo
+
+—
+|
+
+from system
+
+D085}
+
+S
+microcomputor = |System LINE
+CN702 4 ——= = microcomputor
+EMPHA 7 CN701 @
+
+l MUTE
+
+Rch
+
+from deglitch Rech ——
+
+Fig. 10-6. L.P.F Buffer circuit
+
+The signal output from deglitch circuit is of stepped
+waveform as in Fig. 10-7, therefore it is attenuated by
+over 20 kHz by the low pass filter circuit consisting of
+LPF801 and IC811 and is changed back to the original
+recorded audio signal as in Fig. 10-8 and is delivered
+
+to LINE OUT after impedance change by IC807.
+
+IC807 (analog switch), C815 and R815 set up a de-emphasis
+circuit that is controlled with the emphasis signal of
+system microcomputer (MN1564). When the emphasis control
+data contained in Q channel of the disk is "0001", CN702
+pin (4) goes "H" to de-emphasize the output signal deliver-
+ed_to—IC811. pin (Jo).
+
+RL851 (relay), Q851 and 853 set up a muting circuit that
+is controlled with the mute signal of system microcomputer
+and DLY+5V. DLY+5V becomes +5 V about 140 ms after power
+switch ON. Mute signal is at "L" in play mode but at "H"
+in other modes, turning RL851 (relay) OFF.
+
+SS
+
+Fig. 10-7. LPF801@pin input waveform Fig. 10—8,. IC8t1@ pin output waveform
+
+— 110 — : = Hil =

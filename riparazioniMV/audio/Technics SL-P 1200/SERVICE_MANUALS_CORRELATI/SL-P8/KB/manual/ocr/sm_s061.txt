@@ -1,0 +1,58 @@
+The operation control circuit involves operation controller
+(MN1564PCL) as the main component. LSI MN6614 (IC701)
+demodulates the control information from EFM data and
+transfers it to the operation controller.
+The operation controller controls the traverse motor and
+display microcomputer with those signals for the purposes
+of play time display, track No. display and bar graph dis-
+play.
+In addition, there are sensors and timing ON/OFF signals
+such as follows:
+Sensors
+1) Innermost periphery detection (REST):
+
+To check if PU is at the innermost periphery of disc.
+
+2) Outermost periphery detection (END):
+To check if PU is unable to go beyond the outermost
+periphery of disc (60 mm in radius).
+
+3) Disc holder open/close detection (OPEN, CLOSE 1, 2):
+To check if disc holder is open or closed.
+
+Timing ON/OFF signals
+1) Laser ON/Turntable and focus servo ON command: (LD/TT/Fo ON)
+2) Tracking servo ON command: (TR ON)
+
+3) Muting relay ON/OFF command: (MUTE)
+
+4) Emphasis ON/OFF command: | (EMPHA)
+
+5) Traverse REV/FWD command: (REV/FWD)
+
+6) Kick timing command: (KICK)
+
+7) Kick direction command: (KICK F/R)
+
+8) Attenuation ON/OFF command: (ATSB)
+
+There are also timer play selection, auto pause selection,
+
+synchro record control signal output, key matrix remote-
+control decoder, and various display functions.
+
+2-2. Circuit around operation controller
+1. Loading motor drive circuit
+
+1C612
+Operation control
+MN1564PCL
+
+1C604
+
+$V 1BA6209
+
+Loading motor drive
+
+Fig. 9 Loading motor drive circuit
+—9—

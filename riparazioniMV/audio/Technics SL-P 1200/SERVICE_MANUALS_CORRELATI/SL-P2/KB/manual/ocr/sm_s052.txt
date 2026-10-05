@@ -1,0 +1,69 @@
+me
+5 <t
+ed
+Zz
+ot
+joe
+an
+
+10. Réglage du circuit d’asservissement de phase (PLL)
+
+1. Placer le dispositif de verrouillage sur le mode “EJECT”
+
+(éjection).
+
+2. Raccorder le canal 1 et le canal 2 de l'oscilloscope a
+TJ701 (FCLK} et 4 TJ702 (CLDCK) sur la plaquette
+a circuits imprimés 01.
+Réglage de |‘oscilloscope:
+
+FCLK
+
+Tension....... 2V
+
+Balayage.....- 20us
+
+Entrée Sees C.A. CLDCK
+Trigger .... 0. Canal 1 + Canal 2 (NORM)
+
+Mode .......- ALT
+
+3. Raccorder la broche 13 de 1C301 sur la plaquette a
+circuits imprimés 01 a fa masse (GND).
+
+. Régler L301 (Oscillateur commandé par variation de
+tension), de telle sorte que l’onde de l’oscilloscope soit formée telle qu'elle est montrée ci-dessous.
+
+. Aprés la mise au point mentionnée ci-dessus, retirer le fil de court-circuitage de !’étape 3).
+
+. Maximaliser VR501 (11T) en le tournant complétement dans le sens des aiguilles d’une montre.
+
+. Installer le disque et appuyer sur la touche “PLAY” (audition).
+
+_ Sur le mode d’autition, raccorder TJ501 (11TMODE) sur Ja plaquette a4 circuits imprimés 01 ‘a la masse (GND).
+
+Sur le méme mode d’oscilloscope que celui de |’étape 2), régier VR501 de telle sorte que l’onde de I‘oscilloscope
+soit formée comme il est montré ci-dessous.
+
+| i H
+Faire coincider les centres des largeurs
+d’impulsions des deux formes d‘ondes.
+
+£
+
+ooaonaoa nn
+
+11. Vérification du fonctionnement de l’audition aprés l’ajustement
+
+Vérification de la recherche par saut
+1, Faire jouer un disque normal.
+2. Appuyer sur la touche de saut et vérifier si la recherche par saut est obtenue. (Marches en avant et en arriére)
+Vérification de recherche manuelle
+1, Faire jouer un disque normal.
+2. Appuyer sur la touche de recherche manuelle et vérifier si une recherche manuelle facile peut étre obtenue a des
+vitesses faible et élevée. {Marches en avant et en arriére)
+Vérification des défauts
+1. Faire jouer la plage 12 du disque d’essai et vérifier s'il n'y a pas de bruit ou de zone de silence du son,
+(Zone de piste noire)
+2. Faire jouer la plage 14 du disque d’essai et vérifier s’il n'y a pas de bruit ou de zone de silence du son.
+(Impression par touche)

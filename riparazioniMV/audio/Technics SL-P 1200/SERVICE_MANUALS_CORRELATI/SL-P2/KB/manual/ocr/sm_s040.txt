@@ -1,0 +1,76 @@
+| Adjustment points |
+
+e Servo gain adjuster e 03 (Optical servo) P.C.B.
+
+@ @OSCIN
+
+iGND
+
+——
+
+Focus gain adj.
+
+VRi02 {}
+= Focus balance >
+adj. BT101
+comon_| > EEN U
+Focus offset
+adj. Pe T1903
+U] BT102
+(vRros| —+-{] Ts
+Tracking ~
+balance adj. Tracking
+gain adj,
+
+Tracking offset adj.
+
+e 01 (Main) P.C.B.
+cc —
+
+CN804 _CN803
+C3
+
+PCK
+
+44
+LSI Module cnz01
+
+301 ¢q
+
+d
+ia
+(VCO Adj.) CLOCK
+RF GND CN5O'
+
+T3403 13 pin
+
+3 a R311
+& r304 ( Qrs VR5O1
+q iS)
+(11T adj.)
+
+; DROPOUT
+SS EE RE
+ra) Ss .
+: Faq (Red wire)
+2
+| 3
+ss
+6 {Blue wire) a
+
+TJ501
+
+C
+)
+[] ica: 11T MODE
+Q
+0
+
+CN401 CN402 CN403 CN404
+
+CN407
+
+CN406
+
+CN405
+

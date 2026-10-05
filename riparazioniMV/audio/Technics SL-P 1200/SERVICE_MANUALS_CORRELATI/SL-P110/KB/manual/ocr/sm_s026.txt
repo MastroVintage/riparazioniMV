@@ -1,0 +1,27 @@
+@ CIRCUIT BOARDS AND WIRING CONNECTION DIAGRAM
+1 2 3 4 5
+
+AC IN
+@For U.S.A. and Canada. (120V__60Hz )
+
+A RONZCOs! a2 PA Buh Bbw SP RANSFORMER |
+
+SE
+
+L_]
+—
+@For United Kingdom, Australia and ( 220V or 240V 5OHz)
+Continental Europe.
+ROIZC 1424344. Sra6 of BER ORANSFORMER |
+-- ss SS
+
+‘SUPDETZ ~~~
+
+AC IN
+@ For Others. (110~127V/220~240V_50/60Hz |
+
+ROIZCOs 1s 203s4e STE PAYER TRANSFORMER) = ual
+C2 i —
+
+BT
+

@@ -1,0 +1,130 @@
+és er eeven + Operation of MN6612
+
+<15 >
+cs8lo
+CIRC Control SVIHD74LS04P
+
+D/A data
+
+mS
+tT Sq Von | - fezbaqag3z}-— a 3x Se
++ 4 ax
+—- Q ——4palc2 paTA 2 oalagli- bts. =* =o
+—b——pslee oatagl ca DATAMBO—F— CY i 01d 08
+
+MN6612 functions to perform generation of system timing, de-
+interleave, C2 unscramble and mean value interpolation.
+
+R802 75}
+
+3 r = any
+e z =e — ae coma aL + 38 (1) Generation of system timing
+x — ~ = TERRFLAg| «= (C2. DATAR|28 G IC810 41K
+u + 1 ' . . . . .
+2 ain ee al Various basic timing signals used in MN6612, MN6611 and
+Berry 25 | MN6613 are generated on the basis of 2.16 MHz clock obtained
+0
+
+{| DISA D14 |24
+aod (254-2402) Cm through frequency dividing of 8.64 MHz clock oscillated by
+RT RATD p22
+
+The data are handled between MN6613 and external RAM.
+
+8 4 4 crystal oscillator.
+2 =I T [| 45 DIA D10 > te © if
+Kis Seer ie) tt
+ols 1} + ual D110) S| 09 Ce 2 © | ;
+= g =] | me il = aod] 8 | 08 1: |— re 2 (2) De-interleave
+++ - 48| DIA8| w@ | D7 WS er BSS a |
++ 49] DiA7| S [De [x en tio. : ; ; } ;
+2 : Q DIAL, | Be SP 8 a This is to control the time axis to change the data inter-
+4 at e 03 a—++— 2 | leave during recording back to the original arrangement.
+
+MN6612 generates the address signal of the external RAM.
+[
+(3) C2 unscramble and mean value interpolation
+{iL This is to control the time axis to change the C2 data
+
+scrambled during recording back to the original arrangement.
+Also performed is data conversion for the purpose of digital/
+analog conversion.
+
+aD Mean value interpolation is to make mean value data from
+adjacent data with respect to uncorrected data.
+
+ic708 SVIHM6IIGP-4
+
+”
+il ‘
+
+i"
+Random access | ¢—j-—»—_—— Operation of MN6613
+Fa ie SS Si = -
+| e701 | erable | al = 93 al = MN6613 functions to perform error detection and correction as
+saat 3.5 ° Cl decoder and C2 decoder.
+= C1, C2 decorder ||
+
+(1) Cl decoder
+
+It detects and corrects errors by parity P signal from data
+after Cl unscramble.
+
+(2) ~~" C2" decoder
+
+MN6613
+
+It detects and corrects errors by parity Q signal from data
+after de-interleave.
+
+The flow chart of error correction is shown in Fig. 9-10.
+
+1C 703
+
+C1 decoder C? decoder Flag judgement
+
+a cB r :
+- |flag
+
+Double error| _|
+
+~ Random access [ rH
+
+memory ae
+
+DAIA [S|
+
+136 ys (7.35kHz)
+4.
+
+]
+
+To DAC
+0
+
+IC7I0
+SVIHD74LS125 From C1
+
+in 12 unscramble
+
+== —— Interpolation
+Isolation
+
+136 us (7.35kHz)
+
+IcHo (Vs)
+
+‘ lat
+4 Error correction From EFM demodulator
+
+imal hi on =
+136us (7.35kHz) 3.9us (254.2kHz2) (0) 36 _3 2 4.2 (i
+
+al
+
+correction
+
+Fig. 9-9. MN6612, 6613 with other circuit Fig. 9-10 Error correction
+flow chart
+
+— 102 — — 103 —

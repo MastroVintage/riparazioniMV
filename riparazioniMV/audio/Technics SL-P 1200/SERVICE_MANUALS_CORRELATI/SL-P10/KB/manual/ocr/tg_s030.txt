@@ -1,0 +1,38 @@
+r PLAY key ON
+
+FO.ON
+
+(System microcomputer signal)
+
+i
+I
+I¢103 19 eee oe
+
+(TRACK)
+V. REF intersects point
+1C103 6)
+TE , V.REF
+' !
+I
+tf
+1€103 24 '
+(RF.REAL) \
+i)
+|
+
+1€103 (Track is detected when
+(TRON) TE signal intersects with
+, : V REF and when RF REAL goes "H".)
+
+RF signal o-oo na
+
+|
+I
+10102 40) eine S”t*~CS
+
+“| pLay mode
+
+Fig 4-12. Operation timing with IC103 and IC101 shifted from
+STOP to PLAY mode
+
+=—33—

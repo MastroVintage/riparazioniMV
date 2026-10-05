@@ -1,0 +1,264 @@
+@ To return to the beginning of the
+present track or any previous track
+(backward skip)
+
+Example : While listening to the third track the
+backward skip button is pressed to
+return to the beginning of that track
+and then again to return to the begin-
+ning of the second track.
+
+{
+a sus com oe ee ms ese ms ce ee cs ee swe we ee ee es eset
+(Standby) (Auto-return)
+
+eThe pickup skips the same number of tracks as the
+number of times the button is pressed.
+
+Watch the display to be sure the desired track has been
+located.
+
+¢During program disc play, the pickup moves to the beginning of
+the previous programmed track when the backward skip button
+is pressed.
+
+eThe pickup returns to the previous track (or programmed track)
+each time this button is pressed.
+
+®To return quickly to the beginning of track 2 when listening to
+track 4, quickly press the backward skip button three times.
+
+Remember that for backward skip, the present track is included
+in the count.
+
+Holding down the skip button activates the quick skip mode.
+
+6. Index skip play
+(Possible during disc play or
+pause mode)
+@ To move the pickup to the beginning
+of indexes in the forward direction:
+For example: With a disc having seven tracks in
+which track 3 has 5 indexes, press
+the forward index skip button once
+while playing index 2 of track 3 to
+move ahead to the beginning of
+index 3.
+
+521] Press index skip button.
+
+' 1 1 t
+
+n 4 { 1 > i
+
+: @SEEN 11213 1415; a
+t
+
+'
+{ !
+t |
+t |
+! |
+
+|
+
+here.
+
+2g,
+pressed !
+two more |
+times. (Auto-return) .
+
+— oe em ore te oe ee ee
+
+SL-P3 SL-P3
+
+This operation is possible only when playing a disc that has
+indexes.
+
+The pickup moves to the beginning of QNSHEX) 3.
+
+To move on to QNSHEX) 5, press the forward index skip button
+two more times.
+
+While playing index 5, if the forward skip button is pressed, the
+pickup will move to the beginning of index 5 and repeat the
+index.
+
+@ To move the pickup to the beginning
+of indexes in the backward direction:
+For example: To return to the beginning of index 5
+while that index is being played,
+press the backward index skip but-
+ton once.
+
+Press index skip button.
+
+P germpemen mm 7
+. 1
+» GSE 1 1 i 2: 334165! :
+
+Pressed 4
+
+here. Dy
+x ; Kw
+If button is then
+
+pressed two more times.
+
+(Auto-return)
+
+=e eee ee ee
+
+The pickup returns to the beginning of (N$DEX 5.
+To return to the beginning of (NSDEX) 3, press the backward
+index skip button two more times.
+
+While playing index 1, if the backward skip button is pressed, the
+pickup will move to the beginning of index 1 and repeat the
+index.
+
+7. Manual Search Play
+
+Manual search play can be performed when the player is
+in the play or pause mode.
+
+@ To play the disc from a specific point
+
+ePress the forward or backward search button to
+move the pickup forward or backward.
+The pickup moves slowly at first and then rapidly if
+one of the search button is held down for more than
+about 3 seconds.
+
+Release the button when the desired point has
+been reached (as shown by the display).
+
+elf a search button is pressed while a disc is being played,
+sound from the disc can be heard as the pickup moves.
+The output level at this time is decreased by 12 dB (1/4)
+compared with the jevel during standard disc play.
+
+(Forward search)
+
+(Backward search)
+
+eDuring program disc play, the pickup can only be moved
+between the beginning and end of the track currently being
+played using the search buttons.
+
+eSearch is also possibie within a track sector A and B during A-B
+repeat play; however, the search function continues beyond
+the B point of the sector if the search button is kept pressed. By
+pressing the play button, replay will start from point A of the
+sector.
+
+8. Repead Play
+
+mEntire disc and programmed track
+repeat play
+
+Press the repeat button before beginning disc
+play.
+
+® Repeat indicator" "jHuminates and the repeat play
+mode is activated.
+
+ePress the repeat button again to cancel repeat
+play. (Pressing the stop button also cancels
+repeat play, but this also stops disc play).
+
+@ Indicator goes out.
+@{f the unit is in the program disc play mode, only the
+programmed tracks will be played repeatedly.
+
+m@ Repeat play between points A and B
+(setting is possible only during disc play)
+
+1, While a disc is being played, press the A-B
+repeat button.
+
+eA ” repeat indicator lights to show that the starting point
+(A) for repeat play has been set.
+
+2. Press the A—B repeat button again at the point
+where repeat play is to end.
+
+er " repeat indicator lights to show that the ending point
+(B) has been set.
+Press the A + B repeat button again to cancel this repeat mode
+(repeat indicator goes out). The A-B sector can be played
+repeatedly any number of times.
+
+eAfter specifying a track A-B section, the A-B repeat play mode
+will be cancelled if the forward or backward skip button is
+pressed.
+
+9. The Music Scan Function
+
+@ Use this function to quickly scan the
+contents of a disc or the songs that
+are programmed.
+
+Press the music scan button.
+
+The music scan indicator illuminates and the first 10 seconds of
+each track on the disc is played. After the beginning of the last
+track has been played, the music scan indicator turns off and
+disc play begins from track one.
+
+®To stop music scan and resume normal disc play from a point,
+press the play button.
+
+Press the pause or stop button to stop music scan before the
+last track has been reached.
+
+When the music scan button is pressed in program disc play,
+the first 10 seconds of each programmed track is played.
+
+@ Adjusting the music scan interval
+
+@ The numeric buttons can be used to change the amount
+of time that each track is played during music scan
+between one and 99 seconds.
+
+For example, to change the interval to 5 seconds:
+
+1. Press the number 5 of the numeric button.
+
+2. Press the music scan button.
+
+®@ In this case, music scan operation will immediately begin
+and the first 5 seconds of each track will be heard.
+
+® The music scan time returns to the standerd 10 sec.
+setting each time power is turned off.
+
+10. Auto cue play
+
+In this mode, the player is automatically switched to
+the pause mode at the beginning of each track
+during normal or program disc play.
+
+@Set the timer play/auto pause/auto cue selector to
+the auto cue position.
+
+timer play _ [oft uto pause
+
+uto Cue
+
+Cr Td
+
+eThe player is automatically switched to the pause node just
+before the beginning of each track. At this time the cue
+standby indicator on the display pane’ illuminates toshow that
+the player is in the standby mode.
+
+eTo continue disc play, press the play button; dis¢e play will
+begin immediately.
+
+elf the selector is set to auto cue while a disc is beitg played,
+auto cue will be activated at the end of the next tracck.
+
+Return the selector to the position when theatato cue
+function is no longer needed.

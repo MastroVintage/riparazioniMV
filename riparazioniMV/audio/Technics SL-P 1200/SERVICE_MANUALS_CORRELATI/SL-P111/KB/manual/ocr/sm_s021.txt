@@ -1,0 +1,97 @@
+m@ SCHEMATIC DIAGRAM 1 2 3 4 5 6
+
+(This schematic diagram may be modified at any time with development of new technology.)
+
+OPEN/CLOSE cnao2 e402
+Notes: earn 9 2} 2SD973A Ral? 120K on \caoa OPTICAL PICKUP
+1. $1. : Power switch in “on” position. Poo) ANess2&
+2. $101 : Disc holder open/close detection switch. i
+3. $401 : Open/close switch. A Pe . MOTOR DRIVE SPEED SENSOR a
+4. $402 : Repeat switch. Lm) oaos i} aook
+5. $403 : Time mode select switch. LOADING 2SB793A cnto3 a nop rey YY YS YS
+6. $404 : Memory switch.
+7. $405 : Backward skip switch.
+8. $406 : Forward skip switch.
+9. $407 : Stop/clear switch. aos
+10. $408 : Play/pause switch. REMOTE oS
+11. The voltage value and waveform are the reference voltage of this unit measured by DC | lo
+electronic voltmeter (high impedance) and oscilloscope on the basis of chassis. Oo alal, 161,181
+Accordingly, there may arise some error in voltage values and waveforms depending upon LT 1s; SYSTEM CONTROL 2SD973A
+the internal impedance of the tester or the measuring unit. B Tse 0409 Ic4ol
+* The parenthesized are the values of voltage generated during playing (Test disc 1kHz, 0408 e409 MNIS26IPOU 9142, 162,182
+L+R, 0dB), others are voltage values in stop mode. UN4112 UN42I2 9 2SB793A
+12. Important safety notice:
+Components identified by A, mark have special characteristics important for safety. When on
+replacing any of these components, use only manufacturer's specified parts. gS REMOTE DATA Vol Be Iclo4 10K
+13. —————: Positive voltage lines and negative voltage lines. PROCESSING =
+
+Audio signal lines.
+
+RIT70 wAzo |
+
+100 14 <4
+lay 0.5 a
+Kote
+Wiel [> acs
+Qi62 3.9K
+
+Caution!
+
+IC and LSI are aensitive to static electricity. Cc
+Secondary trouble can be prevented by taking care during repair.
+
+Cover the parts boxes made of plastics with aluminum foil.
+
+Ground the soldering iron.
+
+Put a conductive mat on the work table.
+
+Do not touch the legs of IC or LSI with the fingers directly.
+
+@ Internal connection of FL
+
+¢ Grid connection diagram ; cos
+
+/CLOSE
+A.W
+
+Teese Nays we
+
+$40 PLAY
+4 5 ° o
+€4) Voo 0.236ps Vss C)
+
+REPEAT PAUSE
+po
+
+a 3
+oO S
+2 5 g
+$403 ~S > | =
+TIME -33
+ams B
+
+$405 | $406 q c MNI280 -R [7
+R.SKIP | F.SKIP
+fee] [ae ==
+TL edie —
+“8 PO
+9 & es
+= iat at i
+0406 P 2
+E S wares + 3 oe
+d
+¢ ’) UN4I12
+a
+KEY MATRIX R389 270K
+qghbijcktdmenofopg a
+> Le
+-0.6 t0 4
+gui ioe eT UI
+BEREEEEEERe zs Ic381 j
+LOQOOODOOOOOOOOOHOOOOOS) AN6552S
+F bdaonoddead 66606666bb¢ bd SPINDLE MOTOR CONTROL
+' 66h g 56 f @ 46 6 36 ¢ b 2G 0 IG NCF F 0354
+2SD973A
+
+— 29 — — 30 —

@@ -1,0 +1,43 @@
+7—2. Configuration of RF data pick-out circuit
+
+VEST
+EFM
+
+Data .
+selection
+
+RF
+signal
+
+Waveform fF | t Aww ipy Foo, fo fT g77
+shaping
+Drop-out
+detection
+
+PLL Lock
+range detection
+*SW1l ... Connected to B when drop-out is detected.
+
+SW2 ... Connected to B when it is outside the PLL
+lock range.
+
+Fig. 7-3 Block diagram of data pick-out circuit
+
+The block diagram of data. pick-out circuit is shown in Fig.
+7-3. The RF signal from optical PU first enters the waveform
+shaping circuit.
+
+Next, the signal passes through two SW circuits; both are
+connected to terminal A during normal playback; and the sig-
+nal enters PC (phase comparator) of PLL circuit. The VCO
+free run of PLL is bit rate signal, and fi=fo when PLL is
+locked, therefore PCK synchronizes with the input signal.
+
+PCK controlled by PLL is used to pick out data from RF signal
+whose waveform has been shaped. SW, temporarily holds PLL by
+switching the data so that PLL is not disturbed in case of
+
+drop-out. SW. shifts PLL to search mode for re-lock if PLL
+comes outside the lock range for some reason.
+
+74 —

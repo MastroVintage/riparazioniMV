@@ -1,0 +1,101 @@
+. Offset-Justierung des Signalausfalls
+
+. Das Oszilloskop an die nachstehenden Punkte anschlie&en.
+
+CH1 (Kanal 1)
+CH2 (Kanal 2)
+
+TJ101 (03-Platine)
+TP103 (03-Platine)
+TJ401 (01-Piatine)
+Einstellungen am Oszilloskop:
+
+1V (beide Kanale)
+
+Trigger EXT. NORM
+
+. Programm 13 (0,5 mm-groer schwarzer Punkt) auf der
+
+Testplatte abspielen.
+
+. Die Wellenform von CH1 auf dem Oszilloskop beobachten
+und VR103 so einstellen, da& die Wellenform-Amplitude
+nahe dem Triggerpunkt auf ein Mindestma& reduziert
+
+wird.
+
+TJ101
+
+TJ103
+
+Trigger [|
+
+Falis sie nicht auf ein MindestmaR reduziert wird, so einstellen, dal Unter- und Oberteil der Wellenform beinahe
+
+symmetrisch sind.
+
+. Die Wellenform von CH2 auf dem Oszilloskap beobachten und VR106 so einstellen, da& die Wellenform-Amplitude
+nahe dem Triggerpunkt auf ein Mindestma& reduziert wird. Falls sie nicht auf ein Mindestma& reduziert wird, so
+einstellen, da& Unter- und Oberteil der Wellenform beinahe Symmetrisch sind.
+
+. Justierung auf “‘bestes Auge”
+
+. HF-Signal auf dem Oszilloskop beobachten.
+
+. Das Oszilloskop an die nachstehenden Punkte anschlieRen
+
+CH1 (Kanai 1) © TJ402 (01-Platine)
+CH1 (Kanal 1) © TJ403 (01-Platine)
+Einstellungen am Oszilloskop:
+
+AC (Wechselspannung)
+
+. VR102 so einstellen, daf$’ das Augenmuster des HF-
+
+Signals am weitesten offen ist.
+
+. Das GerateschioR in die EJECT-Betriebsart stellen.
+. Kanal 1 und Kanal 2 des Oszilloskops an TJ701 (FCLK)
+und TJ702 (CLDCK) auf der 01-Platine anschlieRen.
+Einstellung des Oszilloskops:
+
+AC (Wechselspannung)
+Trigger CH1 + CH2 (NORM)
+
+. Stift 13 von 1C301 auf der 01-Platine an Masse ansch-
+
+tieBen.
+. L301 (VCO) so justieren, da& die Oszilloskopwelle so
+geformt ist, wie nachstehend gezeigt.
+
+Die Pulsbreitenmitte beider Wellenformen
+aufeinander ausrichten.
+
+. Nach der obigen Justierung ist die KurzschiuBbriicke (in
+Schritt 3) zu entfernen.
+
+. VR501 (117) durch Drehung im Uhrzeigersinn bis zum Anschiag auf Maximum einstellen.
+
+. Die Platte auflegen und die Taste PLAY driicken.
+
+. Inder Wiedergabe-Betriebsart TJ501 (11TMODE) auf der 01-Platine an Masse anschlieRen.
+
+. In der gleichen Oszilloskop-Betriebsart wie in Schritt 2) ist VR501 so zu justieren, da& die Oszilloskop-Wellenform
+
+so wird, wie nachstehend gezeigt. —
+
+oon oo
+
+11. Uberpriifung des Wiedergabebetriebs nach der Justierung
+
+Priifen des Uberspring-Suchlaufs
+1. Eine gewdhnliche Platte abspielen.
+2. Die Uberspring-Taste driicken und iiberpriifen, ob Uberspring-Suchlauf ausgefiihrt wird. (Vorwarts und riickwarts)
+Priifen des manuellen Suchlaufs
+1. Eine gewohnliche Platte abspielen.
+2. Die Taste fiir manuellen Suchlauf driicken und iberpriifen, ob glatter manueller Suchlauf mit niedriger und hoher
+Geschwindigkeit ausgefiihrt werden kann. (Vorwarts und riickwarts)
+Priifen auf Defekte
+1. Programm 12 der Testplatte abspielen und Uberpriifen, da& kein Tonausfall oder Rauschen auftritt. (Schwarzer
+Punkt)
+2. Programm 14 der Testplatte abspielen und iiberpriifen, da kein Tonausfall oder Rauschen auftritt. (Fingerabdruck)

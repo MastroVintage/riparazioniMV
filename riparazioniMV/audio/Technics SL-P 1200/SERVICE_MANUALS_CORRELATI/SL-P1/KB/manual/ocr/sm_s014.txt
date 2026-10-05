@@ -1,0 +1,71 @@
+m@ PRINTED CIRCUIT BOARD AND WIRING CONNECTION DIAGRAM
+
+(eower SOURCE PC.B.
+BT |
+
+Power -
+trans former
+
+(eT main Pca.
+CN8O4 CN803
+
+Optical Pick-Up
+
+PCK
+MOTOR COIL PC.B.
+
+| of MEM CN701 11
+L.S.1. Module P.C.B.
+owntel) =)
+[i ---~---~= 10]
+
+7Pin
+Vee o-
+{eke} oPTicaL SERVO PC.B. o|
+
+(Head amplifier) CLDCK CN653 Power Source (06)PCB.
+TJ701
+@ Brown ——~ D3, Cathod
+@ Red —— Q1,Base
+
+FCLK
+
+CN412 RFGND
+| CN501
+
+: DROP OUT
+ar TJ401 =) cnes4
+TJ402 oe
+CN410 aa E‘cness
+CN411 CN652
+I
+MT CN65I Main(Ol) PCB.
+White @ Brown ——— 1C401,51 Pin
+-1*] cnaoe TJ501 @Red —~ " 450"
+6 white ao @ Orange——- ” 449"
+Traverse TF }enaos @ Yellow —- ” 148”
+motor @) ® @ Black ——= ” ,47”
+@ Blue ——~ ” ,46"
+Brown © CN407 Purple —_——_ a” »45"”
+Gray ——- “ 44"
+Gray CN406 CN652
+S102. _ Brown | Loading Hi @ Brown —— 1C401 ,43 "
+(End) X—J 2| motor CN4O| CN402 CN403 CN404 Red ——— (q42»
+White | e ’
+[i---==--<-8] [i------"e] [1---------8] [8] Orange ——— "41"
+$101 _ White 3 CN40S5 @ Yellow —_—-_ “5 64" 5Y)
+(Rest) =—" _— 4 Black ———= CN4IO» 2”
+Blue ——= IC40!» IGND)
+$103 White 2 CN654
+(Close) 1° od @ Brown ——— 10401, 37”
+Orange LC) @ Red —+ 1C402, 6”
+White @ Orange ——— 1C401, 38”
+pen Fesoe F608 @ Yellow —~ 10402, 5”
+(open a Red CN6555
+© Brown ——~- 1C505, 2”
+@Red ——~ 1C502, 5”
+@ Orange ——— wy 7
+O4 Ramee DISPLAY P.C.B. @Yellow—= ” , 4”
+(3) Not Used
+
+—25— —26—

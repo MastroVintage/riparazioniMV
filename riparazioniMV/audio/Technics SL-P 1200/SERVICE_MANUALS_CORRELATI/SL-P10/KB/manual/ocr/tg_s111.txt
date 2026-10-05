@@ -1,0 +1,22 @@
+System operation up to TOC reading
+
+open/closé
+
+LD/TT-ON
+Search display
+
+YES
+
+forward
+
+YES
+Traverse step
+FO ON
+
+TRACKING ON
+Traverse PLAY
+TOC reading + RAM storing + Display
+
+Fig. 11-16 Flow chart up to TOC reading
+
+— 134 —

@@ -1,0 +1,182 @@
+Note:
+
+ADJUSTMENT OF OPTICAL PICK-UP
+
+Before adjustment of the optical
+
+pick-up, following this chart.
+
+Out of Focus Servo
+
+Check the DC voltage
+{5V) from CN102
+pin 1 on optical
+servo P.C.B.
+
+YES
+
+Visually check the
+operation of the
+focus lens up-down
+about 5 sec.
+(no nead a disc)
+
+YES
+
+Check the DC voltage
+of R107 both ends of
+optical servo P.C.B.,and
+confirm the potential
+
+difference about 0.5V.
+
+YES
+
+Check the Focus
+balance from TJ101 on
+optical servo P.C.B by
+oscilloscope
+(200mV/5ms DIV AC)
+
+YES
+
+P.D.
+Electric circuit
+
+(mainly optical servo
+P.C.B.).
+
+NO
+
+P.D
+A.A.C.
+
+{I
+
+{I
+
+P.D.
+
+1C101, Wire short
+A.A.C.
+
+Check the sawtooth
+waveform from
+CN101 pin 6 of
+optical servo P.C.B.
+
+Check the coil
+
+resistance (3022)
+from CN101 pin 5, 6
+of optical servo P.C.B.
+
+P.D.
+
+If OC voitage is
+about 1.0V, should
+be laser was snaped.
+
+Need a Focus balance
+
+adjustment.
+Refer to page 3.
+
+Connect the oscilloscope to
+TJ402 pin of main P.C.B.
+(500mV/0.5usec DIV AC)
+
+Place the disc into the
+disc holder and apply
+power to the unit and
+select the play mode.
+
+Check the TTON signal
+(L). from CN412 pin 6.
+
+Possible Defect.
+And Associated Components.
+
+P.D.
+Electric circuit
+A.A.C.
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7NO1A
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7NO1A
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7NO1A
+
+Caution:
+it is very dangerous to look at or touch the
+laser beam. (Laser radiation is invisible.)
+
+Focus servo OK”
+(but NO TOC or
+Noisey)
+
+Check the RF best eye
+signal from TJ402 pin
+of main P.C.B.
+(500mV/0.5yusec.
+
+DIV AC)
+
+P.D.
+Electric circuit
+
+YES
+
+(specialy pick-out or
+PLL circuits)
+
+Check the RF
+amplitude (1.5 ~
+3.0Vp-p) from TJ402
+pin of main P.C.B.
+(500mV /0.5usec
+DIV AC)
+
+YES
+
+If tese than 1.5Vp-p
+should be laser diode
+become worst.
+
+Mechanical adjustment
+require.
+
+(Refer to page 23, and
+confirm the RF best
+eye signal).
+
+Replace the
+optical pick-up
+Part No.
+
+SRLPOO7NO1A
+
+YES
+
+Grating adjustment
+require.
+
+(Refer to page 23, and
+confirm the ‘‘N” mark
+waveform).
+
+Replace the
+optical pick-up
+
+Part No.
+SRLPOO7NO1A
+

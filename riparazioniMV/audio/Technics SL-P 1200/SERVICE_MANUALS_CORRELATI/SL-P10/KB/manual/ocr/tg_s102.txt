@@ -1,0 +1,60 @@
+MN6611—6) Pin 150 “s
+(BLKCK) }—-|
+
+600ms l
+MN1564—(7) — . = Loa
+(P10) 80us 8048
+
+MN2114—(0 Pin
+(WE)
+
+uli +— Data is written here.
+
+(20 times)
+
+Fig. 11-10 Data transfer timing
+
+444 8 8 8 8 8 8 8 8 8
+
+a [ear [a [| er
+pe] [we [see [ome [oe [om [se Joo
+
+RAM address Data
+CNT
+ADR
+T.NO(U)
+T.NO(L)
+POINT (U) / X(U)
+POINT (L) / X(L)
+MIN(U)
+MIN (L)
+SEC (U)
+SEC (L)
+FRAME (U)
+FRAME (L)
+ZERO(U)
+ZERO(L)
+PMIN (U) / AMIN (U)
+'PMIN (L) / AMIN (L)
+PSEC (U) / ASEC(U)
+
+Z
+oe)
+
+i=)
+
+©} oo}A)/ Hi a) A] wool)
+
+SO OlD Sl wlaolrala ajiplwlrml|Hio
+
+PSEC(L) / PSEC(L)
+P FRAME(U) /A FRAME (U)
+P FRAME(L) / A FRAME(L)
+
+Elle lLOoOlOolOolololaolaolalajalol/ojoj;o|o
+
+wl rjR| oO]
+
+Table 11-3 RAM address signal
+
+— 123 -

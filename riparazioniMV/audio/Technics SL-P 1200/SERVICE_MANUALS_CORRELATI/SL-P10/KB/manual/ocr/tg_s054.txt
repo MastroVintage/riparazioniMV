@@ -1,0 +1,95 @@
+6. CLV servo circuit
+6—1. Function of CLV servo
+
+Unlike the constant speed CAV (constant-ancular velocity)
+system of conventional analog vlayer, the CLV (constant-
+linear-velocity) system is used for CD control in which
+recording sensitivity is constant in any position of the
+disc.
+
+Therefore, the turntable speed varies according to the play-
+back track position. The recording snced of disc ranges from
+1.2 m/s to 1.4 m/s in the specification. The CLV servo com-
+pares the reference clock frequency divided from X'tal with
+the synchronizing signal detected from the disc in order to
+control the rotational speed.
+
+6—2. Construction of CLV servo
+
+VALID signal
+(Signal from digital demodulation LSI, delivered
+on completion of synchronization of system.)
+
+Turntable AN 6635
+
+Reference
+
+clock from X'tal |
+Synchronizing LiSh6
+signal from diss ©
+
+Programmable
+frequency
+divider
+
+eu t
+
+position
+detector
+
+* Fi is constant signal
+f-divided from X'tal
+(fi=-254.22KHz}
+
+Traverse motor
+drive pulse
+
+{(MN1400)
+
+Fig. 6-1 Block diagram of CLV servo
+
+—~60—
+
+The CLV servo of SL-P10 consists of Rough and Fine servo cir-
+cuits, which can be selected by the switch shown in Fig. 6-l.
+(Fine servo ..... A; Rough servo ..... B)
+
+The system follows Rough servo > Fine servo processes until
+complete synchronization.
+
+Function of Rough servo
+
+If the turntable speed is greatly different from the speed
+corresponding to the playback track position, the demodulation
+circuit is unable to detect the synchronizing signal from the
+disc, and then CLV servo cannot be set up.
+
+Therefore, the rough servo is provided to control the speed
+so that the demodulation circuit is able to operate.
+
+The rough servo is interlocked with the optical PU position
+(to count the drive pulses of traverse motor) to compare the
+varying reference signal fs and FG, thereby controlling the
+rotation.
+
+* fs is the signal obtained by treating fi with programmable
+frequency divider, and it is the reference signal in rough
+servo circuit.
+
+The division ratio of programmable frequency divider is set
+according to the amount of traverse movement converted by
+MN6610.
+
+Function of Fine servo
+
+When the rotational speed is high enough for demodulation cir-
+cuit operation, the selection switch is shifted from Rough to
+Fine servo by the VALID signal.
+
+Fine servo compares the reference clock from X'tal with the
+synchronizing signal detected from the disc, thereby control-
+ling the rotational speed. Therefore, if the linear speed is
+1.25 m/s on the disc, then the signal is automatically played
+back at the linear speed of 1.25 m/s.
+
+= §F—

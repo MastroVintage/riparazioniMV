@@ -1,0 +1,72 @@
+2. ADJUSTING POINT AND TEST POINT ILLUSTRATION
+
+Line out
+
+PLL test
+
+Cleap point for the power supply point
+To Power of serve point adjuster (SZZP1017F)
+--- Red lead wire
+Cleap point for the power supply
+cuit (BT11) .o£ servo gain adjuster (SZZP1017F)
+_ccc- Blue lead wire
+
+‘ic-a02
+J CJ
+
+os
+
+supply cir-
+
+Position
+
+detector CN401
+
+Disc holder
+
+VR106 :
+Focus off- C Tracking error motor drive
+set test
+
+compensation adjuster
+
+To optical point C VR105
+
+Focus offset adjuster
+
+CO VRLO4
+Focus gain adjuster
+CNIO1 TJ102 8 4
+
+VR103
+Tracking offset ( ) CO Tracking offset adjuster Spindle
+
+Test point TJ101 R102 motor drive
+
+Tracking gain adjuster CN401
+
+VR101
+Best eye adjuster
+(PD Balance) PLL
+
+re RF test adjuster
+Jf Shi een
+: ——-} CN102 | wef N301
+Tracking error
+
+compensation [« T1719 VR301
+J 1
+
+test point a
+Short con- TJ302
+
+nector
+x (GND)
+Test point
+
+Control key
+
+Open/Close Repeat Time Memory Skip Skip/ Stop
+search search
+
+Main circuit

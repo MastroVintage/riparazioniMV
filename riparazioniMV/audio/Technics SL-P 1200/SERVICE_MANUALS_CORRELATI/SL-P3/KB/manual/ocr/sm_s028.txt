@@ -1,0 +1,117 @@
+4 5 6 7 8 9 10 11 12 13
+
+«For U.S.A and Canada Power supply circuit
+
+26. S628 : Nemeric (No. 1) switch.
+27. $629 : Output level control switch. (Up) RS 06] SROPOOINOS, ' Ict 1c2 1c3
+28. $630 : Output level control switch. (Down) / Was Boe. SVDS |WB40 AN7EMIS ics AN7SNI5 AN7805
+29. S631 : Timer play/auto pausel/auto cue selector tsa} ¢! 0.01
+
+switch. (cana). cuee Shorted
+
+30. This schematic diagram may be modified at any time with
+the development of new technology.
+
+31. The voltage value, and waveforms are the reference voltage
+of this unit measured by DC electronic voltmeter (high
+impedance) and oscilloscope on the basis of chassis.
+Accordingly, there may arise some error in the voltage
+values and waveforms depending upon the_ internal
+impedance of the tester or the measuring unit.
+
+*The parenthesized are the values of voltage generated
+during playing. Others are the voltage values in stop
+mode. .
+
+32. Part No. with @ mark are not identical between regular ‘son eon
+part No. and repair part No. supplied.
+
+So, when placing an order for repair parts, use the part No.
+
+in the replacement part list of repair parts.
+
+: +B voltage lines vee t Audio signal lines
+
+: —B voltage lines.
+
+Asi 250Vv
+(POWER) T250mA
+
+33.
+
+34. Important safety notice:
+Components identified by A\ mark have special character-
+Istics important for safety.
+
+D60I~609,618~620 pee ee ee
+MAI65 ay pause cue
+
+!
+1 !
+19 09 ooo 9}
+4
+
+peig -4-FF4F- _t
+
+0621~ 625
+LN3G
+
+LED drive
+
+'c602, AN6876
+15 83 72 91 110
+'L LEOS GNO LED4 LEDS LED2 LED!
+
+IN Headphone amplifier
+
+ys
+Nn
+» #8
+i Electron ic SRDPOO3NIO
+a isn San switc volume
+ef UP, OOWN Sw ON control
+in thH2, CdB €903 1evi0 : veya 33° 3. Len
+- B® ee . b, ° y cN903
+Paes Coaraa al Uy osgrl | BS OR Te
+0610 220 - : pH << x a3
+q 9
+‘Ol ae Up ee Oe Se ee —t—
+8 ( >—{) 5) 4 » 2) (fe H
+oon race 28" Cl ame C099). ©-0-O-9
+q Ss Lal '
+33K aa em q icgo2_ |
+3g ° & SVILM8Q3NA
+0628 R627 —AOe'2 RB Tl | ‘ <<]
+° @-Q)
+w om VP O-9-9-2-9-0-@-® Vor?
+et Ere east fey 198
+611,612 Sct 7 ceosiew] — 8x3 og ess 788
+2S0637 Rat |] A® SRS £208, R996 I ° Ren
+eit A ara A O)cn904
+oe arevio, AO 53°
+627,628 0610 ker v 8 ”
+MAI65 ~—s- SVDGL- 9PR4 RS g 35
+86 ro
+a
+Ves 009 COB CO7 CO6 COS,AI3_Al2 All AIO BI3 BIZ BI! BIO, z
+
+N/V Ic6o! uniaoaect ~fl fLi-
+
+SOON 67 0) S5m
+
+MA4056—s MAI65
+
+/ o 45
+Oz DO3 TST RST
+32—£)-O—(5
+ce cr C6 GS G4 G3 G2 G
+oO fm ala oO nm of 7] SRDPOO7TNII
+PASC ieee |e? efeafio
+TRACK INOEX TIME MIN wo SCE 1 1
+H50!1, 592
+OH-00! J
+oe nnn 40614~617 9621622 ‘67pe BT603 A
+MAI65 2580637 AS A3 A2 Al
+0613 a 0614
+SVDGL- 9PR4 UY
+

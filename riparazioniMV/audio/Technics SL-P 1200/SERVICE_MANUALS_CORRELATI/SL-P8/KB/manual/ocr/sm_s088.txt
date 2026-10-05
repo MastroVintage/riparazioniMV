@@ -1,0 +1,64 @@
+P.D
+X401, 1C412
+
+Check master clock (X401) signal
+
+(8.64 MHz) from 1C412 pin 44). AAC
+
+YES
+
+~~ — Check clock signal (4.32 MHz)
+1C412 pin @ 1C412 pin® 1C407 pin © 9
+1V/0.2msec. Div. AC 1V/0.2msec. Div. AC 1V/0.2sec. Div. AC an 6. control from 1C407
+
+P.D
+1C407, 413
+A.A.C
+
+6000 YES
+
+Pitch control ON
+* Operation: VR403 +6%
+
+Pitch control OFF.
+
+YES
+
+1C418 pin @ 1C416 pin © 1C417 pin ©®
+2V/0.5usec. Div. AC 2V/1usec. Div. AC 1V/0.5psec. Div. AC
+
+P.D
+1C407, 417
+A.A.C
+
+Check 540kHz +6% signal
+from 1C417 pin ©.
+
+YES
+
+Check 540kHz +6% signal from rcatg
+1C418 pin @. AAC
+: . a YES
+1C416 pin ®) 1C419 pin @) 1C414 pin ®
+2V/1usec. Div. AC 2V/0.5usec. Div. AC 1V/0.2usec. Div. AC
+1) 4
+a Check 270 kHz +6% signal from rate
+PR ARPPRPOP RAR RR 1C416 pin ©. NAC
+YES
+FPYPPP PPP Pe ee Pe
+Check 540 kHz +6% signal from rate
+1C414 pin 1C411 pin® a551 © 1C419 pin @). AAG
+
+1V/0.2usec. Div. AC 1V/0.2usec. Div. AC 2V50usec. Div. AC
+YES
+
+P.D
+
+Check 8.64 MHz +6% signal
+1C411, 412
+
+from 1C411 pin ©. DAC
+
+YES
+
+—~17— — 13 —

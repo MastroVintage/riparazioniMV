@@ -1,0 +1,177 @@
+e AN8370S (Optical Servo Control)
+
+1/0
+Devision
+
+Function
+
+1/0
+
+Devision Function
+
+Power supply (connected to —5V}
+
+Phase difference input (A)
+
+Control input
+(TRON : Tracking servo ON signal)
+
+GND terminal
+
+Phase difference input (B)
+
+Contro! input
+(KICKF : Kick direction [forward]
+command)
+
+Auto laser power contro] output
+
+Tracking error signal output
+
+Control input
+(KICKR : Kick direction [reverse]
+command)
+
+Tracking error gain adjusting input
+
+Focus lock signal output
+
+TE—
+
+Phase difference-voltage
+conversion (—)
+
+Capacitor connection for inversion
+RF high speed detection
+
+TE+
+
+Phase difference-voltage
+conversion (+)
+
+Capacitor connection for inversion
+RF low speed detection
+
+APC —
+
+Laser power inversion input
+
+Capacitor connection for non-
+inversion RF low speed detection
+
+C:-MEM
+
+Capacitor connection for phase
+difference memory
+
+Capacitor connection for non-
+inversion RF high speed detection
+
+APC +
+
+Laser power non-inversion input
+
+RF signal output
+
+VREF
+
+Reference current generation
+
+Drop-out detection output
+
+SENSE
+
+Selector output (track-crossed)
+
+RF signal input
+
+HIN
+
+Tracking hold circuit input
+
+HOUT
+
+Tracking hold circuit output
+
+Focus search signal output
+
+SPCNT
+
+Track-cross speed control output
+(not used, grounded)
+
+Capacitor connection for
+triangular wave generation
+
+Focus error signa! output
+
+C-MSP
+
+Track-cross reference speed setting
+capacitor connection
+(not used, grounded)
+
+Focus error gain adjusting input
+
+C: AF
+
+Auto focus timer capacitor
+connection
+
+KICK R/F
+
+Track kick signal output
+
+Focus error comparison voltage
+generation
+
+Photo detector current input (B)
+
+vcc
+
+Power supply (connected to +5V)
+
+CNT1
+
+Control input
+(FOON : Focus servo ON signal)
+
+Clock output extracted from SRF
+
+EFM signal output synchronized
+with PCK
+GND terminal (digital system)
+
+RF signal output data-sliced into
+digital value
+
+Slice level control signal input
+Drop-out detection pulse output
+
+Frequency comparison error signal
+input.
+
+Power supply (connected to +5V)
+
+Current/voltage conversion
+output (B)
+
+Current/voltage conversion
+output (A)
+
+Photo detector current input {A)
+
+0
+Devision
+
+a
+Resistor connection for VCO
+oscillation frequency
+pot Power supply (connected to —5V)
+Capacitor connection for VCO
+oscillation frequency
+Capacitor connection for VCO
+oscillation frequency
+pot GND terminal (analog system)
+pot RF signal input
+

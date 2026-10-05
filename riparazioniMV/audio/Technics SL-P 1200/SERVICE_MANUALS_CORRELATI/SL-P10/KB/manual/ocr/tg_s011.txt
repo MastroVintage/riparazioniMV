@@ -1,0 +1,63 @@
+3. Focus servo circuit (1) Best focus
+
+3—1. Function of focus servo The beam received by photo detector is circular, and AMP
+output is (A1+A3) - (A2+A4) = 0.
+To correctly pick up the disk information, the focus lens
+is moved at right angles to the disk so that the laser beam
+
+is always focused on the pit of the disk. It is illustrated
+in Pig.3-1 and 3-2,
+
+Photo detector
+
+Focus lens
+
+Disc
+
+Disc
+
+J Focus lens
+
+Focus lens
+movement
+
+Acutator coil
+
+/
+1/4 wavelength plate Laser beam
+
+Beam splitter (2) Disk is too close.
+Laser beam
+
+The beam received by photo detector is oval, and AMP output
+Collimator lens
+
+Cylindrical is (Al+A3) - (A2+A4) = negative voltage. The servo circuit
+tae ~ controls the focus lens so that the negative voltage becomes
+al
+
+Zero.
+
+Laser
+diode Grating
+
+Direction of lens
+
+Photo detectcr moved by servo.
+
+Laser beam spot ox
+
+(3)
+(3) Disk is to far.
+(1) Best focus
+a Geeecee The beam received by photo detector is oval opposite in
+seis moons position to (2), and AMP output is (A1+A3) - (A2+A4) =
+positive voltage. The servo circuit controls the focus
+Fig. 3-1 Focus error detection by photo detector lens so that the positive voltage becomes zero.
+
+Direction of lens
+moved by servo.
+
+Fig. 3-2 Operation principle of focus servo
+
+— 10 -— 44 =

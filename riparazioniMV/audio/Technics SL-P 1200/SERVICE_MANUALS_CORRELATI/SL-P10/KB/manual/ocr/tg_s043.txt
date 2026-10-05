@@ -1,0 +1,37 @@
+The block diagram of traverse servo is shown in Pigy sei
+
+Traverse microcomputer (MN1400) generates drive pulses to
+rotate the stepping motor at the desired speed and in the
+desired direction, receiving the traverse mode commands
+signal from system microcomputer (MN1564).
+
+There are 14 traverse modes to be set (refer to OP controller
+on page 132), and they can be roughly divided into the’ fpl-
+lowing two types of operation.
+
+One of them is forcible control of stepping motor rotation,
+and the other is step by step rotation according to the
+quantity of tracking error. The former includes high-speed
+FWD and REV as typical modes, and the latter, PLAY and
+manual search low-speed mode.
+
+of those mentioned above, the latter is the function of
+traverse servo.
+
+L.P.F. works to take out PC component from tracking error
+signal. In CD, the disc rotation at the inner periphery is
+different from that at the outer periphery (refer to CLV
+servo on page 60), and so is error period (AC component)
+per rotation. The filter constant is changed so that the
+AC component can be effectively eliminated.
+
+When the traverse base is forcibly driven, the operation of
+L.P.F. is stopped because the servo loop is unnecessary in
+this mode. The outputs are delivered from MN1400 as FCC
+and FCN signals.
+
+Also, MN1400 delivers the control signal obtained by decod-
+ing the mode command signal from system microcomputer to the
+relative adjacent circuits. The detail is shown in Fig. 5-2.
+
+— 46 —

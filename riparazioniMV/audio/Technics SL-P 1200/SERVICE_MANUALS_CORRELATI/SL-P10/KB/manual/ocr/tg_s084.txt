@@ -1,0 +1,93 @@
+Control data
+Control P data is a signal to distinguish between tune and
+blank.
+
+Tune
+
+Two seconds before
+start of tune
+
+1, 0 changeover at 0.5 Hz
+
+Lead-in out
+
+Table 1 = Control P data
+
+Control Q data is different in recording information between
+lead-in area and program area (including lead-out area).
+
+Lead-in area
+
+P
+p P ole
+
+8 X 9 =72bit ——_________ ‘
+
+A
+A A F
+
+Table 2= Controi G dara data
+
++
+
+Program area/
+Lead-out area
+
+— 98 —
+
+9—5. Playback signal processing
+
+— Decoder —
+
+De-
+interleave
+
+108
+
+i Cl unscramble
+
+ja
+Y ¥Y
+
+= asd
+
+data
+
+Unscramble
+
+[>o
+
+C2 decoder
+
+C2
+
+Cl decoder
+
+cl flag Signal for
+average value
+
+interpolation
+
+EFM demodulation & control
+
+separation
+
+Fig. 9-7 Playback signal processing
+
+The block diagram of playback signal processing is shown in
+Fig. 9-7. Playback signal processing is in the direction
+Opposite to that of recording signal processing. Cl and C2
+encoders for parity making are replaced by decoders for error
+detection and correction.
+
+Each of Cl and C2 decoders is capable of error detection and
+correction. Data that cannot be corrected by Cl decoder is
+marked with Cl flag, and it is delivered to C2 decoder after
+the process of de-interleave in order to make further correc-
+tion.
+
+As for data that cannot be corrected by C2 decoder, the
+average value obtained from adjacent data is subjected to
+interpolation after the process of C2 unscramble.
+
+=—3or—

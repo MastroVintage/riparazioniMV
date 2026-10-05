@@ -1,0 +1,127 @@
+1. $1 : Power switch.
+
+2. $2 : Voltage selector switch.
+.3.. $603: Disc holder close detection switch.
+4. S604_: Rest switch. (Disc innermost position detection)
+5... S605 : End switch. (Disc outside detection)
+6
+7
+8
+9
+
+SRDPOOSNIO "Spindle motor drive 10]
+
+[7 P513|
+
+(36yst7.35kHz) 136y8(7.35kHz)
+” SRDPOQSNO!
+
+me
+
+. $607 : Disc holder close detection switch.
+. S608 : Disc holder open detection switch.
+. $651 : Auto-pause/timer switch.
+. $652 : Pitch on/off switch.
+
+10.. S653. Play. switch.. .
+
+11. $654 : Memory switch.
+
+12. S655 : Program clear switch.
+
+13. S656 : Backward skip switch.
+
+14. S657 : Forward skip switch.
+
+15. S658 : Backward search switch.
+
+16. S659 : Forward search switch.
+
+17. S660 : Pause/stop switch.
+
+18. S661 : Repeat switch.
+
+19. S662. : Disc holder open/close switch.
+
+Qasse
+2S8C1328
+
+MN4066BS AN7679S
+
+R562 100K
+56 0.1
+
+R563 10K
+
+(0) (0)
+
+Sto
+136ys (7.35kHz) 20. S663 : Music scan switch.
+21: S664 ~ S673 : Nemeric switch.
+22. S674 : Index switch.
+less2 23. S675: Time switch.
+SVITLO82cP 24. The voltage value, and waveforms are the reference voltage |
+of this unit measured by DC electronic voltmeter (high |
+a8) ics impedance) and oscilloscope on the basis of chassis. |
+ne -} + Accordingly, there may arise some error in the voltage
+
+x H ae en | values and waveforms depending upon the internal imped- |
+2 3 / ance of the tester or the measuring unit.
+
+3 al RES Sk +H *The parenthesized are the values of voltage generated
+eens -5.6 during playing. Others are the voltage values in stop mode. |
+- 15 2 cee q H501, 502 25. Part No. with 04) mark are not identical between regular
+. —— 3|% 5 a es P{ Tas | g OH-OOI part No. and repair part No. supplied.
+* 46204 \c202 Li $s om as. 3 Py a anoal + Bt So, when placing an order for repair parts, use the part |
+
+AN6552 8F oy Slo aT et al 83 3 No. in the replacement part list of repair parts. |
+« 3” a° Ron Oo . 9 26. : +B voltage lines. : Audio signal lines. |
+
+:—B voltage lines.
+
+27. This schematic diagram may be modified at any time with
+the development of new technology.
+
+28. Important safety notice:
+Components identifier by A make have special charact-
+eristics important for safety.
+
+1€2,4,5
+
+AN78M15
+
+Constant
+voltage
+
+!'c209 0202 ~ 204
+
+'S  MN4011BS MAI65
+
+AN79MI5
+
+D2
+SVDS1-WB40
+
+16612 (MNIS64 pi IC651(MNI4Z30 XDpin
+
+t
+1@h« np
+
+@ptaczzvi—
+
+al CN5OI
+
+1H -t2v
+
+1@ 4#12V -—
+
+Tou 7
+Ot +5Vv IC6SI(MNI430)
+
+@oin
+IC612 (MNIS64)
+@pin
+
+Q671,672
+2
+

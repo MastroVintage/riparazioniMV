@@ -1,0 +1,63 @@
+2. Turntable height adjustment
+
+Note: Necessary after Direct Drive spindle motor is
+replaced or RF signal is not obtained.
+
+1. Disable focus search by pull out the shorting pins of
+CN103 on 03 P.C.B.
+
+2. Insert the thin end of Feeler blade gauge between the
+turntable and the shaft bearing.
+
+3. Slide the Feeler blade gauge toward the thick end
+and mark the gauge with a pencil, where it and the
+turntable touch and until the blade can not be fed
+anymore than remove the gauge.
+
+4. Connect the oscilloscope to TJ402 pin 01 (Main)
+
+P.C.B. . Ey
+
+5. Place a disc on the turntable and clamp it with the RF signal :
+magnet. He _
+
+6. Apply power to the unit. a at
+
+7. Press eject “out’’ and eject “IN”. Turntable
+
+8. Confirm if RF signal is present. If not, proceed to the : Optical pick-up
+next step. Nee ae ,
+
+9. To confirm:
+Gently tap the disc at point "A" Vf RF signal appears,
+the turntable is too low. If RF signal does not appear,
+tap the disc at point ‘““B”’.
+RF signal should appear indicating that the turntable
+is too high.
+
+10. To adjust:
+
+(1) Insert the Feeler blade gauge between the turntable
+and the shaft bearing to the previously marked point.
+
+(2) Loosen the hexagonal screw of turntable set screw. : Disc
+(Use a hexagonal wrench 1.27 mm) ;
+
+(3) If the turntable is too.Jow, slide the Feeler blade gauge Th
+about 4 mm (5/32’’) towards the thick end and remove Top view of disc set up
+feller blade gauge. Hexagonal screw Turntable
+
+Reapply power and: check for RF signal.
+(This is a ‘‘trial and error’ adjustment, several attempts
+may be required to obtain RF signal).
+
+(4) If the turntable is too high, insert the Feeler blade
+gauge and move about 4 mm (5/32") towards the thin
+end, using the same method as in step 3. Shaft bearing
+
+(5) Reconnect shorting pins to enable focus search.
+
+“—— insert the feeler
+blade gauge
+
+Front view of traverse unit

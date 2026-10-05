@@ -1,0 +1,54 @@
+In normal playback mode, the input of IC608 is in the relation
+of (-) > (+), and IC610 pin 4 @ is at "H", and IC605 (A) is
+performing phase comparison.
+
+If the input voltage of VCO drops for some reason, causing
+the input of IC608 to (+) > (-), then IC605 (B) operates for
+the time [0.35 ms at pin (4)] set by IC610, therefore, the
+voltage of TP605 rises; as (+5 V) IC605 (B) is released, the
+voltage will gradually lower. Thus, when the optimum value
+1s detected, PLL is locked again.
+
+OTP605
+
+Fig. 7-10 PLL lock range
+detection circuit
+
+Drop-out control circuit
+
+Drop-out control circuit is shown in Fig. 7-l1l. I1C611l (74LS
+157) works for drop-out control. IC pin (1) (SEL terminal)
+delivers input B [pin (10)] when at "H" and input A [pin (1l)]
+when at "L" to Y terminal [pin (9)].
+
+If RF signal is missing due to drop-out, then 0.5T edge cannot
+be detected at PLL does not operate.
+
+Accordingly, in case of drop-out, the input is shifted to
+T*-EFM signal by the drop-out detection signal (refer to the
+section of Drop-out detection circuit on page 68.)
+
+T-EFM signal is pure electrical EFM data made by demodulation
+Saks
+That is, during drop-out, PCK is properly controlled through
+
+substitution with T-EFM, while the correcting circuit of de-
+modulation LSI will take care of data missing.
+
+1C611
+(74LS157)
+From wave i | |
+from shaping ® a
+T.EFM © ® '
+
+Drop—out ,
+detection signal
+
+(“H" in Drop—out)
+
+T-EFM is applied during
+
+Fig. 7-1l Drop out control Circuit _
+this range.
+
+75 —

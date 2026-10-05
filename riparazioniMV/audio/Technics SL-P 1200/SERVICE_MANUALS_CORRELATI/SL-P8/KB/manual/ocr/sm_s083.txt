@@ -1,0 +1,172 @@
+ck the Power supply circuit before check the other circuit)
+
+1C105 pin (3), CN107 PD
+pin @), CN201 pin ©) 1C105, 106, Power Circuit }-——
+AAC
+
+),
+ver circuit
+\.C.
+
+CN201 Pin @ @
+
+CN201 pin) @....
+Leta AC22V
+
+IC81pin@ ...
+IC82 pin @) ... —15V
+
+verse Servo CLV Servo RF Data Pick-up Drop-out Digital Signal Processing
+
+1C251 Pin @
+
+1C551 Pin
+1C553 Pin
+
+0302 ©
+0304 ©
+1C301 Pin @)
+
++15V IC705 Pin 63)
+
+1C701 Pin @@4)
+
+1C552 Pin
+
+1C402 Pin
+0404 ©
+IC501 Pin MB)
+1C251 Pin @4) 1C402 pin @
+
+1 5Vi—-4_ 1C552 Pin
+
+1C702 Pin 48)
+
+1C704 Pin 24)
+
+1C703 Pin (4)45)
+OZ)
+
+1C401 Pin 44)
+
+0205 © 1C404 Pin
+®
+@
+
+®
+1C405 Pi
+IC554 pin B) s
+
+t5V F1 208 ©
+a206 © +5V
+1C205 Pin @
+
+1C406 Pin @3)
+
+8
+1C409 Pin
+
+O®
+1C408 Pin @
+M® 43
+
+1C407 Pin (4)
+
+1C205 Pin @ado 43) 44)
+
+~ P.D
+1C81, 82, D81
+
+A.A.C
+
+D/A Conversion, Audio
+
+LPF801 @
+asi ©
+1C802 Pin
+1C801 Pin @)
+1C803 Pin
+1C804 Pin
+LPF802 Pin @
+1C805 Pin
+1C806 Pin
+082 ©
+
+LPF801 Pin @
+LPF802 Pin @
+
+1C801 Pin ©)
+1C802 Pin @
+1C803 Pin @
+1C804 Pin @)
+1C805 Pin @)
+IC806 Pin
+
+Operation Control
+
+1C614 Pin 4)
+
+1C613 Pin @4)
+0612 ©
+1C612 Pin 63
+
+~
+
+1C611 Pin @))
+1C615 Pin
+
+1C101 Pin
+
+Pitch control
+
+1C418 Pin @
+10415 Pin
+
+1C415 Pin @
+
++15V
+
+1C417 Pin @@)
+
+1C419 Pin 44)
+1C411 Pin @
+@®
+
++5V LH IC413 Pin 44)
+
+1C412 Ping3qa)|
+1C407 Pin ©)
+OND)
+
+1C414 Pin@@
+MD)
+
+1C405 Pin
+OD)
+
+Battely
+AAC
+
+Be
+
+ze} La
+i?)
+
++3V 1C€1001 pin @ @ @
+
+FL Drive, Display
+
+FL601 Pin
+
+1C651 Pin
+
+®
+6) 28)
+
+R667
+R668
+R669
+
+FL601 Pin |
+
+® @ 63 64

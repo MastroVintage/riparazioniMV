@@ -1,0 +1,48 @@
+[2] Circuit Configuration [3] Block Diagram of Signal Line and Main roles
+
+en es nS (0 re S00 SS eee —_
+Optical Focus Digital Audio 7 | 7 | L |
+Deck Servo Pick-up | |
+. + Lee . Cc
+Optical Pick-up i Focus Servo RF Data Pick-up
+I
+I
+
+I | j
+Tracking Drop Out CLV Pitch Or
+Servo Detection Servo control uartz
+ccc ae 7”
+I | { i
+Traverse l \ I . 1 i
+Servo Tracking Servo Drop-Out Detection | CLV Servo
+Digital ; \ ! H }
+RF Data Operation ——— --—- eee eee J LW —_-——
+| Di
+Traverse Servo Contro isplay
+Motor ; r-—o om
+Audio Spindle Motor
+Loading ccc sess 4 as | Lo — —— — — — —
+Spindl Mechanism ! | | |
+Motor ! Loading Mechanism Traverse Servo !
+J
+Remote L J 1 J
+controlsystem | em —— _-———
+ie aa
+| Traverse Motor
+Lee J
+
+Remote Control System (Purpose of this circuit)
+
+In SL-P8, Play, Stop and other operitions can be
+controlled by use of an infrared remote controller.
+However, remote control is not possible for Power
+ON/OFF, AUTO PAUSE, and TIMER PLAY.
+
+Remorte Control e@ Main symptons.
+Transmitter * No loading operation
+No reading of TOC
+
+Abnormal operation of whoe system
+
+*
+

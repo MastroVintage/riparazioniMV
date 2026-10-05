@@ -1,0 +1,102 @@
+Phones
+
+SV
+Sv 5V
+
+5v TRON
+
+TT ON
+
+Actuator drive
+
+I5V RF signal waveform shaping
+
+1C401
+
+[sa Sot oP >o8
+
+1C415
+5V a
+vR4ol a
+PLL
+1C40l .
+freerun frq. adj. 'C406
+2. 2 Db: 44
+icaoe |®
+8 10
+9 1C406
+5V
+4 15
+Ya
+; Q 13.
+i Boor PCK
+33
+1C405 EFM
+5V
+540kHz
+2
+sf cr
+Q
+(178)
+A
+1C417
+4.32MHz
+
+136 ps (7. 35kHz) . .
+4 Spindle motor drive
+
+136 us
+° (7.35 kHz),
+
+5
+
+Ls
+
+8.64MHz
+
+Phase Chage
+comparator pump
+
+1c501
+
+15v
+
+15Vv
+
+AN6637
+
+Pitch control
+
+{Hall element
+signal process-
+ee
+4 | - Spindle
+| | motor
+Hall element
+RESY
+1C418
+AN6682
+15V
+5V
+eo = 13},
+72) (172) (1/16)
+ll )
+eARLu.D CR CR
+
+m PACKING
+
+1, Put a soft cloth t
+it from scrathes.
+
+2. Turn the lock shaft
+
+3. Turn the lock scre
+clockwise.
+
+Lock screws
+
+=~
+
+LOOK
+SCREW
+

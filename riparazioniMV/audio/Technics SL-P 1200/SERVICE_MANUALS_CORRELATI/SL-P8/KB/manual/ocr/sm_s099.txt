@@ -1,0 +1,23 @@
+(7) Fix the traverse unit on traverse base.
+
+Note: Setup the unit verticaly.
+
+Z
+
+Travers unit base
+
+e Remove the insulator rubber of traverse unit and fix the unit on the base (using thumb screw).
+e Keep the holder to EJECT position.
+e Hold the magnet with a hand and turn the fixing plate of magnet to clockwise.
+Note: If the fixing plate of magnet doesn’t turn enough, please use a pliers to turn it.
+
+e Use the magnet for holding the disc.
+
+\
+™ 4
+~~.
+
+Fixing plate of magnet
+4
+
+Magnet

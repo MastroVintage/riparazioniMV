@@ -1,0 +1,168 @@
+10 11 12 13 14 15 16 17 18 19
+
+Ploy 2ms,5V/DtV¥
+
+Notes:
+ae |» . St : Power switch in “on’’ position.
+
+$2 : Voltage selector switch,
+Wa | i nop - 136 ps (7.35kHz)
+ME 7 vane ‘a | | 4
+
+1
+
+2
+
+3. $101 : Rest switch. (Disc innermost position detection)
+4. $102 : End switch. (Disc outside detection)
+
+5. $103 : Disc holder close detection switch.
+6
+7
+8
+9
+
+Spindle motor drive
+
+eS
+
+° $104 : Disc holder open detection switch.
+
+° $105 : Disc holder close detection switch.
+tT 738 se S655 : Forward skip switch.
+i CN108 a eer . S656 : Reverse skip switch.
+eS es -O-Q-O-O 10. S657 : Reverse search switch,
+9401,55! 2.4 aaa 11. S658 : Forward search swich,
+2SClIO47 Hall element
+
+12. S659 : Pause/stop switch.
+13. S660 : Repeat switch.
+14. S661 : Open/close switch.
+
+signal processing
+
+lesse 15. S662 : Play switch.
+rr: on 16. The voltage value, and waveforms are the reference
+5 , |r» voltage of this unit measured by DC electronic voltmeter
+
+(high impedance) and oscilloscope on the basis of chassis.
+Accordingly, there may arise some error in the voltage
+values and waveforms depending upon the_ internal
+impedance of the tester or the measuring unit.
+
+* The parenthesized are the values of voltage generated
+during playing. Others are the voltage vaiues in stop
+mode,
+
+17. Part No. with i) mark are not identical between regular
+part No. and repair part No. supplied.
+
+So, when placing an order for repair parts, use the pert
+
+No. in the replacement part list of repair parts.
+
+18. —— : +B voltage lines. & 1 Audio signal lines.
+
+— : —B voltage lines.
+
+19. This schematic diagram may be modified at any time
+
+a
+1 | 0.5ys ,0.5v/DIV
+
+He f 38 7 |pa04,405,551
+7 MAI6S cS53
+8 Ics
+3 11T Speed adj. wn 4066BS
+
+Ploy 136us(7.35kHz)
+
+RSbb 10K
+
+00 00 with the development of new technology.
+| QS5! AZ AG 20. Important safety notice:
+‘7 : og: .
+rs ‘<q HS01,802 Components idenrifier by A\ make have special cher-
+OS , OH-OOIH acteristics important for safety.
+
+50V022/ 53 50V022
+
+136 ys (735kHz)
+
+idiom staina [
+Waveform shaping |"
+
+0305,554 1401
+
+MA4056 SVITC4QHOO4 IP
+R403 33K R4Q5 10K
+
+b2
+SVDSIWB40
+
+1c40!
+
+O cs
+
+14 as ithe! SEB feo” AN78MI5
+
+~~ 10402 «s ay
+13R407 10K Spe 42 S x 1c3
+Pey7 mail = AN7915T
+H °
+N ]
+
+N
+
+I} 50K oy 4 =
+102 wt5 7 hed
+
+49°) 0 2)
+
+9 D3) 10401
+BK 12 43 12
+
+52S
++) >
+3 ] 5
+icaog '°!
+
+32 pany 21K
+
+P| g = 3)
+(3-2 g ,
+‘
+
+rood x Dy R é + as
+a: 7 SF ——_— qs 2H | jpon7vacs74as |! | | 1 T
+7
+
+O-~9-O-O-O-D
+er | fer BO
+a
+7 a
+
+C404 3
+MN 4066BS C408
+DN74LS123S
+
+6 fave 7 pO
+
+Ry
+
+b 1eV 1000 CI
+
+AC 110-120/
+220-240V
+(50/60HE)
+
+OHH
+||
+
+AresyH
+{TRON
+
+O.5us,2v/0IV (Ploy) O.5us, 2V/DIV
+
+(202 N20!
+

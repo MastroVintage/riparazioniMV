@@ -1,0 +1,224 @@
+m@ BLOCK DIAGRAM
+
+Reset at"L"
+
+RESET SIGNAL GENERATOR DATA SLICE and PLL
+
+|
+
+SRF
+. 2
++8 RESET OS5ps Iv/DIV
+3
+Drop-out Om EFM
+Eas he
+
+|
+|
+[1C501 | i _
+
+OSps iv/oiv ia] 22] \4 AVA
+o.23ps
+FPC a
+
+CONT2
+
+_ in
+4FLOCK+
+ie} .
+1C104
+
+3 3. 1clO4 QI 41,142
+
+swi v FE Focus coil
+
+amp. drive
+
+| 2ms 5V/ wa
+
+a F
+
+switch
+
+Ly 14
+SENSE}
+Waveform
+== 7
+
+A22
+Cross 23
+Zan conta
+[eee 1
+| fo —1conT 4 —
+i zs ani
+
+switch (C104
+
+QI6! 162
+
+Tracking
+
+? coil drive
+
+— d ____]
+6
+2ms O.1V/DIV
+
+va 2ms (V/O1V
+
+Lr. | | '
+
+a _|se 2s OPTICAL SERVO
+-———— 1 |
+
+rs
+
+CONT|}-—___———_
+
+°
+2
+
+amp.
+
+L : L
+
+SENSE
+
+CONT4
+
+13.3ms
+
+—{ CONT3
+
+CONT2
+
+CONTI
+
+BLKCK’
+SUBQ
+
+CLOCK
+
+SYSTEM
+CONTROL 7
+FL DRIVE
+
+Troverse
+
+coil
+
+——+{ SMCK }
+
+LOADING
+MOTOR
+0402,403
+
+Loading
+motor
+
+QI81, 182
+
+CONTROL
+\c402
+OPEN
+
+TRAVERSE SERVO
+
+1C103
+
+Lo
+
+E.F.M. DECODER. ERROR CORRECTIONand CLV SERVO
+
+O23 ps
+
+AvAY
+
+——_——_——
+
+SMCK
+
+t 1 RESET}—
+
+Q408 , 409
+
+REMOTE Az. 5 Remote
+CONTROL fase | oA
+
+DATA | |
+PROCESSING |
+
+L______J
+
+2ps Iw/DIv
+
+{ FPC }
+79
+f 1C301
+EFM Zh Synchronize
+
+136 ps
+
+4
+
+detector
+==
+Protection
+
+6
+16 bit serial
+data
+
+26
+o
+28
+
+I6K RAM
+
+Dota f=
+| control
+: me
+
+motor
+
+4 PCK } —S—
+— i a |
+\ apeK 24 timing J
+1 is 10302 |
+1 BLKCK} xe Yo 4 Input Anas hatves
+SuBQ > : Q—{DMUTE 4 | cm resistor counter counter |
+4¢ 53 Addres: | |
+2t Address - nose =
+—{ EMPHA }- generator Fp pp mi SS |
+ser sone. i Tots we Ww | “yo j
+servo servo 51 |
+4 OE H+ ro L_, 4
+ec : ps Pre, °f NY 8
+1c951 "8 | 8
+Q354,355 64 L |
+me » Tm |
+lotor control 31 ——J 15
+4{ E—EC } > o MCK timing — aps IV/DIV 4g Ls 8
+IC351 - + — 20)
+Spindle Q35! | 42
+
+SPINDLE
+
+MOTOR DRIVE
+
+— 23 —
+
+66 76 10 17 16 12 20° 25
+fe) it}
+{ CONT2} T x301 T STAT } ~
+{MDATA} {MDATA}
+16.9344MHz {MCLK } {MCLK
+4 SMCK > MLD }————— —{ MLO }
+
+——{ DMUTE
+
+are
+VW
+
+— 24 —
+

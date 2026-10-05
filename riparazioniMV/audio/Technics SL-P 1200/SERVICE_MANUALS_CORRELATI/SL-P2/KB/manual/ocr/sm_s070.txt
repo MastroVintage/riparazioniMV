@@ -1,0 +1,82 @@
+Fig. A Sefial RFI
+
+4. Ajuste de rejilla
+
+. Coloque el Disco de prueba sobre el plato giradiscos y
+fije con el iman.
+. Conecte el osciloscopio como sigue:
+BARRIDO
+TJ402 (P.C.B. 01)
+C164 en P.C.B. 03 (Perno 17 de
+1C104).
+. Aplique energfa a la unidad y seleccione la modalidad de
+interpretacion.
+. Si se presentan sefial RF y marca ‘‘N’’, no se requiere
+ningun ajuste como en la Fig. A.
+Si no se presentan sefal RF y marca ‘‘N’’, efectte el
+paso 5.
+. Inserte la herramienta de ajuste de rejilla dentro del
+agujero de! lado izquierdo de! cuerpo de fonocaptor
+optico como mostrado en la Fig. B
+
+mas nitida y se obtenga la maxima sefial RF
+
+Eje de suspension
+
+Senal RF
+en CH1
+
+WTTN
+
+Marca ’’N’’
+
+Fig. A Sefial RF y marca “N”
+
+Fonocaptor Ooptico
+
+. Haga girar la herramienta de ajuste de rejilla hacia la Eje de i
+direcha o izquierda hasta que la marca “N” es lo a
+
+— giradiscos
+
+Parte frontal
+de deck
+
+Insertar la herramiento
+de ajuste de rejilla
+
+Fig. B Vista lateral izquierda de unidad transversal
+
+Alineamiento eléctrico de unidad principal. Siga el ajuste, refiera a la pdginas 15 ~ 18.
+
+. Comprobacion del P.C.B. 03
+
+Después del ajuste, ordene todos los componentes para
+que estén planos sobre P.C.B. 03, y rearme sobre la
+unidad transversal.
+
+Una vez se ha montado el P.C.B. 03, asegUrese de que
+la parte inferior del fonocaptor no interfiere con nin-
+guno de los componentes.
+
+Por lo tanto, asegurese de que los surcos en los bordes
+externos del disco son accesibles.
+
+pianos
+componentes—
+hare)
+
+Poner
+re CN103
+planos
+
+Poner
+P102 | Componentes
+planos
+
+Poner
+componentes
+planos
+
+Printed in Japan
+841008800 @ AM

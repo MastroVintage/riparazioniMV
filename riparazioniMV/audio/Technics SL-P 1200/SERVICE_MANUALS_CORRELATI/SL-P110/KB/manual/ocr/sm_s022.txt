@@ -1,0 +1,98 @@
+e MN6618 (Digital Filter) -
+
+16-bit paraile! deta output Command clock input
+
+16-bit parallel data output/
+serial output bit clock
+
+—-
+! | Command load input
+
+16-bit paralle! data output/
+serial output data
+
+Reset signal input (reset at ‘‘L’’)
+
+GND terminat
+
+poe | 0 | 16-bit pratt dae
+
+16 pate
+DO7 16-bit paratiet data
+16-bit paraltel data
+16-bit parallel data
+
+Power supply (connected to +5V)
+
+R/L signal
+
+Clock output (Not used)
+
+Clock input (16.9344 MHz)
+
+DA output parallel/serial selection.
+(parallel at ‘’H’’)
+
+Lt channel deglitch signal
+
+R channel deglitch signal
+
+Power supply (connected to +5V)
+
+16-bit parailel data (MSB)
+
+16-bit parallel data
+
+[| ———
+word clock
+|
+
+16-bit parallel data
+
+Minimum potential of IC control.
+{in this unit, it is connected to
+VEE[—8.5V)
+
+Negative output of Hall element
+is input.
+Fie fuze fot Positive output of Hall element is input.
+
+17 Negative output of Hall element
+is input.
+Positive output of Hall element is input.
+
+Bias switch of Hall element.
+(OFF when PC > DCR)
+Bias power of Hall element.
+
+Torque command filter amp. input.
+(Normar rotation command
+when FAI < OCR.)
+
+Filter amp. output.
+po | Absolute value circuit input.
+
+Capacitor terminat for tow pass filter
+of current feedback loop.
+
+Drive signal output.
+
+Power control.
+(Power down mode when PC > DCR)
+
+Clock input.
+(OCR standard, operated at the
+edge of rise.)
+
+Triangular wave generation
+capacitor terminal.
+
+Minimum potential of IC power.
+(in this unit, it is connected to
+VEE[—8.5V)
+
+Drive current detection resistor
+terminal.
+PVCC Power input for IC power.
+
+pot Power input for IC control.

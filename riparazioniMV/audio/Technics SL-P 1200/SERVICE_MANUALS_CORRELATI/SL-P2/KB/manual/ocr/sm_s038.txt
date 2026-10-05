@@ -1,0 +1,211 @@
+11
+
+BT102 EG et:
+IN cna04
+CTCOSSCO) OOD
+
+13
+
+SL-P2
+
+14
+
+SL-P2
+
+R301
+
+vs
+4 >
+
+R342 F593 RBIS (2.6
+IK 254) jo 1K 24
+3
+
+Ts203%6
+aqbcdefg i
+RF GND hrrretae | i
+DROPOUT
+9
+,
+O [73402(ht Fick
+gs 301 t
+16V10 se= e304 10304
+gel |
+
+(2.6)2.55 41
+
+3
+
+R317 47K
+
+PLLcircuit
+
+R318 C310
+
+0,022
+
+VCO adj.
+1c303. / 1303. ——«1¢303
+
+O13 psec
+
+“signal 889
+waveform shaping
+2cP
+
+'csol
+
+VkHz
+‘
+
+z iit! BABE
+Ct
+ea?
+
+i
+
+| BS)
+[|
+
+1C 303
+
+SVITC40HOO4P
+
+D303
+
+SVDKVI230Z
+
+0301,422
+
+MAI65
+
+gars
+
+UN4212
+
+SKB
+
+1
+
+ty
+
+OBO!
+
+D/A Converter
+
+re 48]
+o
+a7} o 133 | 5.0
+o Lo
+136usec |SOusecavaiv|
+
+[eS]
+
+3.
+Slo
+fe}
+O.23psec
+b . 1, 3
+1130) alae
+0422
+. Audio circuit
+Deglitch RBIO
+4.7K
+1€804(1/
+0 caor 2)
+: 0001 5 5 csos_ Reig
+| , 16VIOO 220
+8x 5 =< H A °
+ot s :
+2 ° 1g ¢
+5 . !o ox
+6 3 ; | H o av
+2 9 1 , 18
+3 ° . ! PLAY 1°
+\ i |
+PLAY : — —: / 35 1
+o® doe) Y i
+85 gst R808 Af re IkH2 OdBILth) |
+Bo U6 330 IkHz OdBILER) | |
+{
+4 590
+ge 28
+eS «
+1
+1 — :
+15.0 - I -
+I
+| 1C803,804,806 '
+i SVILM833NA H
+} |
+\
+f
+t 2 1¢806(1/2) I ] i
+cals \
+Lire FS Poe 8 LL
+ry o!
+2 ft
+5 0 @A ! R812 390
+. 1
+6 18
+=. ag R820 4 BhAY 8 2
+3) % t
+a3 88 330 1. 19 On
+o —z-| 8 ' ar
+n¥ og t ig R821 390
+Fis Zo tkH2 2d6(L+R) 1s
+
+0420 0802
+
+gg
+1C802,805
+Sof
+
+| SVipPD4053BC
+
+MAI65 MA4056
+
+|_27~ai_ [az [43 [4s [5]
+
+ue bee
+44 aa
+(Ol otfoifas
+3 °
+imsec “|O.Smseciv/Olv
+
+ny —
+
+w
+
+16
+
+SRDPOO7NII
+
+H50!, 502
+
+OH-OO!
+
+ft
+=
+8
+3
+a
+3
+3
+s
+
+* Caution !
+
+IC and LSI are sensitive to static electricity.
+
+Secondary trouble can be prevented by taking care during repair.
+*Cover the parts boxes made of plastics with aluminum foil.
+
+* Ground the soldering iron.
+
+*Put a conductive mat on the work table.
+
+*Do not touch the legs of IC or LSI with the fingers directly.
+
+Printed in Japan
+850810400 @) AM

@@ -1,0 +1,53 @@
+RF data pick-out circuit
+
+iV/DIV, O.5psec
+
+SROPOIONOB
+
+R629 .
+CNGOD C424. R428 ; 1C613 . _IC609
+
+~<15>-—
+
+= 5
+01 gen Re IK Per i SVITC40HOO4P SVISN74SI24N SL $s
+array= RE IN a f vary | ae Q60I~ 604 Adj nal Ss ICbI2 —-Rb2
+| &ND (2) TP6OT] “<= ~— = Fe tenia 2sci2is vco just Y eae 82 UW) CN602
+o 7S ot We
+R40 {0K = else 31g =
+a > Oy 2 Fe
+O SVITLOB2cP 2 B18 he
+IC6O! z al s+ 3
+SVIHD7406 g:15 :
+; IC612
+N7
+Drop-out } AN78MO5
+!
+n D601
+MAIO47
+V REFF 10405
+Adjust (PLL) a
+; 18.24 E pa
+CN903 } 0.211.8:° bd
+1C602 y RY f F 1 02 |
+SViuPD4066C Y 17 ' (2) CN706
+1€607 1C605
+1c605 1613 ON
+2VIDIV, 0.5usec SVIHD74LS 125 60 1
+1VIDIV, O.2usec
+oa og Bet oo BS Ee Be |
+Peerreoe &
+
+ie 7g 1604.
+a (Y2)
+
+2V/DIV. 1usec
+
+Icé6li
+
+{C604 1C606 ic608 1C610
+SVIHD74LS 157 SVIHD74LS$123 SVIHD74LS74A SVITLBIOCP SVIHD74LS123
+
+Fig. 7-12. Actual circuit of RF data pick-out (|) (only Domestic Model used)
+
+= Fics = 77 =

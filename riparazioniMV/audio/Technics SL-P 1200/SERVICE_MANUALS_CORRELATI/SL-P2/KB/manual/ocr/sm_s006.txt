@@ -1,0 +1,327 @@
+M FUNCTIONS
+
+@ Power switch
+ePress (Mm) to turn power on and press again (m_. Ml) to
+turn power off.
+@When power is turned on, the display panel lights as shown
+
+below:.
+A re ras wan-Aan7
+ayer: areas
+min sec
+
+If there is a disc in the holder, it will begin spinning, the total
+number of tracks and total playing time of the disc will be
+Note. 1
+displayed and the unit will switch to the standby mode’.
+Shown below is the display reading when a disc having seven
+tracks and a total playing time of 49 minutes 58 seconds is in
+
+the holder.
+rr rr rn “| wo-cea
+tivii ti { se
+track index min sec
+
+Note-1:
+
+Standby mode:
+
+In the standby mode, the pickup’ is at the beginning of
+the first track and the display shows the total number of
+tracks and total playing time of the disc.
+
+*The pickup is the device that reads the information on
+the disc surface using a laser. The pickup moves
+across the disc as the disc is played, but it is not
+visible from outside of the cabinet.
+
+@ Disc holder
+®The disc is inserted in this holder with the label! side up.
+
+© Disc illumination
+Lights when power is switched on. The prism effect of the
+disc window allows easy visual confirmation that a disc has
+been loaded.
+
+© Disc window
+
+@ Open/close button
+Press this button to open and close the disc holder
+When this button is pressed, the disc holder slides out and
+the open indicator lights. Press this button again to close the
+disc holder (indicator goes out).
+
+@ Display panel
+The display shows a wide range of information concern-
+ing the disc, the progress of disc play and player
+
+settings.
+= 9
+rose os Ae od
+Stiiiii iii iii OOFIGE Go
+[=] A © eS track index time min no. sec
+
+@ Track scale:
+Indicates the track numbers for the 15 track bars.
+
+Track bars:
+Bars light to indicate the number of tracks on the disc. The
+bar of the track being played flashes on and Off and then
+goes out once the track has been played. If there are more
+than 15 tracks on a disc, the ‘‘»” indicator to the right of
+the last bar lights. For program disc play, only the bars of
+the programmed tracks light.
+
+—_ 7 —
+
+© Digital display:
+
+track: Shows a track number (track lights) (up to 99)
+Note 2
+index: Shows an index number (index lights)
+
+When a disc having no indexes is played, “01”
+is constantly displayed in the index section.
+
+time min: This display differs depending on the present
+. mode selected.
+
+1. Time (minutes) displayed (min lights)
+
+2. Displays remaining time on disc (min.,
+sec.) when remaining time button is press-
+ed during disc play.
+
+no sec: This display differs depending on the present
+mode selected.
+
+1. Time (seconds) displayed (sec lights)
+
+2. Displays the track number just selected
+when the memory key is pressed to enter
+that track number in the memory (no
+lights).
+
+3. Displays each programmed track number
+one by one each time the recall button is
+pressed.
+
+Note-2:
+index:
+In some Compact Discs, indexes are used to divide
+
+tracks into smaller sections for easy access. If a disc
+includes indexes, a list of the indexes will be contained
+in the liner note included with that disc.
+
+@ Open indicator:
+Lights when the open/close button is pressed to open the
+disc holder and flashes on and off while the holder is
+sliding open or closed. This indicator remains off when the
+holder is closed.
+
+© Repeat indicator:
+Lights when the repeat mode is activated by pressing the
+repeat button or the A-B repeat button.
+
+e“(-@_]” lights when the repeat button is pressed.
+e acs ” lights when the A-B repeat button is
+
+pressed once.
+e'' (A c>B]” lights when the A-B repeat button is
+pressed again.
+elf the A-B repeat button is pressed once more, this
+indicator goes out to show that A-B repeat has been
+cancelled.
+
+©) Music scan indicator:
+Lights when the music scan button is pressed.
+The music scan indicator goes out when music scan play
+has finished.
+
+@ Emphasis indicator: Note: 3
+Lights when a disc containing pre-emphasis is played.
+
+Note-3:
+
+Pre-emphasis:
+In order to further improve the S/N ratio of compact
+discs, some discs include a degree of emphasis in the
+high range called pre-emphasis. If these discs are
+played without any compensation, the high range will
+be unnaturally strong. Therefore, a corresponding
+amount of de-emphasis is needed to obtain the proper
+response. The de-emphasis circuitry of this unit is
+
+automatically activated when a disc having pre-emph-
+asis is played.
+
+@ Remote control receiver
+Signals from the accessory infrared remote control unit
+are received here.
+The remote control indicator lights to show when a command
+from the remote control has been received.
+
+© Pause indicator
+This indicator (IB) lights when the pause button has been
+activated and goes out when the pause mode is can-
+celled.
+
+© Play indicator
+This indicator (P) lights when the play button has been
+pressed and goes out when disc play is stopped.
+
+@ Play button
+
+Press this button to begin disc play.
+
+eWhen this button is pressed during disc play, the pickup
+returns to the beginning of the first track and starts playing
+the disc again.
+During program disc play, the pickup returns to the first
+programmed track and starts playing the programmed
+sequence again.
+(Auto return play function)
+
+@ Pause button
+Press this button to briefly stop disc play.
+®@When this button is pressed, the player switches to the
+standby mode.
+eTo continue disc piay, press the play button.
+
+@ Stop button
+Press this button to stop disc piay.
+When this button is pressed, all settings are cancelled and
+the player returns to the standby mode.
+
+@® Forward and backward search buttons
+
+Use these buttons to move the pickup forward and
+
+backward (Manual search play function).
+
+When either of these buttons is pressed, the pickup will
+move slowly at first and then rapidly if the button is held
+down for more than about three seconds.
+
+Use the search buttons when the player is in the pause
+mode or during disc play to move the pickup to a specific
+point on the disc.
+
+ePress the __> "J button to move the pickup forward.
+
+ePress thea] button to move the pickup
+backward.
+Release the search button when the pickup has moved to the
+desired location (as shown by the display panel).
+eDuring disc play, search can be performed while listening to
+the signal from the disc to aid in locating a specific point.
+The output level is -12 dB (1%) compared with the level
+during standard disc play.
+
+@ Forward and backward skip buttons
+
+Use these buttons to move the pickup to the beginning of
+
+the next track in the forward or backward direction
+
+(forward and backward skip play function).
+
+eWhen a skip button is pressed during disc play or the pause
+mode, the pickup will skip the same number of tracks as the
+number of times the button is pressed.
+
+eWhen a skip button is pressed during program disc play, the
+pickup will move to the beginning of the next or previous
+programmed track.
+
+ePress the skip[ sp Sa | button to move the pickup
+
+forward.
+ePress the{ oc skip |skip button to move the pickup
+backward.
+
+eWhen either of these buttons is held down, tracks are
+skipped continuously. (Quick skip)
+
+® Music scan button
+When this button is pressed, the first ten seconds (or the
+specified time) of each track on the disc or each programmed
+track is played. This is very useful for quickly ascertaining the
+contents of a disc.
+The time that each track is played can be adjusted from 1 to
+99 seconds by using the numeric buttons.
+(programmable music scan function)
+
+@® Remaining time button
+Press this button while a disc is being played to display
+the remaining playing time (min. and sec.) of a disc.
+When this button is pressed, the time indicator lights and the
+display switches to the remaining time display mode. Press
+this button again to return to the elapsed playing time mode.
+
+@ Repeat button
+
+Press this button to activate the repeat mode.
+
+eWhen this button is pressed, the repeat mode is activated.
+
+elf this button is pressed atter a program has been entered,
+the programmed tracks will be played repeatedly.
+
+Press this button again to cancel the repeat mode. It is also
+possible to cancel the repeat mode by pressing the stop
+button, but this will also cancel all other settings as well.
+
+@ A-B repeat button
+
+Press this button to use the A-B repeat mode.
+
+The first time this button is pressed (‘' a > " repeat indicator
+lights), the starting point of the disc section to be played
+repeatedly is set. The second time this button is pressed
+(* (AGs)” repeat indicator lights), the ending point of the
+repeat section is set. The section of the disc between these
+two points will now be played repeatedly until this button is
+pressed a third time to cancel the A-B repeat mode. This
+function is very convenient because it allows you to specify a
+section to be played repeatedly while listening to a disc.
+
+® Index button
+Press this button to enter the index number using the
+numeric buttons.
+
+@ Memory button
+Press this button to enter track numbers just specified
+by the numeric buttons in the memory.
+(Remember that programs can contain up to 15 random
+steps.)
+
+@ Numeric buttons
+Use these buttons to specify track numbers and index
+numbers.
+
+@ Headphone jack
+
+@ Headphone level control knob
+eUse to control the output level to the headphones.
+
+@ Line out terminals (LINE OUT)
+These are the audio output terminals.
+Connect the line out terminals to the AUX/CD/VIDEO or
+TAPE PLAYBACK terminals on your amplifier or receiver.
+Do not connect to the amplifier PHONO terminals as you
+would with a conventional turntable.
+
+€ AC socket (AC IN)
+
+Connect this socket to a wall socket using the power cord.
+
+@ Subcode socket
+The Compact Disc subcode signal is output through this
+socket.
+This socket is provided for system connections with future
+components.
+(Do not connect any components to this socket.)
+
+— 8§-—

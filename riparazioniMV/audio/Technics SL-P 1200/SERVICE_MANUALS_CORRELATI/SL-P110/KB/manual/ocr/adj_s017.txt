@@ -1,0 +1,57 @@
+6-2. HOW TO HANDLING OPTICAL PICK-UP
+
+The laser diode in the optical pick-up may be damaged by potential difference caused by
+static charge on clothing or body. Pay careful attention to damage by static charge when
+repaired.
+
+e Handling of Optical Pick-up
+
+1. Don't give a heavy shock to the optical pick-up which is very precisely constructed.
+
+2. A charge prevention pin is inserted in the flexible PCB for preventing damage to the
+laser diode. The pin should be removed or installed in a short time.
+
+3. Handle the flexible PCB with care because PCB may be cut if an excessive stress is
+applied.
+
+4. Don't meddle with the laser power adjusting VR which is adjusted prior to shipping.
+
+Lens
+(Don't touch)
+
+Flexible PCB
+(Handle with care.)
+
+Semi-fixed variable resistor
+(Don't turn.)
+
+Must short-circuit this portion
+
+Dre sith supplied short circuit pin
+i
+
+or clip.
+
+Jj
+Short circuit pin
+
+e Grounding for Preventing Static Charge Damge
+1. Body Grounding
+
+Put on the charge preventing wrist strap for discharging electricity from the body.
+
+2. Working Table Grounding
+Lay electrically conductive material (conductive sheet) or an iron plate on the table where
+the optical pick-up is placed, and ground the material or sheet to the floor.
+
+Note: Static charge of clothing is not discharged from the wrist strap. Exercise care so that
+clothina shall not touch the wrist strap.
+
+Wrist strap
+(Charge prevention ring)
+
+1M
+
+Iron plate or other
+electrically conductive
+material

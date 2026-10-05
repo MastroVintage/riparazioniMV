@@ -1,0 +1,51 @@
+9—4. Shows the processes up to recording signal format
+
+fa | Lat we | pis | 44.1MHz
+
+RiLW2 | polW4 | pol Wo |
+
+TT PPPES
+if Jel iel_ —siel ~—sagl ag ig 16} tcl ie sel ag
+
+Sample = 16 bits
+
+P
+
+Symbol = 8 bits parity ==
+
+Control
+
+12-sample
+16X16 256bit
+
+ARRESTS ©
+
+nen Data bits (1 symbol = 8 bits) = > Channel bits (14 bits) ROM table processing
+
+VET | dhe aon A
+PERE oefoede le
+24 |/14|{14]/1 |
+3.3 3
+a ey
+Data See ee correction Data Error correction
+yer Data (14-channel bits = 1] symbol) Extra bits (low range
+
+Control signal suppression)
+
+Synchronizing signal 1 frame = 12 samples + 4 parities + control signal
+
++ synchronizing signal
+544 bits 17 x 32 = 544 bits
+
+588 bits 588 channel bits = 1 frame
+
+4.3218MHz/ 588=136x10~6
+
+* The 3 bits out of the 14 bits are called extra bits which
+
+serve as a liaison to maintain the EFM level even through
+the data.
+
+Fig. 9-6 CD signal format
+
+— 96 — —97 -—

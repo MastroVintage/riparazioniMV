@@ -1,0 +1,257 @@
+ADJUSTMENT OF OPTICAL PICK-UP
+
+Approval Judgement of defect for Optical Pick-up
+
+Note: Before adjustment of the optical
+pick-up, following this chart.
+
+il
+
+i]
+
+Focus Servo
+Out o cus
+
+Check the DC voltage
+
+(5V) from CN102 p.-
+
+1C101, Wire short
+
+pin 1 on optical AAC.
+
+servo P.C.B.
+
+YES
+
+Visually check the
+operation ofthe
+focus lens up-down
+about 5 sec,
+
+(no nead a disc)
+
+Check the sawtooth
+waveform from
+CN101 pin 6 of
+optical servo P.C.B.
+
+YES
+
+Check the coil
+resistance (309)
+from CN101 pin 5, 6
+
+of optical servo P.C.B.
+
+Check the DC voltage
+of R107 bothends of
+optical servo P.C.B.,and
+confirm the potential
+
+difference about 0.5V.
+
+P.D.
+
+If DC voltage is
+about 1.0V, should
+be laser was snaped.
+
+YES
+
+Check the Focus
+balance from TJ101 on
+optical servo P.C.B by
+oscilloscope
+(200mV/5ms DIV AC)
+
+Need a Focus balance
+adjustment.
+Refer to page 3.
+
+YES
+
+P.D.
+Electric circuit
+
+(mainly optical servo
+P.C.B.).
+
+Connect the oscilloscope to
+TJ402 pin of main P.C.B.
+(500mV/0.5usec DIV AC}
+
+Place the disc into the
+disc holder and apply
+power to the unit and
+select the play mode.
+
+Check the TTON. signal
+(L) from CN412 pin 6.
+
+Possible Defect.
+And Associated Components.
+
+P.D.
+Electric circuit
+A.A.C.
+
+Replace the
+optical pick-up
+Part No.
+
+SRLPOO7NO1A
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7N01A
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7NO1A
+
+Caution:
+It is very dangerous to look at or touch the
+laser beam. (Laser radiation is invisible.)
+
+Focus servo “‘OK"’
+(but NO TOC or
+Noisey)
+
+Check the RF best eye
+signal from TJ402 pin
+of main P.C.B.
+(500mV /0.5usec.
+
+DIV AC)
+
+P.D.
+Electric circuit
+
+YES
+
+(specialy pick-out or
+PLL circuits)
+
+NO
+
+Check the RF
+amplitude (1.5 ~
+3.0Vp-p) from TJ402
+pin of main P.C.B.
+(500mV /0.5usec
+DIV AC)
+
+YES
+
+If lese than 1.5Vp-p
+should be laser diode
+become worst.
+
+Mechanical adjustment
+require.
+
+(Refer to page 23, and
+confirm the RF best
+eye signal).
+
+Replace the
+optical! pick-up
+Part No.
+SRLPOO7NO1A
+
+YES
+
+Grating adjustment
+require,
+
+(Refer to page 23, and
+confirm the ‘‘N’’ mark
+waveform).
+
+Replace the
+optical pick-up
+Part No.
+SRLPOO7NO1A
+
+| Replacement Procedure |
+
+1. Mount the traverse unit on the traverse unit base, and
+make sure mounting screw is tight.
+
+2. Position the assembly as shown in Fig. 1.
+
+3. Remove the optical bracket and screw from the optical
+pick-up body as shown in Fig. 2.
+
+Note: A) Be careful when removing the screw, the spring
+
+can snap out very fast and be lost.
+
+B) Also note the position of the spring so that
+when ready to re-assembly it, you will remember
+its position.
+
+4. Remove the shaft clamp mounting screw as shown in
+Fig. 3.
+
+5. Remove the two suspension shafts by lifting and pulling
+to the left. Optical pick-up body can be separated from
+the deck as shown in Fig. 3.
+
+6. Before proceeding to replace the optical pick-up, observe
+the following precautions:
+
+A) The laser diode can be destroyed if P101 remains
+open too long (about 20 seconds).
+
+Do not remove the shorting pin from P101 until
+
+you are ready to connect it to 03 module CN101 as
+
+shown in Fig. 4.
+
+B) Be certain that rest detection switch (S101) and end
+detection switch (S102) have not been bent. If they
+
+have, traverse motor will remain on. (Fig. 5)
+
+7. Reassemble the optical pick-up to the traverse unit by
+following step 6 through 1 in reverse procedure.
+
+.z---—- Clamp mounting screw
+Optical pick-up body
+
+Qe / Turntable
+/
+
+Suspension shaft
+
+[Fig. 3]
+
+* For servicing of traverse unit, refer to page 1.
+
+Optical servo P.C.B.
+
+Traverse
+
+unit base (03 P.C.B.)
+Fig. 1
+Focus lens
+
+Optical pick-up body
+
+$102
+
+$101
+
+Traverse
+motor
+
+| 11 module
+(Spindle mopr drive coil module)
+
+Bottom view of traverse unit
+Fig. 5

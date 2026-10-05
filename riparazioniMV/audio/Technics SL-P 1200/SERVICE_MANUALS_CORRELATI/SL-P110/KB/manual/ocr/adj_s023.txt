@@ -1,0 +1,54 @@
+(10) Turn off the power supply switch of the player.
+(11) Lock the adjusting screw with "Screw lock paint (RZZOLO1)" on completion of adjustment.
+
+Turntable high
+Spindle motor adjust point
+
+Drive PCB
+
+add lock paint
+(RZZOLO1)
+
+B. Mechanical Adjustment
+
+(1) Turn on the power supply switch of the player.
+(2) Insert the test disc (§ZZP1056C) in the disc holder.
+(3) Turn off the power supply switch of the player.
+(4) Set the oscilloscope as stated below.
+
+Sweep : 0.5 usec.
+Oscilloscope settings | Volt : 0.5V
+, Input selector: AC
+
+(5) Connect CH-1 of the oscilloscope to TJ301 of RF test point and GPD to TJ302 of RF
+test point (GND).
+(6) Turn on the power supply switch of the player.
+
+(7) Play back. TRY.
+Note: If any track other than TR9 is played back, this adjustment cannot be achieved.
+If the temporary adjustment takes much time, it is advisable to set the player in
+the repeat mode.
+(8) Set the player in the playback mode as shown in
+iNustration with care not to give vibration to
+the unit.
+
+Q
+
+a Adjuster
+
+Q. w101 © VR103
+S)
+
+Tracking S) ;
+offset RF test point
+
+Test TJ301 wa (CH-1)
+
+Point CN102—“CN301,RF test
+
+(ci) eseal E]
+@
+
+@
+
+_ Main PCB

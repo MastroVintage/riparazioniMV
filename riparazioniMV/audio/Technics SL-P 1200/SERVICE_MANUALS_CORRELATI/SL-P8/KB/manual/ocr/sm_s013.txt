@@ -1,0 +1,110 @@
+e How to remove the front panel
+
+. Remove the cabinet.
+
+2. Pull out the power switch rod in the direction of arrow
+@® . [Fig. 4]
+
+3. Remove the 4 setscrews [Fig. 4: @ ~ @)] of front
+panel,
+
+4, Remove the front panel in the direction of arrow ©
+with care not to scratch the disc holder. [Fig. 4]
+
+5. Raise the servo P.C.B. as in Fig. 3.
+
+6. Remove the 8 connectors (CN208, CN216, CN209,
+CN211, CN206, CN207, CN213) of digital P.C.B. and
+the 2 pin connector of the reset P.C.B., then the front
+panel can be removed.
+
+Cautions:
+
+1. When installing the power switch rod, set it through the
+lead wire as in Fig. 4-1.
+
+2, When installing the cabinet, take care not to squeeze the
+lead wire.
+
+—
+
+e How to remove the headphone jack and
+headphone level control volume
+
+1. Remove the front panel.
+
+2. Pull out the level contro! knob, ;
+
+3. Remove the 2 headphone jack fitting setscrews [Fig. 5:
+@, ®!
+
+4. Remove the 2 nuts [Fig. 5: ®@, ® | of headphone jack
+and level control volume.
+
+Headphone
+level control knob
+
+Fluorescent P.C.B.
+
+@ Remote contro!
+receiver
+
+Fig. 5
+e How to remove the remote control receiver
+1. Remove the front panel.
+2. Remove the 2 setscrews [Fig. 5: @, @) of receiver.
+
+3. To remove the parts on P.C.B. .... [Fig. 6]
+@® Hold the 2 claws of shield case, then remove the
+filter.
+
+@) Pull the holder out of the P.C.B.
+
+(8 Remove solder at 4 portions of the shield case.
+
+e How to remove the fluorescent P.C.B.
+
+1. Remove the front panel.
+
+2. Remove the remote control receiver.
+
+3. Remove the 2 setscrews [Fig. 5: @, @] of fluorescent
+P.C.B_, then the fluorescent P.C.B. can be removed.
+
+Front panel
+
+PWN e
+
+©
+r
+
+Headphone jack
+
+Front panel
+
+“ Power switch
+
+Lead wire
+rod
+
+[Fig. 4-1]
+
+® Shield case
+
+Holder ——~
+
+Filter
+
+Fig. 6
+
+How to remove the keyboard P.C.B.
+
+. Remove the front panel.
+. Remove the remote control receiver.
+
+Remove the fluorescent P.C.B.
+
+. Remove the 7 setscrews [Fig. 5: @) ~ @ ] of PCB. and
+
+release the 4 claws, then the keyboard P.C.8 can be
+removed.

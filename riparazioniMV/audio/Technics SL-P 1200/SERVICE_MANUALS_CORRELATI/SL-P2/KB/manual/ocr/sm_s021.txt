@@ -1,0 +1,24 @@
+e@ Power source P.C.B. (For U.S.A. and Canada.)
+
+/ Fl (CavADA---yee used, Shorted \
+/ CANADA--~Used /
+
+POWER TRANSFORMER|
+
+CN653 @pin
+CN653 @pin
+
+e Power source P.C.B. (For others.)
+
+$2
+
+VOLTAGE
+SELECTOR
+
+CN653 (pin
+CN653 @pin
+
+— 37 — — 38 —
+
+(Photo detector P.C.B.)
+

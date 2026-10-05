@@ -1,0 +1,61 @@
+3-3. Circuit operation of optical servo
+
+1. Head amplifier and APC circuit
+
+Before proceeding to the focus servo circuit operation of
+optical servo, the head amplifier and APC circuit of the opti-
+cal pickup block are explained here.
+
+The head amplifier is shown in Fig. 3-7, and the APC circuit,
+in Fig. 3-9,
+
+R251 IK
++
+a 5
+ai [a2] 42
+faalas} a | (A1+A3)
+y A2+A4 R275}1K
+Aa nee (C251 AN7670
+B2
+
+Photo detector
+
+yr
+x] a1 ey
+
+R253
+
+C254
+Py LY
+b 1: ae
+|: aK
+es
+sis
+© o>
+©) OF
+©) 2)
+
+R254
+
++ i
+
+roe To CN251
+8 [eiev
+
+C261
+
+Fig. 3~7. Head amp. circuit
+
+2. Focus error amp.
+
+(1) Signal detected by photo detector A, % A, is connect-
+ed to Ai, A3 and A>, A, to change it into (A; + A3) and
+(Az + A,) signals, and they are applied to 1C251 pins
+(3) and (2).
+
+(2) The signals applied to IC251 pins (3) and (2) are
+treated by the differential amplifier, and the differ-
+ence between (A, + A;) and (Az + A,) is delivered as
+output. The error signal is focus error (FE) signal.
+
+a | oe

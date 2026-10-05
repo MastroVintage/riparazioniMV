@@ -1,0 +1,66 @@
+DISABLE
+
+Effective with chip select at "L" MN1564
+
+SELECT
+
+Do part output selection
+
+MNI1564
+
+| to-nie count initial setting
+
+Programmable frequency divider
+output fs = f£1/20 x R (mm)
+(R + radius)
+
+CLV
+rough
+servo
+
+Programmable frequency divider
+MN6612
+
+input fi = 254,22 kHz
+
+Count-down input
+¥ count when SNSA "H"
+
+MN1400
+
+Count-up input
+
+count when SNSB MN1400
+
+"H “
+
+10-bit count load input
+Effective at "L"
+
+End detection output by 10-bit]
+
+MN1564
+counter End output at "L"
+
+— all
+
+Power supply +5 V
+
+Pu position data after changing to the
+time by ROM. (biteserial)
+
+es ee eee
+Ue im Upper Lower
+SELECT i "Min" "Min"
+
+MN 1564
+
+— Upper Lower
+ELEC "Sec" "Sec"
+
+Ss Th”
+gist MSB
+
+Table 11—2. The pin function of MN6610
+
+—121—

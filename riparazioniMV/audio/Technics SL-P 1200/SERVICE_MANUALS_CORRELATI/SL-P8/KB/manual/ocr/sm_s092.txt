@@ -1,0 +1,44 @@
+Check the operation of FL601 Check DSEND signal from
+display. 1C612 pin 68.
+
+YES YES
+
+Check DCLOCK signal from roeto
+1C612 pin 65). AAC
+
+YES
+
+Check data signals from
+
+1C612 pins 67) ~ 60.
+
+Check DECHO signal from
+IC651 pin 4 .
+
+LED display of Play/
+Repeat/ Pause/Stop/
+Music Can.
+
+Bar code Digit 7 Segment
+
+Check bar code signals from P.D NO
+IC651 pins @ ~@5). 1C651
+(E00 ~E03) A.A.C
+
+Check digit signals from Check segment signals from NO Check level ‘‘H’’ of signals from
+C651 pins @ ~@ 1C615 pins Gf) ~ 67) IC651 pins @ ~ ©)
+(CO1 ~ CO6) (DOO ~ DO6). (CO8 ~ C001) in each mode of.
+
+YES
+
+P.D
+Check FL601 D651 ~ 654 Check D651 ~ 654.
+A.A.C
+
+YES
+
+No problem in Display circuit
+
+If it is bassically not understandable, refer to item 4 in circuit Description.
+
+—25—- — 26 -

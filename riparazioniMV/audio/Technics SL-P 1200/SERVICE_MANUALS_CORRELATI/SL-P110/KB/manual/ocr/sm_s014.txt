@@ -1,0 +1,236 @@
+Description
+
+VARIABLE RESISTORS
+
+oe
+LOADING UNIT PARTS
+
+EVND3AA00B53 = 5kQ (B) 21 Roller (4)
+EVNO3AA00B14 = 10k? (B) 22 SuWDe Bracket (1)
+EVN38CA00B13 = 1k (B) 23 SHGDEO Rubber (1)
+24 sovb2 Yoke (1)
+FLUORESCENT DISPLAY TUBE
+y--) SOMD4 Magnet a)
+FL401 SADD3 Display ry.) SIROD17E Clamper (1)
+rig SIRD6 Holder (1)
+HALL ELEMENTS 2a SO0GD19 Gear (1)
+2 SDGD20-—1 Gear (1)
+HS01, 502 OH-011 x SDODS Ring (1)
+32 SRQA010N04 Spring (Wy
+COIL 3 SDOD7-—1 Turntable (1)
+Ka} SISD7E Base (1)
+NL4532T 100K2 Ss SUSD32—1 Spring (Black) (1)
+Ko SUSD43 Spring (Gold) (1)
+37 SsuSD44 Spring (1)
+(Silver)
+38 SUSD42 Spring (Fat Silver) (1)
+T1 XA, XB, K'] SMBD2—1 Belt (yy
+PA, PE, 40 SHRD23 Lock Shaft (1)
+PG “41 SOMD9A Rotor (1)
+T1 [other] A SLTDS5K023SE Power Source 42 SXPD630 Spindle P.C.B. Ass’y (1)
+43 SHRD19 Lever (1)
+“4 SUSD31 Spring (1)
+45 SUSD51 Spring (1)
+
+ESB8249V
+7 SRDSHXW0251
+
+Power
+Voltage
+Selector
+
+SHGD73 Rubber
+
+CABINET and CHASSIS PARTS
+
+© SKCD40SY Top Cover
+® SKCO40KZ Top Cover
+
+SSPD5 Open/Close
+Detector
+
+Operation
+
+$SGD1-1
+SUBDS—M
+
+Rod
+
+53 O SBC666 Button
+
+53 ® SBC&66—5 Button (1)
+
+54 © SBCD220MA0A Button (1)
+
+54 ® SBCD220ZK0A Button (1)
+
+SFDYG5A273P Muting
+
+55 SHRD22—M Bracket (yy
+
+56 © SGYLP110—-SM_ Front Panel Ass'y = (1)
+AV XBA2CO12TBOS §=250V, T125mA 58 ® SGYLP110—KM Front Panel Ass'y = (1)
+
+"Except (M, MC]
+
+XA, XB,) AX XBA2CO25TBOS 250V, T250mA pl (Xt] A SJS016 AC Socket (1)
+PA, PE, A $J89236 AC Socket (1)
+PC wother|
+
+only
+
+SWKO110061
+SMND7—M
+SJFD4
+
+Connector
+Holder
+Terminal
+
+(1)
+
+SGPO41ZFOA
+SGPD41ZF3A
+
+Chassis
+Chassis
+
+ee
+LOADING UNIT PARTS
+
+SIRLP110—KM Disc Tray Ass'y (t) SGPD41ZFIA Chassis
+ion (Sheet Sheet (1)
+1-2 SHGD49 Rubber (2) SGTD77 Name Plate
+62 [E] SGTD84 Name Plate (1)
+4 © SGXD170MA0A Ornament Plate (ty | | | 62 [EK] SGTD85 Name Plate (1)
+4 SGXD270ZKOA Ornament Piate 62 [XL] SGTD86 Name Plate (1)
+62 {EG} SGTD88 Name Plate (1)
+5 SUSD29—1 Spring (1) SGTD89 Name Plate
+6 SIRD20 Lever (1)
+7 SIRD16E —1' Holder Ass'y with = (1)
+Rubber Name Plate
+C71 C SHGD46 Rubber, Holder (1)
+9 SUWD46 Bracket (1)
+10 SUXD25 Shaft (2)
+" A, SOAD30A Optical Pick Up (1) SRAGAOOBNO1 Rubber
+12 EWSL04A00000 Holder a)
+13 SHGD47 Rubber (1)
+SORD10E Coil
+
+EWS7BO0A00Q53 Resistance Unit EMCS02502Z 2 Pin (CN301) (1)
+16 SOYOS8E Yoke (2) 71 EMCS0350Z 3 Pin (CN103) (1)
+17 SoyD9s Yoke (2) 71 EMCS0550Z 5 Pin (CN402) (1)
+18 SJGD4E Motor (1) 71 EMCS0650Z 6 Pin (CN11) (1)
+19 SHGD64 Rubber (1) 71 EMCS0750Z 7 Pin (CN401) (1)
+
+SHGD48—1 Rubber 71 EMCS0552M 5 Pin (CN102)
+
+CONNECTORS
+
+72 Except SJSD0307 3 Pin (CN405)
+[M, MC]
+73 $JS01709 17 Pin (CN101) (1)
+74 SWKD110021 2 Pin Shorting (1)
+(CN301)
+75 SROJ001N14E 5 Pin Shorting (1)
+(CN102)
+
+SNSD10 Screw
+
+N2 XTN2+4G Screw, O2x4 (2)
+N3 XQN17+A6 Screw, ©1.7 x6 (2)
+N4 SHDD1-—1 Screw (4)
+N5 XTW3+8T Screw, ®3x8 (1)
+N6 XXE2605 Screw (1)
+N? SNSD9 Screw (1)
+NB XSN26+6 Screw, ©2.6 x6 (1)
+NO SFXW120-01 Washer (1)
+
+XSN26+8 Screw, ©2.6 x8
+
+XTN2+5G Screw, ©2x5
+
+SRXG007N10
+SRXGO07NS1
+
+Screw
+Screw
+
+N13 XTV3+8JFYR Screw, ©3 x8 (4)
+N14 XTV3+8G Screw, ©3x8 (1)
+N15 SFXGQO6N01 Screw (2)
+N16 XTV3+8JFZ Screw, ©3x8 (2)
+N17 XTV3+ 8GFZ Screw, ©3x8 (1)
+N18 XTV3+10G Screw, ©3 x 10 {2)
+
+SPND99 Carton Box
+
+P1(EF] © SPNOD100 Carton Box (1)
+P41 © SPND101 Carton Box al)
+{other]
+
+P41 [MC] ® SPND74—1 Carton Box (1)
+Pt (EF) g SPND98 Carton Box (1)
+P1 SPND73—1 Carton Box (1)
+
+‘other|
+
+SPSD45 Rad
+
+P3 SPSD46 Rad (1)
+
+P4 XZB55X40A01 Polyethylene Bag, (1)
+Unit
+
+PS SPSD68 Sheet (1)
+
+P6 XZB23X20C03 Polyethylene Bag (1)
+
+SQUD83
+SQULP110—KMC
+SQUD86
+SQUD87
+SQULP110~ KPC
+SQULP110-- KE
+
+Instruction Book
+Instruction Book
+Instruction Book
+Instruction Book
+instruction Book
+Instruction Book
+
+SQULP110—KPA
+
+Instruction Book
+
+SQULP110~KXB
+SQUD85
+
+Instruction Book
+instruction Book
+
+At [other}
+
+A2[M] A SJA170—1 ACG Cord (1)
+A2(MC} A SJA170 AC Cord (1)
+A2|XL] A SJA173 AC Cord (1)
+A2{EK] A. SFOACOSGO2 = AC Cord (1)
+A2 [XB] A, SJA183 AC Cord (1)
+a2. A SJA168—1 AC Cord (1)
+
+A2 A SJAI71 AC Cord
+
+[other]
+
+SJP2249—1
+SJP9215
+
+Output Cord
+Adaptor
+
+(4)
+
+AS [XA] AV SFDKI19118
+
+Plug

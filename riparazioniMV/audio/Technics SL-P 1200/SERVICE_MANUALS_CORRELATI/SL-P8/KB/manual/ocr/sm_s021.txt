@@ -1,0 +1,664 @@
+H REPLACEMENT PARTS LIST (Electric Parts)
+
+Notes:
+
+]
+2
+3.
+4
+5
+
+Ret. No.
+
+Part numbers are indicated on
+
+Important safety notice:
+
+Components identified by A mark have special characteristics important for safety.
+
+The Ss mark is service standard parts and may differ from production parts.
+The parenthesized numbers in the column of description stand for the quantity per set.
+
+Bracketed indications in Ref. No. columns specify the areas. Parts without these indications can be
+used for all areas.
+
+Part No.
+
+Description
+
+Ref. No
+
+Description
+
+nost mechanical parts. Please use this part number for parts orders.
+
+Description
+
+INTEGRATED CIRCUITS
+
+TRANSISTORS
+
+COMPONENT COMBINATIONS
+
+tCi
+102,4,5.81
+1C3,82
+10101
+
+1€102
+
+1C103
+
+IC104
+
+C106
+IC106
+1C201,251
+
+10202,402,415
+
+1204 ,209
+1205 ,253
+'C207
+
+1€208,552
+
+1C255
+
+10301 554
+10401413
+
+16403
+1C404
+(C405
+
+IC406
+
+1C407
+1C6408414,416
+1C409,411
+
+IC4140
+IC412
+10417
+
+1418
+10419
+
+{C501
+
+1C551
+1C553
+1C604
+
+1C611
+
+(C612
+1C613
+1C614
+1C615,702
+
+1C651
+iC701
+‘C703
+1C704
+
+1C705
+1801
+1C802,803,804,807
+
+1C805 806
+1C88 1.882
+
+1C1001
+
+1C1101
+
+7 AN7805
+; AN78M15
+| AN79M15
+| AN7677S
+
+AN7678S
+
+AN6556S
+
+| AN1358S
+|
+
+|
+
+| AN78L05
+
+| AN79N05
+
+| ANGSS4NS
+
+| ANG552F
+
+MN4011BS
+| MN4053BS
+| MN4001BS
+| SVITLOB2CP
+
+MN4030BS
+
+| AN691 28
+SVITC40HO04P
+
+SVIUPD4053BC
+MN4066B
+ON74LS123
+
+SVITC40H386P
+
+|
+
+ON74LS107
+DN74LS74AN
+SVISN74LS628
+
+AN78M05
+SVITC40HOOOP
+SVISN74LS393
+
+AN6682
+SVITC40H386P
+
+AN6637
+
+| AN7679S
+| MN4066BS
+| SVIBA6209
+
+1MN1421PCM
+
+i
+| MN1S64PCL
+1 SVIM83207P
+1 DN74LS04
+/MIN2114-2
+
+| MN1430PCG
+| MN6614
+
+| MN6616
+
+| MN4216-20
+
+i
+
+|
+* MN6615
+
+ AN6806
+| SVILM833NA
+
+| SVIUPD4053BC
+| SVINJM4556S
+|
+
+|
+| MN6030B
+
+| AN5020
+
+' Regulator
+
+| Regutator
+Regulator
+Focus Servo
+Control
+Tracking Servo
+Control
+
+Focus and
+Tracking Error
+Amplifier
+Laser Power
+Control
+
+| Regulator
+Regulator
+Focus and
+Tracking Error
+Amplifier
+
+| Operational
+
+| Amplifier
+
+| NAND Gate
+
+| Analog Switch
+| NOR Gate
+
+| Operational
+
+| Amplifier
+Exclusive
+
+OR Gate
+Comparator
+Waveform
+Shaping
+Analog Switch
+Analog Switch
+Monostable
+Multivibrator
+Exclusive
+
+OR Gate
+
+JK Flip Flop
+D Flip Flop
+Voltage
+Controlled
+Oscillator
+Regulator
+NAND Gate
+Monostable
+Multivibrator
+Pitch Control
+Exclusive
+
+OR Gate
+
+| Spindle Motor
+| Drive
+
+i CLV Control
+
+| Analog Switch
+| Loading Motor
+! Drive
+
+| Remote Control
+| Decoder
+| Operation Control
+| Buffer
+
+i Inverter
+
+| Random Access
+| Memory
+
+i Display Drive
+
+i EFM Demodulator
+| Error Correction
+| Random Access
+| Memory
+
+| CIRC Control
+
+| D/A Converter
+
+; Operational
+
+| Amptifier
+
+| Analog Switch
+
+i Operational
+
+| Amplifier
+
+| Remote Control
+Signal Processing
+Remote Control
+Signal Amplifier
+
+Q81,403,601,671
+672
+
+Q82,401,402,611
+612
+
+Q101
+
+Q201,205
+
+Q202,206
+
+Q203
+
+Q204
+
+Q207,302.303,304
+305,306,602
+
+Q301
+
+Q404,551
+
+Q552
+Q1001,1003,1101
+
+082,84 304,404,554
+609
+
+D83,101,201~ 206
+302,303,401 ~402
+405,551,631~635
+
+D8s
+
+086
+
+D636
+
+D651 ,652,655
+
+D653
+
+D654
+
+0661
+D1001,1003
+01005,1006
+D1007,1008
+D1009
+
+D1101
+DB1102
+
+| 2SD636
+
+: 2SB641
+
+| 280638
+
+|
+
+| 2SD1266-P
+|
+
+| 2$B941
+i
+
+| 25D1252
+288929
+| 2SC82BAR
+
+2SA722-S
+
+>} 2$C1047-C
+
+25C01328-T
+
+2SD636
+
+: 28D638
+
+Regulator and
+| Switching
+Reiay Drive.CLV
+| Control and
+Switching
+Laser Power
+Control
+| Actuator Drive
+and Traverse
+Motor Drive
+| Actuator Drive
+i and Traverse
+| Motor Drive
+Actuator Drive
+| Actuator Drive
+| Switching and
+| Dropout Detector
+| Dropout Detector
+\RE Amplifier and
+CLV Control
+| CLV Control
+Remote Signal
+; Amplifier and
+osc
+Remote Signal
+
+j
+
+| SVDS2VB20
+| SVDS1WB40
+| MA4056
+
+MA165
+
+MA4100
+MA1091
+}MA4120
+LN28RCPP
+
+| LN48YCP
+LN38GCPP
+SVDPR5553KF
+MA154WK
+
+| MA154WA
+LN66
+
+| LN26RP
+
+| PH302
+LMA165
+
+Rectifier
+Rectifier
+Zener,5.6V
+
+Switching
+
+| Zener,10V
+Zener,9.1V
+Zener,12V
+LED,.Music
+Scan,Repeat
+and Pitch
+LED,Pause/Stop
+LED,Play
+
+| LED,Sensor
+
+| Switching
+Switching
+
+; LED(Transmitter)
+
+| LED(Remote
+
+Control)
+| Phote Diode
+i Switching
+
+R670
+C11~14,17,18 ZN
+
+| EXBP86472K
+EXRFS203ZS
+
+i4.7kQX6
+0.01H FX2
+
+CRYSTAL
+
+X401
+
+| SVQNR8643
+
+| 8.643MHz
+
+CERAMIC OSCILLATOR
+
+X1001
+
+CSB420PB1
+
+[420kHZ
+
+SWITCHES
+
+$653~-675
+
+ESB823V
+SRDSHXW0251
+| SRDSBSW97-2
+| SRDSBSW-180
+| SRDSMLS-1
+SRDSHSW0963
+|
+| ESB6471
+| EVQQS405K
+
+Power
+
+Voltage Selector
+Close and Open
+Rest and End
+
+| Close
+
+Auto Pause/Timer
+Selector
+
+| Pitch
+
+Operation Keys
+
+LOW PASS FILTER
+
+LPF801,802
+
+[SVIALO12
+
+| Filter
+
+RELAY
+
+RLY801
+
+TSEDYG5A237P
+
+| Muting |
+
+FLUORESCENT DISPLAY TUBE
+
+VARIABLE RESISTORS
+
+VR102,106.107
+
+VR103,104,105
+
+VR201
+
+VR401
+
+VR402,403
+
+VR651
+
+VR801
+
+VR851
+R1103
+
+| EVN32CA00B14
+| EVN32CA00B53
+
+: EVN38CA00B53
+
+» EVN38CA00B13
+
+“ EVN3B8CA00B53
+
+; EWANFOX05A24
+ EWCSNAFISAF5
+| EVM38GA00B824
+| EVNJOAAQOB13
+
+|
+
+| Focus gain,
+
+! Tracking Oftset
+
+| and Focus Offset
+| Adj..10kQ:8
+
+! Focus Balance
+
+| Tracking Balance
+land Tracking
+
+' Gain Adj.,5kQ B
+| Traverse Offset
+/Adj..5kQ'B
+
+{117 Speed Adj.,
+11kQ:B
+
+| Reference
+
+| frequency
+
+| Adj..5k Q'B
+
+| Pitch Controt
+
+| Phones
+
+| Level,100k 0:4;
+|MSB Adqj.,20k 0:8
+| Sensor OSC
+
+| Adj..1kQ:B
+
+COMPONENT COMBINATIONS
+
+R643
+R667~669
+
+| EXBP88223K
+EXBP88104K
+
+[22kQ x8
+1100kO X8
+
+FL601
+
+THERMISTER
+TH1101
+
+HS01,502
+
+COILS
+
+[SRDQBG191z
+
+OH-001
+
+UF1922C102Y
+
+LERTD2ZHK104S
+HALL ELEMENTS
+
+_Disp
+
+Spindie Motor
+| Position Detecting
+
+Line Filter
+
+ELM-7Q206A Osc
+
+POWER TRANSFORMER
+
+SLT68PE7E
+
+Power Source
+
+XBA2CO2TRO
+
+| 250V,T400mA
+|250V,T200mA
+

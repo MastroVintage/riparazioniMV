@@ -1,0 +1,157 @@
+5V 5V
+
+TRON
+
+6 5V
+(C551
+
+AN7679S
+
+CLV control
+
+ISV I36us
+
+(735kH2)
+
+Lt:
+CLOCK id
+FCLK TT 4
+
+a)
+
+136us
+(735kHz)
+d H
+12 5V
+Ss
+
+1C553
+
+Spindle motor drive
+
+I5v
+
+Inverse
+Prevention
+
+circult
+Bes
+
+4 Hal lelement
+#1 signal process-
+
+3
+
+MSB correction
+
+Emphasis
+
+Actuator drive ' ISV ng gircul
+9V 12] 1013) | 6 3 c ees
+r - 71
+O O O O}
+Actuator ; 0 ‘lo ‘lo ‘lo} aw]
+wf fej 4d4 - | T ;
+" 2 9 4
+\ (i)
+[ | / | Hall Spindle motor
+element
+1c501
+MN4066BS | M4 Ht AN6637
+IS
+15V ;
+VR551 H
+15V 1c552 5
+a DO Gt :
+> 6
+1c552
+f~
+a l WAX:
+Q551 1c552 La |
+| SVITLO82CP 1c402
+1c4o1 1C406 3
+- SVITC4Q0HOO4 SVITC40H386
+Waveform shaping It cr4ol
+9 8 4 10
+O O O ° " 9 B 6 1c409
+> Poeea Poem an > Do SVISN74LS628
+5 Ic4ol 1c401 3 3
+9 1
+al 3 T "LJ
+ze - 5V
+1c408
+10. DN74LS74AS
+; 12 [Ba Ic408 | ae
+9 mm
+H tex . 1 2
+' R pes (LS
+5V ry is O.1l2ps
+9 Y (8.64MHz)
+8 5 oa >
+io}, Q 5V
+1c405 ; of
+5v 1C405 DN74LS123S fn cK |e 1C407
+1cao4 ae : a |, ‘||  ON7aLSIO7S
+MN4066BS (4.32MHz} A a
+:
+Ue = 5 a 1c407
+0 Phase shifter
+:207 9.46 ys (2. 16MHz) IkHz,OdB(L+R)
+aN Equalizer
+—---- 10
+TRON
+== = a “) Bat
+TCNI 6 t >
+|_| UHCK Ica
+| D/A
+Converter
+I/V Converter Deglitch Low pass filter
+8
+IkHz,OdB(L+R)
+po Ee | / [se Ee
+|
+15 ! 6 5
+(C801) t= \ > LPF sen Pa ? O) Leh
+too. Ts
+10 1C803 ae i. z
+DGLCH(Lch) Z
+3 bees
+ria q
+DGLCHI(R ch) 1] | be 1C805
+OO d
+Iceol 1c802 == tro |
+AN6806 SVILM833NA irs ii de C804 |
+= - > LPF ah | o—6) Rel
+iran nouns 1caoa Ic 806
+3
+a FH Teawansee |
+Fs] ee 5 4 1S, qualizer
+O.645Miz 1c8o2 1 ‘- sv |
+1
+1
+|
+
+Tm
+
+(8.643MHz)
+
+1C805,806
+SV1uPD4053BC
+
+Error
+
+correction
+CIRC Control
+1C703
+1c705
+MN6616 MN66I5
+y
+-2 1c704
+
+MN4216-20
+
+Relay
+drive
+
+(C804
+SVILM833NA

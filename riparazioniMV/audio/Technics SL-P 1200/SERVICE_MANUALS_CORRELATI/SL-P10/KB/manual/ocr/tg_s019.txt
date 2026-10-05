@@ -1,0 +1,45 @@
+The operation timing ranging from auto focus operation until
+focus servo operation is shown in Fig. 3—12,
+
+PLAY key ON
+
+ee
+(FO.ON)
+f
+1010411) Sa eS esa About 1.5 V
+(Sawtooth wave) | i
+
+101044) {
+(RF signal) About 2V
+
+(
+|
+coms El
+(RF.ON) :
+0.5~2s Focus servo ON
+
+Auto focus
+
+Fig. 3-12. Auto Focus -» Focus servo ON timing chart
+
+Pulse signal of TT level according to RF signal can be ob-
+tained at IC104 pin (5). The signal is called RF real
+signal, and its relation with RF signal is shown in Fig. 3-13.
+The signal is used as part of tracking servo loop switch.
+
+1104)
+RF signal
+
+101045)
+RF REAL
+
+Fig. 3-13. RF signal and RF REAL signal
+
+° The circuit consisting of IC1101 (MN4528) and IC1102 (MN4023)
+discontinued detection of RF ON [IC104 pin (8)] for 80 ms
+after delivery of FO ON and RF ON.
+
+The purpose of this is to stabilize FE signal during retrac-
+tion of focus servo.
+
+—20 -—

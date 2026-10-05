@@ -1,0 +1,110 @@
+ad
+
+“t
+a ae eee
+
+Traverse servo Loading motor drive !1T Servo control
+cN408 Cae F ——
+
++ } — SVIBA6209 ——_—— —
+LOADING Q203 A . =
+MOTOR 2SD1 266 =
+Oy €202 0.068 {C207 I6VIO Direction select ] i LOrive | |
+
+a a
+: [or
+
+—)
+
+1
+
+p——]
+
+Q4o1
+
+2SAI309
+
+iy) -O-O-0-O-O-O-O-O-0
+t ° 0.7
+OM TE Fes
+- Oy MA4056
+
+AOTrTaaeangvca =@angvgacra
+
+~oeaonwvra
+
+S101 9-3_[an - AN78LO5
+REST tes —
+sio2 : 2)
+END ry
+CN406 D405,406
+pt SVDISR35200V 201,202
+ae HOH | laos 2SC33II 2
+5104 9408 aso! 0502 0503
+OPEN 2SA130 2SC64IPKC 2SAI309 2SC33!!
+{O6)
+07 Be) __|.
+$ be uséd for the critical co
+aded aress of the schematic;
+a
+P33 G2
+i
+ewer ees Wave form shaping
+0402
+(C653 *: UN4212
+
+Lo]
+
+b
+
+c
+
+d
+
+065! ~ 667 IC6 51,652 0651~654 ‘
+
+MAI65 MN4538 2SAI309 ;,
+
+b
+
+Cc
+
+d
+
+ps2 re - le
+b 06: ceési ea le 0
+¢ D854. oo GP pee T8o b
+d 0655 1 2 ey ee c
+e ~0656 SA off 33 0651 a
+¢ -D657_ Ic65! 1OK b
+9 D658 5119 al 14 5 45 i 0652 c
+h -2659 co Ot. LS d
+
+a ed
+
+> R656 |80 Fi ces3 os 4S °2 @ '
+
+R652 10K ces2 oof D666 8] o018 i 8 Ry
+
+oe ‘ f La ot y.4s8 ee
+
+1C401
+
+MNI5844PCuU
+
+R663 |o- O'8 Teesy
+270K F 83
+
+1C505
+
+C404
+0.001
+
+AN90B20
+
+jeazdeafes|eele7] 20 [29 o-[s-35]se-aqs9feo] ars]
+
+4 07 4.
+bas a .
+op | ~— 06
+

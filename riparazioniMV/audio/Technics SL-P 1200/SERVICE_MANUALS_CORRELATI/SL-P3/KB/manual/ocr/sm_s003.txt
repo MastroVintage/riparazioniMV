@@ -1,0 +1,205 @@
+ Signalgréfe
+Probefrequenz:
+Korrektionssystem:
+
+D-A Umwandiung:
+
+M@ Tonabnehmer
+
+Typ:
+Lichtquelle:
+Wellenlange:
+
+@ Funktionen
+Eigenschaften:
+
+Bedienungselemente:
+
+Francais
+
+CARACTERISTIQUES
+
+@ Généralités
+Alimentation:
+Consommation:
+Tension de sortie:
+Impédance de sortie:
+Impédance de charge:
+Dimensions
+(LXPXH):
+
+Poids:
+
+m Audio
+
+Nombre de canaux:
+
+Réponse en fréquence:
+
+Gamme dynamique:
+
+Rapport signal/bruit:
+
+Distorsion harmonique
+totale:
+
+Ecart des canaux:
+
+Scintillation et
+pleurage:
+
+44,1 kHz
+
+Technics Super Decoding
+Algorythm
+
+16-Bit linear
+
+Astigma 3-Bundel
+Halbleiteriaser
+800 nm
+
+Manuelle Suche,
+Spursprung,
+Indexsprung,
+Musikdbersicht
+Spurwanhl,
+Indexwahl
+
+Digitalanzeige:
+
+Gesamtanzahl der Spuren,
+Gesamtabspielzeit (Min., Sek.),
+abgespielt werdende Spur,
+verstrichene Abspielzeit
+
+(Min., Sek.),
+
+Indexnummer,
+
+verbleibende Abspielzeit
+Balkenanzeige:
+
+Spurenanzanl,
+
+gespielt werdende Spur,
+Anzahl der verbleibenden Spuren,
+programmierte Spuren
+
+Grundtasten—9
+Programmtasten—12
+Indextaste—1
+Musiktbersichtstaste—1
+Abruftaste—1
+Wiederholtaste—1
+
+A-B Wiederholtaste—1
+
+Disc-Einlegung:
+
+Kopfhérer-Ausgangs-
+pegel:
+
+Verbleibende Zeit-Teste—1
+Lautstarkeneinsteliknépfe—2
+Wahlschaiter fir Auto-Abspiel/
+Auto-Pause/Auto-
+Abtastbereitschaft—1
+Kopfhérer-Lautstarkenregler— 1
+
+Motorangertriebener, horizontaler
+
+Typ
+Max. 80mW (einstellbar), 32
+
+Infrarot-Fernbedienungseinheit:
+
+Fernbedienungs-
+funktionen:
+
+Abmessungen:
+(BXHxT)
+Batterien:
+
+Grundtasten—6
+Programmtasten— 12
+Musikibersichtstaste— 1
+Wiederholtaste—1
+
+A-B Wiederholtaste— 1
+Abruftaste—1
+5,6x13,5x1,5¢em
+
+UM-4 “AAA” Batterien oder IEC
+RO3 oder gleichwertige (1,5 Vx 2)
+
+Les spécifications sont susceptibles d’étre modifiées sans préavis.
+
+Le poids et les dimensions donnés sont approximatifs.
+
+110-120/220-240 V, 50/60 Hz
+33 watts
+
+2 volts (a 0 dB)
+
+3300
+
+plus de § kQ
+
+43x33,4x8,2cm
+
+(Lorsque le support du disque est
+ouvert :43x45,9x8,2cm.]
+5,3kg
+
+2 (droite et gauche stéréo)
+4-20.000 Hz+0,5 dB
+plus de 96 dB
+
+plus de 96 dB
+
+moins que 0,003% (1 kHz, 0 dB)
+plus de 90 dB
+
+au-dessous de la limite mesurable
+
+@ Formation des signaux
+
+Fréquence de
+commutation:
+
+Systeme de
+correction:
+
+44,1 kHz
+
+Systeme algorithmique de
+superdécodage Technics
+
+Conversion de numérique
+
+a analogique:
+
+16 bits linéaires
+
+M@ Lecteur de disques
+
+Type:
+
+Source lumineuse:
+
+Longueur d’ onde:
+
+@ Fonctions
+Caractéristiques:
+
+Astigmatique a 3 faisceaux
+Laser a semi-conducteurs
+800 nm
+
+Recherche manuelle
+Saut de pistes,
+
+Saut de repéres,
+Exploration musicale,
+

@@ -1,0 +1,21 @@
+4—5. Calculation and actuator drive circuit operation
+
+Since the activated coil to drive the focus lens, is of cross
+winding, the focus error and tracking error signals are converted
+into sum signal (TE + FE) and difference signal (TE - FE) by the
+calculation circuit, and current is let to flow into 2 sets of
+actuator coil.
+
+Icl0l is the calculation circuit, and IC105 and IC106 are the
+drive circuit.
+
+Actuator coil
+
+R135 R137
+
+| | Wave
+{iet___}
+
+Fig. 4-13. Calculation and actuator drive eircuit
+
+— 34

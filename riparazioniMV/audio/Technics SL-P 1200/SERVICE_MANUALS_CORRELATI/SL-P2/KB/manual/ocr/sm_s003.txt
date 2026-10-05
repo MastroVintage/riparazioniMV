@@ -1,0 +1,213 @@
+M SignaigrdofBe
+Probefrequenz:
+Korrektionssystem:
+
+D-A Umwandlung:
+
+@ Tonabnehmer
+Typ:
+
+Lichtquelle:
+Wellenlange:
+
+44,1 kHz
+
+Technics Super Decoding
+Algorythm
+
+16-Bit linear
+
+Astigma 3-Bundel
+Halbleiterlaser
+800 nm
+
+@ Funktionen (Eigenschaften)
+
+Sucharten:
+
+Programmfunktionen:
+Funktionen:
+
+Anzeigefunktionen:
+
+Francais
+
+CARACTERISTIQUES
+
+@ Généralites
+Alimentation:
+Consommation:
+Tension de sortie:
+impédance de sortie:
+Impedance de charge:
+Dimensions
+
+(LXP XH):
+
+Poids:
+
+@ Audio
+
+Nombre de canaux:
+
+Réponse en fréquence:
+
+Gamme dynamique:
+
+Rapport signal/bruit:
+
+Distorsion harmonique
+totale:
+
+Ecart des canaux:
+
+Scintillation et
+pleurage:
+
+Manuelle Suche,
+
+Spursprung,
+
+Musikubersicht
+Spurprogramm
+
+Autom. Abspielen,
+
+Spur- und Indexbestimmung,
+Programmabspiel,
+(15-Spur-Speicher),
+
+Vorwarts- und Rickwartssprung,
+Vowarts- und Ruckwartssuche
+(Spur und Index),
+Wiederholtes Abspielen,
+
+A-B Wiederholung,
+Musikubersicht
+Digitalanzeige—
+
+Spuranzanhl,
+Gesamtspieldauer
+
+(Min., Sek.),
+
+gespielt werdende Spur,
+verstrichene Abspieizeit,
+Indexnummer, (Balkenanzeige)
+verbleibende Abspielzeit
+Balkenanzeige—
+
+Spuranzahl,
+
+gespielt werdende Spur,
+programmierte Spuren
+
+110~120/220-240 V, 50/60 Hz
+30 watts
+
+2 volts (a 0 dB)
+
+3300
+
+plus de 5 kQ
+
+43x33,4x8,2cm
+{Lorsque Je support du disque est
+ouvert : 43x 45,9x8,2 cm.)
+
+5,1 kg
+
+2 (droite et gauche stereo)
+4-—20.000 Hz+0,5 dB
+
+plus de 96 dB
+
+plus de 96 dB
+
+moins que 0,003% (1 kHz, 0 dB)
+pilus de 90 dB
+
+au-dessous de la limite mesurable
+
+Bedienungselemente:
+
+Disc-Einlegung:
+
+Kopfhérer-Ausgangs-
+pegel:
+
+Grundtasten—7
+Programmtasten—12
+Musiktibersichtstaste— 1
+Wiederholtaste—1
+
+A-B Wiederholtaste—1
+Hauptzeittaste— 1
+Motorangetriebener, horizontaler
+Typ
+
+Max. 80 mW (einstellbar), 320
+
+Infrarot-Fernbedienungseinheit:
+
+Fernbedienungs-
+funktionen:
+
+Abmessungen:
+(BXHxXT)
+Batterien:
+
+Grundtasten—6
+Programmtasten— 12
+Musikibersichtstaste—1
+Wiederholtaste—1
+
+A--B Wiederholtaste— 1
+Abruftaste—1
+5,6*13,5*1,5 cm
+
+UM-4 AAA” Batterien oder IEC
+RO3 oder gleichwertige (1,5 V x2)
+
+Les spécifications sont susceptibles d‘étre modifiées sans préavis.
+Le poids et les dimensions donnés sont approximatifs.
+
+Mm Formation des signaux
+
+Frequence de
+commutation:
+
+Systeme de
+correction:
+
+44,1 kHz
+
+Systeme algorithmique de
+superdécodage Technics
+
+Conversion de numérique
+
+a analogique:
+
+16 bits linéaires
+
+@ Lecteur de disques
+
+Type:
+Source lumineuse:
+Longueur d’ onde:
+
+Astigmatique a 3 faisceaux
+Laser a semi-conducteurs
+800 nm
+
+@ Fonctions (Caractéristiques)
+
+Modes de recherches:
+
+Recherche manuelle
+
+Saut d’une piste
+Exploration musicale
+Programmation d'une piste
+

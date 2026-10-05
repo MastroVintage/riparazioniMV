@@ -1,0 +1,136 @@
+ESPANOL
+
+@ MEDICIONES Y AJUSTE seme E sp 20 O] Se
+
+1. Ajuste de ganancia de enfoque
+
+1. Conectar !a plantilla de ajuste de ganancia con conectar
+de cambio al aparato.
+
+Puente conectar (+15V) junto a perno
+13 de IC301 en P.C.B. 01.
+Puente conectar (—15V) junto a perno
+12 de 1C301 en P.C.B. 01.
+Chasis
+
+Conector... Saque el perno corto de CN103 en
+P.C.B. 03 y conecte el conectar de
+cambio a la plantilla y luego conecte el
+conectar (5P) del conectar de cambio
+a CN103.
+
+. Ajustar el oscilador de baja frecuencia a frecuencia de
+750 Hz y voltaje de salida de 150 mVp-p, y conectarlo a
+ENTRADA DE OSC. (OSC IN) de perno de PRUEBA y
+TIERRA (GND) de la plantilla.
+
+. Conectar CH1 y CH2 de osciloscopio a TP1 y TP2 de la plantilla (TP3 et TIERRA.)
+Puesta de osciloscopio: VOLTAJE 100 mV (ambos canales)
+BARRIDO
+Entrada
+. Poner le INTER. de corriente en ‘‘on’’ (conectado) de plantilla y el interruptor rotatorio de plantilla en ‘1’ y
+colocar el disco.
+. Prender el interruptor de corriente. Cuando el plato giradiscos comienza a girar, una sefial de 750 Hz aparece en el
+osciloscopio, Luego adustar VR101 de manera que las formas de onda de ambos canales sean iguales una a otra.
+
+. Ajuste de equilibrio de enfoque
+
+. Poner el INTER. de corriente en ‘‘on’”’ de plantilla y el interruptor rotatorio de plantilla en ‘‘2’’ y desconectar la
+entrada del oscilador.
+. Conecte TJ102 en P.C.B. 03 a tierra (GND) mediante cordén de prueba con presilla.
+. Saque el conectar CN501 en P.C.B. 01.
+. Conectar el osciloscopio a TJ101 en P.C.B. 03 y colocar el disco.
+Puesta de osciloscopio: VOLTAJE 500 mV
+BARRIDO
+Entrada
+. Prender el interruptor de corriente. Cuando el laser se ilumina, la forma de onda de forma-S aparece en el oscil-
+oscopio. Entonces ajustar Y¥R102 de manera que los valores de cresta maximos y minimos sean iguales uno al otro.
+
+Nota: La forma de onda de forma-S, antes mencionada, continuard por unos 2 minutos si perno 4 de CN412 es
+conectado a tierra mientras LD estd iluminado como paradas LD en 5 ~6 seg.
+6. Después del ajuste, cambie el cordén de prueba con presilla y CN501 de nuevo como estaban antes.
+
+3. Ajuste de desviacién de enfoque
+
+1. Mantener el INTER’. de corriente en “‘on’’ (encendido) de fog. y el interruptor rotatorio de plantilla en “2”.
+2. Cambiar el aparato a modalidad de EYECCION (eject).
+
+3. Conectar un volt(metro variable a TJ101 en P.C.B. 03.
+
+4. Prender el interruptor de corriente y ajustar VR103 de manera que el voltaje CC del volt(metro se0 +10 mV.
+
+. Ajuste de ganancia de seguimiento
+
+. Poner ef INTER. de corriente en ‘’on’’ de plantilla y el
+
+. Ajustar el oscilador de baja frecuencia a salida de 1.5kHz
+
+. Conectar osciloscopio de CH1 y CH2 a TP1 y TP2 de
+
+interruptor rotatorio de la plantilla en “’3”’.
+
+y 150 mVp-p. Y conectarlo a ENTRADA DE OSC. de TP lg
+perno de PRUEBA y TIERRA (GND) de la plantilla.
+
+perno de PRUEBA de Ia plantilia. (TP3 esta puesto a
+
+TIERRA GND.)
+
+Puesta de osciloscopio: TP2
+VOLTAJE.... 100 mV (ambos canales)
+Barrido....... 0,5 ms
+Entrada...... CA
+
+. Prender el’ interruptor de corriente. Cuando el plato giradiscos comienza a girar, una sefial de 1,5 kHz aparece en el
+
+osciloscopio. Entonces ajustar VR104 de manera que las amplitudes de forma de onda de ambos canales son iguales
+una a la otra.
+
+. Ajuste provisional de desviacién de seguimiento
+
+WN
+
+. Poner el INTER. de corriente en ‘‘on” y el interruptor rotatorio de plantilla en ‘’2’’, y desconectar la entrada del
+
+oscilador.
+
+. Cambiar el aparato a modalidad de EYECCION (eject).
+. Conectar un voltimetro variable a TJ103. en P.C.B. 03.
+. Prender el interruptor de corriente y ajustar VR106 de manera que el voltaje CC del voltimetro sea 0 + 3 mV.
+
+. Ajuste de equilibrio de seguimiento
+
+. Poner el INTER. de corriente en ‘‘on’’ de plantilla y el
+
+. Prender el interruptor de corriente. Cuando el plato
+
+. Conectar el osciloscopio a TJ103 en P.C.B. 03 y luego
+
+interruptor rotatorio de plantilla en “2”.
+
+colocar el disco.
+
+Puesta de osciloscopio:
+VOLTAJE. ... 200 mV
+BARRIDO.... 5ms
+Entrada
+
+giradiscos comienza a girar y el servointerruptor de
+seguimiento de plantilla se desconecta, la sefial TE (error
+de seguimiento) aparece en el osciloscopio.
+
+Entonces ajustar VR105 de manera que los valores de
+cresta maximos y minimos sean iguales uno al otro.
+
+. Ajuste de desviacién de seguimiento
+
+. Mantener el INTER. de corriente ‘““encendido” de plantilla y el interruptor rotatorio de plantilla en “2”.
+
+. Cambiar el aparato a modalidad de EYECCION (eject).
+
+. Conectar un voltimetro variable a TJ103. en P.C.B. 03.
+
+. Prender el interruptor de corriente y ajustar VR106 de manera que el voltaje CC de voltimetro sea 0 + 3 mV.
+
+Nota: Después del ajuste antes mencionado, remover la plantilla de ajuste de ganancia y conectar el estadoorig inal
+de la unidad.

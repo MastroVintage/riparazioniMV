@@ -1,0 +1,71 @@
+D. Grating adjustment
+
+RF signal r
+1. Place the TEST DISC (SZZP1014F) on the turn- at CH1 | i
+table and clamp it with the magnet. \
+
+2. Connect the oscilloscope as follows.
+** Sweep speed ..200mV/2usec. DIV AC.
+
+SHA eee, TP107 of SL-P7 or CN109 pin ach?
+@/RF test pin of SL-P8.
+CH-2........ R131 end of C123 on 03 P.C.B.
+3. Apply power to the unit and select play mode.
+4. |f RF signal and ‘‘N” mark are present no adjust- Fig: 4-14, RF signal and N mark
+ment is required as shown in figure 4-14. If RF
+signal and ‘’N’’ mark are not present, perform step Turntable
+
+Optical pick-up
+
+5.
+
+or
+
+. {Insert the GRATING ADJUSTMENT TOOL
+(SZZP1018F) into the hole on the left side of the
+optical pick-up body as shown in figure 4-15.
+
+Grating adjustment tool (SZZP1018F) =
+
+Fig: 4-15. Left side view of traverse unit
+
+6. Rotate the GRATING ADJUSTMENT TOOL ae onal
+(SZZP1018F) toward right or left until the ““N”
+mark is sharpest and maximum RF signal is ob-
+
+U
+
+Front of deck
+
+Insert the Grating
+adjustment jig.
+
+tained as shown in figure 4-16.
+
+“N” mark
+
+Fig: 4-16. RF signal and N mark
+
+5. Electrical alignment of main unit (Vol. 3)
+
+Electrical alignment of main unit follow the adjustment manual Vol. 3 step by step.
+
+eqge@ 8a
+
+(8K
+
+6. Others
+
+After adjustment dress all components to lay flat
+on 03 P.C.B. as shown in figure 6-1, and reassem-
+bly on the traverse deck.
+
+Lay flat compornents
+ONCE THE P.C.B. IS MOUNTED, ASSURE THAT = .
+THE BOTTOM OF THE PICK-UP DOSE NOT IN- (4 _ [oe
+TERFERE WITH ANY OF THE COMPONENTS Lay flat compne ats
+THEREFORE MAKE SURE THAT THE TRACKS RT Tt
+IN THE OUTER PREIFERY OF THE DISC ARE
+ACCESSABLE. Fig: 6-1. Top view of 03 P.C.B. (Head Amn)
+
+—g—

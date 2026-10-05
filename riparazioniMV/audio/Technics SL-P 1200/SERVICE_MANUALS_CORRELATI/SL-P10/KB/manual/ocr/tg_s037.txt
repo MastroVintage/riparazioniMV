@@ -1,0 +1,42 @@
+4—9. Track jump control
+
+According to the jump timing (J. TIME in circuit diagram
+stands for jump timing) command from the system microcompu-
+ter during trick play, the focus lens is forcibly jumped
+to the inner or outer periphery of the disc.
+
+It is pause and play lowspeed research in a mode that
+requires track jump.
+
+° Pause mode
+
+When the set is in pause mode, releasing the pause will
+cause a different tune to be played unless the laser
+beam follows up the same track. Therefore, a command
+Signal is given from the system microcomputer every time
+the disc rotates in order to let the focus lens jump to
+return the laser beam to the original track (pause
+point). (The idea is the same as for still image play-
+back in VTR.)
+
+Rotating direction (as disc is viewed from
+information surface)
+
+Track
+-Laser beam following track
+
+J. TIME command from system microcomputer.
+
+Fig. 4-19. Track jump in pause mode
+
+In Fig. 4-19, if the set is shifted to pause mode at
+point A, the laser beam will move to point B as the disc
+is rotating counterclockwise. The focus lens at point
+B is jumped toward point A in order to return the laser
+beam to the original point A. In this way, the laser
+beam will follow up the track at point A where the set
+was shifted to pause mode. The operations (A) + (B) ...
+(A) + (B) ... (A) are repeated until the pause mode is
+released.
+
+— 40 —

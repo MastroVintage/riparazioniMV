@@ -1,0 +1,147 @@
+| 05| (Power supply P.C.B.)
+
+8108 (Spindle motor drive P.C.B.)
+
+(Power fuse P.C.B.)
+
+VOLTAGE SELECTOR
+
+~
+{eo
+~
+
+AC Socket
+
+~~) circuit view on top
+of P.C.B.
+
+t1
+
+RDER NO. DPD83110036S9
+
+Service Manual
+
+Compact Disc Player
+
+oL- P 7K)
+
+[E], [EK], [XL], [EG], [EB], [ =
+EF], [Ei], [XAI, PAY [PE], [PC]
+
+DIGITAL AUDIO
+
+is available in Switzerland and Scandinavia.
+{EK] is available in United Kingdom.
+
+*{XL] is available in Australia.
+
+* [EG] is available in F. R Germany.
+
+*{EB] is available in Belgium.
+
+*(EH] is available in Holland.
+
+*{EF] is available in France.
+
+* [Ei] is available in Italy.
+
+* [XA] is available in Southeast Asia, Oceania, Africa,
+
+Middle Near East and Central South America.
+
+* [PA] is available in far East PX.
+
+is available in European Military.
+
+is available in European Audio Club.
+
+*The colors of this model include silver and black.
+*The black type model is provided with (K) in the
+Service Manual.
+
+Please use this manual together with the service manual for Model No. SL-P7/(K),
+Order No. DPD83080021C9.
+
+Specifications are subject to change without notice for further improvement.
+Weight and dimensions shown are approximate.
+
+Specifications
+
+@ Functions
+Search modes:
+
+@ General
+Power supply:
+Power consumption: 30 watts
+
+Output voltage: 2 volts (at 0 dB)
+Output impedance: 3300
+
+Load impedance: more than 5 kQ
+
+Manual search
+
+Index search
+
+Skip search
+
+No. of tracks, Total playing time,
+Track being played, Playing time of
+
+~110-120/220-240 V, 50/60 Hz
+
+Display functions:
+
+Dimensions 31.5x32.5x8.8 cm track being played, Index number
+(WxDxh): (1219342" x 12'S)" X315%2"") Operation buttons: buttons: 7
+When disc holder is opened button: 1
+31.5x45.1x8.8 cm Disc loading: Motor driven, lateral loading
+121942" x 1794" X 352”
+Weight: 4.9 kg (10.8 Ibs)
+@ Audio
+
+No. of channels: 2 (left and right stereo) @ Disc specifications
+
+Frequency response: 4-—20,000 Hz+0.5 dB Diameter: 42) cm
+
+Dynamic range: more than 96 dB Thickness: 0.12 cm
+S/N ratio: more than 96 dB Spindle hole: 1.5¢em
+Harmonic distortion: less than 0.003% (1 kHz, 0 dB) Min. inside diameter of
+
+Channel separation: more than 90 dB recorded section: 5 cm
+
+Wow and flutter: Max. outside diameter
+of recorded section: 11.6cm (disc is played from the
+
+inside to the outside edge)
+
+below measurable limit
+
+@ Signal Format
+
+Sampling frequency: 44.1 kHz Direction of rotation: Counterclockwise
+
+Correction system: Technics Super Decoding (seen from recorded side of disc)
+Algorithm Tracking speed: 1.2 to 1.4 meters/second, CLV
+
+D-A conversion: 16-bit linear (Constant Linear Velocity)
+
+Rotations per minute: About 500 to 200 rpm
+
+@ Pickup Playing time: About 60 minutes (up to 75 min. can
+
+Type: Astigma 3-beam be containted)
+
+Light source: Semiconductor laser Track pitch: 1.6 um
+
+Wavelength: 800 nm Material: Clear plastic
+
+Panasonic Tokyo
+
+Matsushita Electric Industrial Co., Ltd.
+1-2, 1-chome, Shibakoen, Minato-ku, Toky¢e ‘
+
+Matsushita Electric Trading Co., Ltd.
+P.O. Box 288, Central Osaka Japan
+
+Technics

@@ -1,0 +1,14 @@
+FOREWORD
+
+This textbook is intended to be used for seminars and self-
+studies in combination with the textbook of SL-P7. Therefore,
+those common to SL-P7 are omitted:
+
+Accordingly, main differences from SL-P7 are involved.
+1. Remote control system. .
+2. Expanded function of operation control.
+3. Pitch control.
+4. Expansion of display function.
+
+These circuits are described in 4 chapters, and other related
+circuits are omitted. So, refer to the textbooks of SL-P7 circuit.

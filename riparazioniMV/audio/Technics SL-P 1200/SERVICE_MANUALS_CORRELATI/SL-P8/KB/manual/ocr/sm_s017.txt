@@ -1,0 +1,123 @@
+QM - ©
+
+How to remove the loading motor
+
+Remove the head amplifier P.C.B.
+
+Remove the belt from the loading motor pulley.
+
+Remove the 2 setscrews [Fig. 17: @ , @ 1] of loading
+motor, and unsolder the motor leads.
+
+*Connect the brown lead to the (+) terminal of motor,
+and red lead to (—) terminal. (The (—) terminal is indi-
+cated by arrow on the motor.)
+
+Wn>e
+
+How to remove the turntable
+
+Remove the traverse unit.
+
+Remove the spindle motor drive coil P.C.B.
+
+Remove the C ring which fastens the magnet shaft of
+spindle motor. [Fig. 18]
+
+. Remove the screw [Fig. 18: @} ] by use of a hexagonal
+
+wrench, then the turntable can be removed.
+
+*If the turntable is removed, it is necessary to re-adjust
+the height of turntable.
+
+WH @
+
+5,
+
+How to remove the laser pickup
+
+. Remove the traverse unit.
+. Remove the head amplifier P.C.B.
+. Pull out the connectors (CN304, CN305) of head ampli-
+
+fier P.C.B.
+
+. Remove the bracket setscrew [Fig. 17: @ ] of pickup
+
+to remove the bracket.
+Remove the guide rail retainer setscrew [Fig. 18: @® )
+and pull out the laser pickup from the two guide rails.
+
+*The pickup must be re-adjusted when it is replaced or
+
+. Similarly
+
+fitted after removal.
+
+How to remove the remote control (transmitter)
+P.C.B.
+
+. Remove the battery cover in the direction of the arrow:
+
+[Fig. 19].
+
+. Remove the battery and battery cover setscrew [Fig. 19:
+
+@ |.
+
+. Insert a screwdriver between the top and bottom covers
+
+inside the battery compartment and gradually loosen the
+bottom cover. [Fig. 20]
+
+loosening the cover along the periphery,
+remove the bottom cover.
+
+. Pressing the whole body of P.C.B. in the direction of
+
+arrow (A), push the 3 claws on the opposite side in the
+direction of arrow (B) to remove the P.C.B. from the
+top cover. [Fig. 21]
+
+Caution: Be sure to remove the P.C.B. with the top
+
+cover positioned as in Fig. 21. If the top cover is
+up, the button will be removed.
+
+&)-———- C-ring
+
+Shaft cover
+
+Spring
+
+Turntable
+
+Laser Pick-up
+
+Guide rail
+
+Fig. 18
+
+Bottom cover
+Battery
+
+"et79,
+Nn ltts,
+LIE Z2
+LOR
+LT
+
+Top cover
+
+Fig. 19
+
+[/
+
+Screwdriver
+
+Screwdriver
+
+Fig. 20
+
+Fig. 21

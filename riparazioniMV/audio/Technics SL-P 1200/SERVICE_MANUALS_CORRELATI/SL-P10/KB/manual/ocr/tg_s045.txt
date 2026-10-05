@@ -1,0 +1,82 @@
+5-3. Traverse servo circuit operation
+
+® Tracking error signal circuit
+
+The tracking error signal circuit is shown in Fig. 5-3.
+
+10 112(A)
+
+IC 108(A) ANG914
+
+REE AN6S54
+
+VR109
+(Offset) —
+
+IC 108(D)
+
+l Analog switch
+R49 VR108 | IC 107
+(Gain) Fe ren (MN4066)
+
+Fig. 5-3 Tracking error signal circuit
+
+The circuit shows the tracking error signal L,P.F., compara-
+tor, and analog switch controlled by FCN and FCC signal.
+
+—45.—
+
+Tracking error signal goes into IC108 through R146.
+
+IC108(C) amplifies the tracking error siqnal and eliminates
+the high frequency by C132.
+
+Tracking error i a
+
+High frequency
+elimination
+
+— rotation a
+
+of disc Fig. 5-4 Effects of C132
+
+Icl08(D) sets up an active type L.P.F. of 12 dB/ocf in
+combination with R142 - R145 and C130, C131.
+
+The L.P.F. includes a filter constant changer using analog
+switch and ON/OFF switch.
+
+The relationship between disc rotation and tracking error
+signal is explained in the following.
+
+Deviation zero track
+
+Deviated track
+
+A iy
+oe 2 ae
+Fig. 5-5 Tracking error per rotation
+
+In CD, the disc speed is about 200 r.p.m. at the inner
+periphery and about 500 r.p.m. at the outer periphery.
+
+On the other hand, tracking error is the deviation of disc,
+and error signal of one period per rotation can be obtain-
+ed when the tracking servo is activated. (See Fig. 5-5.)
+
+Accordingly, when the disc speed is 200 r.p.m.
+
+_ 200 r.p.m, ~ 4
+fTE = —so0s : 3.3 H2
+
+When the speed is 500 r.p.m., error signal of 8.3 Hz can
+be obtained.
+
+The comparator mentioned later requires DC voltage with
+these components eliminated, and therefore the cut-off
+frequency of filter is set at 0.5 Hz and 1 Hz respectively
+at the inner and outer peripheries: The level of FCC
+signal at analog switch pins (13) and (5) is "H" at inner
+periovhery and "L" at outer periphery.
+
+—50-—

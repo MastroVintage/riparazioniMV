@@ -1,0 +1,52 @@
+4. Justierung der Spurlage-Verstarkung
+
+1. Den Netzschalter der Justiereinheit einschalten und den
+Drehschalter auf ‘’3” stellen.
+2. Den Niederfrequenz-Oszillator auf 1,5 kHz und 150
+mVss Ausgangsleistung einstellen, und ihn dann an
+TEST pin OSC IN und GND (Masse) der Justiereinheit
+anschlieRen.
+3. Kanal 1 und Kanal 2 des Oszilloskops an TEST pin
+TP1 und TP2 der Justiereinheit anschlieRen.
+(TP3 ist Masse.)
+Einstellungen am Oszilloskop: ; Po
+VOLT... 100 mV (beide Kandle), SWEEP 2ms, Input AC (Wechselspannung)
+4. Den Netzschalter einschalten. Wenn der Plattenteller sich zu drehen beginnt, erscheint 1,5 kHz-Signal auf dem
+Oszilloskop. Danach VR104 so einstellen, da& die Wellenform-Amplituden beider Kanale identisch sind.
+
+5. Provisorische Justierung der Spurlage-Abweichung
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘‘2” einstellen; den Eingangsanschlu& vom
+Oszillator trennen.
+
+2. Das Gerat auf Plattenauswurf (Eject) schalten.
+
+3. Ein veranderliches Voitmeter an TJ103 auf der 03-Platine anschlieen.
+
+4. Den Netzschalter einschalten und VR106 so einstellen, da& die Gleichspannung des Voltmeters 0 + 3 mV betragt.
+
+6. Justierung der Spurlage-Balance
+
+1. Den Netzschalter der Justiereinheit einschalten und
+den Drehschalter auf ‘’2” einstellen.
+
+2. Das Oszilloskop an TJ103 auf der 03-Platine anschlieRen
+und dann eine Platte auflegen.
+Einstellungen am Oszilloskop:
+
+DC (Gleichspannung)
+3. Den Netzschalter einschalten. Wenn der Plattenteller
+sich zu drehen beginnt, und der Spurlage-Servo-Schalter
+(Tracking Servo) der Justiereinheit sich in der OF F-Position
+befindet, erscheint das TE-Signal (Tracking Error = Spurlagefehler) auf dem Oszilloskop.
+VR105 dann so einstellen, da& die oberen und unteren Spitzenwerte gleich sind.
+
+7. Justierung der Spurlage-Abweichung
+
+1. Den Netzschalter der Justiereinheit einschalten und den Drehschalter auf ‘’2”’ einstellen.
+2. Das Gerat auf Plattensuswurf (Eject) schalten.
+3. Ein veranderliches Voltmeter an TJ103 auf der 03-Platine anschlieRen.
+4. Den Netzschalter einschalten und VR106 so einstellen, da& die Gleichspannung des Voltmeters 0 + 3 mV betragt.
+Anmerkung: Nach obiger Justierung ist die Verstarkungs-Justiereinheit zu entfernen, und CN103 ist so
+anzuschlieBen, da& der Originalzustand des Gerates wiederhergestellt wird.
+

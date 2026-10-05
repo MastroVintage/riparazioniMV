@@ -1,0 +1,53 @@
+4—2. Tracking error head amp circuit operation
+
+Before proceeding to the circuit that processes TR ON
+signal from the system microcomputer, the operation of
+tracking error amplifier and low frequency compensating
+circuit is explained here.
+
+e Tracking error amp. +15V
+Photo vi | R209
+detector
+
+1 fez aL,
+R yybape tal
+
+R213
+ail =
+1¢201(B)
+
+R21
+
+0204 Raid
+1€202(B)
+
+To low frequency
+compensating circuit
+
++15V +15V
+
+CN 202
+“ookgedll HEED |
+Form CN202 Hyper VRE pa DS R233
+VR 202
+
+R
+Fig. 4—3. Tracking error amplifier
+
+(1) Tracking signals detected by tracking photo detector
+B,; and Bs are amplified by IC201 (A) and IC202 (A).
+The signals are then converted to positive and nega-
+tive tracking signals by the detection circuit consist-
+ing of IC201 (B), 202 (B), and D201 ~ 204,
+
+(2) The positive and negative signals are added at R213
+and R214, then the output difference between photo
+detectors B, and B» appears at pin (6) of IC203 (A).
+The level difference is tracking error (TE) signal.
+
+(3) The tracking error signal is amplified at IC203 (A),
+and is delivered to the low frequency compensating
+circuit in the next stage. TE signal controls the
+traverse servo.
+
+—24—

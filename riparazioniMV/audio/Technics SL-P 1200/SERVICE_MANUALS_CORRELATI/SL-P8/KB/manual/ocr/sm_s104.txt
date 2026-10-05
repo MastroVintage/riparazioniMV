@@ -1,0 +1,26 @@
+6. Tracking balance adjustment
+1) Keep the power SW “‘on” of jig and the rotary switch of jig at “2”.
+
+2) Connect the oscilloscope to TP2 on 03 P.C.B. and then place the disc.
+
+Oscilloscope setting:
+
+VOLT......... 50 mV
+SWEEP ........ 5 ms
+Input ......... DC
+
+3) Turn power switch ON. When turntable begins to rotate and the tracking servo switch of jig is
+turned OFF, TE (tracking error) signal appears on the oscilloscope.
+Then adjust VR104 so that the top and bottom peak values are equal to each other.
+
+(a= b)
+
+7. Tracking offset adjustment
+1) Keep the power SW “on” of jig and the rotary switch of jig at ‘’2’’.
+2) Shift the set to EJECT mode.
+3) Connect a variable voltmeter to TP2 on 03 P.C.B.
+
+4) Turn power switch ON, and adjust VR106 so that the DC voltage of voltmeter isO+ 3 mV.
+
+Note: After the above-mentioned adjustment, remove the gain adjusting jig and connect
+CN109 to restore the original state of the unit.

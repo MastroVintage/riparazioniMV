@@ -1,0 +1,29 @@
+1C605(B)
+
+0.5T
+From edge detection
+
+IC606(B) R697
+
+To V.C.O.
+
+Q601-604
+YL PUT
+1C607(B)
+(748124)
+(Search0.S.C) (L.P.F)
+22ms
+{C607 4 i Lore than 4V
+
+—7Pin
+
+Optimum value is
+
+detected.
+----Less than 2V
+
+TP603
+
+Fig. 7-18 (b)
+
+— §3 —

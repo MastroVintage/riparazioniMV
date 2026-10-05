@@ -1,0 +1,113 @@
+=
+Der optische Abtaster ist zu weit
+
+weg vom Plattenteller (Abb. D):
+Justierung:
+Die Befestigungsschraube lésen und die REST-Schalter-Justierschraube entgegen dem Uhrzeigersinn drehen.
+
+6. Um richtige Justierung zu iberpriifen, die Platte auf den Plattenteller legen und Stromzufuhr einschalten.
+Dadurch wird der optische Abtaster in den Auto-Zyklus versetzt. Die Abgleichung mit der Ruhepositions-Schablone
+
+10.
+
+(1)
+
+(2)
+
+(3)
+
+(5)
+
+Anmerkung: Dies ist nétig nach Ersetzen des Direktan-
+
+erneut iiberpriifen, wie in Abb. C gezeigt.
+
+2. Justierung der Tonarmhohe
+
+trieb-Spindelmotors, oder wenn kein HF-
+Signal vorhanden ist.
+
+_ Den kurzen Stift von CN103 auf der 03-Platine heraus-
+
+ziehen.
+
+_ Das diinne Ende der Fihleklingenlehre zwischen dem
+
+Plattenteller und dem Achslager einfihren.
+
+. Die Fiihlerklingenlehre gegen das dicke Ende schieben
+
+und die Stelle, wo sie den Plattenteller berihrt und
+bis sie nicht mehr weitergeschoben werden kann, mit
+Bleistift markieren. Dann die Lehre entfernen.
+
+Das Oszilloskop an den TJ402-Stift am 01-Platine
+
+(Servo) anschlieRen.
+
+_ Eine Platte auf den Plattenteller legen und sie mit dem
+
+Magneten festklemmen.
+
+. Die Stromzufuhr zum Gerat einschalten.
+. “Eject Out’ und ‘‘Eject In” driicken.
+_ Uberpriifen, ob HF-Signal vorhanden ist.
+
+Falls nicht vorhanden, mit dem nachsten Schritt weiter-
+fahren.
+
+. Zu tiberprifen:
+
+Die Platte am Punkt “A” leicht antippen. Fall HF-
+Signal auftritt, ist der Plattenteller zu tief. Falls kein
+HEF-Signal auftritt, an Punkt “B” auf die Platte tippen.
+HEF-Signal sollte auftreten um anzuzeigen, da der
+Plattenteller zu hoch ist.
+
+Justierung:
+
+Die Fihlerklingenlehre zwischen dem Plattenteller und
+dem Achslager bis zum vorher markierten Punkt ein-
+fiihren.
+
+Die Sechskant-Plattenteller-Befestigungsschraube ldsen.
+(1,27mm-Sechskantschliissel verwenden.)
+
+Falls der Plattenteller zu tief ist, die Fihler-klin-
+genlehre ca. 4mm gegen das dicke Ende hin schieben und
+sie dann entfernen.
+
+Stromzufuhr wieder einschalten und priifen, ob HF-
+Signal vorhanden ist.
+
+(Es handelt sich hier um eine Justierung ‘auf gut
+Glick”; es diirften daher mehrere Versuche nétig sein,
+bis ein HF-Signal auftritt.)
+
+Der Plattenteller ist zu hoch; die Fihlerklingeniehre
+einfiihren und ca. 4mm gegen das diinne Ende hin
+schieben, d.h. auf gleiche Weise vorgehen, wie in
+Schritt 3.
+
+CN103 wieder anschlieRen, damit Fokus-Suchlauf funk-
+tioniert.
+
+HF-Signal
+
+Plattenteller
+
+poe ce eee
+
+Platte
+
+Ansicht von oben bei aufgelegter Platte
+
+Sechskantschraube Plattenteller
+
+'«— Die Fihterklingenishre
+einfiihren.
+
+Achslager
+
+VILLLL ALLL LLL LL
+Vorderansicht der Traverseneinheit

@@ -1,0 +1,44 @@
+3. RF amp.
+
+(1) The (A, + A;) and (A, + A,) signals applied to IC25l
+pins (3) and (2) are treated by RF amplifier in IC
+and are delivered as RF signal to IC251 pin (9).
+
+(2) RF signal delivered to IC251 pin (9) is changed in
+impedance by transistor Q252, and is sent to [01] PCB
+through CN251 pin (1), and is distributed for data
+processing, drop-out detection and focus control.
+
+° VR251 is a semi-fixed resistor to adjust the output
+level difference between (A,+ A;) and (A.+ A,) siqnals
+detected by focusing photo detector, and is adjusted so
+that the eye pattern* of RF signal is best.
+
+*Eye pattern
+
+In the observation of RF signal on the oscilloscope,
+the part A of Fig. 3-8 looks like eyes. So, the part
+is called "eye pattern".
+
+Fig. 3-8. RF signal
+
+4. APC circuit operation (APC... . Auto Power Control)
+10252 AN7675
+
+3ZW 6V4
+
+4 ray
+N = LD switch
+ce
+
+(Holder}
+
+close open
+B
+= 77
+4
+4 L»-py
+01 From CN251
+
+Fig. 3—9. APC circuit
+ante

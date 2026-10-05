@@ -1,0 +1,37 @@
+I. Check of Play Operation after Adjustment
+
+(1)
+
+(2)
+
+(3)
+
+Check of skip search
+
+1) Play an ordinary disc.
+
+2) Press the skip button and check to see that skip
+search is given (Forward and reverse)
+
+Check of manual search
+
+1) Play an ordinary disc.
+
+2) Press the manual search button and check to see
+that smooth manual search can be done at low and
+high speeds (Forward and reverse)
+
+Check to make sure the best adjusted condition for
+
+defects.
+
+1) Play the Technics test disc "SZZP1054C".
+
+2) Play the track 12 (Wedge 0.6 mm), track 13 (Wedge
+0.7mm), and see that there is no sound skip or
+noise.
+
+3) Play the tracks (Black spot 0.6mm), track 6 (Black
+spot 0.7mm) and see that there is no sound skip or
+noise.
+

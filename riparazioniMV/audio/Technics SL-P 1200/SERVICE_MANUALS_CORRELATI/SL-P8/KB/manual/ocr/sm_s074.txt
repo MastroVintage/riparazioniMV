@@ -1,0 +1,88 @@
+ORDER NO. DAD84050086S0
+
+Service Manual
+
+dist ([DIGIT/IL_| Compact Disc Player
+
+SL-P8/(k)
+
+Please use this manual together with the service manual for Model No. SL-P8.
+
+Notes: * The replacement parts for optical pickup have been supplied as traverse unit ass’y (optical pick-up deck
+unit), but they are individually supplied as optical pick-up since May 21, 1984.
+
+* This supplement includes the parts list and exploded view of loading drive mechanical and optical
+pick-up deck.
+
+* This supplement should be filed with the service manual for Model No. SL-P8.
+
+m REPLACEMENT PARTS LIST
+
+LOADING MECHANICAL PARTS
+
+OPTICAL PICK-UP DECK UNIT PARTS
+
+Part Name & Description
+
+41 SRUMOO7NOSE. Tray Ass’y, Disc SRLPOO7NO1A Optica! Pick-up
+42 SRUMOO8NO04R Disc Case Ass'y (1) SRUMO007N22 Bracket, Optical Pick-up
+42-1 SRKKOO8NO3 Ornament Plate, Disc Case (14) SRQS007N01 Sprping, Bracket
+43 SRUMO07NO07 Cam, Disc Case (1) SRXJO0O7NO1 Shaft, Optical Pick-up Guide
+44 SROHOO07N02 Spring {1) SRUKOO7NO2E Optical Deck Unit Base Ass’y
+45 SFY B-5-32-P Nylon Baill (11) SRUPOO7NO9 Holder (A), Shaft
+46 SRUPOO7NO7 Holder (2) SRUPOO7NO08 Holder (B), Shaft
+47 SRUPOO7NO5A Holder, Disc Clamper (1) SRGC007N02 Cushion Rubber
+48 SRDJOO7N12E Connector Ass‘y (1) SRQA007N02 Spring(A), Cushion Rubber
+49 SRUMO07N18 Cover, Switch (1) SRUPOO7N12 Holder, Spring
+50 SRQS007N02 Spring (1) SRQA007N01 Spring (B), Cushion Rubber
+51 SRUGO07N04 Gear, Return (1) SRMHOO07NO02A Motor, Optical Pick-up Drive
+52 SRQHO07NO01 Spring, Return (1) SRQA007N03 Spring
+53 SRUMO07N15 Guide Plate (2) SRTEO07NO03 Holder, Turntable
+54 SRUMO007NO9 Rack Gear, Loading (1) SRQA010N04 Spring
+55 SRUPOO7N10E Loading Guide Ass’y (1) SRTEOO7N11E Turntable
+56 SRUMOO7NO6 Lock Arm (1) SRTMOO7N01A_ | Rotary Magnet Ass‘y
+57 SRQS007N03 Spring, Lock Arm (1) SRDJOO7N20E Connector Ass'y
+58 SRUPOO7NO3R Loading Base Ass’y (1) SRUMO07N19 Holder, Motor
+59 SRDJOOTNI3E Connector Ass’y 1) SRDJOO7N10E Connector Ass‘y
+60 SRUMOO7N17 Cover, Switch (1) SRXGO07NO1E Wrom Gear Ass‘y
+61 SRGBOO7N02 Bett, Loading Motor (1) SRGCOO7NO1 Cushion Rubber
+62 SRUGOO7NO01 Pulley, Loading Motor (1) SRGBO007N03 Belt
+63 SRQHO07N03 Spring, Disc Clamper {1) SRLHOO7NO08 Clamper, Lead Wires
+64 SRUGOO7NO3 Gear, Loading (4) SRLCOO7NO3 Cover, P.C. Baord
+65 SRUGOO7NO02 Gear, Transmission (1)
+
+SRMHO07NO1A Motor, Loading (1)
+
+SRDJOO7N1I6E Connector Ass‘y (1)
+
+SRUPOO7N15 Spacer (1)
+
+SRUMO07N24 Spacer, Disc Clamper (4)
+
+SRGCOO7NO07 Cushion Rubber, Disc
+
+Clamper
+
+Matsushita Electric Trading Panasonic Saiss Company
+
+Matsushita Engineering and Panasonic Hawaii, Inc.
+
+Co., Ltd. Service Company 91-238 Kauhi St., Ewa Beach Division of Mas ushita Electric
+P.O. Box 288. Centrai Osaka 50 Meadowland Parkway P.O. Box 774, Honotulu of Puerto rico} me.
+Japan Secaucus, New Nersey 07094 Hawaii 96808-0074 Ave. 65 de Infirsteria, KM 9.7
+
+Victoria Industa a! Park
+Panasonic Tokyo Matsushita Carolina, Puerce Rico 00630
+Electric Industrial Co., Ltd.
+1-2, 1-chome, Shibakoen
+
+Minato-ku, Tokyo 105 Japan
+
+Matsushita Electric of
+
+Canada Limited
+
+5770 Ambler Drive
+Mississauga, Ontario, L4W 273
+
+‘Technics

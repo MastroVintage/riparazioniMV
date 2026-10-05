@@ -1,0 +1,172 @@
+m BLOCK DIAGRAM
+
+7) Disc
+
+Phto
+detector
+
+vRI02
+
+Focus balance
+adj.
+
+VRIO3
+
+Focus
+off set adj.
+
+-5V
+
+yRie oa
+_. Focus gain ; >
+
+dg. :
+5V IC 105 L
+
+H |
+LSI Module H ten
+| Error { VARIABLE
+H | Kram | correction Tey LINE OUT
+as Output ec
+4 | [Leo drnee}” [eSnirot Reh
+\
+! tec | | Headphone
+if 1 Jack
+| lator 1
+H En a 1 p=] ame | q
+L —
+
+wortorn
+wortorn
+
+i
+RFOEL & Leh
+I 3
+LINE
+OVA
+Conver ter water our
+J
+Reh
+CLV
+Servo
+tT
+Servo
+
+Constant
+rotation
+servo
+
+TRVE
+
+Spindle
+motor
+drive
+
+Operation
+
+Jump
+
+control
+
+RF
+
+Laser power control
+
+QI03 QI04 eo
+
+:
+
+-5V
+
+//\"""
+
+Actuator
+
+[FEO
+
+FE@
+veios | Focus error
+
+|
+=|
+m
+eo]
+
+NAL FUNCTION OF MICRO COME
+
+Name 1/0
+of pin Division
+
+Turntable ON/OFF select.
+
+Turntable stop command
+(stop at “L”)
+Turntable drive command
+Po2 (ON at “H”)
+PO3 CLV servo selection command
+
+Not used
+
+slelglslelsislalelslsis/ 3/14 lel/s/ #3
+
+n
+
+|) 3
+
+2
+
+6
+
+A| AI aA aos o
+33) 3) 3/3 3
+Q1Z1 A) oO} m mn
+2|3|3) 3) 3 z
+
+Reset terminal
+(Micom is reset at ’L”’)
+
+BY
+n
+4
+
+Sub-code terminal
+
+Turntable stop command.
+
+Not used
+FDEL RF signal detection, effective at L’”’
+CLOSS Track jump control
+
+=
+nN ~
+
+—|—]
+Tracking servo ON/OFF select
+Tracking servo ON/OFF select
+Kick direction (Reverse) command
+Kick direction (Forward) command
+
+|
+
+K{ ot |
+
+sror| |
+
+| — |
+
+|
+
+| |
+
+dropout
+signal
+
+VRSOI
+(IT ad).
+
+1€403
+
+CLV Servo
+
+(36yps
+(7.35 kHz)

@@ -1,0 +1,104 @@
+5. Elektrische Justierung der Haupteinheit. Fir die Durchfiihrung der Justierung, siehe Seite 7 ~ 10.
+
+6. Priifung des 03-Platine
+
+Nach der Justierung sind alle Komponenten umzubiegen,
+
+so da sie flach auf dem 03-Platine liegen, und dieses
+
+wieder in die Traverseneinheit einbauen.
+
+Nach Montieren des 03-Platine ist sicherzustellen, da& Hochegen flachiegen
+die Unterseite des Abtasters keine der Komponenten
+
+behindert.
+
+Daher ist sicherzustellen, da@ die Spuren am AuRenrand = .
+der Platte erreichbar sind wom SS ae
+‘ Komponenten AF . - mts
+
+DEUTSCH
+
+flachlegen
+Komponenten
+
+flachlegen
+
+2
+<=
+[)
+=
+<
+ford
+ou
+
+m MESURAGES ET REGLAGES =F rancais =
+
+1. Réglage de la position de repos
+
+1, S'assurer que les interrupteurs 4 lames $101 (détection
+du repos) et $102 (détection terminale) n’ont pas été
+mélangés pendant le réassemblage et par conséquent
+réglés sur “ON” (en circuit).
+
+S‘ils le sont, séparer avec soin les contacts d’a peu
+prés 2 mm.
+
+2. Mettre l’appareil en marche. Cela entrafnera le moteur
+transversal 4 enrouler le capteur optique a la position de
+REPOS.
+
+3. Tourner le commutateur d’alimentation sur “OFF” Capteur
+(hors circuit). optique Ajusteur du
+
+. ae commutateur
+4, reer le calibre de positionnement de REPOS sur la de REPOS
+platine.
+
+5. S’assurer que la lentille est concentrique en deca de
+l'orifice du calibre de positionnement du REPOS,
+comme il est montré a la Fig. B.
+
+Vis de blocage
+
+Le capteur optique est trop proche
+
+de la platine. (Fig. B)
+
+Pour régler:
+
+1. Desserrer ‘a vis de blocage et  Lentille
+tourner Vajusteur du commu- Sonvergente
+tateur de REPOS dans le sens .
+
+wo ’ Calibre de
+des aiguilles d’une montre. positionnement
+
+2. Noter que si l’interrupteur de du REPOS
+détection de repos $101 est Fig. B “Incorrect” (trop proche)
+trop proche de $102, le capteur
+sera alors trop éloigné de la
+platine a la position de repos.
+Si c’est le cas, appliquer |’énergie
+et répéter l’étape 1 ci-dessus
+jusqu’a ce que la détection de Lentille
+repos soit détectée lorsque la convergente
+lentille est concentrique ‘avec
+
+Platine
+
+Fig. A
+
+Lentille
+convergente
+
+tgs . see Calibre de
+
+orifice du calibre de positionne- positionnement Calibre de
+
+ment du REPOS. du REPOS positionnement
+du REPOS
+
+Fig. C ‘Correct’
+
+Aucun réglage n’est nécessaire. (Fig. C) Fig. D ‘Incorrect’ (trop loin)

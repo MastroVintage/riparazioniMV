@@ -1,0 +1,32 @@
+Test point
+
+e 03 P.C.B. Under traverse.
+
+Loading Mecha
+
+e Servo Gain Adjuster and its Connection
+
+lf jumper wire is difficult to clamp as below.
+
+Use the — Driver and
+bend as below
+
+Jumper
+
+\-
+
+—16—
+
+e Servo Gain Adjuster
+
+@© @osc iN
+
+=
+
+GND
+
+~—]| In to the connector
+from CN109
+
+* Refer page 14.
+

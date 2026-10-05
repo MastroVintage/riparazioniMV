@@ -1,0 +1,56 @@
+4—10. Track jump control circuit operation
+
+During the above-mentioned pause and manual low-speed search
+forward mode, laser beam jumps from inner to outer periphery
+of the disc, and the back jump control circuit operates.
+During manual low-sveed search reverse mode, laser beam jumns
+from outer to inner periphery of the disc, and the forward
+jump control circuit operates. These two control operations
+are explained in the following.
+
+1C101 AN7673
+
+TE signal
+
+YRI05 R109
+
+R19 C112
+(2)
+
+-é
+
+IC 103
+AN7674
+
+dircetion
+designation
+
+pulse
+generator
+
+Deviation
+
+hold
+
+V.REF Q)
+
+Brake time] |Jump
+generation | |detection
+
+6 —_—=4) fA
+
+@2)
+‘-_
+CN703
+
+Cl mS
+Ths pees J.TIME
+CH120 S
+ss R15 he a Ny \ 2148 CN704
+a &:; KICK F/R
+
+Q109
+
+Fig. 4-22. Track jump control circuit
+
+—42~—

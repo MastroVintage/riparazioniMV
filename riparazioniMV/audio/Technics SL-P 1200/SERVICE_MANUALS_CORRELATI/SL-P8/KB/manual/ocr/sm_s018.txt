@@ -1,0 +1,127 @@
+~) a) eR
+— HOW TO REPLACE CHIPS
+
+(Resistor, capacitor and jumper)
+
+* Removing procedure
+
+1. Completely remove the solder from both ends of the
+chip by use of solder sucker.
+
+2. Touch the soldering iron to the end of the chip as shown
+in Fig. 22, then turn the tweezers in the direction of
+
+the arrow.
+<> se
+
+Witout color cord With color cord
+
+Chip resistor
+
+Do not re-use chip resistor or capacitor without color
+cord.
+
+e Replacing procedure
+
+1. Place solder on the foil where the chip is fitted.
+Then solder the chip by holding the soldering iron as
+shown in Fig. 23.
+
+Note:
+
+1. If the chip jumper is removed, connect a coated lead
+wire to the part. (See Fig. 24).
+Chip jumper is marked with ‘J’ on the printed circuit
+board.
+
+Coated lead wire
+
+Solder Solder
+
+WN @
+
+Tweezers
+
+Fig. 22
+
+\
+Soldering iron
+
+(yr
+AS ASSASSASSASASS ASA SSSASASASSAS
+
+Fig. 23
+
+Note for replacing chips
+
+. Do not heat the chip more than 3 seconds.
+
+. Do not rub the electrode against the chip.
+
+. Use the tweezers with care not to damage the surface
+of the chip.
+
+4. It is desirable to use a pencil type soldering iron. And
+
+Fig, 24
+m HOW TO REPLACE IC’S (Small ou
+
+Replacing procedure
+
+use soldering iron less than 60W.
+
+tline type)
+
+Cautions
+
+1 Reduce the amount of solder on each
+pin of the integrated circuit by use of
+a solder sucker.
+
+Solder
+sucker
+
+2 | Melt the solder on the pin (one
+electrode) with the soldering iron.
+
+@ Recommended tool
+steseeeeees Special soldering iron
+(with spare chip) HM-354
+
+Spare @ Do not touch the soldering iron to
+Cc +
+
+ip the area for a long time. It may
+otherwise ‘cause removal of the print
+foil.
+
+@ When shifting the pin upward, do
+> the job quickly while the solder
+
+is melting. If the solder is hard, it
+ark may cause removal or breakage of
+the print foil. .
+
+3 While the solder is melting, shift the
+
+K +-—-- +
+
+~| @ When using a pencil type solder-
+ing iron.
+
+pin upward by the soldering iron to 1. Completely remove the solder -
+remove it from the foil. from each IC pin by use of
+RRS solder sucker.
+
+2. Raise each pin by means of
+an eyeleteer, hold the pliers
+
+4 Remove each pin from the foil
+according to the above-mentioned
+procedure.
+
+then remove IC package from
+P.C.B.
+
+| _
+

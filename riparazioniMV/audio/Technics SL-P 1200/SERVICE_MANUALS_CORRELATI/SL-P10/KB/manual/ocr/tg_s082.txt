@@ -1,0 +1,17 @@
+If "1" or "0" are frequently inverted, it will be necessary
+to greatly reduced the diameter of laser beam spot.
+Therefore, the signal recorded on the disc must be such that
+"1" or "0" are inverted at proper intervals and that the DC
+component is as less as possible.
+
+There are 256 combinations in 8 bits that is 2° , and 16384
+combinations in 14 bits that is 2°
+
+In EFM, there are 2 < 10 "0's" between "1" and "1" in the
+bits row. The pattern selected from among ai ag composed
+with the data pattern of 2
+
+Accordingly, the signal recorded is formed to have 3T - 11T
+(T is "1" and 1 clock after EFM is 4.32 MHz.)
+
+~ 95 —

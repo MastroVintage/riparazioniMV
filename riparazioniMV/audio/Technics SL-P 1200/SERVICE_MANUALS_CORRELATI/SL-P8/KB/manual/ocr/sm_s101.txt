@@ -1,0 +1,34 @@
+1. Focus gain adjustment
+
+1) Connect the gain adjusting jig to the set.
+
+(Red) ........2.. Jumper above 1C651 on
+O08 P.C.B. (+15V) Refer to the drawing given at the
+(Blue) ........... Jumper beside 1C651 on end of the manual. (Page 15.)
+08 P.C.B. (—15V)
+(Green).......... Chassis
+Connector ....... Pull out CN109 on 01 P.C.B. and connect it to the connector of the jig.
+
+And connect the connector from jig to CN109.
+
+Adjust the low frequency oscillator to 750Hz frequency and 150mVp-p output voltage, and
+connect it to TEST pin OSC IN and GND of the jig.
+
+XL
+
+3) Connect CH1 and CH2 of oscilloscope to TP1 and TP2 of the Jig. (TP3 is GND.)
+Oscilloscope setting:
+VOLT ........0.. 100 mV (both channels)
+SWEEP .......... 2ms
+Input ........... AC
+
+4) Set the power SW “on” of jig and the rotary switch of jig to ‘’1”’ and place the disc.
+
+5) Turn power switch ON. When turntable begins to rotate, 750Hz signal appears on the oscillo-
+
+scope. Then adjust VR102 so that the waveforms of both channels are equal to each other.
+
+TP1
+
+Jig (a= b)
+

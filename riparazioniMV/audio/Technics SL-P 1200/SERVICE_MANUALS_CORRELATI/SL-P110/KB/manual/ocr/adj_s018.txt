@@ -1,0 +1,28 @@
+_ 7. OPTICAL PICK-UP REPLACEMENT PROCEDURE
+
+Note: Exercise care so that disassembled parts shall not be lost.
+Set up the player so that it can be power on checked as shown in illustration according
+to the disassembly procedure outlined in the service manual.
+
+(1) Remove the front panel.
+(2) Pushing the two stopper pawls of the disc holder inward simultanouely, pull the holder
+
+to remove it.
+
+Note: The stopper pawls are nothing to reassembling.
+(4) Remove the resisting plate for the position detector.
+
+Screw
+
+Cover
+
+. Stopper pawl Stopper pawl
+
+Disc tray
+
+(5) Unsolder the linear motor drive coil and optical pick-up to separate them.
+(6) Remove the two linear motor drive coil fastening screws
+Note: Pay due attention to the contact brush.
+
+Screws
+

@@ -1,0 +1,111 @@
+MN1421 PCM terminal diagram
+
+OV (GND)
+
+BEEP
+
+Operation control data (MSB)
+
+Key scan input
+
+Output of MN1421 PCM
+
+VSS
+cog
+cO8
+CcO7
+CO6
+CO5
+Al3
+Al2
+All
+A10
+B13
+B12
+
+Bll
+
+B10
+
+MN1421 PCM terminal diagram
+
+Operation control SYNC
+
++5V
+
+Operation control data
+
+(LSB)
+
+Remote control data
+
+Key scan output
+
+When each of remote control and key matrix is depressed,
+5-bit output obtained from EO port C08 is obtained as follows.
+Then it is put in POl - P03, PIO of operation controller.
+
+Table 2
+
+Function
+
+Key matrix remote control outputs
+
+Clear
+
++
+ry
+
+4
+
+P Skip
+
+[_].
+
+Search
+
+Pause/Stop
+
+o;co;oc;o
+
+t+
+
+1
+iy
+
+1
+
+1
+
+1
+
+Oo
+
+Repeat
+
+|
+
+> Play
+
+i
+
+Open/Close
+
+|
+
+Music scan
+
++
+
+L or H while key is depressed
+
+Pty t.
+
+i
+
+pone ee a ees ee Oe
+
+mee ee OL] OE OL] eR i Rete
+
++
+
