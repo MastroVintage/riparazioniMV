@@ -10,6 +10,14 @@ SRC=[ # id, titolo, cartella KB (relativa), tipo, rilevanza
  ('TSG_1986-1990','Troubleshooting Guide CD Players 1986-1990 (MSC910101)','UNIVERSITY/B_Troubleshooting_Guide_1986-1990/KB','training','alta'),
  ('TG_Adjustments','Technical Guide Purposes of CD Adjustments One-Beam (AD8806133G0)','UNIVERSITY/C_TG_Purposes_of_Adjustments_OneBeam/KB','training','alta'),
 ]
+# Articoli di riparazione: rilevati automaticamente (ARTICOLI_RIPARAZIONI/<id>/KB)
+for _kb in sorted(glob.glob(os.path.join(ROOT,'ARTICOLI_RIPARAZIONI','*','KB'))):
+    _id=os.path.basename(os.path.dirname(_kb)); _t=_id
+    _ix=os.path.join(_kb,'00_INDEX.md')
+    if os.path.exists(_ix):
+        for _l in open(_ix,encoding='utf-8',errors='ignore'):
+            if _l.startswith('#'): _t=_l.lstrip('# ').strip(); break
+    SRC.append((_id,_t,os.path.relpath(_kb,ROOT).replace('\\','/'),'article','vedi 00_INDEX'))
 CHIP=re.compile(r'\b((?:AN|MN|PCM|NJM|EHDGA)\d{3,5}[A-Z]{0,4}(?:-\d+)?)\b')
 REF=re.compile(r'\b((?:IC|TJ|VR|CN|TP|Q|D)\s?\d{1,4})\b')
 def topics(kb):
@@ -49,8 +57,11 @@ for sid,title,kbrel,kind,rel in SRC:
     if sid=='SM_SL-P1200': ocrd=os.path.join(kb,'manual','ocr'); imgd='KB/manual/img'
     else: ocrd=os.path.join(kb,'ocr'); imgd=kbrel+'/pages'
     tp=topics(kb)
-    for f in sorted(glob.glob(os.path.join(ocrd,'*.txt'))):
-        tag=os.path.basename(f)[:-4]
+    files=sorted(glob.glob(os.path.join(ocrd,'*.txt')))
+    if kind=='article':  # scheda + eventuale testo nativo
+        files=[os.path.join(kb,n) for n in ('00_INDEX.md','testo.md') if os.path.exists(os.path.join(kb,n))]+files
+    for f in files:
+        tag=os.path.splitext(os.path.basename(f))[0]
         m=re.match(r'[pm](\d+)',tag); page=int(m.group(1)) if m and not tag.startswith(('p000','m00','p999')) else None
         sec=next((s for a,b,s in tp if page is not None and a<=page<=b),'')
         txt=clean(open(f,encoding='utf-8',errors='ignore').read())
