@@ -18,6 +18,14 @@ for _kb in sorted(glob.glob(os.path.join(ROOT,'ARTICOLI_RIPARAZIONI','*','KB')))
         for _l in open(_ix,encoding='utf-8',errors='ignore'):
             if _l.startswith('#'): _t=_l.lstrip('# ').strip(); break
     SRC.append((_id,_t,os.path.relpath(_kb,ROOT).replace('\\','/'),'article','vedi 00_INDEX'))
+# Service manual di altri modelli Technics: rilevati automaticamente (SERVICE_MANUALS_CORRELATI/<modello>/KB, struttura come KB del dispositivo)
+for _kb in sorted(glob.glob(os.path.join(ROOT,'SERVICE_MANUALS_CORRELATI','*','KB'))):
+    _id='SM_'+os.path.basename(os.path.dirname(_kb)); _t=_id
+    _ix=os.path.join(_kb,'00_INDEX.md')
+    if os.path.exists(_ix):
+        for _l in open(_ix,encoding='utf-8',errors='ignore'):
+            if _l.startswith('#'): _t=_l.lstrip('# ').strip(); break
+    SRC.append((_id,_t,os.path.relpath(_kb,ROOT).replace('\\','/'),'service_manual_related','vedi 00_INDEX'))
 CHIP=re.compile(r'\b((?:AN|MN|PCM|NJM|EHDGA)\d{3,5}[A-Z]{0,4}(?:-\d+)?)\b')
 REF=re.compile(r'\b((?:IC|TJ|VR|CN|TP|Q|D)\s?\d{1,4})\b')
 def topics(kb):
@@ -54,7 +62,7 @@ recs=[]
 for sid,title,kbrel,kind,rel in SRC:
     kb=os.path.join(ROOT,kbrel)
     if not os.path.isdir(kb): continue
-    if sid=='SM_SL-P1200': ocrd=os.path.join(kb,'manual','ocr'); imgd='KB/manual/img'
+    if sid=='SM_SL-P1200' or kind=='service_manual_related': ocrd=os.path.join(kb,'manual','ocr'); imgd=kbrel+'/manual/img'
     else: ocrd=os.path.join(kb,'ocr'); imgd=kbrel+'/pages'
     tp=topics(kb)
     files=sorted(glob.glob(os.path.join(ocrd,'*.txt')))

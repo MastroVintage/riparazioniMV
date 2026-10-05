@@ -54,3 +54,4 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 - ..\UNIVERSITY\A_TG_Vol25_Auto_CD_Technology, B_Troubleshooting_Guide_1986-1990 (pickup SL-P1200 = SOALP1200, MIN RF 0.84Vpp, p.8), C_TG_Purposes_of_Adjustments_OneBeam. Catalogo: ..\UNIVERSITY\00_CATALOGO.md
 - RICERCA TRASVERSALE (RAG): ..\_RAG\corpus.jsonl + python _RAG\search.py "query"
 - ..\ARTICOLI_RIPARAZIONI\00_CATALOGO.md : articoli/casi di riparazione (una cartella AR###_slug per articolo), inclusi automaticamente nel RAG.
+- ..\SERVICE_MANUALS_CORRELATI\00_CATALOGO.md : service manual di altri modelli Technics (KB per modello), inclusi automaticamente nel RAG.
