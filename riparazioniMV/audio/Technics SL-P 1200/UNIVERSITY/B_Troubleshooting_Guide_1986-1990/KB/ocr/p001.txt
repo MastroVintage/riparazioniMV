@@ -1,0 +1,33 @@
+Introduction
+
+The widespread popularity of Hi-Fi Digital Audio has made the compact disc player a
+common place component in today’s audio systems. Fortunately, in the years since its
+initial introduction, the serviceability of the compact disc player has improved
+dramatically, mostly due to advances in digital technology. What this technology was not
+capable of doing however, is to do away with the various mechanical and electrical
+adjustments required on these units.
+
+This guide is meant to eliminate trial-and-error servicing procedures and aid in the
+repairing of compact disc players by standardizing the procedure. If followed correctly,
+the optimum operating condition of the unit can be achieved by using this guide. For this
+reason, it is important that all of the procedures listed in this guide be performed
+BEFORE replacing any optical pickup assemblies.
+
+Included along with this procedure is a useful reference chart containing pickup part
+numbers and related information.
+
+NOTE: THE FOLLOWING PROCEDURES CONTAIN GENERAL INFORMATION.
+FOR SPECIFIC DETAILS PLEASE REFER TO THE CORRESPONDING
+SERVICE MANUAL FOR YOUR UNIT.
+
+Models
+All compact disc players from 1986 to 1990.
+
+Possible Symptoms
+
+1. Skipping.
+
+2. TOC is read, but disc does not play.
+3. No TOC.
+
+4. Poor playability.

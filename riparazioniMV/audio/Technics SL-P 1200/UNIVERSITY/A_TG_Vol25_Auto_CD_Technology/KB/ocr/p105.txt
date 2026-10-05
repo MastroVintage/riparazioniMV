@@ -1,0 +1,31 @@
+B5-3 MECHANICAL ALIGNMENT PROCEDURES:
+
+Test Fixtures Required:
+
+O YESFZ5001 — Lifter Base Height Adjustment Jig (B)
+O YESFZ5002 — Lifter Base Level Adjustment Jig (A)
+1. Lifter Base’ Level Adjustment (Perform this adjustment first)
+© Turn the power ON and tune to Disc 9 position by pressing the “Disc > ” buttons on the remote
+control.
+© Turn the power OFF and insert the Jig A into points A, B and C alternately. Both the tip and the
+head of Jig A should touch the bottom side of the lifter base and the bottom chassis respectively
+at all points.
+Changer base
+Lifter Gear Lifter Gear
+Lifter_screw Lifter base Lifter screw
+SIDE VIEW
+O If either tip or the head of the Jig A does not touch the respective locations, the adjustment will
+begin with removing all 3 E-rings, ref. No. 245, and 3 extension gears, ref. No. 281.
+© Turn the lifter gears, ref. No. 282, either clockwise or counterclockwise until both tip and head are
+touched by respective locations at all points.
+— O Replace the E-rings and the extension gears after completion of the adjustment.
+
+POINT-C
+
+POINT-B
+
+POINT-A
+
+BOTTOM VIEW
+
+— 105 —

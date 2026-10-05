@@ -1,0 +1,44 @@
+SW4 (Loading mechanism)
+
+IN SW (Optical pickup)
+VRef
+(™) J TVDI TRV F/R 6
+
+KICK
+
+4
+=
+©
+<=
+o
+=x
+nn
+fs)
+a.
+=.
+<
+i)
+im
+
+@
+
+IC602
+(AN8377) TVPO
+
+Tracking servo
+error detection
+
+iC601
+(AN8374S)
+
+Fig. 4-1 Traverse Control Circuit (Optional pickup starting position setting)
+
+-n---==- 4
+switching (35)
+
+@)
+
+QO @ ©
+
+Micro-computer
+

@@ -1,0 +1,69 @@
+2-3 BLOCK DIAGRAM (Type C)
+
+A.P.C.
+
+RF
+amplifier
+
+)
+£
+Tm
+oc
+
+©)
+OQ FE ef out
+a 2
+
+/ FE Fo
+< ° BD0g
+7,)
+Optical 3 Tracking coil
+Traverse © Traverse
+BILE IH) rvere move
+
+Fast F/S
+select
+
+Spindle
+
+Spindle
+AN82815
+
+ADDRESS
+
+C9)
+@]PCK CD/CLV a Ee de- Audio 0
+Oo Deglitch emphasis BASS amplifier Oo
+AF/PUL SRE san NCE OM . ‘Volume! te Lhe Audio
+AN83715 2 paiep fee tela | Fn output
+LPF de- trol Audi
+P eal
+ft
+E a
+Y Qi)
+i Solenoid
+| 4 10V rad Battery +)
+O O
+< 3) Reset
+a a circuit
+. (Analog,
+Microcomputer MN1554CAC digital)
+Micro- =
+computer
+power
+ae 23 = sav a
+aa aa — 5V
+n anys OO OP sat
+3 OO} 7
+x ; ; PTT) ) Relay
+Z By i
+) LCD driver Decoder driver (iu) lo) ACC +
+. Loading Deck solenoid
+
+Keyboard
+
+Deck sensor
+
+LCD LED motor
+
+Fig. 2-1 Block Diagram

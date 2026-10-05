@@ -1,0 +1,66 @@
+7) Why Uses Digital Filtering
+
+Most CD players suppress the frequency
+bands with conventional analogue
+filtering, after the signal has been
+converted back to analogue form. Such a
+filter is always complex, and can not
+avoid degrading the signal accuracy and
+introducing phase distortion.
+
+Inevitable factors such as
+changes and component aging
+
+temperature
+affect
+
+performance. Most CD players on the
+
+8) Digital Filtering Process
+
+A schematic diagram of the complete our
+D/A conversion system including digital
+filtering, is shows in figure 5-7.
+
+Digital Filter
+
+other hand, carry out this essential
+filtering process digitally, with no
+loss of accuracy, and phase distortion.
+
+Digital filtering is a pure numerical
+
+calculation process with fixed
+coefficients. The fixing of the
+coefficients determines the filter
+
+characteristics which cannot afterwards
+very.
+
+It can be seen that our-~ digital
+filtering uses the techniques) of
+oversampling and noise shaping. Each
+plays a vital role in the digital
+filtering and conversion process.
+
+Figure 5-7
+
+Oversampling:
+
+Oversampling simply means multiplying
+the sampling frequency, in this case by
+four times. (44.1KHz becomes 176.4KHz.)
+
+The values of the intermediate samples
+are obtained by the calculation process
+
+which determines the filter
+characteristic. An immediate effect of
+the oversampling as shows in figure 19-8
+is to suppress all the lower frequency
+bands, centered on fs, 2fs, and 3fs.
+
+Figure 5-8
+
+—~AJ—
+

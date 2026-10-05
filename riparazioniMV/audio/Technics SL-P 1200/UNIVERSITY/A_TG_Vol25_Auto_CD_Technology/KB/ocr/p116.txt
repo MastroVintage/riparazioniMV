@@ -1,0 +1,131 @@
+|
+
+Does traverse servo operate No
+correctly?
+
+Yes
+
+Vv
+
+System CPU circuit
+1C603
+
+Traverse drive circuit
+1C601
+Q601
+
+Traverse coil
+
+=How to Check the Traverse=
+*The sound skips every few seconds
+in play mode.
+*Optical pick moves outward or
+inward alternately.
+*Optical pickup sticks at inner or
+outer position.
+
+Is DSL circuit in normal
+
+mode?
+
+Yes
+
+¥
+Is RF signal converted by the No
+
+AGC circuit to on ARF signal -K-————>
+with a constant amplitude?
+
+Ive
+
+Is ARF signal converted by No
+DSL circuit to SRF signal?
+
+ve
+
+Is SRF signal synchronized
+with PCK signal?
+
+Yes
+
+Is CLV servo changed to
+phase-comparison mode?
+
+Yes
+v
+Are both EFM and PCK clock No
+signal activated?
+Yes
+v
+| Is audio signal activated? No
+Yes
+
+Ad
+
+(WoRMAL OPERATION )
+
+System CPU circuit
+IC603
+
+r
+=How to Check DSL Circuit=
+
+*The level of IC601 pin 13 becomes
+low (L)
+
+_ ~ T
+Auto gain control circuit
+1C601
+
+=How to Check AGC Circuit=
+*The level of 1C601 pin 12 (ARF
+signal) becomes 0.8Vp-p.
+
+Data slice circuit
+1C601
+
+=How to Check SRF Circuit=
+
+*Check (SRF signal) at IC601 pin 19
+
+Phase loop circuit
+1C601
+
+r —
+=How to Check Synchronize=
+* Check IC601 pin 20 by oscilloscope
+in triggered mode with RF signal
+(TJ301) and if output waveform at
+1C601 pin 20 can be synchronized
+in phase, the level 1C501 pin 78
+becomes 2.5 volts. |
+
+No CLV circuit
+1C501
+
+=How to Check Phase Comparison=
+*Check waveform at 1C501 pin 65
+(EC signal).
+
+_
+
+Phase loop lock circuit
+1C601
+
+Digital filter circuit
+1C503
+
+LPF circuit
+1C201, 1C301
+Q602
+
+— 116—-
+
+=How to Check EFM and PCK=
+*Check IC601 pin 21 for EFM wave-
+form.
+*Check [C601 pin 20 for PCK wave-
+form.
+
+—
+

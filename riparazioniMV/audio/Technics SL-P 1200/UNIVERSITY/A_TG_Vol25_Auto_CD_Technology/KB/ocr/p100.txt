@@ -1,0 +1,32 @@
+4. Focus Offset Adjustment
+
+© Test Point: Connect scope probe CH1 to CN106 pin 8 or J58 on main PCB.
+Connect scope probe CH2 to JSW2 (with plug)
+© Scope Settings: CH1 and CH2: VOLT .........4. 500 mV
+SWEEP .......... 0.5 ms (NOR)
+INPUT .......... AC
+*** (CH1 set at normal trig) ***
+© Adjustment: Play the Black Band test disc track #9.
+
+Adjust VR4 to minimize the depression. Also make a fine adjustment of
+VR4 to make the FE signal of CH2 as flat as possible.
+
+Adjust to reduce the depression
+to a minimum
+
+/
+
+A Adjust to a “mn
+
+*** Continued in step 5 ***
+
+5. Tracking Offset Adjustment
+
+*** Continued from Step 4 ***
+
+O Adjustment: Adjust VR5 to eliminate the depression. If necessary, adjust VR4 and VR5
+alternately.
+
+Adjust to eliminate depression :
+
+— 100 —

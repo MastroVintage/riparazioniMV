@@ -1,0 +1,30 @@
+|
+| I
++— Setting time —>
+i
+
+|
+
+‘ |
+
+|
+
+SW 4
+
+IN SW
+
+TRV R
+
+TRV F | |
+
+Traverse Controlling Logic
+
+TRV R | TRV F |
+OPEN 0 0
+FORWARD 0 1
+REVERSE 1 0
+STOP 1 1
+
+Fig. 4-2 Traverse Timing Chart (At setting of optical pickup starting position)
+
+— 29 —

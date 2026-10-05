@@ -1,0 +1,87 @@
+Section of
+inertia
+el lee
+Accelerating§._.! |, ot
+ccelerating >!
+section \ 1 |
+1
+
+owe
+-0.1V ~ 1
+0 ~---4---
+
+|
+1
+i |
+TE signal —
+
+0
+
+section
+
+IN
+
+(a) Kick signal and RF signal
+
+Bits
+
+i+! Decelerating
+
+KICK RE
+nweard)
+KICK FWD
+(Outward)
+
+(b) Single kick
+
+KICK revo |
+
+KICK FWD
+
+Pa
+
+(c) 10/100 kicks
+
+Fig. 4-10 Kick Signal Waveforms
+
+Kick period
+
+I
+I |
+| |
+| t
+I I
+
+Control logic
+
+I
+HOLD | ] onl output
+
+rl
+
+I
+TEG I
+@® Pin
+
+TE OUT
+
+© Pinn AW nn
+
+|
+H. OUT ! '
+
+Pin SV ot
+1
+
+Fig. 4-11
+
+— 66—
+
+Raw tracking error
+
+TE SW turns off and
+output falls to zero.
+
+Hold at preceding value
+
+Pause Kick

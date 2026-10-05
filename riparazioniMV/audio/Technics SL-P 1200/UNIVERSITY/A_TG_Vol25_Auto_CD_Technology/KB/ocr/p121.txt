@@ -1,0 +1,72 @@
+B6-3 EXAMPLES OF CD CHANGER MECHANISM REPAIRS
+
+vo. SYMPTOM CAUSE REMEDY
+
+Disc won’t return to magazine. | Greasy rollers.
+Magazine won't load. When the magazine is fully loaded,| Add 0.1uF capacitors as showed
+the loading motor (M1) current] in diagrams below.
+
+Clean rubber rollers by using
+swab with rubbing alcohol or
+replace it with roller assembly
+(YESFX003009).
+
+i ==, B
+
+Remove grease from this part.
+
+may increase and generate noise 0.1uF. 2Pcs
+pulse to CPU IC101, M1 : Elevator a
+
+Motor
+M2 : Disc feed motor.
+
+Replace defective parts.
+
+SW1 defective.
+Motor (M1) defective.
+
+Perform the lifter base and level
+adjustments.
+
+Disc jams between the rollers. | Lifter base height off specification.
+
+SW101 defective.
+Motor (M1) defective.
+1C101 defective.
+
+Check and/or replace defective
+parts.
+
+Magazine won’t manually eject.
+
+®
+SW2 defective.
+1C101 defective.
+1C501 defective.
+Motor (M1) defectived.
+
+No disc search.
+No search pulse. Check and/or replace QON1119
+and IC503.
+
+Check and/or replace defective
+parts.
+
+Disc is stuck on magazine so } Burrs on the disc. Remove burrs.
+
+that disc loading is impossible. Burr
+—_———F
+
+Spring preassure inside the maga-
+zine is too strong.
+
+Solenoid drive defective.
+
+Replace with an improved maga-
+zine (YEP9FZ1782D).
+
+Check and/or replace Q501 and
+solenoid.
+
+— 121 —

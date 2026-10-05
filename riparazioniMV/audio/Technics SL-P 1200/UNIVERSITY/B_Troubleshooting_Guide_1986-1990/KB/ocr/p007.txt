@@ -1,0 +1,26 @@
+Step 5. Electrical adjustments (continued)
+
+D. Tracking offset adjustment
+
+Perform the same procedure as for focus offset except use the TE testpoint.
+This adjustment allows the tracking servo to compensate for horizontal
+
+control of the focus servo. Adjust the tracking offset pot so that the dip(s) is
+
+(are) minimized or eliminated. The TE waveform must be adjusted so that A
+and B are balanced.
+
+Dip eliminated
+
+RF
+(a)
+
+Dip eliminated
+
+RF (b}
+
+—@
+
+TE ~\jo (ec)
+
+©

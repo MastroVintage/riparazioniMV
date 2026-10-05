@@ -1,0 +1,72 @@
+CONDITION CHECK CHECK
+
+Does traverse servo operate No System CPU circuit HOW TO CHECK THE TRAVERSE
+
+correctly: 1C10 The sound skips every few seconds
+Traverse drive circuit in play mode.
+
+Yes IC3 Optical pickup moves outward
+
+Traverse coil or inward alternately.
+Optical pickup sticks at inner or
+outer position.
+
+No Lo
+Is DSL circuiti > System CPU circuit HOW TO CHECK DSL CIRCUIT
+Yes
+
+low (L).
+
+Is RF signal converted by the | No| Auto gain control circuit HOW TO CHECK AGC CIRCUIT
+AGC circuit to on ARF signal 1C401 The level of 1401 pin 16 (ARF
+with a conatant amplitude? signal) becomes 0.8Vp-p.
+
+Yes
+
+Data slice circuit HOW TO CHECK SRF CIRCUIT
+{C401 Check (SRF signal) at 1C401 pin2
+
+Is ARF signal converted by
+
+DSL circuit to SRF signal?
+
+Yes
+Is SRF signal synchronized |NO]| Phase loop circuit
+with PCK signal? 1C501, 1C401
+
+Yes
+
+HOW TO CHECK SYNCHRONIZE
+Check 1C401 pin 5 by oscillo-
+scope in triggered mode with RF
+signal (TP12) and if output
+waveform at !C401 pin 5 can be
+synchronized in-phase, the level
+
+1C501 pin 78 becomes 2.4 volts.
+
+Is CLV. servo changed to No} CLV circuit HOW TO CHECK PHASE COMPARISON
+phase-comparison mode? 1C501 Check waveform at 1C501 pin 65 (EC
+signal).
+Yes
+Are both EFM and PCK No | Phase loop lock circuit
+clock signal activated? (C401
+Yes
+
+HOW TO CHECK EFM AND PCK
+Check 1C401 pin 3 for EFM wave-
+form.
+
+Check 1C401 pin 5 for PCK wave-
+form.
+
+No
+io si activated? D/A Converter
+ls audio signal ND 1508
+
+Yes LPF circuit
+
+{C203
+NORMAL OPERATION
+
+— 128 —

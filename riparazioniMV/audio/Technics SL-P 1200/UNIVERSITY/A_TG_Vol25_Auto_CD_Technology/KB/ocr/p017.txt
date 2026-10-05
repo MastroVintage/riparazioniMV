@@ -1,0 +1,28 @@
+RELOADING Active H
+
+W/Disk Reloading Start Reloading Finish
+H H H :
+Swi
+L
+H
+Sw2
+L
+SW3
+SW4
+SOL
+MOTOR
+(CCW)
+
+A =200ms
+
+B =200ms
+
+C =500ms
+
+T2=5Sec
+
+T3 =200ms
+
+T4=1.5Sec
+
+—17-

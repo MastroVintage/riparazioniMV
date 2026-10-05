@@ -1,0 +1,101 @@
+(2) LSI signal processing
+
+Ld Wak
+@}~}—69 @ )~@Q—@)-~ © (3 ae)
+
+4 qt
+EFM frequency
+BSSEL
+
+(9)
+< PCK > QO —| EFM demodulator
+<EFM>—& and sync detector
+
+< CLDCK > A.
+
+———
+
+< BLKCK > O-—
+<SUBO > G)
+< DEMPH > Oar Subcode decoder
+
+©
+System timing muse
+CLV
+@ S8ck| | contro! — |
+
+<a> | ‘ne woo
+< DO> (76) © O
+< TRON > (10) a
+
+@
+
+TEST
+Fig. 4-4 LSI Block Diagram
+
+ITC G)<—< SENSE >
+
+—!
+uw
+
+a o
+Interpolation
+processing
+
+DA 15 ~ DAO 9)
+
+voD1
+REXT®)
+RAM WE OE
+RAMA 0 ~ 10
+DO ~ D7
+
+Error detection,
+correction (C1,
+C2 decoders)
+
+©)
+
+NSRF
+
+OVO)
+
+GND
+
+ion
+©)
+
+.
+
+@)
+
+a
+
+@
+©
+©)
+©
+©
+©)
+©)
+
+<EC>
+<PC>
+<FG>
+< MLD >
+< MCLK >
+< MDATA >
+< STAT > #5)
+< RDG >
+<LDG>
+
+cS
+
+<+5V >
+
+t—— << +5V >
+
+> BD [Love |
+(9)
+
+16.9344 MHz

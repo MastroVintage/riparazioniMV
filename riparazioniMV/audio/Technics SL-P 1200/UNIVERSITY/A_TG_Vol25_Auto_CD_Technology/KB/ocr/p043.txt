@@ -1,0 +1,134 @@
+17. Pin Description of AN8374S (IC601)
+
+P| tsa | Phase difference input (A)
+
+I Phase difference input (B)
+TEOFS pot | Tracking offset adjustment
++t om [|e |
+
+Tracking gain adjustment
+ps fom |
+| 6 | TE OUT | o | Tracking error signal output
+
+VO
+
+Division Function
+
+TE BPE \ Tracking error gain detecting filter
+(Not used, open)
+
+Pe [Fee [1 [ross ton ase
+
+| 9 | FE OUT | oO | Focus error signal output
+Triangular wave oscillator
+
+11 VREF Reference voltage input
+
+RF signal input
+
+Data slice filter capacitor input
+
+Frequency difference signal input
+
+Ground terminal
+
+| 16 | Cc. PLL po | PLL loop filter constant
+a
+Frequency pull-in clock signal
+fia | srr | oo | Sliced and digitized RF signal
+output
+| 20] eck | o | Clock output extracted from SRF
+ie)
+
+EFM signal output synchronous
+with PCK
+
+/O
+Division
+I Driver power supply (+5 V input)
+External transistor base
+driving output
+Voltage (+5 V) output
+Traverse error signal input
+Focus error signal input
+
+1/0
+Division
+Track crossing speed control output
+SPCNT | oo | output (Not used, open)
+24 SENSE 0 Selector output (track crossing
+state)
+
+25 TRV oO
+:
+:
+
+Focus/tracking gain up output
+(Not used, open)
+
+Control input (FOON: Focus
+| sere ON signal)
+
+Control input (TRON: Tracking
+servo ON signal)
+
+Control input (KICKF: Kick
+direction (forward) command)
+Control input (KICKR: Kick
+direction (reverse) command)
+
+Traverse servo control output
+
+Focus lock signal output
+
+Track kick signal output
+
+Traverse forward command signal
+
+Traverse backward command signal
+
+RF detection signal input
+
+Dropout detection input
+
+Power supply (+5 V input)
+
+Traverse position detecting
+resistor/capacitor inputs
+
+Tracking drive control output
+
+Tracking error signal input
+|
+
+Inverting output of tracking
+driver
+Non-inverting output of
+tracking driver
+
+| oo | inverting output of focus driver
+Non-inverting output of
+focus driver
+
+TD-—
+TD+
+
+:
+
+/0 .
+
+1
+?
+
+Inverting output of traverse
+driver
+
+Non-inverting output of
+traverse driver
+
+Reset signal output
+
+PC input (connect to GND)
+
+—~43—
+

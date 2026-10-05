@@ -1,0 +1,74 @@
+4) Tracking balance alignment
+
+* Test point: JSW1 both ends of terminals, TP1
+e CD adjusting jig connection
+1) Clip 20 eee Chassis
+2) Lead. TP1 (brown) . 2.0... ee TP1
+3) TR BAL terminal ... 2... ee Oscilloscope probe
+4) Lead JSW IN (green), lead SW OUT (yellow) 2.2.0.0... 0000..0.000. Both ends of JSW1 (Remove short tips)
+(Top pin) out, (bottom pin) in when deck at upside down position (Remove short tips)
+Oscilloscope setting: Volt..... 100mV Sweep..... 0.1ms Input selector ..... DC
+© Operation: Insert a disc and play track #1. Set the lever switch on the CD adjusting jig to on.
+e Alignment: Shift the lever switch to OFF, and adjust VR107 so that the center of the waveform will be OV with
+
+in 15 seconds.
+e Waveform sample:
+
+ae nee, y—~ Adjust to OV center.
+
+5) Focus gain alignment
+e Test point: Both ends of JSW2 (Remove short plug) (Top pin) IN, (bottom pin) OUT when deck at upside
+down position.
+
+e CD adjusting jig connection
+
+T) Clip oe ee Chassis
+
+2) Lead +10V (orange) 2... ee +10V (E of 0109)
+3) Lead -10V (red) 2... ee -10V (E of Q108)
+4) Lead SW IN (green) 0. ee JSW2 IN
+
+5) Lead JSW OUT {yellow) ee JSW2 OUT
+
+6) OSC terminal: 2.0... ee
+
+Low freguency OSC
+
+7) Oscilloscope Ch1,Ch2 terminals ........... 00000000. Dee Oscilloscope probe
+
+e Low freguency oscillator setting
+
+1) Freguency .. 2.2... 0. ee 600Hz ~ 1 kHz
+2) Level 2 eee 150mV p.p.
+e Oscilloscope setting (Ch1, Ch2):
+Volt. .... 200mV Sweep..... 1Ims Input selector ..... AC
+e Operation: Set the lever switch on the CD adjusting to TEST Insert a disc and play.
+
+e Adjust VR104 until the level of both channels at 1kHz are the same.
+
+> WWE
+o WWW I
+
+6) Tracking gain alignment (Use of Adjusting jig)
+
+(Adjust to a=b.)
+
+e Test point: Both ends of JSW1 (Remove short tips) (Top pin) OUT (bottom pin) IN
+e CD adjusting jig connection:
+1) Clip 2. ee ee eee Chassis
+2) Lead +10V (orange) .. 2. +10V (E of Q109)
+3) Lead —10V (red) 2... ee —10V (E of 0108)
+A) Lead SWIN (green) 2. ee eee JSW1 IN
+5) Lead SW OUT (yellow) 2.0.00... 00000. ee JSW1 OUT
+6) OSC terminal. 2... ee Low freguency OSC
+7) Monifor1, Monifor2 teminals ...... 0000.00.00 0000 cece cee cee. Oscilloscope probe Ch1, Ch2
+e Low freguncy oscillator setting
+1) Freguency ... 2... eee e eee 1kHz ~ 1.5 kHz
+2) Level 2... ee 150mV p-p
+e Oscilloscope setting (Ch1, 2)
+Volt .... 200mV Sweep..... Ims Input selector... .. AC
+e Operation: Set the lever switch on the CD adjusting jig to TEST. Insert a disc and play.
+Alignment: Adjust VR102 until the levels of both channels are the same.
+
+— 109 —
+

@@ -1,0 +1,35 @@
+Step3. Improve RF level
+A. Perform best eye adjustment
+
+While still observing the RF waveform, rotate the best eye adjustment pot to
+obtain the largest RF amplitude while achieving of a clear eye pattern. This
+adjustment sets the focus servo’s operating reference voltage.
+
+RF Waveform
+
+Nee wn Oy ane
+ae Hea aN
+Rs Cena
+Hy Te | i:
+LAT TT TET To
+
+es
+
+B. Adjust turntable height
+
+The disc may be beyond the operating range of the focus servo. If so, itis
+necessary to position the turntable to the physical midpoint of the servo’s
+operating range. Play track 1 of the playability test disc and connect the
+oscilloscope to the focus offset test point. Adjust the turntable height so as to
+approach 0 volts as close as possible. This adjustment is a must when
+mechanical parts in the traverse deck are replaced or removed
+
+Height adjusting screw
+
+C senpyteenenmann semgneaad
+| | XN Adjust this distance by the
+
+Feelergauge 7777777] Gee page 8) | rn | height adjusting screw
+
+Optical pick-up
+

@@ -1,0 +1,28 @@
+A3-2 Loading Operation
+
+Insertion Slot
+
+1 |
+=a =>
+
+_ Playback position
+
+Turntable
+
+Feeder Arm Ass’y
+
+Gear of Rubber Roller
+
+Loading Gear (2)
+
+Loading Gear (1)
+
+Worm of Motor Ass'y L_ Loading Gear
+
+* SW1, SW2 and SW3 are ON when No Disc.
+1 Insert the disc into the player.
+2 When SW3 turns OFF, the solenoid is activated the lock lever assembly slides, and its hook
+secures the cam gear.
+3. SW1 turns OFF. The motor assembly and the loading gears rotate.
+4 The rubber roller rotates.
+5 The disc will graspe by the two rubber rollers and load into the player.

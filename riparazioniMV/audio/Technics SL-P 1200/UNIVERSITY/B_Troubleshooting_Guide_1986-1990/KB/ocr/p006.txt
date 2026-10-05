@@ -1,0 +1,30 @@
+Step 5.
+
+Electrical adjustments (continued)
+
+RB. Tracking gain adjustment
+
+Change the mode select switch on the servo gain adjuster to position “2” and
+select the correct oscillator frequency. Adjust the tracking gain variable
+resistor so that the amplitudes at TP1 and TP2 are equal while playing track 8
+
+of the playability test disc. This adjustment makes the gain of the tracking
+servo equal to 1.
+
+CH2 |
+
+C. Focus offset adjustment
+
+Connect channels 1 and 2 of the oscilloscope to the RF and TE test points on
+the CD player’s PCB. Playback the black band test disc (Part Number
+SZZP1057C). This will simulate manufacturing defects on CDs and looks like
+a “dip” on the RF waveform. Adjust the focus offset pot so that the dip is
+
+minimized or eliminated. The FE waveform must be adjusted so that A and B
+are at minimum or balanced.
+
+Dip eliminated
+RF
+(a)
+
+Dip eliminated

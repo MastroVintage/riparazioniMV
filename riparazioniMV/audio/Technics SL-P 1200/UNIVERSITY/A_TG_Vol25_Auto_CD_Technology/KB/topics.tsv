@@ -1,0 +1,13 @@
+section	title	pages
+1	Traverse mechanism and optical pickup (3-beam vs single beam, photo detector, tracking error generation)	1-4
+2	System block diagram Type A (AN8373S/AN8374S/AN8377 + MN6617 + AN8290S spindle + MN6623), Type B, Type C (AN8370S)	5-7
+3	Loading mechanism and operations: Type A (8-18), Type B changer (19-21), Type C (22-26)	8-26
+4A	Circuit operations Type A: traverse control (27), focus control (30), spindle motor circuit (33)	27-37
+4-NEW	New IC circuit: new servo AN8373S/AN8374S/AN8377 (38-43), digital filter and D/A MN6623 MASH (44-56)	38-56
+C4-1	AN8370S circuit operation: control logic(58), laser APC(60), RF amp & dropout(60), auto focus & FE(62), TE kick hold(64), focus/tracking drive(68), relation with servo IC & CPU(69)	57-69
+C4-2	Traverse servo: detector, mode select, drive	70-71
+C4-3	AN8371S circuit operation: EFM, PCK, other signals	72-73
+C4-4	MN6617 circuit operation: recording system (74), reproducing (79), LSI & peripheral circuits (81-87) incl. AN8281S spindle	74-87
+C4-5	Audio circuit: D-A converter, deglitch, LPF & de-emphasis	88-90
+5	Alignment instructions: Type A (91-97, CD gain alignment jig, pickup adj, turntable height), Type B (98-107), Type C (108-113, CD adjustment jig)	91-113
+6	Troubleshooting: A6 symptom check(114), TOC read/play flow chart(115-116), lens cleaning SZZP1038C(117-118); B6 caution(119), troubleshooting(120), changer repairs(121-122), flow chart(123-124); C6 symptom check(125), CD deck repairs(126), flow chart(127-128)	114-128

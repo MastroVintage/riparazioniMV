@@ -1,0 +1,32 @@
+IC601
+(AN8374S)
+IC1
+(AN8373S)
+> SENS
+= c i @
+: al cf | OT ocx
+= Photo- Amp re)
+> detector na Cook & @
+a
+2 (5)
+P Toss senor}
+Focus coil (5) PDB Focus GIN CNT
+C)—(2) @)
+
+FD- a FDS a ae
+C602 Search |
+oscillation
+
+(AN8377)
+
+©)
+@ @
+
+a1Bo| jo4.U0D
+
+)
+©
+
+Micro-computer
+
+Fig. 4-3. Focus Control Circuit (Detecting Disk by Focus Search)

@@ -1,0 +1,125 @@
+5. Data Signal Flow
+
+(1).
+
+(2).
+
+RF Signal Flow
+
+* The photo detectors Al - A6 output
+is applied to IC-101's RF IN INPUT
+(pin 39) via an RF amplifier
+within the Optical Pick-up.
+
+* After being amplified by another
+RF amplifier within IC-101, the
+signal passes through an equalizer
+for 3T compensation, goes into the
+AGC (Auto Gain Control) circuit
+where it undergoes automatic gain
+
+control, and appears at the ARF
+(RF signal controled by auto gain
+control) output (pin 35) of
+Ic-101.
+
+EFM Data Generation
+
+* The RF signal applied to IC~-102's
+ARF input (pin 12) is sliced by
+the DSL (data sliced) into a pulse
+signal EFM (eight to fourteen bit
+modulation), and then coupled to
+the PLL circuit.
+
+* The PLL is synchronized with the
+EFM signal and then coupled to the
+signal processing block.
+
+Figure 4-8 PLL Block
+
+- The new PLL circuit has replaced the
+
+PLL adjustment with
+comparator, one of whose input is
+clocked by the CLK signal
+(88.2KHz/11.34us) supplied from the
+
+digital signal processor.
+
+a frequency
+
+The PLL circuit shows figure 4-8.
+
+— 39 —
+
+. If PLL lock is lost,
+
+the frequency
+comparator's error output, this
+error signal will be controled VCO's
+
+free-running frequency. The large
+error output oof the frequency
+comparator drives the VCO until
+
+range. When the PLL is locked (TRON
+active), the FPC (frequency
+comparison error signal) is active
+and the VCO is controlled by the
+phase comparator's error output.
+
+7. Control Logic (IC-601)
+
+Commands used to set the servo circuit
+status are supplied from the system
+CPU in parallel 4 bit data
+CNT4).
+
+SENSE is the status read signal for
+
+(CNT1 -
+
+IC-601, which is transferred to the
+
+system CPU. All other control logic
+Operations are identical to those of
+the conventional control logic.
+
+8. Focus Servo Circuit Operation
+
+(1).
+
+The outputs of the photo detector
+are coupled to pin 2 - 5 of
+Ic-101, where they are phase
+corrected by the Al + A2 and A3 +
+A4 signals and converted from
+current to voltage signals. They
+are transferred to the focus
+balance circuit and subjected to
+photo detector position error
+correction by means of VRI101
+(best eye adjustment).
+
+- The difference between the Al +
+A2 and A3 + A4 signals, produced
+within the FE mixing circuit,
+serves as the Focus Error signal
+which appears at IC-101 pin 15.
+
+The signal) is then applied to
+IC-601 pin 8. VR63 is used for
+offset voltage injection control.
+
+- Since the Focus switch is closed
+in the PLAY mode, the FE signal
+appears at IC-601 pin 9 and
+couples to the loop filter within
+IC-101, where it is used to
+determine the focus” servo's
+frequency response. The output of
+the loop filter at IC-101 pin 23,
+is transferred to the focus
+driving circuit and drives the
+focus actuator.

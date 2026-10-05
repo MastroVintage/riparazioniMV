@@ -1,0 +1,22 @@
+The MDATA signal comprises 8 bits, and is serially transferred.
+Of the 8 bits, the upper 4 bits express the type of data being transfer data and the lower 4 bits carry
+
+data.
+Fig. 4-16 shows a timing chart of the three signals.
+
+MSB LSB
+
+voy At KX AB XK AZ MK AX D4 KX 03K 12K D1
+Microcomputer | @ Pin
+mk Lf Lf Lf LF LE U UO ou
+
+@ Pin
+
+i
+
+Fig. 4-16 MDATA Transfer (Microcomputer to LS!)
+
+STATUS signal is data to be transferred from LSI to microcomputer, and its contents are checked by
+microcomputer by switching over the output signal as in Item 3), Fig. 4-15.
+
+— 85 —

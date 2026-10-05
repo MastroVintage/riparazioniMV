@@ -1,0 +1,37 @@
+7, PLL adjustment
+
+A. Purpose
+
+The purpose of the PLL adjustment is to set the VCO (Voltage controlled Oscillator) circuit such that the
+4.3218 MHz clock will lock within its operating range.
+
+fo
+fo— Af | fotAf
+i
+4.3218 MHZ Af = 430 KHZ
+
+Fig. 2-7-1 PLL operating range
+
+The PLL (Phase Locked Loop) reference frequency is constantly compare to the disc’s sync data (extract-
+ed from SRF) representing a frequency of 4.3218 MHz. When these two frequencies are equal the PLL is
+locked. If the PLL is not adjusted within its operating range it can cause incorrect disc rotation or dropout.
+
+SRF
+From disc
+
+Phase
+comparator
+
+PLL
+control
+
+1/2 dividing
+
+——————_ PCK 4.32MHZ
+
+PLL works so that the clock
+
+component corresponds to
+
+PCK.
+

@@ -1,0 +1,62 @@
+2. Mechanical adjustment (optical pick-up)
+
+A. Purpose
+
+Unless the lens is perpendicular to the disc surface, the laser beam may not be focused. The mechanical
+alignment is therefore necessary to adjust the optical pick-up lens so that the lens is at an optimum
+perpendicular position.
+
+B. Basic principle of mechanical adjustment
+
+To accomplish the above condition, it is necessary to adjust Hex screws (A) and (B) as shown.
+
+Focus lens
+
+a Disc
+Actuator
+
+Actuator
+Focus lens
+Optical pick-up base
+
+Optical pick-up base
+
+A i Adiusting screw (A)
+
+Adjusting screw (B)
+><
+
+Adjusting direction with screw (B) Adjusting direction with screw (A)
+
+Adjusting screw
+
+Fig. 1-2-1
+
+C. Basic principle of adjustment method
+
+The worped Test Disc (SZZP1056C) is used to simulate the non-perpendicular condition. While playing
+
+this Disc, the RF amplitude’s vertical fluctuation is to be minimized; at which point the most perpendicular
+
+point is set.
+1. RF waveform at use of test disc (SZZP1056C)
+
+A thin piece of metal is mounted to the part where the disc touches the turntable. The RF waveform is
+fluctuated vertically (amplitude fluctuated)
+
+Test disc
+
+Thin piece of metal
+
+a
+Turntable
+
+Uneven Test Disc (SZZP1056C) =
+
+Vertically Fluctuated
+while rotating
+
+Metal piece
+
+Fig. 1-2-2
+

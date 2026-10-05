@@ -1,0 +1,91 @@
+13. Braking Circuit
+
+The braking circuit applies a brake to
+the tracking actuator so as to speed the
+tracking servo pull-in sequence required
+after a SKIP or KICK operation.
+
+16. Pin Description of AN8373S (IC1)
+
+0
+Re. Mark Division
+
+Function
+
+RF signal input (X30 amp.)
+
+a [rene [1 Prise rea
+5 PDB |
+
+Photo detector current input (A3)
+
+Non-inverting laser power input
+
+Laser power auto control output
+
+PD balance adjustment
+
+Tracking balance adjustment
+
+11 TBL2 |
+FOOFS | Focus offset adjustment
+Current/voltage conversion
+IVA 9 output (A) .
+Current/voltage conversion
+14 IVB ° output (B)
+Oo Focus gain adjustment output
+16 FPI I Focus error signal input
+17 TPI ! Tracking error signal input
+18 C. TPL ! Tracking error filter capacitor
+input
+19 C. TPH
+Focus error filter capacitor input
+21 C. FPH
+
+The direction of actuator movement is
+detected by the OFTR DET (off track
+detection), CROSS (tracking cross) and
+DIRECTION signals from IC-102 and a brake
+signal is added to the tracking error
+signal. ,
+
+re)
+Division
+
+:
+:
+:
+:
+:
+;
+:
+:
+BDO
+sDO
+
+3
+
+31
+
+RFDET
+
+32
+
+33
+
+34 Cc. SBDO Dropout detecting capacitor input
+ARF RF signal output
+
+c. AGC
+
+AGC detecting capacitor input
+
+VCC Power supply (+5 V input)
+
+LDON I Laser power control input
+
+Tee | [eosin
+
+RF signal output
+
+—A2—

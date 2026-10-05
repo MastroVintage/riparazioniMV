@@ -1,0 +1,12 @@
+C. Focus offset adjustment method
+
+i
+It should be adjusted so that the RF waveform dip is minimized or eliminated and the size of FE @ and
+is at minimum or balanced.
+Dip eliminated
+RF
+(a)
+Dip eliminated
+RF (b)
+
+—~11—

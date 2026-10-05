@@ -1,0 +1,54 @@
+A6-3. CLEANING PROCEDURE FOR THE FOCUS LENS
+
+Symptoms
+The following symptoms may be caused not only by faulty software or hardware but also by the
+soiled focus lens.
+@ Not reading TOC
+@ Not playback
+@ Skipping sound
+
+Cause
+Soiling of the focus lens surfaces with dirt, dust, finger print, and others.
+
+(Note) Clean the lens in the following steps even if it looks to be clean because soiling is not always
+discernible visually.
+
+Cleaning Steps
+(1) Remove the optical pick-up ASSY from unit.
+
+1 Deck ASSY Removal 2 Optical Pick-up ASSY Removal
+® Remove the four screws. @ Pull out the two flexible PCBs from CN1 and CN2.
+@ Pull out CN1, CN2 and CN3. @ Pull out CP1 and CP2.
+@ Pull the check ass’y upward. @ Remove the five screws.
+
+XTB3 + GFFX
+
+Deck Ass'y XYN26 + F8FX
+
+YEJTO3064
+
+SERVO PCB R
+(E-2124A) CN2
+
+Flexible PCB
+XSB26 + 4FX
+
+Fig. 1-1 Fig. 1-2
+(2) Clean the surface of Optical Pick-up ASSY
+
+(3) Removing method of dirt, dust, or etc., from the focus lens.
+@ Blow dust, dirt, or etc, off the lens surface by the blower contained in the cleaning kit as
+
+shown below.
+Blower (0)
+i
+
+Nozzle [/
+
+Wd Lens surface
+
+Surface of Opticalpick-up Assy
+
+Removal of dirt or dust
+
+—117-

@@ -1,0 +1,27 @@
+C4-4-1_ Reproducing System Signal Processing
+(1) Decoder
+
+Deinterleave
+
+4apooap 79
+ayquuesosun ZO
+
+W23
+Ww24
+
+4o}eJedas e1ep |01]U09 puke soJej|npOoWap W43
+
+Fig. 4-8 Playback Signal Processing
+
+The flow of playback signal processing is just opposite to the flow of recording system signal process-
+ing. Here, decoders for error detection and correction are used in place of the C1 and C2 encoders
+that are used for parity generation.
+
+Both the C1 and C2 decoders are capable of error detection and correction. If data that cannot be
+corrected by C1 decoder is marked with C1 flag, and after deinterleaving, the data is sent to the C2
+decoder for accurate correction.
+
+If data that cannot be corrected by C2 decoder, the average value obtained from the adjacent data is
+switched to interpolation after the process of C2 unscramble.
+
+—79-—

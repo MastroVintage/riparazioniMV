@@ -1,0 +1,60 @@
+A6-2 TOC READ OPERATION — PLAY OPERATION FLOW CHART
+
+ct CHECK
+
+Does laser diode illuminate? Optical Pick-up
+Laser diode
+
+Control circuit
+1C601, 1C1
+
+System CPU
+IC603
+
+Is focus lens moved vertically | system CPU circuit
+for search operation? IC603
+(visual check) Servo control circuit
+
+1C601
+Yes Focus error amplifier
+1C1
+Q1
+Optical pickup
+Focus coil
+(none repairable)
+
+v
+
+Does spindle motor start to fe) System CPU circuit
+
+rotate? 1C603
+
+| Yes Spindle drive circuit
+IC2
+
+DC spindle motor
+
+L J
+
+&
+
+¥
+
+Does focus servo operate? No Focus error amplifier
+IC1, 1C601
+
+| Yes
+Does tracking loop servo ) System CPU circuit
+operate? 1C603
+Yes Servo control circuit
+1C601
+Tracking error amplifier
+IC1, 1C601
+Optical pickup
+Tracking coil
+(none repairable)
+
+tt
+
+— 115 —
+

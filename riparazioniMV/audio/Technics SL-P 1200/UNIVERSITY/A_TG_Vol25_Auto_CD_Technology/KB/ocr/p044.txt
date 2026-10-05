@@ -1,0 +1,104 @@
+A4-5 Digital Filtering and D/A Converter
+
+| 1) Principle of the Digital Filter
+
+The way an audio wave is converted to a
+digital signal, processed digitally, and
+then returned toa high-purity audio
+form, is more and more widely
+understood.
+
+The conversion from analogue into
+digital signals is often called pulse
+code modulation, or PCM. The analogue
+waveform is first sampled (measured at
+regular intervals). Then it is
+quantized. This means that it is given
+the nearest numerical value in the large
+range of numbers used to transmit the
+digital sound information. The quantized
+value is then converted to binary form
+and encoded into a pulse train
+representing the series of numbers. This
+process of analogue’ to digital
+conversion is shows in figure 5-1.
+
+Sampling
+
+35667665311011356
+A-D Converter
+
+(eT er Trs [eT [ve [re [os [on Joos [ons Jose] vorfoa[on] =i] ma]
+
+TOUT TA L_A.s transmission
+
+35667665311011356 0°A Convener
+
+Sample and
+hold plus
+low pass
+filter
+
+Generated
+audio
+wave
+
+Figure 5-1
+
+Figure 5-] shows the digital sound
+reproduction process. The audio signal
+is sampled, quantized, converted to
+binary form, and encoded for recording
+
+or transmission.
+
+Reversing the process produces a replica
+of the original signal. It is in this
+second stage that CD player use digital
+filtering to achieve exceptionally
+accurate reproduction.
+
+The pulse train is fed into’ the
+transmission system ( a cable or radio
+link, a tape, or adisc etc). At the
+reception or playback end, the pulse
+train is detected, decoded and
+regenerated in analogue form in the
+reverse process known as digital to
+analogue conversion.
+
+2) How the Number of Bits Affects S/N
+
+The accuracy of a digital system depends
+on the number of bits used for the
+binary number. This is because the
+number of bits determines the accuracy
+with which the samples taken from the
+Original waveform can be quantized, i.e.
+expressed in digital form.
+
+Two bits give four 2 possible values for
+use in quantization, also three bits
+give eight 2 possible values.
+
+Every bit added doubles the number of
+possible values. In audio terms, this
+adds 6dB to the signal to noise ratio,
+because it reduces the quantization
+noise by a factor of 2.
+
+The sixteen bits as used in the CD
+system give 65536 (216 ) possible values
+for quantization, anda signal to noise
+ratio of 96dB. The audio signals are
+encoded in the actual CD with this
+ratio.
+
+960B is approximation. An additional
+factor, which depends on the type of
+Signal, is always present, regardless of
+the number of bits; for sine wave
+signals this makes the -theoretical
+figure 97.8dB.
+
+—~ 44 —

@@ -1,0 +1,115 @@
+4, Servo Circuit Block Diagram
+
+—>—<RESET
+
+TRAVERSE UNIT
+
+_ OPTICAL PICKUP
+
+Ejele)
+
+CT — ~
+PO
+a ~ 7 LASER
+} root 5
+TRV FOC TRK | ! * \
+lao’ ao aoa i #4 +4
+a 4 :
+l
+|
+Az jaa [At Aa
+io
+|
+Y |
+' yvo+ two- ! FO+ [For __|tO+ TD- }
+14 13 12 " 10 9 4
+aa oa tana eieeh ahah snus aie “8
+'
+I
+| Traverse Focus Tracking +
+coil drive coil drive coil drive control +8
+FOI
+6
+Tracking
+t i.
+10602 baence ad
+FOCUS/TRACKING/ v Rer Best eye V REF
+TRAVERSE COIL DRIVE +8 Focus | adj. i Y
+i offset
+34 12 a 6
+--- TRI — a
+fret |rev2
+r y I
+FE Addition (x2) Phase Shifter
+800 | mixing balance Amp | APC driver Pot buffer Pot amp. vce Ia? ve
+I
+balance 1C1 '
+alance
+4 AN8373S a
+I L\ HPF vrer~—o sv ner
+F
+! RF Loop filter L vee !
+4 36l DET 7 F Loop filter I
++B “t#—O=| AGC 42
+vee $2
+Butter Ic1 I
+(ra) F. T. FT
+I Gain Gain Gain I
+ul ui Dow!
+L +3------~-+ ~6---o---9- J
+32 13° [14 24 25 28
+IC1
++B SERVO AMP
+Tracking
+offset adj. [~O =
+{VR61) 3
+r T T T V REF
+Focus 1 T '
+3 a V REF Tracking z ®
+(VR63) { ai
+vice : (R62) + AAA
+—
+36 7 je 2 2 |s 6, jaz al 23 29
+
+~~ 5 a ha
+
+boo
+voo ge +8
+veco%e +
+
+hy
+V REFOMe- v REF
+
+ef detection H rm sw Phase Le [ ew LH Oscillation
+difference det.
+q __f 4 limiter
+SLC (TRON) — Auto focus a
+t a . Speed
+OFTR vetorm cross || Distinction contro!
+Frequency S-cuve H o id ° direction
+detector call
+i
+| —
+1 1C601 sauctor | | Control loge ow
+1 L AN8374S + F FF t [_.|
+V REF 7 21 [20 an 18 (26 _ 7~ 24 30 95 32 “tas uM er 27 oe
+Lt | 1 +
++ — — —\Wv-
+4
+>< wd = ” :
+e = x ° 2 8 g 5 & & £ S$ §
+c ng is) a a — wh Zz 4 z z =z 4
+wo w a rs oO re wo oO oO oO oO e ion
+% ¥ Y Y Y z IC60
+t | ' 4 4 4 1 4 bh bo hb 4 4 SERVO CONTROLLER
+VREF
+
+7
+
+TO D/A CONVERTER /AUDIO CIRCUIT
+
+—40—
+
+Figure
+
+4-9 Servo Circuit Block Diagram

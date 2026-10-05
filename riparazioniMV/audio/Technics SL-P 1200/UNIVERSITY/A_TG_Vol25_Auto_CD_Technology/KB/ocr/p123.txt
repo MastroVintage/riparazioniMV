@@ -1,0 +1,59 @@
+B6-4 TOC READ OPERATION — PLAY OPERATION FLOW CHART
+
+CONDITION CHECK
+
+Sa
+
+Does laser diode _ illumi-
+
+Optical Pick-up
+nate?
+
+Laser diode
+Control circuit
+
+1c2, Q1
+System CPU
+1C101
+
+Is focus lens moved verti-
+cally for search operation?
+(visula check)
+
+No System CPU circuit
+1C101
+Servo control circuit
+IC2
+Yes Focus error amplifier
+1C4, 02
+Optical pickup
+Focus coil
+(none repairable)
+
+Does spindle motor start| No System CPU circuit
+to rotate? 1C101
+Spindle driver circuit
+Yes IC1, 1C203
+
+DC spindle motor
+
+Does focus loop servo] No Focus error amplifier
+operate? IC2, 1C3, 1C4
+
+Yes
+
+Does tracking loop servo| No System CPU circuit
+operate? 1C101
+
+Servo contrl circuit
+Yes 1C2
+Tracking error amplifier
+IC3, 1C4, Q2
+
+Optical pickup
+Tracking coil
+(none repairable)
+
+— 123 —
+
+CHECK

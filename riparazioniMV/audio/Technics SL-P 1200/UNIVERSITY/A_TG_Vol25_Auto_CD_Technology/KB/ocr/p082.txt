@@ -1,0 +1,45 @@
+The DO signal is a dropout detection signal (dropout detection output of AN8371S) of AN8371S,
+and is used as CLV control signal of LSI. If dropout is detected, the 11T servo is turned off to
+allow free rotation. Fig. 4-12 shows SRF signal and DO signal.
+
+3) The CNT2 (SLC or TR ON) signal is one of the 4-bit control logic signals of the optical servo IC
+(AN8370S). This signal remains high until the tracking servo is in the OFF mode (See Table
+6-1).
+
+This is used to control both ICs as follows.
+
+(a) The CLV control of LSI
+The mode is switched over to the rough servo mode to control the rotation speed even in
+a high speed driving so that the rotation speed can be locked in by the CLV servo system
+immediately after the tracking servo system is turned on.
+
+(b) The data slice circuit of AN8371S
+The slice level is forcedly raised so that the SRF signal input to the rough servo system can
+be exracted exactly.
+
+PLL
+finished operation (Constant at 2.5V)
+2.5V ———_—— mmm
+OV
+LSI Pin
+FPC PLL —— 5V
+in operation
+2.5V
+OV
+Fig. 4-11 FPC Signal
+11T or over
+11T
+[s Pin
+SRF
+LSI
+
+@ Pin | " |
+DO
+
+® SRF signal has a period of 11T or longer when a dropout occurs,
+which is interpreted as slow rotation, causing the spindle motor
+to run away. Thus, DO signal makes rotation free.
+
+Fig. 4-12 SRF Signal and CO Signal
+
+— 82 —

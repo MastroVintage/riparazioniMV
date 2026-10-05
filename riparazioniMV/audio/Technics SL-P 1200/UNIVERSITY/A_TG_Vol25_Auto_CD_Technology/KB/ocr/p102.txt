@@ -1,0 +1,63 @@
+B5-2 OPTICAL PICKUP ADJUSTMENT
+
+B5-2-1 Measuring Instruments and Special Tools
+@ Two-channel oscilloscope (with trigger) of
+
+30 MHz or over
+@ Test disc (Supplied from HAD)
+
+Test disc (SZZP1014F) new type CDT-002
+
+Inspection test disc (SZZP1054C) CDT-016
+
+Uneven test disc (SZZP1056C) CDT-018
+
+e Extension cords [YESFZ5003]
+(Supplied from APD)
+
+(2) Extension connectors
+
+-— in
+
+e Instruction for Jig
+
+Go YEJT3033 x4
+
+CN1
+CN7
+CN3
+CN2
+—CN4
+Servo PCB
+— (E-1947)
+PCB w/FPC
+
+— 102 —
+
+Screw lock paint (RZZOLO1) (Supplied from HAD)
+Hexagonal wrench (2 mm)
+
+Lead wires
+
+Extension cords
+
+for CN4 (4P) 1PC
+for CN1 (9P) 1PC
+for CN2 (11P) 1PC
+
+for CN3, CN7 (2P) 2PCS
+
+. Remove the four @ Screws and disconnect
+
+each connectors.
+
+. Remove the PCB (E-1947)
+.Connect each Jig connectors and FPC
+
+extension cords to optical pickup.
+
+.Connect each Jig connectors and FPC
+
+extension cords to Servo PCB (E-1947).
+
+extension cords

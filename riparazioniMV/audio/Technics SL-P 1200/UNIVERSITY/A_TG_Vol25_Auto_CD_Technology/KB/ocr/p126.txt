@@ -1,0 +1,62 @@
+C6-2
+
+CD DECK REPAIRS
+
+NO. SYMPTOM CAUSE REMEDY
+1 |Does not traverse. Traverse wire disconnected. Repair by soldering
+Does not eject. Improper soldering of traverse wire
+Foreign substance mixed in optical Remove foreign substance.
+pickup assy.
+2 |Traverse reverses. Short due to solder between Correct soldering between traverse
+traverse wires wires,
+3 | Traverse noise Foreign substance mixed in optical Remove foreign substance.
+pickup assy.
+Optical pickup is faulty. Replace optical pickup assy with
+a good one.
+4 | Door does not open. pen. Door pin is caught. Repair mechanically.
+Door shaft is bended. Repair mechanically.
+Solenoid is faulty. Check and/or replace defective parts.
+Improper soldering of solenoid Correct soldering.
+Shutter lever is caught. Repair mechanically.
+5 | Door does not close. Door pin is caught. Repair mechanically.
+Door shaft is bended. Check and/or replace defective parts.
+Shutter lever is bended.
+6 | Disk does not load. Door switch is bended. Check and/or replace defective parts.
+Switch 2 is bended.
+Motor is defective.
+7 | Disk does not drop on Switch 3 is faulty. Check and/or replace defective parts.
+turntable. Rack arm is caught. Repair mechanically.
+Clamp arm is caught. Repair mechanically.
+8 | Disk surface shakes. Foreign substance stick to the face Remove foreign substance from turn
+of turn table. table.
+Optical pichup assy is faulty. Check and/or replace defective parts.
+Improper adjustment of optical Readjust optical pickup.
+| pickup.
+Q |Turntable does not rotate. Optical pickup assy flexible PCB is Check and/or replace defective parts.
+broken.
+Improper connection of optical Connect flexible CN2 properly to the
+pickup assy flexible CN2 to the connector,
+connector.
+Foreign substance mixed in optical Remove foreign substance.
+pickup assy.
+Optical pickup assy is faulty. Check and/or replace defective parts.
+10 |Noise when disk loading, Motor gear is broken. Check and/or replace defective parts.
+dropping and ejecting Foreign substance is mixed in Remove foreign substance.
+motor gear.
+Junction gear is broken. Check and/or replace defective parts.
+Foreign substance is mixed in Remove foreign substance.
+junction gear.
+11. |Noise when disk is rotating. Optical pickup assy is faulty. Check and/or replace defective parts.
+Improper fitting of clamp arm Correct fitting position of clamp arm.
+Foreign substance is mixed in. Remove foreign substance.
+12 |No read TOC Servo control loops inoperative Check CD operation flow chart.
+No play back Perform optical pickup mechanical
+alignment.
+Sound skips in normal play Perform servo control.
+condition Perform servo control electrical align-
+ment..
+[ Soiling of the focus lens surface Clean focus lens surfaces with lens
+with dirt, dust and others cleaning kit SZZP1938C.
+
+— 126 —
+

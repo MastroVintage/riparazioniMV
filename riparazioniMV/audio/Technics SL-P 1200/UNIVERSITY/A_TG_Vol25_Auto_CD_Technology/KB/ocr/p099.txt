@@ -1,0 +1,46 @@
+1. Focus Gain Adjustment (using test jig)
+
+© Test Point: JSW2 (remove the short plug from JSW2)
+
+O Connect the test jig (YESFZ155) as follow:
+Clip TO CD chassis GND
+Orange Lead (+10V) CN401 pin 8 (+5V) on main PCB
+Red Lead (-10V) CN401 pin 3 (-5V) on main PCB
+Green Lead (JSW in) JSW2 out on Servo PCB
+Yellow Lead (JSW out) JSW2 in on Servo PCB
+
+JSW2 (outside) Pin Identification JSW1 (inside)
+
+On Servo PCB OUT IN IN OUT
+On Test Jig IN OUT OUT IN
+(Green) (Yellow) (Yellow) (Green)
+OSC Terminal TO Low Frequency Oscillator
+Monitor 1 and 2 Scope CH1 and CH2
+© Oscillator Settings: 1kHz at 150 mV p-p
+O Scope Settings: VOLT.......... 100 mV
+SWEEP ......... 1 ms
+INPUT ......... AC
+© Adjustment: Set the test jig level switch to TEST.
+
+Play test disc (any track).
+Adjust VR3 until both channels are equal in amplitude.
+
+WWW I
+
+Adjust to make a= b
+
+3. Tracking Gain Adjustment
+
+O Test Point: JSW1 (remove the short plug from JSW1)
+© All the connections and settings remain in the same as step 2 except JSW (green and yellow leads)
+are now connected to JSW1 on the Servo PCB (next to JSW2).
+O Adjustment: Set the test jig level switch to TEST.
+Play the test disc (any track).
+Adjust VR6 until both channel are equal in amplitude.
+
+VW is
+WW
+
+Adjust to make a= b
+
+— 99 —

@@ -1,0 +1,29 @@
+1.Input Signal
+
+LR Clock = [Jf
+SR Data Cae TT
+SR Clock JIU
+
+2.S/P Conversion
+
+Converts serial L/R
+
+data into parallel =)
+
+L/R data
+
+3.D/F Processing
+
+4.MASH Processing
+
+Performs MASH processing on
+the L channel data from the
+first stage to determine 4
+levels out of 11 levels and
+
+transfers them to the PWM ,(<-- iw
+block. Does the same 3 a
+processing for the R 3 __f
+channel data. 4|—_
+
+—55—

@@ -1,0 +1,39 @@
+1-3. Photo Detector
+
+The photo Detector is probably the single most important component in the campact disc player. The
+reason for this is that all intelligence needed to operate the unit is developed from the returning laser beam
+by the photo detector. This will include focus error signal, tracking error signal as well as the intelligence
+signal. °
+
+The single beam type (Fig. 1-3b) has a large PD surface area to prevent RF signal level reduction. However,
+if the beam irradiated at a scratch or other defects on the disc surface, the servo errors occur and decrease
+playability.
+
+In order to compensate such divergent conditions, the photo-detector structure shown in Figure 1-3c is
+
+used, the four parts in the center are used for error detection, and the total sum including the periphery
+(B1 + B2) is the RF signal.
+
+(a) 3 beam (b) Old single beam (c) Photo-detector Structure
+(New single beam)
+
+Fig. 1-3
+
+1-4 Tracking Error Signal Generation
+
+Fig. 1-4 shows the basic configuration of the single beam type (phase difference detection method).
+The output of the optical of pickup is the sum of each diagonal element of the 4-segment photo-detector.
+
+(A1 + A2)
+
+Phase
+difference
+detector
+
+Comparator Tracking error
+
+(A3 + A4)
+
+(4-divided photo-detector)
+
+Fig. 1-4 Basic Configuration

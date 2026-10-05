@@ -1,0 +1,53 @@
+Spindle motor
+
+LI
+
+RF signal
+
+Fig. 4-4 Spindle Motor CLF-Control
+
+IC501
+(MN661 7)
+
+Saw-tooth-
+wave OSC
+
+©)
+=
+® ©
+
+aoejsayul
+
+48} NAWOD-0.191 |]
+
+Jo4}U0d BAG
+
+aN
+©
+-
+@
+
+©)
+>
+© ©
+
+CLV Control
+
+S
+©
+
+\4
+
+(10) CONT2
+
+('9)
+DSL
+Auto (6)
+
+Focus
+
+IC1 IC601 Micro-computer
+(AN8373S) (AN8374S)
+
+IC2
+(AN8290NS)

@@ -1,0 +1,47 @@
+6. Tracking Offset Balance Adjustment (using test jig)
+
+© Test Point:
+
+O Scope Settings:
+
+© Test Jig Connection:
+
+© Adjustment:
+
+Connect the brown lead (TP5) from test jig to R3 (jump wire) or J44 behind
+VR1 on Servo PCB.
+
+VOLT.......... 100 mV
+
+SWEEP ......... 0.1 ms
+
+INPUT ......... DC
+
+Clip TO CD chassis GND
+Brown Lead (TP5) TP above
+
+TBAL Terminal Scope Probe CH1
+Green Lead (JSW in) JSW1 out (PCB)
+Yellow Lead (JSW out) JSW1 in (PCB)
+
+Set the test jig level switch to ON.
+
+Play the test disc track #1.
+
+Adjust VR1 within 15 seconds after the test jig level switch is set to OFF
+so that the center of the waveform will be OV.
+
+rons / Adjust the center
+to OV
+—— =
+
+*** * * NOTE * * * * *
+
+1. If kicking noise is heard when playing the disc after having the alignments done, adjust the VR6
+(tracking gain) for fine tuning until the kicking noise disappears.
+
+Do not lose the JSW shorting plugs. Replace the shorting plug after each alignment step.
+
+Turn off the power before changing any connection.
+
+— 101 -

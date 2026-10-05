@@ -1,0 +1,81 @@
+ALIGNMENT INSTRUCTIONS
+
+A5-1 ELECTRICAL ADJUSTMENT
+A5-1-1 Measuring Instructions and Tools
+
+1. CD gain alignment jig YESFZ5019 5. Test Disc SZZP1014F or SZZP1054C and Black Band
+2. Two-channel oscilloscope (30 MHz or over) Disc SZZP 1057
+3. Low-frequency oscillator 6. ORB Power cord ass’y YESFZ5017
+
+4. Screwdriver for adjusting semi-fixed variable resistors
+
+Caution: Use of controls making adjustments, or per-
+forming procedures other than specified herein may
+result in hazardous exposure to radiation.
+
+A5-1-2 Alignment Procedures and Points
+Remove the upper cover and bottom cover, solder the leads to test points, and follow the sequence below.
+Note: Do not attempt alignments when the deck is disconnected.
+1) Focus balance alignment 2... 2... es VR1_— sO TP (1C601-Pin12) (ARF)]
+2) Focus gain alignment..............0005 cee eee ees VR63 [TP (IC601-Pin9) (FE OUT)
+TP (1C1-Pin16) (FPI)]
+3) Tracking gain alignment.........0.. 20.2.0 eee ee eee VR62 [TP (1C601-Pin6) (TE OUT)
+TP (1C1-Pin17) (TPI)]
+rr VR2_ [TP (IC601-Pin6) (TE OUT)
+TP (1C1-Pin17) (TP1)]
+
+4) Tracking balance alignment
+
+5) Focus offset alignment ... 2... 0... ee ee es VR3_ [TP (1C601-Pin12) (ARF)
+TP (1C601-Pin8) (FEG)]
+6) Tracking offset alignment... 0... 0.0 ee ees VR61_ [TP (IC601-Pin12) (ARF)
+
+TP (1C601-Pin5) (TEG)]
+
+(4)
+VR2
+Tracking Balance
+
+(2)
+VR63
+Focus Gain
+
+(1)
+VR1
+Focus Balance
+
+(3)
+VR62
+Tracking Gain
+
+Solder Side
+
+(5)
+VR3
+Focus Offset
+
+(6)
+VR61
+Tracking Offset
+
+A5-1-3 CD Gain Alignment Jig
+
+@) MONITOR 2
+fe} °o fe} ° (eo) fe} fe}
+0 +B GND GND OSC MONITOR1 GND
+(14.4V) sw Clip (Black)
+=
+= |e
+TEST Clip (Black)
+
+co
+
+OL jo
+OL__lo =
+
+| fj»
+
+Clip (Red}
+
+—~91—
+

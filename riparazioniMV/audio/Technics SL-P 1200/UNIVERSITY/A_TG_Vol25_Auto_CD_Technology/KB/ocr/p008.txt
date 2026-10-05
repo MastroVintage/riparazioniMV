@@ -1,0 +1,98 @@
+3. Loading Mechanism And It’s Operation (TYPE A)
+
+A3-1
+
+Disc (Loaded)
+
+Rubber Roller
+
+Disk Loading Mechanism
+
+sw2
+
+swi
+
+Sw4
+
+Function
+
+Disc (Ejected)
+
+Description
+
+Solenoid
+
+Gear Train
+
+Remarks
+
+Disk in detection
+
+To detect whether or not a disk is
+inserted.
+
+Photosensor
+
+Disk position
+detection
+
+Detects the timing for Switching
+from horizontal movement to
+vertical movement.
+
+Reference point for determining
+how far to eject the disk.
+
+Photosensor
+
+Disk loaded or
+unloaded detection
+
+To detect whether the disk has been
+properly loaded.
+
+To detect whether the disk has been
+properly unloaded.
+
+Mechanism status
+detection
+
+To detect whether the disk loading
+mechanism is in play mode.
+
+Photosensor
+
+Contact Switch
+(Micro Switch)
+
+SOL
+
+Disk loading
+motor
+
+Clutch Switing
+
+Motor far loading and unloading
+the disk.
+
+Direction of motor
+Loading: CCW
+Unloading: CW
+
+Switches disk movement from
+vertical to horizontal.
+
+When solenoid on
+Horizontal
+movement
+
+Rubber Roller
+
+Gear train
+
+To move Disk
+in and out
+
+Converts motor rotary motion into
+liner motion,
+

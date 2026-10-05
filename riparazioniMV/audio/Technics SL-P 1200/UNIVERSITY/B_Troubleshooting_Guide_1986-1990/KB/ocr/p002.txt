@@ -1,0 +1,33 @@
+Procedure
+Step1. Clean the lens and guide rails
+
+Use the cleaning (Part Number SZZP1038C) to clean the lens. Moisten a cotton
+rod with cleaning solution and wipe the optic lens from center to edge. Clean the
+guide rails by using a lint-free cloth to remove any visible dirt or dust. Lubricate
+the guide rails by applying the prescribed traverse oil (see page 8).
+
+ts
+
+Lens cleaning kit (Part No. : SZZP1038C) ——eS qn
+
+Guide shaft
+
+Step 2. Observe RF waveform
+
+Connect an oscilloscope to the RF test point (refer to S/M for specific location)
+and play track 8 of the playability test disc CDT-016 (Part Number SZZP1054C).
+Observe the waveform and compare it to the minimum peak to peak voltage
+allowed for it (see page 8). If the observed waveform is low, it is first necessary to
+perform the next step BEFORE replacing the optical pickup unit.
+
+B ttt
+RERIRRIRRRG oT
+ak
+
+ARR RG
+
+LO) «
+i OXY YAARR MY = Minimum Voltage
+(\ ONC G (See Chart)
+
+RF Waveform

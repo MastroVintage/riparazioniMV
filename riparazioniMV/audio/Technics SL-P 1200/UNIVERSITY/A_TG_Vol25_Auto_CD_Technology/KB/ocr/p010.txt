@@ -1,0 +1,27 @@
+Solenoid
+
+Feeder Arm ass’y
+
+Lock Lever Ass’y
+
+Solenoid Ass‘y
+
+Feeder Arm Ass’y
+
+Loading Gear
+
+Feeder Arm Ass’y
+
+When the disc moves beyond SW2 (SW2: ON), the solenoid is turned off, and the hook is
+released.
+
+The weight of the disc lowers the feeder arm assembly slightly. Its lowering force rotates the
+cam gear slightly counterclockwise, then the cam gear and loading gear are engaged.
+
+The loading gear rotates clockwise and the cam gear rotates counterclockwise.
+
+The rotation of the cam gear lowers the feeder arm assembly and turns on SW4.
+
+The disc also lowers and is set on the turntable of optical pickup.
+
+—10—

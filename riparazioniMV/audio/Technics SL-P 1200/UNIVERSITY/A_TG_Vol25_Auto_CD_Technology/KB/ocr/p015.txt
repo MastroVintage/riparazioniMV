@@ -1,0 +1,77 @@
+3-5 Eject Operation
+
+l
+|
+!
+I
+
+|
+1
+| Elevating el
+
+| Disc pushed for ejection} +—e} Eject |
+|
+l
+T
+
+SW OFF
+
+I
+|
+|
+I
+1
+l
+I
+
+-—|-4--
+
+from the player.
+
+r
+|
+!
+I
+1
+!
+\
+!
+1
+i
+I
+|
+1
+1
+I
+
+i
+Sensor ; !
+Eject Key SW4 OFF SW2 ON |
+| I
+|
+; | SW2 OFF SW1 OFF
+t
+! |
+| l
+1
+Output Spindle motor OFF SW3 ON | SWS OFF |
+l I
+I | |
+| |
+|
+Loading motor ON Loading motor OFF
+\
+|
+| |
+1 |
+|
+The motor assembly and Magnet plate releases. | Disc moves outward. The unloading is completed.
+the loading gears rotate. Disc is grasped by the | Deck is locked and secures.
+Remarks rubber roller and unloaded |
+I
+I
+|
+\
+(
+|
+

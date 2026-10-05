@@ -1,0 +1,72 @@
+Step 3. Improve RF level (continued)
+
+C. Mechanical adjustment of optical pickup
+
+The purpose is to make the base of the optical pickup perpendicular to the
+test disc. To simulate a worst - case condition, the uneven test disc CDT-018
+(Part Number SZZP1056C) is used. Play track 8 of the test disc and observe
+the RF waveform. The mechanical adjustment screws should be adjusted so
+that the amplitude fluctuation of the RF is minimized.
+
+Focus lens
+
+or
+Se
+
+Adjusting screw (A)
+
+Adjusting screw (B)
+
+Actuator
+
+Optical pick-up base
+
+RF waveform
+results in amplitude fluctuation RF Waveform
+
+—— SRRERnannee
+TERRE TNA
+
+A
+
+LTR
+
+AORIRANK x 4 No Amplitude
+
+h\ NNSA 0G y\ a fluctuation
+
+NAN ow | COCONINO OO we
+FERRER
+[i | |_|
+
+Waveform of optimum alignment
+
+ORAL
+
+Waveform before alignment
+
+D. Re-adjust for best eye
+
+Turntable height and mechanical adjustments affects the best eye, therefore
+it should be readjusted.
+
+Pit: 3T=0.9
+4T=1.2um
+5T=1.5pm
+
+RF Waveform
+
+BAN ners
+ARE
+
+Rising is bad, and the
+waveform is small
+
+NRX Ne £60,
+( : AS,
+SEKI
+RRR
+
+Maximize amplitude
+
+Eye pattern is not clear.

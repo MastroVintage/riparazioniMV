@@ -1,0 +1,36 @@
+C3-4 Disk Loading Circuit
+
+@® 14V battery
+
+® 5V digital
+
+@ 5V battery
+
+=
+1C10
+SW3 Microcomputer Solenoid
+PAO
+|
+| MN1554CAC
+!
+| @ 5V battery
+|
+Sw2 \
+PAI
+!
+{
+Power su pplyy
+| control
+2 Door |
+w I + 14V battery
+©
+@ SV battery P12
+|
+P91
+|
+Drop detection Q82 | q 5V battery 10V
+“  f |
+I P13
+|
+
+Fig. 3-2 Disk Loading Circuit

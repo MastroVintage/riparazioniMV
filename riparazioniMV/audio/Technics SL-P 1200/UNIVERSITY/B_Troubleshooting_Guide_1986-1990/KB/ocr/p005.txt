@@ -1,0 +1,38 @@
+Step 4. Improve playability
+A. Test focus and tracking servo circuits
+
+Playing the 0.9mm wedge (track 8) on the playability test disc serves to show
+how well the unit is at tracking defects on discs. If skipping occurs, first
+
+inspect the test disc for scratches or dust. If skipping persists, it may be
+necessary to perform the mechanical adjustment over again (See Step 3C).
+
+B. Perform PLL adjustment
+
+Play the 0.8mm wedge on the playability test disc and connect the
+oscilloscope to the PLL test point. Adjust the PLL variable resistor so its
+position is between the two locations where the PLL waveform starts to be
+disturbed. This adjustment is used to set the operating range of the voltage
+controlled oscillator that allows the disc to be synchronized with the
+mechanism’s internal clock.
+
+Set-point
+
+Waveform is
+disturbed
+
+Waveform is
+disturbed
+
+Step 5. Electrical adjustments
+A. Focus gain adjustment
+
+Conncect the servo gain adjuster (Part Number SZZP1017o0r SZZP1094C) as
+explained in the Service Manual for the model being serviced. Connect
+channels 1 and 2 of the oscilloscope to TP1 and TP2 on the servo gain
+adjuster. Play track 1 of the playability test disc and turn the focus gain
+adjustment pot so that the wave forms at TP1 and TP2 are of equal amplitude.
+This is done to set the focus gain to unity, thereby stabilizing the lens focus.
+
+CH1 +
+

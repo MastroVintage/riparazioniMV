@@ -1,0 +1,60 @@
+aRwWN>
+
+B5-2-4 Mechanical Adjustment
+
+1.
+
+Solder a lead wire to CN6 for 8 pin (white)of the
+SERVO PCB (E-1947).
+
+- Connect CH1 of the oscilloscope to the lead wire (+)
+
+and Ground (-).
+Oscilloscope setting: VOLT ..... 200 mV
+SWEEP..... 0.5 usec.
+
+INPUT ..... AC
+
+_Place the test disc (SZZP1056C uneven disc)
+
+and turn on the power switch of the player.
+
+. Monitoring the RF signal on the oscilloscope, adjust
+
+the two adjusting screws alternately so that the vertical
+fluctuation of RF signal is minimized and the eye
+
+Oscilloscope (+)
+
+sy CN6
+
+SERVO P.C.B
+(E-1947)
+
+White
+
+Make this part
+spread widest.
+
+pattern most open.
+5. Turn off the power switch of the player.
+6. After the adjustment, apply screw
+(RZZOLO1) to the two adjusting screws.
+
+DISASSEMBLY
+
+Remove the screw N11.
+
+Remove-two screws N9.
+
+Remove brackets 52 and 53 .
+
+Raise Optical pickup assembly 48 and remove it.
+Pull out the guide shafts 50 and 51 from the optical
+pickup assembly.
+
+lock paint
+
+INSTRUCTIONS
+
+— 104 —

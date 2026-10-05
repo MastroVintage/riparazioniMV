@@ -1,0 +1,33 @@
+C. Basic principle of height adjustment of turntable
+
+Disc retainer
+
+va Disc
+Adjust this distance by the
+
+=> turntable height adjusting screw
+
+Optical pick-up
+Turntable
+—— Guide bar
+
+Spindle PCB
+a 3 [pumas >
+
+| Turntable height adjusting screw
+
+Fig. 1-1-2 DD motor
+
+Height adjusting screw
+
+| i Adjust this distance by the
+
+noe ug ZZ
+0.9 mm height adjusting screw
+feeler gauge 2
+gene ———
+(RZ20297)
+
+Optical pick-up
+
+Fig. 1-1-3 DC Motor

@@ -1,0 +1,91 @@
+The effect of 16 bits analogue to
+digital conversion followed by 16 bits
+digital to analogue conversion with 1/2
+LSB accuracy is to double the noise. In
+consequence, the maximum signal to noise
+ratio achievable in practice with a 16
+bit system such as CD digital audio is
+93dB.
+
+OIGITAL-TO
+ANALOGUE
+CONVERTER
+
+ANALOGE-TO DIGITAL
+CONVERTER
+
+AUDIO
+SIGNAL
+
+Figure 5-4
+
+Figure 5-4 shows the signal to noise
+ratio deterioration in a digital chain,
+consisting of an A/D and a_ practical
+D/A.
+
+5) Need for Filtering
+
+With 16 bits (65536 possible numbers)
+and a sampling frequency of 44.1KHz, the
+CD system is theoretically capable of
+far higher reproduction quality than any
+conventional record player. But to
+achieve this quality, the output signal
+that the player derives from the disc
+must contain only the original audio
+frequencies, and not the periodic
+repetitions of the audio frequencies
+produced by the sampling (see figure 19-
+2).
+
+These frequency bands can overload the
+power amplifier, and mix with audio
+frequencies or other signals to cause
+audible interference. They must be
+filtered out.
+
+0) How D/A Conversion Operate
+
+Figure 5-5 shows the generation
+process. Sampling produces only a series
+of sample (a) and hold (b) produces a
+step waveform closer to the original.
+
+Figure 5-5
+
+In the pulse train a series of binary
+number represents quantized samples of
+the original audio frequency. If these
+are simply converted to analogue values,
+a series of sample is produced (see
+figure 19-5).
+
+The outline of this series resembles the
+audio wave, but the constant on and off
+Switching produces the infinite series
+of frequency bands which was’ shows
+figure 19-2. In practice, each sample is
+held in the converter until the next
+sample arrives, to produce a_ step
+waveform which is much nearer the shape
+of the audio waveform than the series of
+sample.
+
+This sample and hold process. is
+illustrated in figure 5-5 (b). It
+substantially reduces the frequency band
+
+components, as can be seen from figure
+19-6. Significant components. still
+remain, however particularly in the
+
+region near the audio kand.
+
+Figure 5-6
+Figure 5-6 shows the effect of sample
+and hold. The remaining’ signal
+
+components are shows shaded.
+
+—AG—

@@ -1,0 +1,26 @@
+kK = 44.1 kHz»
+a
+
+i<— 2fs=88.2kHz —-+!
+ont oJ Le J.
+
+Lowe LSS] CO]
+
+ee ed
+
+4fs =
+76.4kHe—e|
+wet LCS ULI LI LI
+
+(A)
+tro or
+
+vow ES] Ex E<) E<) J-
+
+rw t CO EX ES EX
+
+Note: (A) and (B) are the data created in
+
+the digital filter.
+
+Figure 5-11

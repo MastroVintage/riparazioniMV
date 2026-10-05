@@ -1,0 +1,28 @@
+3. LOADING MECHANISM and OPERATION (TYPEC)
+
+C3-1 Disk Loading Mechanism
+
+The following switches (sensors) detect the disk position.
+o Door switch
+o SW2
+o SW3
+
+SW3
+
+Solenoid
+
+Roller
+Ssw2 Loadimg motor —
+\ / Door Switch af
+‘NL _ U7
+—
+Fig. 3-1 Loading Mechanism Sensor Locations
+The following devices load and unload the disk:
+© Loading motor : Bidirection motor to load, eject, raise, and lower the disks. ~~
+© Solenoid : Opens and closes the door, and suspension system operation.
+In the play mode, the deck sit on a cushion base with the disk hold down by the magnet plate.
+* The drop detection switch is a standby switch that is used to release the magnet plate by means of
+EJECT, should it drop when there is no disk loaded.
+~
+
+—22~-

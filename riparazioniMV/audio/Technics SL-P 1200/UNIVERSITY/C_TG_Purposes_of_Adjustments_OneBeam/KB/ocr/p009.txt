@@ -1,0 +1,62 @@
+3. Tracking gain adjustment
+
+A. Purpose
+
+During disc manufacturing, disc eccentricity results due to tooling tolerances. Eccentricity also results if
+the disc does not rest exactly in the center of the CD player’s spindle.
+The tracking servo is designed to overcome these tolerances and keep the lens on track.
+
+B. Principle of the Tracking gain adjustment
+
+The tracking servo loop is opened at which point a 1KHz, 1.2KHz or 1.5KHz signal is fed. This point is
+TP2 of the “servo gain adjuster’.
+
+The signal, once through the servo, appears at TP1. The tracking gain control is to be adjusted so that the
+level of TP1 equals that of TP2, at which point the gain is one (OdB)
+
+The reason why the focus servo to be adjusted using a 1KHz, 1.2KHz or 1.5KHz tone is because these are
+the frequencies that cause the gain to become unity (OdB=1).
+
+77
+| |
+| Total gain |
+] Head amP Connector
+| |
+
+Tracking Filter Driver _ a Lens
+
+Gain:Contro! Tracking Coil
+
+ee WWE
+1 Servo Gain Adjuster
+
+TP2 |
+
+|
+
+$ZZP1017F (without oscillator)
+
+| SZZP1094C (with oscillator)
+re __fe
+
+1000HZ
+1200HZ > One of them
+1500HZ
+
+Fig. 2-3-1
+
+Total Gain
+(dB)
+
+QdB
+(H2)
+
+va
+
+Gain cross-point
+1.0k, 1.2k or 1.5k
+
+Fig. 2-3-2 Tracking servo characteristics
+
+—~9
+

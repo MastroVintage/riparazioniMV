@@ -1,0 +1,72 @@
+C5-2. OPTICAL PICKUP ADJUSTMENT
+
+C5-2-1 Measuring Instruments and Special Tools
+
+@ Two-channel oscilloscope (with trigger) of @ Hexagonal wrench (2 mm)
+30 MHz or over ® Screw lock paint (RZZOLO1)
+@ Test disc (SZZP1014F) new type CDT-D02 @ Lead wires
+Inspection test disc (SZZP1054C) CDT-D16 @ Extension cord (Jig) [YESFZ154]
+Uneven test disc (SZZP1056C) CDT-D18 (Supplied from APD)
+Inspection test disc (SZZP1054C) © Resistor (4.7 kQ 1/4W)
+
+C5-2-2 Adjustment Procedure and Adjustment Points
+e |f the optical pickup is replaced, adjust it according to
+the following procedure.
+
+Spindle
+motor PCB
+
+Step 1: Turntable height
+[_ adjustment.
+
+a :
+
+Step 2: Mechanical adjustment. |
+
+Step 3: Electrical adjustment. - Refer alignment instruction for Service Manual.
+
+C5-2-3. Turntable Height Adjustment
+
+1. Turn off the power of the player.
+
+2. Solder the lead wires to TP3 {IC101, 37 Pin) of the
+P.C.B (E-5235) and Ground so that the probe of
+oscilloscope can be connected.
+
+3. Connect the extension cords between the Deck Ass‘y
+
+Oscilloscope
+
+(+)
+
+Lead wire
+
+and unit.
+4. Connect CH 1 of the oscilloscope to the TP3 (+)
+and Ground (-).
+Oscilloscope setting: VOLT ..... 200 mV j
+SWEEP..... 5 msec. PCB.
+INPUT ..... DC
+
+5. Set the oscilloscope to DC zero balance.
+
+6. Place the test disc (SZ2ZP1014F or S$ZZP1054C) and
+turn on the power switch of the player.
+
+7. Hold the CD Deck by the hand with the top face up.
+
+. The player to the play mode.
+
+9. Turn the adjusting screw at the bottom of the spin-
+dle motor drive P.C.B. with a flat screwdriver so
+that the waveform is 0 + 50 mV.
+
+10. Turn off the power switch of the player.
+11. After the adjustment, apply screw lock paint
+(RZZOLO1) to the adjusting screw.
+
+ioe)
+
+aa eo) |e | eee
+
+— 112 -

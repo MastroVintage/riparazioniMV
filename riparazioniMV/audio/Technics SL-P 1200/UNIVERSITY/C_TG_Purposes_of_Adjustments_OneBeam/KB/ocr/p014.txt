@@ -1,0 +1,32 @@
+C. Adjustment method
+
+The 1 KHz signal is fed through the tracking servo. The tracking offset balance control is to be adjusted
+for minimum and balanced level on the RF waveform.
+
+> [ANE
+
+Tracking servo circuit
+
+14+24+34+44+5+6
+
+RF signal
+
+Connector
+
+Lens
+Phase Filter Driver
+Comparator Tracking coil
+
+Tracking
+offset _
+
+1
+belance [TPA Wy KHZ
+
+control |
+
+Servo Gain Adjuster
+SZZP1017F (without oscillator)
+SZZP1094C (with oscillator)
+
+Fig. 2-6-2

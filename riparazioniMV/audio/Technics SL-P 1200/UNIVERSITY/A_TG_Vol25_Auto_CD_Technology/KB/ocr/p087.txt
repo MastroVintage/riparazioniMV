@@ -1,0 +1,76 @@
+The CLV servo is a rotation speed control servo for maintaining linear speed of the disk constant.
+The servo is divided into three parts, that is 11T servo, CLV servo, and traverse tracking servo. The
+traverse tracking servo and 11T servo are rough servos, and the CLV servo is a fine servo. The CLV
+control which is the primary part of the circuit in the LSI. The CLV servo circuits consists of micro-
+computers AN8371S and AN8281S.
+
+Figure 9-17 shows the CLV servo circuit.
+
+1) AN8281S circuit operation
+
+2)
+
+3)
+
+4)
+
+AN82815S is the spindle motor drive IC. The control voltage EC is applied from the CLV control
+circuit is applied to pin 8, and the reference voltage divided by R506 and R507 (DCR) is applied
+to pin 4.
+
+FG and rotating direction are detected by the Hall element, and the FG signal is fed back to the
+CLV control circuit from pin 13.
+
+The ON/OFF function of this IC (pin 15) controls start and stop of the motor.
+
+Fig. 4-18 shows EC signal versus the motor.
+
+*| Stop
+
+(Brake) STOP
+
+(Power save)
+
+Start (adding)
+
+Fig. 4-18 CLV Control Output
+
+11T servo
+
+The 11t servo changes the constant speed to constant linear speed.
+
+This requires some signal extracted from the disk, that is, SRF signal. (SRF signal is generated
+by data-slicing RF signal.)
+
+The 11T servo controls the SRF signals that the longest period of the signal will be equivalent 11
+times the period of the reference clock 1T (4.3 MHz).
+
+When the 11T servo operates, the spindle motor comes close to the control speed of the fine
+servo.
+
+CLV servo
+
+The CLV servo is started by the 11T servo when digital signals are ready for processing in the
+LSI.
+
+For digital signal processing, data is once written in an external RAM and read out again. A
+RAM address generator circuit is provided in the LSI for this purpose. Because a crystal clock
+is used for reading data and a clock synchronized with reproducing signals (corresponding to
+PCK) is used for writing data, the address locations fluctuates in RAM. The fine servo detects
+the address location signals and operates to keep the read/wirte pace constant.
+
+Traverse tracking servo
+
+The traverse tracking servo follows the pick-up and controls the tinear speed of the pick-up
+constant when the traverse mechanism at high speed,
+
+This servo operates in such a way that two continuous minimum periods of the SRF will be 6
+times the period of the reference clock 1T (4.3 MHz).
+
+TRON is used for switching the traverse tracking servo to the 11T servo or vice versa. That is,
+the traverse tracking servo is selected when TRON is high and the 11T servo is selected when
+TRON is low.
+
+is low.
+
+—~ 87 —

@@ -1,0 +1,27 @@
+UNLOADING W/O DUST COVER Active H
+
+Unloading Start Unloding Finish W/Disk W/ODisk
+
+Swi
+
+SWw2
+
+SW3
+
+SW4
+
+SOL
+
+MOTOR
+(CW)
+
+15ec i1.5eci200ms: 5Sec
+T | 16! 13 | T2
+
+D =15ms
+T3 =200ms
+T5=1Sec
+
+T6=1.5Sec
+
+— 18 —

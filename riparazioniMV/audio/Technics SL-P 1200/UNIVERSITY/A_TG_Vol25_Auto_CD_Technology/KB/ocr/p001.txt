@@ -1,0 +1,19 @@
+1. Traverse Mechanism And Optical Pick Up
+
+1-1. Traverse Mechanism
+
+The traverse mechanism (Fig. 1-1) drives the optical pickup base by the rack gear which is driven by the
+motor via the worm gear, gear A, and gear B. The gear A and gear B are double clutch gears.
+
+The inner REST switch is turned on by the optical pickup base when the optical nickup is driven inner-
+most position by the traverse mechanism.
+
+Optical Pickup Base
+
+Inner RESET Switch
+
+Traverse Motor
+
+Rack Gear GearB
+
+Fig. 1-1 Traverse Mechanism

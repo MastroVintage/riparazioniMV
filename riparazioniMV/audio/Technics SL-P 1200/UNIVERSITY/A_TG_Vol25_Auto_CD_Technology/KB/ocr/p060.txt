@@ -1,0 +1,30 @@
+C4-1-2 Laser APC Circuit Avto Leser prwer contro cutput.
+
+Fig. 4-3 shows the laser APC circuit.
+
+When a laser ON mode command (H, L, L, L) is received, pin 5 goes high to turn the laser on.
+
+A loop circuit is formed by Q and D (the laser paired with a PIN diode) and the APC in the IC, and laser
+beam intensity is detected by the PIN diode in APC operation.
+
+If laser beam intensity increases, the PIN diode’s photo-electric current increases so that the pin to voltage
+rises (Pin 12 voltage is the reference voltage) to decrease laser beam intensity.
+
+Optical servo (AN8370S)
+
+Fig. 4-3 Laser APC Circuit
+
+C4-1-3. RF Amplifier and Dropout Detector Circuits
+
+(1) RF amplifier circuit
+RF signal is the total sum of all the 6-segment photo-detector (A1 + A2 + A3 + A4 + B1 + B2) of
+the optical pickup. The resulting RF signal is applied to pin 33, via Q, (OQ is located in the optical
+pickup.) where it is amplified by an RF amplifier having gain of approx 34 dB.
+The output of the RF amplifier appears at pin 31, and couples to pin 15 of |1C AN8371S.
+
+(2) Dropout detector circuit
+The dropout detector detects signal dropouts in the RF signal, stabilizes the tracking servo against
+dropouts, and provides the defection signal to pin 32.
+The detection dropout process is shown in Fig. 6-5. The level goes high if a dropout is detected.
+
+— 60 —

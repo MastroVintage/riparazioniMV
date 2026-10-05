@@ -1,0 +1,44 @@
+3-4 Loading Operation
+
+Disc loading Lowering
+
+Sensor SW3 + SW1 OFF SW2 + SW OFF SW2 OFF > ON
+
+I
+!
+|
+|
+I
+I
+|
+I
+|
+I
+I
+|
+|
+|
+|
+|
+|
+|
+
+Output Solenoid ON Solenoid OF F Loading motor OFF
+
+Loading motor ON
+(CCW) Spindle motor ON
+
+|
+I
+t
+|
+The motor assembly and Disc moves inward. Disc is set on the turntable The loading is completed.
+the loading gears rotate. | and held by the magnet plate.
+Remarks I
+The deck is released and
+| supported by the suspension
+| system.
+|
+
+The rubber roller rotates.
+

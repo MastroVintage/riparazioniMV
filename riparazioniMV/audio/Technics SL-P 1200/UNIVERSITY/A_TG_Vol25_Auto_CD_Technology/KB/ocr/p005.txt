@@ -1,0 +1,110 @@
+2. SYSTEM BLOCK DIAGRAM
+2-1 SYSTEM BLOCK DIAGRAM (Type A)
+
+OUP ip
+
+To per
+[+s | | ——poros
+(e) PDB AN8373S
+Servo Amp
+
+Focus Driver
+Focus Coill
+
+FPO @3)
+
+VREF @))
+$DO @)
+
+Laser
+Diode
+
+1C503_ MN6623
+
+RFDET @)) Tracking Coill
+= SRDATA
+@) SRCK
+& @) LRCK
+a 5
+Traverse motor o ic
+Ps 5 Digital Filter
+A 6
+© IC2_ AN82908
+2
+a ° DA10/R/L 2)
+e $eP7 42090
+
+1c501
+MN6617
+Control Signal Prosser
+
+t+
+E
+
+IC602
+AN8377
+Traverse Driver
+
+Spindle Driver
+
+17)
+>
+a
+Oo
+@
+
+i
+<
+bE
+wn
+
+io)
+
+ive)
+EB
+22
+Go 0
+®@ ®
+
+Loading motor
+
+Analog SW
+1C201 YEAMM5201F
+
+R CH
+
+@ ®
+
+L CH
+
+@ ©
+
+1C301 YEAMM5201F
+Analog SW
+
+Spindle Motor
+
+5V 10V
+
+1C703
+
+IC701
+
+ACC
+6 a IC603 YEAM75112511 Q706
+System CPU
+BATT
+cw
+® 0707
+P| K2
+CLW@)
+IC702
+YEAMLB1640N
+Motor Driver
+<
+Ee
+Keybord PS LCD
+
+IC80l YEAMLC7582
+LCD Driver
+

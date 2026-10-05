@@ -1,0 +1,44 @@
+RF signal output
+
+fo tN)
+
+C125
+
+C124
+
+(A1 + A2+A3+A4+B1 + B2)
+
+RF
+amplifier
+
+Fret
+Fret
+
+Optical servo (AN8370S) 6197 sm 0106
+
+™ Fig. 4-4 RF Amplifier and Dropout Detection
+
+(3) Off track detector
+The off track detector detects the laser beam being off track.
+When the tracking servo is turned off, the beam crosses the tracks during Search, Skip, mode even
+track-jump due to condition of disc surface, etc. In this case, the relationship between RF signal and
+
+—_~ off track detection signal is as shown in Fig. 4-6.
+The off-track detector detects off-track using differents time constants condenser connected to pin
+
+29 (0.033 uf) and pin 30 (470 pf).
+This detection signal is used as a control signal in the |1C101 and also as SENSE signal for the micro-
+
+somputer.
+
+RF signal
+
+detection
+signal
+
+Dropout (BDo) Jf LiL Fig. 4-6 Off Track Detection
+detection signal
+
+Fig. 4-5 Dropout Detection
+
+—61—

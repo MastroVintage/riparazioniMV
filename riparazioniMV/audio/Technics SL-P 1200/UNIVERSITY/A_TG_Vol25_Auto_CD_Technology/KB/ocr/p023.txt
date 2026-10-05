@@ -1,0 +1,28 @@
+C3-2 LoadingOperation
+
+Remarks
+
+Door SW ON
+
+Solenoid ON
+
+Loading motor ON
+
+Door opens. Roller gate opens.
+Elevation gear begins to Roller turns.
+descend.
+
+SW3 ON
+
+Door SW OFF
+
+Solenoid OFF Loading motor OFF
+Spindle motor ON
+
+Magnet plate holds disk down. The loading is completed.
+Deck is released and
+
+supported by the suspen-
+
+sion system.
+

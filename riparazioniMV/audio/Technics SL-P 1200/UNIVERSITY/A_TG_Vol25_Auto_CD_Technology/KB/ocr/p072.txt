@@ -1,0 +1,31 @@
+C4-3 AN8371S CIRCUIT OPERATION
+
+AN8371S receives the RF signal from the optical servo IC (AN8370S), and generates the EFM signal and
+PCK signal for inputting to the digital signal processing LSI (MN6617).
+
+An internal block diagram is shown in Fig. 4-1. AN8371S consists of an AGC circuit, data slice circuit,
+PLL circuit, and dropout detector circuit.
+
+<SLC>
+
+< Do>
+
+tt) | Tsar < FPC>
+detector
+
+< SRF >
+
+<PCK >
+C411
+< RF signal >
+
+(+5V)
+
+Fig. 4-1 AN8371S Block Diagram
+
+C4-3-1 EFM Signal
+
+The RF signal is an analog continuous signal as shown in Fig. 4-2.
+
+Therefore, it cannot be processed as a digital signal unless it is shaped into a digital signal. This waveform
+shaping is performed by the data slice circuit, whose output signal is EFM signal.

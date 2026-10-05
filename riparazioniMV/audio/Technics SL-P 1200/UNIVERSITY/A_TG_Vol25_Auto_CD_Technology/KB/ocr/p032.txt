@@ -1,0 +1,41 @@
+IN SW
+
+SENS
+
+CNT1
+
+CNT4
+
+(2)
+
+Forcus Search Timing Chart
+
+Focus search starts.
+
+Focus search ends.
+
+LD ON(Ic601) | |
+
+(1c601)
+(Vo. “HO... “L")
+HEX Logic input Logic control signal output
+Mode r 7 Remarks
+No. CNT1 | CNT2 | CNT3 | CNT4||LD ON| AF ON|TR ON | HOLD | BR ON | KICK SENSE
+0 PLAY 0 0 0 ie) ON ON ON OFF OFF OFF | Off track | Play mode
+3 BRAKE 0 0 1 1 ON ON ON OFF ON OFF | Off track || Brake mode
+4 SHOss 0 1 ) 0 ON | ON | OFF | ON | OFF | OFF | CROSS. | Kick mode
+KICK ON Shaping
+5 REV 0 1 0 1 ON ON OFF ON OFF (REV) | CROSS
+KICK ON Shaping
+6 FWD 0 1 1 0 ON ON OFF ON OFF (FWD) | CROSS |
+Shaping
+7 ACCESS 0 1 1 1 ON ON OFF OFF OFF OFF Coarse feed
+CROSS |
+DISK Disk detection
+8 DETECT 1 0 0 0 ON ON OFF | OFF | OFF | OFF | S latch (Search Oscillation)
+F |STANDBY| 1 1 1 1 OFF | OFF | OFF | OFF | OFF | OFF | SPINS | Forced return
+—L +—
+
+Control Logic Table
+
+—32—

@@ -1,0 +1,50 @@
+1) Wiring of Servo Gain Adjuster
+
+Power Lowfregency Oscilloscope
+
+Supply Oscillator
+
+a
+Wavaes
+
+O00
+
+O O
+O O
+
+H1 CH
+
+C
+
+° —P ° 9° 3° i°)
+
++B GYip OSC/ yen sw
+— MONITOR1
+= MONITOR2 aa
+
+To ground of unit
+
+To output of J30 or R613
+To input of J30 or R613
+
+To oscilloscope, CH2 (1C601 - Pin 9)
+To oscilloscope, CH1 (IC601 - Pin 12)
+
+— 92 —
+
+® Solder 7 short leads to the Main PCB.
+
+Solder
+
+100m/m~ 120m/m
+Mair PCB
+
+To oscilloscope, CH2 (1C601 - Pin 5)
+
+To servo gain adjuster jig, IN (ICG01 - Pin 6)
+
+To servo gain adjuster jig IN (IC601 - Pin 9)
+
+To servo gain adjuster jig OUT (I1C1 - Pin 16)
+
+To servo gain adjuster jig, OUT (IC1 - Pin 17)

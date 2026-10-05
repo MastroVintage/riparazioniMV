@@ -1,0 +1,24 @@
+CONTENTS
+
+I. MECHANICAL ADJUSTMENTS
+
+(1) Turntable Height adjustment
+
+(2) Mechanical adjustment
+
+Hi. ELECTRICAL ADJUSTMENTS
+
+(1) Best eye (PD. balance) adjustment
+(2) Focus gain adjustment
+
+(3) Tracking gain adjustment
+
+(4) Focus offset adjustment
+
+(5) Tracking offset adjustment
+
+(6) Tracking offset balance adjustment
+(7) PLL adjustment
+
+III. VARIOUS DEFECTS OF DISC & RF WAVEFOR\M ..
+

@@ -1,0 +1,58 @@
+Relation with Servo IC and System CPU
+The figure 4-15 shows the interconnection diagram of servo 1C-101 (AN8370S) and system 1C10.
+There are for buses for carrying signals from the system IC to AN8370S and two buses for carrying
+signal from AN8370S to the system IC.
+
+Check of
+optical
+
+servo system
+status
+
+dees Wave-
+etector shaper
+
+Off track
+detector
+
+RF
+detector
+Autofocus
+S curve
+detector
+
+LD ON
+TR ON
+BR ON
+HOLD
+
+Selector
+
+control
+
+Mode setting
+of Optical
+servo system
+
+Control logic
+
+KICK
+
+Optical Servo System TIN TERA)
+
+P.49A Fig. 4-15 Connection Diagram of System CPU and Optical Servo System
+
+(a) Output signal from system: — Control logic signals (CNT 1 — CNT4)
+(b} Input signal from system: — RF signal (FLOCK)........ Active “L”
+
+Servo system status signal (SENSE) ...
+Type of SENSE signal:
+
+(1) Off-track signal
+
+(2) Tracking cross signal
+
+(3) Waveshaped tracking cross signal
+(4) Focus S-curve detection signal.
+
+— 69 —

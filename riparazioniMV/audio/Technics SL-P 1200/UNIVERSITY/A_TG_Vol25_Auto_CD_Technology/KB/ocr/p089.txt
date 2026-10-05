@@ -1,0 +1,65 @@
+C4-5-1 D—A Converter
+
+1C503, is a D—A converter, which converts
+digital signals to analog signals. Digital signals
+are input to pins 1 to 16 of IC503, 16 bits
+parallel. Pin 1 (B1) is MSB, and pin 16 (B16)
+is LSB. PAM signal is output from pin 17
+(OUT).
+
+(Lch = 1 kHz, Rch = 0)
+Fig. 4-2. PAM Signal
+
+C4-5-2 Deglitch Circuit
+
+The deglitch circuit consists of 1C253 (analog switch), |C252 (operational amplifier), C255 and C355 (for
+hold).
+
+Pin 19 (L DG) of I1C601 (LSI) is the deglitch signal output for the left channel, and pin 20 (R DG) of
+!C601 is the deglitch signal output for the right channel.
+
+Fig. 4-3 shows a demodulation timing chart of the deglitch circuit.
+
+When L DG signal is low, the left channel circuit takes signal in, while the right channel circuit outputs
+the signal that have been taken in and held by C225.
+
+R L R L
+
+ae : of | | | I |
+
+__L/R data | | | | |
+changeover i |
+timing l | | | |
+|
+
+! |
+|
+LDGLT
+It ; | ; | | |
+Deglitch i | | | |
+|
+RDGLT
+| | 1 4
+| | |
+
+Lch output
+Output {
+
+Rech output
+
+|
+! |
+| bol y
+! i
+
+| | |
+| oRch |. Reh holds ch |. Reh holds | |
+| takes inl | | l takes in T | | |
+
+!
+Ren 1 Rehholds 1. | Rich holds | } |
+takes in takes in | '
+
+Fig. 4-3 Delitch Timing
+
+— 89 —

@@ -1,0 +1,51 @@
+C5-1-4 CD Adjustment Jig
+
+Green
+Yellow TEST
+Orange SS —
+—— JSW OUT
+-—— F
+——— ty o*
+Brown TP5 ON
+Clip
+
+MONITA1
+© © © © © Oosc
+
+Clip TBAL GND GND MONITA2
+
+CD Adjustment Jig
+
+2P Connector
+
+C5-1-5 Alignment Points
+
+FOCUS OFFSET
+
+5) FUCUS GAIN
+VR104
+TRACKING BALANCE
+VR107
+
+4)
+
+3) FOCUS BALANCE
+VR103
+
+16)
+
+-— CN4
+
+RF Out of IC101
+PLL Input
+TRACKING GAIN © TP3
+VR102
+
+(3 8) TRACKING OFFSET
+VR106
+
+Parts Side
+
+Parts Side
+
+—111-

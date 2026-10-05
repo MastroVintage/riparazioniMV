@@ -1,0 +1,63 @@
+6. TROUBLESHOOTING
+A6 TROUBLESHOOTING (TYPE A)
+A6-1 SYMPTOM CHECK
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+When traverse motor malfunctions. Check IN SW (H).
+
+Also, when the IN SW is not in changing stage, check the system CPU Pins 18 and 19 (TRV R, TRV
+F), and Pins 14-17 (CNT1, 2, 3, 4, all H) outputs to 1C601, then from 1C601 (TRV F/R) to IC602,
+from |C602 to the traverse motor.
+
+When the focus lens moves up and down repeatedly, check if the disk is properly set. If the LD ON
+terminal of Pin 28 IC601 is (H), check the LD terminal of Pin 7 IC1. To see if APC circuit is turned
+on to intensify the laser.
+
+Check connections between the photo-detector and IC1, check if there is a pulse at the FE terminal
+of Pin 15 1C1, and a pulse at SENSE terminal of Pin 24 1C601.
+
+If the disk ejects, when CNT1 is (H), CNT2, 3, and 4 are (L). Check to see if the CLW terminal of Pin
+10 1C601, the FPO terminal of Pin 24 1C1, and FD terminal of Pin 10 1C602 generate the triangular
+wave respectively.
+
+If the disk ejects at the time when the disk detection ended (CNT1, 2, 3, and 4 (H)), check connec-
+tion between IC2 and spindle motor, |C2 and 1C501 Pin 32 L/R (Clock pulse), Pin 65 EC (Start-up
+control pulse) and Pin 64 PC (L)).
+
+Also trace and check Pin 23 MLD, Pin 24 MCLK and Pin 25 MDATA (data pulse) of the micro-
+computer.
+
+If the disk ejects at the time when CNT1 is (L), CNT2, 3, and 4 are (H), check to see if 1C601 Pin 26
+FLOCK IS (H > L). Check connection between IC601 and IC1 Pin 32 RFDET (L), Pin 31 BDD and
+between IC1 Pin 1 AMP1 and optical pickup.
+
+If the disk ejects when CNT1, 2 are (L), CNT3, and 4 are (H)},
+
+1) check the tracking servo circuit, and check connection between tracking coil and Pin 41 IC601,
+and Pin 27 VREF (2.5V) of 1C601, connection between IC1 and 1C601 [IVA (Pin 13) > LSA
+(Pin 1)] [IVB (14) > LSB (2)] [TPI (17) — TEO (6)] [TGC (25) (OV) « VDET (23)] [TPO
+(22) > BRIN (42)].
+
+2) check the operation from the RF output to the CLV Control.
+Also check if there is RF signal at AFR of Pin 35 IC1, at SRF of Pin 19 1C601 and also check
+TRON (L) Pin 10, STAT (L) Pin 11 and CLVS Pin 77 (L > H) of IC501.
+
+After CNT1, 2, 3, and 4 became (L), it will not read TOC and the disk ejects, eheck if there is SUBO
+pulse output from Pin 3 1C501, EFM pulse from Pin 21 1C601. Check KICK at Pin 27 1C601 and
+TVPO output at Pin 39 IC601. If SUBQ is output the AMS (auto-music scan) is operated by the
+Kick Pulses then read TOC in the micro-computer.
+
+* Is the disk OK? Is the lens dirty?
+
+—114-

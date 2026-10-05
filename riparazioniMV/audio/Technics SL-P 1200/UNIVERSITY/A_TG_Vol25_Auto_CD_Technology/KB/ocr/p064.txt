@@ -1,0 +1,40 @@
+C4-1-5 Tracking Error Circuit and KICK, HOLD Circuits
+
+Optical servo (AN8370S)
+
+Off track
+detector Direction
++ |discrimi- Brake
+; TE cross nator °
+Dropout detector BR ON
+
+RF detector
+KICK
+; Control logic P (20)
+
+T.P16
+
+Kick
+output
+
+c119
+LSA Compa- TRON
+| 4 o TE
+a Phase L.P.F. amplifier TE SW
+7 C117 comparator Hold SW
+" Compa-
+©) TPs (6) © (6)
+O
+JSW1
+
+he 4 TE hold
+R117 TE output
+amplifier
+(-5v) AWW (45)
+
+VR106
+(TR. OFFSET)
+
+(+5V)
+
+Fig. 4-9 Tracking Error Circuit and Kick, Hold Circuits

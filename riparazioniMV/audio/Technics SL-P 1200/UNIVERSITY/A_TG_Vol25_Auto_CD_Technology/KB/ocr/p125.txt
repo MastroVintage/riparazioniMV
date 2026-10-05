@@ -1,0 +1,79 @@
+C6 TROUBLESHOOTING (TYPE C)
+
+If trouble has occurred, check the symptoms according to the flowchart shown in Section C6-1.
+
+Note: Do not-skip steps in the symptom check,
+Keep power on and, if the set is disassembled for troubleshooting, make sure that the symp-
+toms are the same as before diassembling the set.
+Note: When checking the set with the top cover open, cover the top of the deck to prevent the
+photo-sensors from wrong operation.
+C6-1 SYMPTOM CHECK
+
+(Insert a disk.)
+
+Is the disk loaded?
+(Disk is drawn in.)
+
+[ox
+
+Is the disk set on the turntable?
+(Disk falls on the turntable and
+is held by the magnet.)
+
+L
+
+—____________,
+
+Check the loading
+(Power unit and microcomputer)
+
+Check the disk sensor
+(Sensor switch)
+
+Jor
+
+No automatic eject. (Disk is
+ejected if TOC is not read.)
+
+Check RF signal, etc.
+(RF signal, tracking servo, LS1)
+
+__|
+OK
+] —-
+
+Focus search? NG Check the focus search
+(Lens moves up and down.) (Traverse servo, focus servo)
+
+JoK
+
+NG Check the spindle motor circuit
+Does the turntable turn? ——e
+(Laser ON, spindle motor control)
+__} Lt
+
+ee ee Ds ee ns |
+
+ox
+
+Sound skip or noise?
+(Check with test disk.
+
+Readjust
+
+_| L
+[ox
+— —
+. NG Check the LCD and LED
++--+»
+Do LCD and LED light? (LCD driver, LED driver)
+L
+JoK
+Is sound reproduced? NG [ Check the audio circuit
+(Track and time are displayed.) (DAC, LPF, Mute)
+_ L
+ox
+NG Check the various operations |
+i; Can the keys be operated? (Key decoder circuit)
+
+— 125 —

@@ -1,0 +1,26 @@
+6. Tracking offset balance adjustment
+A. Purpose
+During playback operation, the laser beam must follow the track exactly at its center.
+
+If it is not, proper tracking can not be accomplished, and skipping may occur during playback of the
+disc which has manufacturing imperfections and dust or any other contaminants on the signal side.
+
+B. Basic principle of adjustment
+
+A 1 KHz signal is applied to the tracking servo circuit to intentionally cause the beam to oscillate from
+side to side of the track being traced (see fig. 2-6-1). This is done to simulate an error signal so that the
+tracking servo can be adjusted for minimum gain (minimum swing) at 1 KHz.
+
+RF Waveform
+
+(b) N.G.
+
+Signal swing is at minimum and the track’s center Signal swing is large and off center from the track
+
+RF Waveform
+
+(c) N.G.
+
+Signal swing is large and off center from the track
+
+Fig. 2-6-1 Beam movement with error signal

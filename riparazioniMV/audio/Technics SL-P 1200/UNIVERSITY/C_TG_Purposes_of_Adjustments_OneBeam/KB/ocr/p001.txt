@@ -1,0 +1,43 @@
+I. MECHANICAL ADJUSTMENTS
+
+™ When the optical pick-up and peripheral mechanism parts incorporated in the traverse deck are replaced
+or removed, such as the spindle motor, it is necessary to confirm the adjustment related to the optical
+pick-up and then readjust as required.
+
+1. Turntable Height Adjustment
+A. Purpose
+
+The outjut from the laser diode is focused on the signal side of the disc, via the focus lens. Focussing is
+accomplished by moving the focus lens vertically. The focus servo is used to control such vertical movement.
+Since the focus servo is designed to operate within a limited range, it is necessary to adjust the lens at the
+mechanical midpoint position of the servo’s respective operating range. If this adjustment should be
+deviated, skipping may occur during play or in an extreme case, no turntable rotation.
+
+B. Positional relation between optical pick-up and disc
+
+Disc
+
+es ee | Adjust this distance
+
+Half mirror
+
+Focus servo
+
+Semitranslucent lens ——jm
+
+, /
+Raising sensitivity A
+
+\
+
+Photo detector ts
+
+Laser diode
+
+Disc
+
+Focus Lens
+
+Lens Operating Range
+
+Fig. 1-1-1 1-Beam method

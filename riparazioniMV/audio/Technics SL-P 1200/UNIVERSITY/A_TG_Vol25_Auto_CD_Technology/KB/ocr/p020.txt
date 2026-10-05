@@ -1,0 +1,34 @@
+CD CHANGER LOADING MECHANISM (TYPE B)
+
+B3-2 Operation of Loading Motor and Solenoid
+
+(1) Disk loading/unloading
+Disk loading to and unloading from the optical pick deck can be done by the loading motor (M2)
+and roller assembly.
+
+Roller gear (B) assy Roller gear 1 assy Passage of the disk
+
+Loading motor (M2)
+
+Rotation of loading roller
+Fig. Right Side View of the Deck
+(2) Unloading the disk from the magazine
+When the loading motor rotates to the loading direction, the solenoid turns on, the gear lock lever
+
+goes down and engages with the cam gear. Then the cam gear pushes the disk ejecting lever once. As
+a result, the magazine lever is pushed, and kicks the disk out to the loading mechanism.
+
+Disk ejecting lever
+
+Cam gear Gear lock lever
+
+Magazine lever
+
+Magazine Solenoid
+Loading motor (M2)
+
+Fig. Right Side View of the Deck
+
+After this, the loading operation is the same as Type A.
+
+— 20 —

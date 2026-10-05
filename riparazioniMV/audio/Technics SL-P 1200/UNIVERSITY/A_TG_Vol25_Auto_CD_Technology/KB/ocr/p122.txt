@@ -1,0 +1,80 @@
+SYMPTOM
+
+Disc won't load to deck.
+
+Rollers defective.
+
+REMEDY
+
+Replace roller assembly
+YESFX003009.
+
+Motor (M2) defective.
+
+Sound skips due to vibration.
+
+—
+
+[An ti-shock system inoperative.
+
+Check and/or replace motor (M2)
+and IC502.
+
+Replace rubber insulators and
+
+rubber dampers.
+
+©-—8
+
+© ©
+
+©
+YEFS04373A
+
+L-@© YEFS04411
+(gray)
+YEFS04412
+(milky white)
+
+4 Pcs.
+
+2 Pes.
+
+®
+
+No read TOC.
+
+No playback.
+
+Sound skips in normal play
+condition.
+
+One channel out.
+
+Servo control loops inoperative.
+
+=
+
+Check CD operation flow chart.
+Perform optical pickup mechanical
+alignment perform servo control
+Perform servo control electrical
+alignment.
+
+Soiling of the focus lens surfaces
+with dirt, dust and others.
+
+Clean focus lens surfaces with
+lens cleaning kit SZZP1938C.
+
+Solder joints of pins CN801,
+CN802 on PCB (E-1948) were
+cracked due to vibration during
+installation.
+
+Soldered part
+
+— 122 —
+
+Resolder the cracked joints.
+

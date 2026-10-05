@@ -1,0 +1,34 @@
+C3-3 Eject Operation
+
+| | |
+| \ |
+| 1 1
+| | |
+
+Sensor
+
+Output
+
+Remarks
+
+Eject Key
+
+Spindle motor OFF
+
+Solenoid ON
+Loading motor ON
+(Reverse)
+
+Door opens. Magnet plate releases.
+Elevation gear begins to Deck is locked.
+
+rise.
+
+SW3 OFF
+| SW2 OFF Door SW OFF
+
+Solenoid OFF
+Loading motor OFF
+
+Disc moves outward. The unloading is completed.
+

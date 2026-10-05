@@ -1,0 +1,76 @@
+(1)
+
+(2)
+
+Auto focus circuit
+The auto focus is operated by the AF ON (auto focus command) signal output from the control logic
+circuit. It has two inputs, RF detection and S-curve detection, and regulates search SW and FE SW.
+
+FE = Focus Siewar EaRoR
+
+Focus 1) Disk detection
+1 range | AF ON turns search SW on and FE
+oe SW off.
+Search In this state, the search signal (tri-
+(Triangular | angular wave) drives the focus coil
+wave)
+
+(raising or lowering the lens).
+
+When the distance between the disk
+and the lens nears the focus length
+by focus search, the FE signal de-
+
+eel velops an S-curve, which is detected
+I 1 t
+
+S detecti IN a to turn search SW off and FE SW on
+tection to close the focus servo loop as
+
+I
+shown in Fig. 4-8.
+
+FE
+
+a) —
+|
+|
+I
+
+Search ON OFF
+SW H
+'
+FE SW OFF ON aan = Swircwy
+
+ident ica lo fun WONE
+
+lo “Seayeh Ew? = Ricevce
+Fig. 4-8 Fo ON Timing di “Seevch $
+
+- “y
+bocun ON € da beep
+
+FE SW (foce? Faron )
+
+ConteeL
+
+2) Re-focusing
+The auto focus circuit checks the servo status by RF detection when the focus servo loop is clos-
+ed. When RF detection is no longer possible due to defocusing, search SW is turned ON to start
+the focus search. The search signal is input to the microcomputer.
+Whether the auto focus is working can be checked the voltage at pin 26 (F LOCK). (Low when
+the focus is correct.) FIG, bt
+
+Focus error circuit
+
+The diagonal sums (A1 + A2) and (A3 + A4) of the 4-segment photo-detector are input to pins 39
+and 42 of 1C101. The I/V convertor converts the photo-detector output currents to voltages. An ex-
+ternal resistor is used for gain setting. VR101 is a photo-detector balance (best eye) adjuster, for
+setting off the sensitivity difference of the photo-detector.
+
+The difference between the two converted signals (A1 + A2) — (A3 + A4) is a focus error signal (FE).
+The FE signal applied to pin 36 (FE out) of 1C101 via the FE amplifier and FE SW.
+
+VR104 is the focus gain (FO GAIN) control, and VR105 the focus offset (FO OFFSET) control.
+
+— 63 —

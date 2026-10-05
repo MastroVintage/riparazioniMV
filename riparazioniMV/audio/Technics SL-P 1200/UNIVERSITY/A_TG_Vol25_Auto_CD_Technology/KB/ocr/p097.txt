@@ -1,0 +1,34 @@
+A5-2-6 How to Use the Extension Cord
+
+1. Part Kit Name
+—_ YESFZ5020
+
+2. Contents
+CONNECTOR-1 (14Pin, 2 pes.) CONNECTOR:3 (8Pin)
+
+CONNECTOR-4 (8Pin)
+
+CONNECTOR-5 (2Pin)
+
+EI
+
+|
+
+CONNECTOR.-2 (9Pin)
+
+3. Connections
+
+|
+
+1) In the case of checking CD deck block. 2) In the case of checking control PCB.
+
+Deck Ass’y
+
+CONTROL PCB
+(E-6232Ab)
+
+CONNECTOR-3
+
+CONNECTOR-1
+
+—~97 —

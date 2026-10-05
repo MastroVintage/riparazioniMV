@@ -1,0 +1,7 @@
+section	title	pages
+Intro	Introduction, models (all CD players 1986-1990), possible symptoms (skipping, TOC read but no play, no TOC, poor playability)	1
+Step1-2	Clean lens & guide rails (kit SZZP1038C, traverse oil); observe RF waveform with test disc CDT-016 SZZP1054C track 8, compare with min RF (p.8)	2
+Step3	Improve RF level: best eye adjustment, turntable height (focus offset TP ~0V, feeler gauge), mechanical adjustment pickup with uneven disc CDT-018 SZZP1056C, re-adjust best eye	3-4
+Step4	Improve playability: 0.9mm wedge track 8, PLL adjustment (0.8mm wedge, set-point in middle)	5
+Step5	Electrical: focus gain (servo gain adjuster SZZP1017 or SZZP1094C, TP1=TP2, track 1), tracking gain (mode 2), focus offset (black band disc SZZP1057C, RF dip / FE A=B), tracking offset (TE A=B)	5-7
+Table	Model / pickup / min RF / lubricant / turntable height chart	8

@@ -1,0 +1,22 @@
+When the optical pickup starting position is set, this circuit makes focus search and detects the disk.
+The function is finished by the SENSE pulse (a disk exists) from 1C601 pin 24.
+
+By the riser edge from (L) to (H) of IN SW, disk detecting instruction (CNT 1 (H)}, 2, 3 and 4 (L)) is
+output from the micro-computer. Following this instruction |C601 instructs search oscillation and laser
+emission.
+
+The search oscillation (triangular wave) appears at pin 10, along with FE out at pin 9, feed to IC1 pin 16.
+The output at pin 23, from the FPO terminal passes through the filter of 1C1, drives the focus coil in
+IC602. As a result, the optical pickup moves up and down.
+
+Meantime, the laser emission instruction LD ON at pin 28 of 1C601 joins the LD APC circuit at pin 31 of
+1C1 LD ON. The laser power supplies at pin 7 of |C1, the laser emits.
+
+The focus control circuit detects this state with the photo-detector and joins the FE signal at pin 15 of
+iC1 into 1C601. And it detects the “S-curve” when the proper disk exists, and search oscillation as well as
+
+laser emission are normal. The detecting operation ends when (L) > (H) pulse from the SENSE applied
+to the micro-computer.
+
+— 30 —
+

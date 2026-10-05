@@ -1,0 +1,55 @@
+a
+
+SENSE
+
+FLOCK
+
+STAT
+
+CLVS
+
+CONT 1
+
+CONT 2
+
+CONT 3
+
+CONT 4
+
+| |
+| |
+Focus servo ;
+| Motor starts. | starts. Rough servo | Refined servo
+| |
+| |
+
+777
+
+|
+—~-tL_
+ae | |
+| | |
+| | | | |
+| |
+| | | |
+| | | |
+| | | Refined servo starts.
+|
+F —_ — —
+
+1
+|
+|
+| |
+| | .
+| l TOC reading starts.
+| |
+|
+
+| Spindle motor starts. |
+
+| |
+
+Fig. 4-5 Spindle Motor Timing Chart from Starting to FOC Read-in
+
+—35-

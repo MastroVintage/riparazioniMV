@@ -1,0 +1,58 @@
+EFM > Data bits (1 symbol = 8 bits) => Channel bits (14 bits) (ROM table processing)
+
+modulation
+
+L1 L2 L3 44.1 kHz
+Rif w2] R2| wa] ral we |
+wi] w2] w3 | wa | ws | we w7 | wa | wo | wi0 | wit] wi2
+16] 16| 16| 16| 16| 16 16] 16] 16] 16| 16] 16} bits
+
+1 !
+Sample = 16 bits/word ra) P
+!
+Simbol = 8 bits parity parity
+
+12 samples
+4 partiies) 16 data
+bits 16x16 = 256 bits
+
+E a
+\_FEPEEEECEEEREE ETT
+
+a
+
+—_—
+
+VATE EEE PTE EEE] IIT |
+* The 3 bits out of 14 bits are called extra
+
+Halls 5 5 Falah alt alhaltslieltiaialtiollzoll aa [al lzal foal [asl oat fo Rollsalisal] symbol bits which serve as a liaison to maintain
+the EFM level even through the data.
+2
+3.3 3
+
+4 41144114114)
+3hk3b3 3
+ny, nee 4
+Data Error Data Error
+a . ti
+Data (14 channel bits = 1 symbol) correction corneenion Coupled bits
+
+|control signal (low range suppression)
+
+\
+
+1 frame = 12 samples + 4 parities
+
+Sync signal e ;
++ control signal + Sync signal
+
+544 bits 17x32 = 544 bits
+
+588 bits
+
+588 channel bits = 1 frame
+
+4.3218 MH2/588 = 7350 Hz = 136 x 10~° sec
+
+Fig. 4-5 CD Signal Format

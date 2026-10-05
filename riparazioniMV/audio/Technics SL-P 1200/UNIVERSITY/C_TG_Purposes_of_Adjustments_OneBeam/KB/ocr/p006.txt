@@ -1,0 +1,52 @@
+C. Basic principle of adjustment
+
+Due to distance variations between the disc surface and the lens caused by uneven discs, the laser beam
+covering a given pit varies in diameter. When the lens is close to the Disc the diameter is large and covers
+adjacent pits. The signal from adjacent pits causes interference and the RF becomes distorted.
+
+Pit: 3T=0.9 RFE Waveform
+4T=1.2um
+5T=1.5um
+
+SANTI
+N aie NN Output small less than
+
+= aan a on < 0.8V P—P
+= aes
+
+Rising is bad, and the
+waveform is small
+
+(ANN
+RK
+
+Eye pattern is not clear.
+\\ 4, Beam diameter
+
+0 |
+
+Focus becomes blurred, picking up adjacent track signals.
+
+0.9y1m (3T)
+
+At best focus
+
+Fig. 2-1-4
+
+D. Adjustment method
+
+It is required to adjust so that the RF output is maximum and the eye pattern appears clearly.
+
+RF aan
+
+<0 san X ea of
+sq RN Ay a
+
+NO AN ANY MA
+RES
+
+my
+eres
+| |_|
+
+Fig. 2-1-5

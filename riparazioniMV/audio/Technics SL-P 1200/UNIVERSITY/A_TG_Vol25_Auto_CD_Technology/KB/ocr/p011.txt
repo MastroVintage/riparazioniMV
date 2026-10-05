@@ -1,0 +1,33 @@
+Clamp Arm Ass'y
+
+Lift Lever
+
+Lock Lever (RA) Ass’y Clamp Arm Ass'y
+
+Lock Lever (LA) Ass’y
+Suspension chassis
+
+Lock Lever (RB) Ass’y
+
+K
+‘G
+EDN
+SY, <4
+D ve
+6 Rubber Damber
+
+Suspension Spring
+
+Lock Lever (RA) Ass’y
+
+11 When the feeder arm assembly lowers, the lock lever (RA) assembly slides forward.
+
+12 The lift lever rotates clockwise and lowers the clamp arm assembly.
+The disc is secured in the position for playback by the force of the magnet.
+
+13. When the lock lever (RA) assembly slides forward, the lock lever (RB) assembly and the lock
+lever (LA) assembly also slide, and the secured suspension chassis are released.
+
+14 The suspension chassis is then supported by the suspension springs and rubber dampers.
+
+—11—-—

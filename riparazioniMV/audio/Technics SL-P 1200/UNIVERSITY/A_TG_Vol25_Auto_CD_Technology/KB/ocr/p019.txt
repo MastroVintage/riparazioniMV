@@ -1,0 +1,18 @@
+CD CHANGER LOADING MECHANISM (TYPE B)
+
+B3-1 Elevator Motor and Disk Loading Positioning
+
+When the magazine placed on the elevator base with cover closed, the elevator motor (M1) runs, and the
+elevator base moves downward until it hits SW2 and stop.
+The elevating process is disk positioning.
+
+1 The stop position at the SW2 is the initial position of Disc Loading.
+2 For moving the magazine to the correct loading position, it is detected by the pulse of 70 interval.
+
+Elevator screw
+
+Elevator motor (M1)
+
+6 Fig. Elevator Mechanism
+
+—19—

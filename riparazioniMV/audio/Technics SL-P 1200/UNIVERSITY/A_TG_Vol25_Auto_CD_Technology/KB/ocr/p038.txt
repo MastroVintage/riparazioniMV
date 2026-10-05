@@ -1,0 +1,70 @@
+A4-4 Description of New Servo Circuit
+(MN8373S and MN8374S)
+
+1. General
+
+The servo circuit in CQ-E850, CQ-DP25/26
+has been entirely
+
+changed with new IC's for
+performance improvement and
+compactness.
+
+2. Circuit Configuration
+
+The servo circuit used in the
+conventional FF-1 CD players comprised a
+servo IC (AN8370S) and discrete circuit.
+In contrast, the modified servo circuit
+consists of three IC chips with on
+discrete circuit.
+
+(1). IC-1 (servo amplifier)
+=Processes analog servo signals.
+(2). IC-601 (servo controller)
+=Processes digital servo signals.
+(3). IC-602 (servo driver)
+=Drives the focus, tracking, and
+traverse coils.
+The block diagram of IC-1 (AN8373S) and
+
+IC-601 (AN8374S) are shows figure 4-9.
+
+3. Departures from the Conventional Servo
+Circuit and some Cautions
+
+While the new servo circuit replaces
+discrete components integrated circuits,
+the basic circuit configurations and
+operations are almost identical to those
+of the conventional servo circuit, with
+the exception of the following details:
+
+(1).
+
+— 38 —
+
+PLL adjustment eliminated
+
+=Servo signals are automatically
+pulled into the PLL lock range by
+using the CLK (88.2KHz) signal.
+
+. 2.5V reference for tracking error
+
+and focus error signals
+
+=Because the new circuit operates on
+a signal +5V supply, the reference
+voltage for the error signals has
+
+been changed to 2.5V as_ shows
+figure 4-7,
+NOTE
+
+The 2.5V reference is also used for
+turntable height adjustment.
+
+Figure 4-7
+
+Focus and Tracking Error Signal

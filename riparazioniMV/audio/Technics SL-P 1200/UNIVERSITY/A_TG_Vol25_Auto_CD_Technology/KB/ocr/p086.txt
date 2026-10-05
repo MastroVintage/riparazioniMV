@@ -1,0 +1,78 @@
+{3} CLY servo
+
+PLL (AN8371S)
+
+Data slice
+
+Dropout
+detector
+
+Power cut
+
+0
+
+:
+
+(on
+O
+
+Spindle
+motor
+
+g Drive
+
+circuit
+
+& Drive ao
+circuit
+
+O
+§
+
+LSI(MN6617)
+
+ae
+2253
+|
+|
+ee————_ | >
+(66)—(65)
+
+Microcomputer (IMNIBEACQAE)
+
+CLV mode Optical servo
+setting control
+
+P73
+O) OO)
+
+(CNT.2)
+()-—@) (9)
+
+CLV
+confir-
+mation
+
+0< ec
+
+amplifier C) element +
+
+Direction
+discrimi-
+
+g nator
+<
+Oo
+oO
+S
+= .
+oO Control (s) Filter R507
+voltage
+«) Reference voltage
+R506
+
+Spindle control (AN8281S)
+
+Fig. 4-17 CLV Servo Circuit
+
+— 86 —

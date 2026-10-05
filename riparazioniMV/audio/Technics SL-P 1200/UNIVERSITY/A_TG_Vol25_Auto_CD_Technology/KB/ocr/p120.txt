@@ -1,0 +1,113 @@
+B6-2 TROUBLESHOOTING
+
+SYMPTOM
+
+DISPLAY
+
+CAUSE
+
+REMEDY
+
+—_|—
+
+Disk magazine won’t load.
+
+1. ACC power source is cut
+off.
+
+2. Back-up power source is
+cut off.
+
+3. 8P Din cord of main
+body is not properly
+
+Check fuse.
+Check fuse.
+
+Check connection.
+
+2 connected.
+3
+© | System inoperative E3 Reset power source.
+§ 1. Cut ACC power source.
+=) 2. Cut back-up power source.
+3 (Pull out fuse for back-
+8 up power source.)
+XY 3. After 10 seconds later,
+Pat reconnect power
+sources for ACC
+and back-up
+4. Turn SYSTEM ON With thin metal
+and push eject plates unlock
+button. the claws on both
+sides and pull out.
+_
+Selected disk cannot play. E1 Disk is dirty or loaded Clean disk.
+(Disk is ejected.) upside down. Check loaded disk.
+E2 Disk is scarred Replace the disk with a proper one.
+Some special disk cannot | (Example)| Disk has burr around its File out the burr of the 7th disk.
+play. 6-01 outer circumference and (Refer to Item 3 of Caution.)
++ which burr prevents
+8—01 | smooth playing.
+> |
+= Disk’s pit height is lower. Compare and check with other disks.
+i]
+= f—
+5 Selected disk cannot play Disk’s positioning is not Please have the service shop check and adjust
+© | sometimes. line-up properly. the height of the changer. |
+Disks No.1 to No.4 (Example)| Disk detecting sensor is Close the cover of the changer and then
+cannot play. 12—01 | exposed to direct sun-light. operate.
+1 Check if the cover of (Refer to Item 4 of Caution.)
+5-01 main body is left open.
+L
+
+Play by remote control
+won't function.
+
+Bad batteries in the
+remote control.
+
+Replace With new batteries.
+
+used up.
+=
+No sound only on CD Improper connection of 1. Between changer main body and
+play. RCA junction cord cord. controller
+
+2. Between controller and amplifier
+
+Noise when Disc is
+changing
+
+—
+
+1. Change of electric
+potential ground.
+
+2. Noise is picked up
+by the cord.
+
+1. Change or add ground points of the set
+on the amplifier side.
+2. Change cords or cords locations.
+
+_
+
+Skipping is very frequent.
+
+Loose fitting of the changer
+main body
+
+Retighten bracket for fitting and screws
+and nuts.
+
+Optical lens is dirty.
+
+Have the service shop clean lens.
+
+Disk itself is dirty or
+scarred.
+
+Ciean disks.
+
+— 120 -

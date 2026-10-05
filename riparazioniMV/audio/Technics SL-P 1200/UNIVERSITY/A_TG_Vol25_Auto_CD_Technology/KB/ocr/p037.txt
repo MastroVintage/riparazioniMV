@@ -1,0 +1,51 @@
+—
+
+(4) Timing Chart
+
++(MSB) 8 bits (LSB)
+No. Remarks
+A4 A3 A2 Al D4 D3 D2 D1
+0 0
+1 1 (STOP)
+(with FG) (TT ON) 0 1
+G@) 0 0 0 1 (ACC) CLV mode
+1 0
+0 0 (BRAKE)
+(without FG) | (TT OFF) - 1 1
+(PLAY)
+. 1 1
+(2) fe) fe) 1 () — — (ATT~12dB) | (MUTE ON) Interpolation circuit
+fe) re)
+(ATT OFF) |({MUTE OFF)
+0 re)
+(CRC)
+1 0 |
+GB) 0 1 1 1 — — (CLVOK) Status output switching
+1 1
+i (TT STOP)
+
+Contents of M. DATA
+
+MSB LSB
+
+moata—__®_A4_ X_AS_X_A2 YX ATX D4 X38 K_02 XD
+
+Micro-computer
+
+MLD a
+
+Transferring M. DATA (Micro-computer > LSI)
+
+Playing
+Stopping
+
+—- |—
+
+Start-up (Acceleration)
+
+LSI 65 Pin
+EC
+
+CLV Control Output of EC Terminal
+
+—37-—

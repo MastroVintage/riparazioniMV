@@ -1,0 +1,17 @@
+4. CIRCUIT OPERATIONS (TYPE A)
+4-1 Traverse Control Circuit (Fig. 4-1)
+
+To the optical pickup at the starting position, RF must be present to operate the traverse motor. The IN
+SW changes (H) > (L) > (H) by the movement of optical pickup block.
+
+When SW4 becomes (L), and IN SW is (H). TRV R (L) and TRV F (H) are output from 1C601, the
+traverse motor drives the optical pick from outside to inside.
+
+When IN SW turns (L), TRV R turns (H) and TRV F turns (L), and the optical pick moves from inside to
+outside. When IN SW is (H) again, the optical pick up is at the starting position, the traverse motor has
+ended the starting position setting operation, i.e. both TRV R and TRV F have become (L).
+
+During the setting operation CNT 1, 2, 3, and 4 are all at (H); but just as soon as completion of the opera-
+tion, CNT 1 remains at (H), while CNT 2, 3, and 4 change to (L).
+
+—_27—

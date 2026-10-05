@@ -1,0 +1,102 @@
+C5-2-4 Mechanical Adjustment
+1. Solder a lead wire to Pin 4 of CN4 (Yellow) of the
+
+P.C.B.
+2. Connect CH1 of the oscilloscope to the lead wire (+)
+and Ground (-).
+
+Oscilloscope setting: VOLT . 200 mV
+SWEEP..... 0.5 usec.
+INPUT ..... AC
+
+3. Place the uneven test disc and turn on the power
+
+switch of the player.
+
+4. Monitoring the RF signal on the oscilloscope, adjust
+the two adjusting screws alternately so that the vertical
+fluctuation of RF signal is minimized and the eye
+pattern most open.
+
+. Turn off the power switch of the player.
+
+6. After the adjustment, apply screw
+
+(RZZOLO1) to the two adjusting screws.
+
+ol
+
+lock paint
+
+Cautions for assembly
+
+The assembly work can be done by reversing the disassembly
+
+procedure. Keep the following points in mind.
+
+1. Be sure to insert the guide shaft in the direction of the
+arrow.
+If it is inserted in the wrong direction, the interval plate
+spring may be damaged.
+
+Optical pickup
+
+2. Make sure that the D cut off guide shaft B is fitted in
+the position as shown.
+
+Guide shaft B
+
+fo 7 block
+
+/ Guide shaft B
+
+Traverse base
+
+3. Tighten the rack setscrew as shown.
+
+Setscrew
+Rack
+
+Wave washer
+
+LC W
+
+SUDITATEMSSE.
+
+UAE
+
+G
+
+A
+
+LILA, BULL
+OK
+
+— 113 -—
+
+Lead wire Oscilloscope (+)
+fs CN4
+P.C.B.
+Yellow
+
+Make this part
+spread widest.
+
+Gear block
+
+Apply grease
+(Part No. SZZ0L24)
+
+Apply grease
+(Part No. SZZ0L24)
+
+Traverse base
+
+Setscrew
+
+Wave washer
+
+PLLIL EDIT This part is not fitted
+
+in the hole.
+

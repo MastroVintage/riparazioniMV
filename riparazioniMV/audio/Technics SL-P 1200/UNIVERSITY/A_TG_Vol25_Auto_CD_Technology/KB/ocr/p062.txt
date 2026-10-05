@@ -1,0 +1,61 @@
+C4-1-4
+
+Auto Focus Circuit and Focus Error Circuit
+
+Optical servo (AN8370S)
+
+@)
+
+(A3 + A4)
+
+R118
+VR103
+(PD BAL)
+
+Matrix (Sub-
+struction)
+
+R121
+
+(A1 + A2) c117
+
+VR104
+
+Tracking error input R129 2 (FO. GAIN)
+
+(-5V)<———_Wy (45)
+
+R105 (FO. OFFSET)
+
+Fig. 4-7. Focus Error Circuit and Auto Focus Circuit
+
+tector
+
+FLOCK signal
+
+Ss
+detected
+
+Auto
+focus
+
+AF. ON
+
+WF C122
+
+RF Fe
+—
+
+Ol
+
+|
+Search Search
+N sw
+
+C4)
+
+Search OSC
+output
+
+FE signal
+output

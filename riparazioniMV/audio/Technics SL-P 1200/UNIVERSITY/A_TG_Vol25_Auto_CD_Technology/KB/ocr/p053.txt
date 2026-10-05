@@ -1,0 +1,22 @@
+The following chart contains the timings
+of the 11 types of digital data yielded
+
+by the MASH block.
+
+N
+=
+=
+=
+=
++
+-
+
+o
+2
+q
+io)
+
+PWM Signal (11 value digital data)
+
+Figure 5-16 Output Data from MASH Part
+— 53 -

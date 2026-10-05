@@ -51,3 +51,5 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 ## Materiale formativo collegato
 - ..\UNIVERSITY\KB\00_INDEX.md : Technical Guide Vol.17 (SL-XP7) - teoria AN8370S (sez.6 pp.20-31), AN8371S data slice/PLL (= funzioni EHDGA1243), MN6617 (sez.9 pp.36-50), troubleshooting pp.55-86. Ref IC del libro = SL-XP7, non SL-P1200.
 - ..\UNIVERSITY\TG_SL-P150_CD_Player_Technology\KB\00_INDEX.md : Technical Guide CD Player Technology (SL-P150/SL-P405C, AD8812333T0) - ALTA rilevanza: stessa catena AN8370S/AN8371S/MN6617/MN6618A/MN4416S; servo cap.17 pp.46-69, MN6617 cap.18 pp.76-88, tarature cap.22. Catalogo: ..\UNIVERSITY\00_CATALOGO.md
+- ..\UNIVERSITY\A_TG_Vol25_Auto_CD_Technology, B_Troubleshooting_Guide_1986-1990 (pickup SL-P1200 = SOALP1200, MIN RF 0.84Vpp, p.8), C_TG_Purposes_of_Adjustments_OneBeam. Catalogo: ..\UNIVERSITY\00_CATALOGO.md
+- RICERCA TRASVERSALE (RAG): ..\_RAG\corpus.jsonl + python _RAG\search.py "query"

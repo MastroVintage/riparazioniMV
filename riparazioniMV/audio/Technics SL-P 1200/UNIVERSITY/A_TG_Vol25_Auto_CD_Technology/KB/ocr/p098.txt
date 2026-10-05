@@ -1,0 +1,61 @@
+B5-1 ALIGNMENT INSTRUCTIONS (TYPE B)
+B5-1-1 Measuring Instruments and Tools
+
+(1) CD adjusting jig W-2 YESFZ155
+
+(2) 2-channel osciloscope
+
+(3) Low-frequency oscillator
+
+(4) Screwdriver for adjusting semi-fixed VRs
+
+(5) Test disc (SZZP1014F or SZZP1054C and SZZP1057C)
+
+B5-1-2 Adjustment Points
+
+ALIGNMENT POINTS
+
+_ Green
+Part Side out in in out Yellow
+ran p—s JSW IN TEST
+Ora ges FE JSW OUT
+Red —_—— b+ /QV OFF
+Brown TPS ON
+
+MONITA 1
+VR4 for Focus Offset Adj. Clip ee 2 2 9 oo osc
+VR3 for Focus Gain Adj.
+VR2 for Focus Balance Adj> DS CD Adjustment Jig
+VR6 for Tracking Gain Adj.
+
+2P Connector
+
+“-VR5 for Tracking Offset Adj.
+L-vR1 for Tracking Balance Adj.
+
+B5-1-3 Electrical Alignment Procedures
+1. Focus Balance Adjustment (Best Eye)
+
+O Test Point: Connect scope probe CH1 to CN106 pin 8 or J58 on main PCB.
+© Scope settings: Set probe to X10 (for the entire procedure)
+
+VOLT.......... 200—500 mV
+
+SWEEP......... 0.5 ys
+
+INPUT ......... AC
+oO Adjustment: Play test disc CDT-002 or CDT-016 track #1.
+
+Adjust VR2 so that the eye pattern of RF signal is stretched to maximum.
+Play track #6 after the alignment for confirmation check.
+
+Make this part
+spread widest
+
+Wit WAN P0008 WY
+FWRI KA
+
+NYY
+
+OA
+

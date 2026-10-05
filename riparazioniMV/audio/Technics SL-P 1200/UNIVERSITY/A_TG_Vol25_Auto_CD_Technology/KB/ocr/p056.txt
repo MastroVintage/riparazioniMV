@@ -1,0 +1,62 @@
+5.PWM Processing
+
+Pulse Width Modulates the
+4 level data from the MASH
+block at a rate of 768fs,
+then separates the L and R
+
+channel data with 32fs reefs || TI TATA
+
+clock. The L and R channel
+
+outputs of the PWM have 30Fs es |
+the same phase, and are
+
+applied to the next stage
+
+at the rising edge of the
+
+32fs clock.
+
+10) Pin Description of MN6623A
+
+@ IC508: MN6623A (Digital Filter and D/A Converter)
+
+Pin 0 vo
+
+1 MLD Command load input (load: L) AVDD1 Power supply (connected to +5V)
+2 RSTB I Reset signal input (reset at “L”) Power supply (connected to +5V)
+3 lE I \2$ select terminal (“H” =1?S) GND terminal (digital system)
+
+4 TP1 — Clock output
+
+ht TEST terminal (Not connected)
+5 TP2 — Clock input
+jj
+
+6 TEST1 ! TEST terminal 1 (connected to GND) Not connected
+
+7 TEST2 | TEST terminal 2 (connected to GNP) | Power supply (connected to +5V)
+8 NC —_— Not connected GND terminal (digital system)
+
+9 NG — Not connected Not used (connected to GND)
+
+10 AVDD4 | Power supply (connected to +5V) 768fs ° 768 fs (Not used)
+
+11 OUTR(—) e) Rch data output, (—) terminal 192 fs (Not used)
+
+12 AVSS4 | GND terminal LR clock selector (Not used)
+
+——L
+13 AVSS3 ! GND terminal L/R clock
+14 OUTR(+) Oo Rech data output, (+) terminal Serial data best clock
+Power supply (connected to +5¥V) SRDATA | Serial data input (MSB first)
+
+NC Not connected DVSS 3 | GND terminal (digital system)
+L 7 AVDD2 | Power supply (connected to +5V) NG Not connected
+16 OUTL(—) oO Lon data output, (—) terminal 284 fo (16.0344 MHz) output
+19 AVSS2 | GND terminal (analog system) Power down terminal
+20 AVSS1 | | GND terminal (analog system) Command data input
+| 21 OUTL(+) 1e) Lch data output, (+) terminal Command clock input
+
+—56—

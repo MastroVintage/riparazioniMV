@@ -1,0 +1,67 @@
+A5-1-4 Adjusting Methods
+
+1) Focus balance alignment (Best eye)
+
+@ Test point : 1C601-Pin12.,
+
+@ Oscilloscope setting: Volt ..... 20 mV. Sweep .... 0.5uS Input selector .....
+@ Operation: Play test disc track # 1.
+
+@ Alignment : RF signal appears. Adjust VR1 until the eye pattern extends widest.
+
+@ Waveform sample :
+
+va
+
+- Adjust to fully widen the waveform
+
+2) Focus gain alignment (Use of CD gain alignment jig) 430
+@ Test point: Both ends of J30 IN o—{_ix }— OUT
+(1C60 1-Pin9) (1C1-Pin16)
+® CD gain alignment jig connection
+1) Clip... ce ee eee ene Chassis
+2) Lead IN (Red)... .. ee es J30 IN (1C601-Pin9)
+3) Lead OUT (Brown)... 6... es J30 OUT (I1C1 Pin-16)
+4) OSC terminal... 2... ee es Low frequency OSC
+5) Monitor Chi, Ch2 terminals ..... 2... 0000 cee eee Oscilloscope probe Ch1, Ch2
+@ Low frequency oscillator setting
+1) Frequency... .. ce ee ee ee eee 1 kHz
+2) Level .... ee eee ee ene 200 mVp-p
+@ Oscilloscope setting (Ch1, Ch2) :
+Volt. ..... 20 mV Sweep .... 0.5 ms Inputselector .....
+@ Operation : Set the lever switch on the CD gain alignment jig to TEST. Insert a disc and play.
+@® Alignment:....... Adjust VR63 until both channels are equal in amplitude.
+
+@ Waveform sample :
+
+(Adjust to a = b)
+
+3) Tracking gain alignment (Use of CD gain alignment jig) R613
+@ Test point : Both ends of R613 IN OUT
+(1C601-Pin6) (1C1-Pin17)
+
+@ CD gain alignment jig connection
+
+1) Clip... eee eee eee eee Chassis
+
+2) Lead IN (Red) 2... 1. ee ee eens R613 IN (IC601-Pin6)
+
+3) Lead OUT (Brown)... .... ee es R613 OUT (IC1-Pin17)
+
+4) OSC terminal... ee ees Low frequency OSC
+
+5) Monitor 1, Monitor 2 terminals... 2.0.0.0... 0. cee ee ees Oscilloscope probe Ch1, Ch2
+@ Low frequency oscillator setting
+
+1) Frequency... 0... 0. ce ee ee eee 1 kHz
+
+2) Level . 2... ee eee 400 mVp-p
+® Oscilloscpoe setting (Ch1, Ch2) :
+
+Volt...... 20 mV Sweep .... 0.5ms Input selector .....
+
+@ Operation : Set the lever switch on the CD gain alignment jig to TEST. Insert a disc and play.
+@ Alignment : Adjust V R62 until both channels are equal in amplitude.
+
+(Adjust to a = b)
+

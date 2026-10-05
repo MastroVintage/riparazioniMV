@@ -1,0 +1,46 @@
+A3-3  Unloading/Reloading Operation
+
+1
+
+Position of Disc when
+
+Rubber Roller
+Unloading Completed.
+
+Feeder Arm Ass‘y Turntable
+
+Gear of Rubber
+Roller
+
+ON
+
+x
+
+Loading Gear (2)
+
+— Loading Gear (1)
+
+«os
+oe
+N s,
+
+Cam Gear
+
+m Gear
+Motor Ass‘y Ca
+
+Feeder Arm Ass‘y
+
+When the eject signal is received, the motor assembly rotates in the direction opposite that of
+loading.
+
+The loading gears rotate.
+
+Part A on the loading gear rotates the cam gear slightly clockwise, then the cam gear and loading
+gear are engaged.
+
+The loading gear rotates the cam gear clockwise.
+
+The cam gear lifts the feeder arm assembly. (SW4 : Off)
+
+—~12—

@@ -1,0 +1,53 @@
+e Waveform sample:
+
+” WE
+= MMW
+
+(Adjust to a=b.)
+
+7) Focus retra alignment
+
+e Test point: Connect Pin 4 of CN4 to Ch1; TP3 to Ch2.
+
+© Oscilloscope setting (Ch1,2): Volt..... 5OmV (CH1), 500mV (CH2) Sweep ..... 0.5ms (Nor.) (CH1)
+Insput selector..... AC (CH1) DC (CH2)
+
+e Operation: Insert a test disc and play track #B. Reproduce a black band of 0.5mm.
+
+e Alignment:
+
+Waveform sample: a) Watch the eye pattern for Ch1, and make fine adjustment of VR105 to a minumum depression.
+b) Also make a fine adjustment of VR105 so that FE signal for CH2 will be as flat as possible.
+
+Adjust to a minimum depression.
+TP3 A awo—~-- {rer -
+\— Adjust to a minimum irregularities.
+
+8) Tracking offset alignment
+
+e Test point: Connect the Scope to CN4 for pin 4 (CH1) TP! (CH2)
+e Oscilloscope setting (Ch1, 2)
+Volt..... 50O0mV Sweep..... 0.5ms Input selector ..... AC
+e Operation: Insert a test disc and play. Reproduce a black band of 0.5mm.
+e Alignment: a) Watch the eye pattern for Ch1, and make fine adjustment of VR106 to a eleminate depression
+
+Adjust to eliminate depressions.
+
+TP1 £—™» 7 —— SS”
+
+*) Additional alignment PLL adjustment
+note: This alignment cannot be made unlese the deck is taken out.
+
+e Test point Pin(2)(CLDCK) of LSI (MN6617)
+
+e Oscilloscope setting: Volt..... 2.0V Sweep ..... 5Ous Input selector..... DC Trig (NOR)
+e Operation: Insert a test disc and play. Play track #8. Reproduse a black band of 0.5 mm.
+
+e Alignment: Adijst VR401 until the waveform is steady or as steady as passible.
+
+e Waveform sample:
+Adjust to minimije unsteadiness.
+
+Adjust to minimize unsteadiness.
+
+— 110 —

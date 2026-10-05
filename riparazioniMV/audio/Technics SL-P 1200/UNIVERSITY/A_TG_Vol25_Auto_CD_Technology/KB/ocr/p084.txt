@@ -1,0 +1,54 @@
+@ Pin BLKCK i
+F
+
+13.3mS (75 Hz) +
+
+Fig. 4-14 Subcode O data Transfer (LSI to Microcomputer)
+
+2) MLD, MCLK, MDATA signals
+These three signals transfer data from microcomputer to LSI.
+(a) MLD : Data loading signal
+(b) MCLK : Data transfer clock signal
+(c) MDATA_ : Transfer data
+Data is transferred to set the modes of the CLV control and interpolation circuit in LSI.
+Fig. 4-15 shows MDATA contents.
+
+D4 D3 D1
+
+0
+1 1 OP)
+
+(with FG) (TT ON) 1
+(ACC)
+
+CLV mode
+
+0
+0 (BRAKE)
+
+0
+(without FG) | (TT OFF) 1
+(PLAY)
+
+1 1
+| (ATT—12dB) | (MUTE ON)
+
++
+
+0 0
+(ATT OFF) | (MUTE OFF)
+
+Interpolation circuit
+
+0 0
+(CRC)
+
+1 0 Status output
+(CLVOK) switching
+
+1 1
+(TT STOP)
+
+Fig. 4-15 MDATA Contents
+
+— 84 —

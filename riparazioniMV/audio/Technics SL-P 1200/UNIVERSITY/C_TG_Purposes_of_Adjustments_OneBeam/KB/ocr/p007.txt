@@ -1,0 +1,25 @@
+2. Focus gain adjustment
+
+A. Purpose
+
+Regardless of disc warpage (+/— 0.4mm) due to manufacturing tolerances, the focus servo must
+operate to constantly keep the lens focused on the disc’s pits. The greater the servo’s gain, the
+easier the lens can focus on the disc; however it becomes unstable due to unwanted signals. The
+
+gain is therefore set to unity (0 dB=1, @750Hz) at which point stability is acceptable and the gain
+is adequate.
+
+Head amp — Connector
+
+Focus gain Filler Driver Lens
+control
+
+Fig. 2-2-1 Focus Servo Loop
+
+Total Gain
+(dB) t
+OdB
+(HZ)
+Gain cross—
+point 750 HZ (Frequency varies by model)
+Fig. 2-2-2 Focus servo gain characteristics

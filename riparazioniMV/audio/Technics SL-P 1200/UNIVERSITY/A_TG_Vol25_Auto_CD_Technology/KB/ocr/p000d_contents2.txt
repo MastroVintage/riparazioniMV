@@ -1,0 +1,44 @@
+NEW IC CIRCUIT 2.0... ccc ee eee etn eens 38
+A4-4 Description of New Servo Circuit .. 0.0.0... ccc eee eee 38
+A4-5 Digital Filter and D/A Converter 1... 0... cc cece eee e eee e ee nees 44
+(TYPE C)
+
+C4-1 AN8370S Circuit Operation .. 0.0... 0. ee eee ae 57
+C4-1-1 Control Logic Circuit ......0 0.00. cc eee eee 58
+C4-1-2 Laser APC Circuit... . 2... 0. ee ees 60
+C4-1-3. RF Amplifier and Dropout Detector Circuit ............. 000 eee 60
+C4-1-4 Auto Focus Circuit and Focus Error Circuit. ........... 00 e wees 62
+C4-1-5 Tracking Error Circuit and KICK, HOLD Circuit ................ 64
+C4-1-6 Focus Tracking Drive Circuit ........ 0... 0. cee ee ees 68
+C4-1-7. Relation with Servo IC and System CPU .......... 0. cece eens 69
+
+C4-2 Traverse Servo Circuit Operation .......... 0.0 cece eee eee 70
+C4-2-1 Traverse Detector Circuit .. 0.0... ccc eee eee 71
+C4-2-2. Mode Select Circuit ..... 0.0... ccc eee 71
+C4-2-3. Traverse Drive Circuit. ... 2.0.0... ccc eens 71
+
+C4-3. AN8371S Circuit Operation... .. ce eee eens 72
+C4-3-1 EFMSignal.... 0.0... .. 0. ccc ee eee tee eens 72
+C4-3-2 PCK Signal ... 2.0.0... ce eee een nets 73
+C4-3-3 OtherSignal ... 0.0... 0. ccc ee teen eee n ene 73
+
+C4-4 MN6617 Circuit Operation... 0.0... 0... eee eee 74
+C4-4-1 Recording System Signal Processing ........ 0c cece e eee eee eaee 74
+C4-4-2. Reproducing System Signal Processing ...........0cee eee eeaes 79
+C4-4-3 LSI and Associated Operations of Peripheral Circuits............. 81
+
+C4-5 Audio Circuit ..... een eee eens 88
+C4-5-1 D-A Converter ....... 0... 0c ee tent es 89
+C4-5-2 Deglitch Circuit ....... 0... ce eee eee 89
+C4-5-3 LPF and De-emphasis Circuit ........0. 00. 90
+
+ALIGNMENT INSTRUCTIONS............ 000-0 cc cece eee ee eee eee 91
+
+(TYPE A)
+
+A5-1 Alignment Instructions... 0.0... 0... cece ee teen eens 91
+A5-1-1 Measuring Instructions and Tool ........ 0... e eee ee eee ees 91
+A5-1-2 Alignment Procedures and Point ............. cece eee ee eeees 91
+
+A5-1-3. CD Gain Alignment Jig... .. 0... 0c ce eee tenes 91
+A5-1-4 Adjustment Methods

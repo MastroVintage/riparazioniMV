@@ -1,0 +1,22 @@
+If a track pit image runs over the 4-segment photo-detector and deviates to the left or the right, a phase
+difference corresponding to the track deviation is produced between the output signals (A1 + A2) and (A3
++ A4). This phase difference is detected by the phase detector, and passed through the lowpass filter
+(L.P.F.) to generate a tracking error signal.
+
+Fig. 1-5 shows a tracking error detection diagram.
+
+(a) Track Deviating to the Left (b) Track in the Center (c) Track Deviating to the Right
+
+|
+V(A3+A4) | | | | | | | |
+y 1 | |
+|
+
+Difference
+
+output Oo 9 —_L______l___ ie)
+
+@ A positive pulse is generated if V (A1 + A2) leads V (A3 + A4),
+and a negative pulse if vice versa.
+
+Fig.1-5 Traking Error Detection Diagram

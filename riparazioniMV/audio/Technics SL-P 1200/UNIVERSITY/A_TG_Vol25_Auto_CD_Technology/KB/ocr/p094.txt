@@ -1,0 +1,63 @@
+4) Tracking balance alignment (Use of CD gain alignment jig)
+
+@ Test point: Both ends of R613
+
+@ CD Adjusting jig connection :
+1. Clip... ... ee ee eee Chassis
+2. Lead IN (Red) ........0-00-5 R613 IN (IC601-Pin6)
+3. Lead OUT (Brown).......... R613 OUT (1C1-Pin17)
+A. Monitor2 .........0 00h ee Oscilloscope CH2
+
+5. Connect CH1 of oscilloscope to TP ({C601-Pin12)
+@ Low Frequency Oscillator setting
+
+Frequency...........0000+ 1 kHz
+Level ........ 2. eee ee ee 400mVp-p
+®@ Oscilloscope setting: Volt...... 20 mV/div. Sweep .... 1ms/div. (Normal) Input Selector AC
+@ Operation : Set the level switch on the CD gain alignment jig to TEST. Insert a test disc and play.
+@ Alignment : Adjust VR2 until the peaks of CH1 (ARF) envelope evenly cover the peaks and bottoms of
+CH2 (TEG).
+
+5) Focus offset alignment
+@ Test point: TP (ARF) (1C601-Pin12), TP: (FEG) (1C601-Pin8)
+® Oscilloscope setting
+
+CH1: Volt ............ 20 mV/div. Sweep .... 0.5 ms/div. (Normal)
+CH2: Volt ............ 5mV/div. Sweep .... 0.5 ms/div. (Normal)
+
+@ Operation : Play the seventh track of disc (CDT - 002). Connect CH1 of oscilloscope to TP (1C601-Pin12)
+and CH2 of the same to TP (IC601-Pin8).
+
+@ Alignment : Adjust VR3 until the waveform is as shown below.
+
+@ Waveform Sample :
+
+CH1 TP (ARF)
+
+Should fall once and pick up to steady level
+
+at Vref without peaks.
+CH2 TP (FEG)
+
+6) Tracking offset alignment
+
+@ Test point : TP (ARF) (1C601-Pin12), TP (TEG) (1C601-Pin5)
+
+® Oscilloscope setting (CH1, CH2) :
+Volt...... 20 mV/div. Sweep .... 0.2 ms/div. (Normal) Input Selector AC
+
+@ Operation : Play the seventh track of black band disc. Connect CH1 of oscilloscope to TP (I1C601-Pin12)
+and CH2 to TP (1C601-Pin5).
+
+@ Alignment : Adjust VR61 to minimize the depression (CH 1) and to make the FE signal as flat as possible
+(CH 2).
+
+Minimize the depression
+omens eI ad ‘UM!
+
+; «—— Minimize the
+CH2 TP (TEG) yo Ws irregularities > fromacon pnw pe pmere .
+
+Note: Eliminating the groove of ARF takes precedence to all others.
+
+— 94 —

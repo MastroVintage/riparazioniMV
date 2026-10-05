@@ -1,0 +1,9 @@
+chip	role_in_book	SL-P1200_equivalent	pages
+AN8370S	optical servo (Type C)	IC101 AN8370S (STESSO CHIP)	38,57-69
+AN8371S	data slice + PLL (Type C)	IC301 EHDGA1243 (funzione equivalente)	60,72-73,81-87
+MN6617	DSP EFM/CIRC/CLV (tipi A e C)	IC302 MN6617S (STESSO CHIP)	5,72-87
+AN8290S	spindle driver Type A (IC2)	IC501 AN8290S (STESSO CHIP)	5
+AN8281S	spindle motor drive Type C	IC501 AN8290S (diverso, stessa funzione)	86-87
+AN8373S/AN8374S/AN8377	new servo amp/controller/driver Type A	nessuno	5,28-43
+MN6623	digital filter + MASH D/A Type A	diverso (P1200 MN6618A+PCM54)	5,44-56
+MN1554CAC/CAF	system CPU	IC401 MN15261PDK (diverso)	7,25,58,73,83

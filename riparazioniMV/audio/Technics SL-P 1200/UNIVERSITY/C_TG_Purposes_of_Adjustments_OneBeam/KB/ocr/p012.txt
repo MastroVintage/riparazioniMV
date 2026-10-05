@@ -1,0 +1,35 @@
+5. Tracking offset adjustment
+
+A. Purpose
+
+As with the focus offset adjustment, the tracking offset adjustment is necessary to set the reference point
+of the tracking servo operating range.
+
+The only difference is that the tracking servo compensate for horizontal control as opposed to vertical
+control by the focus servo,
+
+B. Test disc, RF waveform and TE (Tracking Error) signal
+
+The test disc, RF waveform, and TE signal waveform are the same as described in the focus offset
+adjustment. The only difference is the TE signal test point.
+
+C. Tracking offset adjustment method
+The RF waveform must be adjusted such that the dip(s) is (are) minimized or eliminated, as indicated
+
+below in figures (a) and (b). The TE waveform must be adjusted such that @ and are equal, as
+indicated in figure (c) below.
+
+Dip eliminated
+
+RF (a)
+Dip eliminated
+
+RF (b)
+
+TE (c)
+
+@)®
+
+Fig. 2-5-1
+
+—12—

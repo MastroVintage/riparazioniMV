@@ -1,0 +1,45 @@
+B. Principle of the focus gain adjustment
+
+The focus servo loop is opened, at which point a 750 Hz signal is applied to simulate the acceptable
+condition. This point is TP2 on the “servo gain adjuster’.
+
+The signal, once through the focus servo, appears at TP1. The focus gain variable resistor is used to set
+the voltage at TP1 to equal the level at TP2; at which point the gain is one (0 dB).
+
+The reason why the focus servo must be adjusted using a 750 Hz tone is because this is the frequency
+that causes the gain to become unity (OdB=1).
+
+TO 7
+
+| |
+
+| 4 Total gain |
+
+| ead amp Connector
+
+| ' I
+
+Lio» oct
+Filter Driver Lens
+
+Focus coil
+
+NWI
+——4 Servo
+
+v Gain Adjuster
+
+Focus gain control
+
+SZZP1017F (without oscillator)
+| SZZP1094C (with oscillator)
+
+750Hz!
+
+2 4 reo
+
+Fig. 2-2-3
+
+Note: Explanation was made based on 750Hz gain cross-point frequency.
+This frequency may differ depend on model.
+Please refer to the service manual of the corresponding model for frequency.

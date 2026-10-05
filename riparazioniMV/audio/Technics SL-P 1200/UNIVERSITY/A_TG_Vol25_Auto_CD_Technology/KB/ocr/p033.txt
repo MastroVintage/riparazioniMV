@@ -1,0 +1,27 @@
+A4-3. Spindle Motor Circuit
+When disk detection ended, the spindle motor starts to rotate. The focus servo and the traverse servo are
+commanding the spindle motor operation; and after reading the TOC, play starts.
+
+If there is any trouble in focus or traverse servo, it will be become EJECT mode.
+
+When the SENSE pulse appears, CNT 1, 2, 3, and 4 are (H). MLD, MCLK, and the MDATA are output
+from the micro-computer. The spindle motor starts to run by outputting the CLV data at pin 64 PC (L)
+of 10501 to IC2.
+
+When the number of revolution increased, LD ON and AF ON signals (CNT 1, (L), 2, 3, and 4 (H)) are
+output from the micro-computer.
+
+When the micro-computer receives the FLOCK (L) signal from 1C601, the TRON signal (CNT 1, 2 (L), 3,
+and 4 (H)) is output from the micro-computer.
+
+The TRON signal forms tracking servo while applying brake, then to the CLV control along with the
+rough servo by SRF signal of |C601 which is obtained from the RF signal.
+
+When this circuit changes from the rough servo to the refined servo. CLVS of I1C501 turns (H); and the
+PLAY signal (CNT 1, 2, 3, and 4 (H)) is output from CPU. At this time, reading of the TOC starts.
+1. At the head of lead-in track, it positions by kick pusle while reading the data.
+2. It reads TOC in the micro-computer.
+(If there is any abnormality, it will reject at the place where abnormal function is affirmed.)
+3. Play starts from the track 1.
+
+— 33-

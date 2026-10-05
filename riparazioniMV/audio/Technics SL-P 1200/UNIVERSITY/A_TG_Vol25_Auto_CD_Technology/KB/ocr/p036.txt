@@ -1,0 +1,63 @@
+Photo-
+detector
+
+!
+(
+
+ZY
+0)
+
+C602
+AN8377)
+
+-1/2
+Vcc
+
+IC1
+(AN8373)
+
+Filter
+
+Fig. 4-6 Tracking Servo Circuit
+
+Oo
+(24) FGC
+@ @
+22)
+
+TPS BRIN
+2)
+
+«to
+
+IC601
+(AN8374)
+
+OFF TR
+detection
+
+Tracking phase
+
+Kick switchingover
+
+Vibration
+detection
+
+Kick switch
+
+TECROSS |
+detection
+G) TE
+
+difference detection
+
+SENSE
+
+Control
+logic @ CONT3
+
+@ @ ®
+
+©
+
+Micro-computer
