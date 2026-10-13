@@ -26,6 +26,14 @@ for _kb in sorted(glob.glob(os.path.join(ROOT,'SERVICE_MANUALS_CORRELATI','*','K
         for _l in open(_ix,encoding='utf-8',errors='ignore'):
             if _l.startswith('#'): _t=_l.lstrip('# ').strip(); break
     SRC.append((_id,_t,os.path.relpath(_kb,ROOT).replace('\\','/'),'service_manual_related','vedi 00_INDEX'))
+# Service bulletin / technical information / supplementi: rilevati automaticamente (SERVICE_BULLETINS/<id>/KB, pages/ + ocr/)
+for _kb in sorted(glob.glob(os.path.join(ROOT,'SERVICE_BULLETINS','*','KB'))):
+    _id=os.path.basename(os.path.dirname(_kb)); _t=_id
+    _ix=os.path.join(_kb,'00_INDEX.md')
+    if os.path.exists(_ix):
+        for _l in open(_ix,encoding='utf-8',errors='ignore'):
+            if _l.startswith('#'): _t=_l.lstrip('# ').strip(); break
+    SRC.append((_id,_t,os.path.relpath(_kb,ROOT).replace('\\','/'),'service_bulletin','vedi 00_INDEX'))
 CHIP=re.compile(r'\b((?:AN|MN|PCM|NJM|EHDGA)\d{3,5}[A-Z]{0,4}(?:-\d+)?)\b')
 REF=re.compile(r'\b((?:IC|TJ|VR|CN|TP|Q|D)\s?\d{1,4})\b')
 def topics(kb):
@@ -66,7 +74,7 @@ for sid,title,kbrel,kind,rel in SRC:
     else: ocrd=os.path.join(kb,'ocr'); imgd=kbrel+'/pages'
     tp=topics(kb)
     files=sorted(glob.glob(os.path.join(ocrd,'*.txt')))
-    if kind=='article':  # scheda + eventuale testo nativo
+    if kind in ('article','service_bulletin'):  # scheda + eventuale testo nativo
         files=[os.path.join(kb,n) for n in ('00_INDEX.md','testo.md') if os.path.exists(os.path.join(kb,n))]+files
     for f in files:
         tag=os.path.splitext(os.path.basename(f))[0]

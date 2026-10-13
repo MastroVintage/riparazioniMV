@@ -1,0 +1,70 @@
+Technics
+
+Service Bulletin ===
+
+August 1988
+
+Matsushita Services Company] Model:
+
+Engineering Support Division SL-P1200 & SL-P1200X
+
+Division of Matsushita Electric Compact Disc Players
+Corporation of America
+
+50 Meadowland Parkway
+Secaucus. New Jersey 07094
+
+FILE THIS BULLETIN WITH
+| YOUR SERVICE MANUAL.
+
+Symptoms: 1) A popping noise is heard through the Audio output
+when PLAY initiates.
+
+2) The PLAY function is accidently interrupted; the
+pick-up remains at the current location or resets
+to its rest position. In either case erratic
+operation is noticed.
+
+3) The unit does not respond to the wired remote
+control PLAY command.
+
+4) The unit does not read the Disc’s TOC or skips
+occasionally.
+
+NOTE:
+MAKE COPIES OF THIS SERVICE BULLETIN
+FOR THE FOLLOWING MODELS AND FILE IT
+
+WITH THE SERVICE MANUAL:
+SL-P1200 & SL-P1200X
+
+Causes: 1) Improper grounding between this unit and the rest
+of the systen.
+
+2) The control panel is not properly grounded, causing
+static electricity to affect normal operation.
+
+3) Switch bouncing causes the unit to misinterpret the
+PLAY key function.
+
+4) Dust accumulates on the optical pick-up lens. The
+OPEN/CLOSE detection switch may be defective.
+
+Remedies: Perform the following modifications. Note that all of
+the following parts (except the lens cleaning Kit
+SZZP1038C) are supplied in a kit as indicated on page 3.
+
+1) Mount a ground lug according to the following:
+A. Drill a 4mm hole on the indicated location of the
+rear panel. Make sure that no filings fall inside
+the unit.
+
+LEFT SIDE OF
+
+| REAR PANEL
+
+4mm HOLE
+
+1 of 4
+
+Dist: A6,88,W-303

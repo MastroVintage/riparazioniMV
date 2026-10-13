@@ -1,0 +1,83 @@
+se
+
+ORDER NO. AD8S908221S81
+
+COMPACT [9] G I L Compact Disc Player
+
+steer ~—t
+
+HIS SL-P1200X
+
+Please file and use this supplement manual together with the service manual for Model No. SL-P1200X,
+Order No. HAD8707245C1,
+
+"Note: @ How to read the serial number
+
+This supplement has been issued to inform you that the A _E 6 i 3 1 A 2 6 5
+balanced output P.C.B. have been changed in units having | | i /
+
+serial number suffixes ““Q" or later. (Refer to “How to |
+read the serial number’’ shown at right.) | |
+
+i Lm Number
+hte Suttix
+
+be Date
+
+| ‘Month 1~9-+Jan,~Sep.
+Le Year 61986 J 7 Oct.
+
+K-~ Nov.
+; 71987
+Production Line 8-~1988 L-~ Bec.
+
+9-- 1989
+
+| CHANGES |
+
+Wi REPLACEMENT PARTS LIST
+
+Change of Part No.
+
+ORIGINAL NEW
+
+EROS2TKF 1801 — i
+
+27KQ,
+
+EROS2TKF2702
+
+Description Remarks
+
+RESISTOR
+
+R903 ~ 906
+
+|
+
+ROI1~914 EROS2TKF 5602
+
+Deletion
+
+R915 ~ 922 ERD25FJ150 _ ERD25FJ270 2782, /4w Change
+Ro 5 SOT K ERE | —T
+A935 ~ 942 EROS2TKF8R20 EROS2TKF15R0 fay Change
+
+EROS2TKF6200 Deletion
+
+Addition
+3991, 992 EROS2T KF 2202 | 22KQ, Addition
+
+re a.
+RO9S ~ 996 | nt en EROS2TKF3902 39KQ, /AW Addition
+EROS2TKF33R0 | 3322, 1/4W Addition
+
+Matsushita Services Company Panasonic Sales Company, Matsushita Electric of Canada
+Division of Matsushita Electric Division of Matsushita Electric Limited
+Corporation of America of Puerto Rico, Inc. 5770 Ambler Drive, Mississauga.
+
+Ontario, L4W 2T3
+
+e 50 Meadowland Parkway, San Gabriel industrial Park
+Secaucus, New Jersey 07094 65th Infantry Ave. Km.9.5
+Carolina, P.R. 00630

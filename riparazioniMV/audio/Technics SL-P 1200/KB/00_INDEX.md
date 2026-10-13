@@ -56,6 +56,13 @@ Nota numerazione: mNN = numero pagina stampato sul manuale (verificato per NN>=5
 - ..\ARTICOLI_RIPARAZIONI\00_CATALOGO.md : articoli/casi di riparazione (una cartella AR###_slug per articolo), inclusi automaticamente nel RAG.
 - ..\SERVICE_MANUALS_CORRELATI\00_CATALOGO.md : service manual di altri modelli Technics (KB per modello), inclusi automaticamente nel RAG.
 
+## Service bulletin (SERVICE_BULLETINS\)
+- Catalogo: `SERVICE_BULLETINS\00_CATALOGO.md`. Ogni documento: `<id>\KB\00_INDEX.md` (sintesi IT + collegamenti) + `pages\pNN.png` + `ocr\` + `DATA\<id>_pulito.pdf`. Inclusi nel RAG.
+- **A6-87-17**: IC501 AN8290S surriscaldato -> Q12/Q13/Q101/Q102 a 2SD1266/2SB941 + dissipatore SMWD3E (kit SZZP1093C), suffisso seriale <= J.
+- **A6-88-11**: massa posteriore/frontale, C415 0.001->0.01uF (Socket PCB), S101 -> SWSD12001, **RF su TJ302 = 0.7-1.2 Vp-p** (confronta MIN RF 0.84 Vpp della Troubleshooting Guide).
+- **A6-89-1**: CD 8 cm -> gommino disc magnet (ref.#4) SHGD155-1 2.5 mm, suffisso <= N.
+- TI HAD8607677T0: fixture SZZP1070C/1071C per main PCB (CN107). Supplemento SL-P1200X AD8908221S1: Balance Out PCB K (solo P1200X). TI UK SL-P520/P720: stesso guasto spindle, ref diversi.
+
 ## Service manual correlati (SERVICE_MANUALS_CORRELATI\)
 - Catalogo: `SERVICE_MANUALS_CORRELATI\00_CATALOGO.md`. Ogni modello: `<modello>\KB\00_INDEX.md` + `manual\img|ocr` + `DATA\` (PDF originali).
 - **SL-P110 (e P115/P116) e SL-P111 = stessa piattaforma FF1 del P1200** (AN8370S, AN8290S, MN6617S, MN6618A, EHDGA1243, MN15261, MN1550): utili per confronti, regolazioni e forme d'onda. Attenzione: i ref IC sono diversi, usare la tabella di conversione in `SL-P110\KB\00_INDEX.md`.

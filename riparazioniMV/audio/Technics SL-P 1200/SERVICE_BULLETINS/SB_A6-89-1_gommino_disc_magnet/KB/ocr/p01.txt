@@ -1,0 +1,62 @@
+Compact Disc
+Product: Player
+
+Number:
+
+April 1989
+
+Matsushita Services Company
+Technical & Administrative Services Division
+
+SL-P1200
+
+Division Of Matsushita Electric . .
+Technics Compact Disc Player
+
+Corporation Of America
+50 Meadowland Parkway
+Secaucus, New Jersey 07094
+
+NOTE:
+1m ann 5 : MAKE COPIES OF THIS SERVICE BULLETIN FoR THE
+YOUR SERVICE MANUAL SL-P1200, SL-P1200X, AND st P1300
+Symptom: Playability deteriorates when playing 8cm discs, especially at the outer
+periphery.
+Cause: - The disc magnet assembly (ref. #4 in the Service Manual) does not
+
+secure the disc to the spindle effectively, causing the disc to slip and vibrate.
+
+Remedy: Change the pressure rubber mounted to the bottom of the disc magnet
+assem sly (ref. #4 in the Service Manual). The thickness of the original
+pressure rubber isO0.5mm. The new one (Part Number SHGD155-1) is
+
+ww 2.5 +/-0.3mm thick.
+
+1) Remove the original pressure rubber making sure no adhesive residues
+remain on the magnet assembly.
+
+2) Remove the protective paper from the new pressure rubber. Mount the
+pressure rubber to the disc magnet assembly.
+
+IMPORTANT!
+A. The Pressure rubber underwent three modification changes during
+
+production, which can be determined from the serial number suffix as
+ollows:
+
+S/N SUFFIX CHANGE IMPROVEMENT DATE
+“LY TO"M" THICKNESS |
+“M" TO "N" STATIC PREVENTION a
+
+“N“ TO “P” MATERIAL 7/88
+
+SERIAL NUMBER X X 8 7 XX P XK XK X
+
+YEAR SUFFIX
+MONTH
+
+B. Change the pressure rubber on units bearing up to the “N” suffix.
+— C. Do not use additional adhesive tape. This will cause a malfunction.
+
+BHR
+Dist: A6,49, W-907

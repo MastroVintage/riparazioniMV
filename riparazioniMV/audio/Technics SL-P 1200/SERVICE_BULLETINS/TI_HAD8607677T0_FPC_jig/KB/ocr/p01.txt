@@ -1,0 +1,52 @@
+ORDER NO. HADB607677T0 -
+
+Technical Information
+
+~FPC junction PCB and FPC extension board
+
+Parts Number:
+
+$ZZP1070C
+$Z2ZP1071C
+
+Development points: .
+These fixture are designed to check the main P.C_B. of Mode! No. SL-P110 Series and SL-P1200.
+
+Location:
+
+CN4 CN3
+cd
+EET
+oO o
+FPC JUNCTION P.C.B. FPC EXTENSION BOARD
+$ZZP1070C $ZZP1071C
+
+How To Connect:
+
+FPC cord from
+
+optical pickup ¢ Main P.B.C.
+
+FPC junction P.C.B. FPC extension
+(SZZP1070C) cord (SZZP1071C)
+
+Please refer Service Manual for Model No. SL-P110 (ORDER NO. HAD8606593C0) Series.
+
+Matsushita Services Company Panasonic Hawali, inc. Mateushita Electric Trading Co., Ltd.
+59 Mesdowland Parkway. 91-238, Kauhi St. Ewa Beach P.O. Box 288, Centrat Osaks Japan
+Secaucus. New Jersey 07094 P.O. Box 774
+
+Honolviu. Hawaii 96808-0774 Panasonic Tokyo Office
+
+@
+Panasonic Sates Company, Matsushita Electric Trading Co.,Lte.
+Division of Matsushite Electric Matsushita Electric 6th Floor, Worid Trade Center Bidg .
+of Conads Limited No 4-1, Hamamatsu-cho 2-Chome.
+
+of Puerto Rico, Inc.
+
+Ave 65 De Infanteria. KM 97 $770 Ambier Drive, Mississaugs, Minato-ku. Tokyo 105, Japan
+Victoria Industria! Park Ontario. L4W 2T3
+Carotina, Puerto Rico 00630 Printed in Japan
+
+860709500 ® K.1SOMURA

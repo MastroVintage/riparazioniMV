@@ -1,0 +1,65 @@
+B. Mount the ground lug as follows:
+
+rh GND
+
+GROUND LABEL
+
+ee POST
+
+C. Affix the "GND" label below the ground lug.
+
+HEX NUTS
+(2 PCS.)
+
+WASHER
+
+LOCK
+
+REAR PANEL WASHER
+
+Please refer to GROUNDING THE UNIT instructions on
+page 4 for additional related information.
+
+2) Modify the front panel grounding as follows, and as
+shown in the figure below:
+
+A. Remove the operation PCB (KEYBOARD PCB) according
+to the Service Manual, page 17.
+
+B. Cut the wire tie at point "EB".
+
+C. Remove the ground wire from points “A” and “B".
+Mount this wire between points “C" and “D". Use the
+screw Cincluded in the kit) to mount the wire at
+point “D".
+
+D. Tie the wires at point "“E"“ by using the wire tie.
+
+—&. Remove the REPEAT and AUTO SPACE knobs.
+
+F. Mount the new ground plate.
+
+G. Mount the REPEAT and AUTO SPACE knobs.
+
+THE TAB OF THE NEW GROUND PLATE
+/MUST BE MOUNTED UNDER THE TAB OF
+THE EXISTING ONE.
+
+SUPD660
+REPEAT
+KNOB
+
+BEND IN DIRECTION
+OF ARROW, BY 80
+DEGREES
+
+NEW GROUND PLATE
+
+new 7
+GROUND ayto
+KNOB
+
+GROUND PLATE ALREADY
+IN UNIT.
+
+2 of 4

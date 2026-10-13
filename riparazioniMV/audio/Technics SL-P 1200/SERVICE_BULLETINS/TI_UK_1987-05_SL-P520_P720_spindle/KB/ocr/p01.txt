@@ -1,0 +1,48 @@
+TECHNICS CD
+
+ation ‘Technics:
+
+MAY 1987
+
+Technical Inform
+
+MODELS: SL-P520, SL-P720
+SYMPTOMS: No operations or the unit reads TOC but fails to enter into play mode.
+
+CAUSE: When spindle drive IC is overheated and locked up while subjected to
+excessive vibration; excessive use of cue/review, and set switched on
+and put in play with transit clip left on; IC4 AND IC5 overheats and ~
+internal IC fuses go open.
+
+Thermal runaway also causes transistors Q11, Q12, Q101 and Q102 to go
+short, and heat often causes these transistor legs solder to give dry
+joint.
+
+CURE: Fit the components in Kit SZZP1090C.
+METHOD: (1) Replace Q11 and Q101 by 2SC1846 ©
+
+Ql2 and Q102 by 25A885
+New transistors are larger and have to be fitted as shown.
+
+PRINTED SIDE
+Qrot | }Qioz. |
+RRNreD [ater eee .
+
+ne Chante
+
+(2) Add 4 diodes in series with connectors of transistors to reduce
+the voltage as shown. —
+
+A & B diodes are put in place of
+
+jumper wires.
+
++1 ante
+
+~_ ene MoTeR [ce I
+pest sux —
+
+Panasonic U.K. Limited is a subsidiary company of Matsushita Electric Trading Co. Ltd., Osaka, Japan
+Registered Office: 300/306 Bath Road, Slough, Berkshire, SL1 6JB. Registered No. 1069148 England.
+
+P15/1084

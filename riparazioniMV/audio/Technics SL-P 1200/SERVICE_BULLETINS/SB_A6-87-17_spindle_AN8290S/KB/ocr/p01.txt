@@ -1,0 +1,62 @@
+Technics
+A6-87-17
+Date: September 1987
+
+Service Bulletin
+
+Matsushita Services Company | Model:
+“as Engineering Support Division
+
+Division of Matsushita Electric
+Corporation of America
+
+50 Meadowland Parkway
+Secaucus. New Jersey 07094
+
+FILE THIS BULLETIN WITH
+YOUR SERVICE MANUAL.
+
+Symptom: 1) No operation at all.
+
+2) Unit reads the T.0.C. but fails to enter the play
+mode.
+
+SL-P1200
+Compact Disc Player
+
+$L-P1200
+
+Cause: The spindle drive IC (AN8290S) overheats and locks-up
+when:
+
+A) The unit is subjected to excessive vibration during
+play causing the pick-up to skip.
+
+B) The unit is subjected to excessive use of the skip
+function.
+
+C) The play function is selected while the transport
+lock shaft is not set free.
+
+Each of the above conditions cause Q@12, Q@13, Q101, and
+Q102 to overheat and become damaged. The excessive heat
+causes the transistor’s solder joints to dry and
+therefore cause poor connection, or solder bridges.
+
+Remedy: 1) Order kit number SZZP1093C. Refer to the kit contents
+below.
+2) Replace the transistors as indicated in Figure 1.
+3) Mount the heat sink to IC501 as shown and indicated
+in Figure 2.
+
+DESCRIPTION | REF. NO | ORIGINAL PART NO. NEW PART NO. KIT PART NO.
+
+TRANSISTOR | @iz | 281846 OR 280973 | 28C1846 OR 28D973
+TRANSISTOR EE 2SA885 OR 28B793 cress
+TRANSISTOR
+
+THIS MODIFICATION HAS BEEN IMPLEMENTED DURING PRODUCTION FROM
+JULY 3, 1987. THE SERIAL NUMBER SUFFIX HAS BEEN CHANGED FROM
+"J" TO "K".
+
+Dist: A6,97,W-877 (OVER)

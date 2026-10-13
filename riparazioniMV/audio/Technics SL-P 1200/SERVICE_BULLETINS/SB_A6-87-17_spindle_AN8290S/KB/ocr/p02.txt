@@ -1,0 +1,36 @@
+Regardless of customer’s complaint, perform the modification
+on units having serial number suffix up to and including “J", .
+as indicated below:
+
+Oo 3 J X X X
+
+Xx X 7 7
+year | | Lerten SUFFIX
+MONTH DAY
+
+MAIN P.C.B. . Q101 Q102
+
+FIGURE 1 - PCB LAYOUT (TRANSISTORS LOCATION)
+
+ADD GLUE HERE
+SUB PCB
+SPINDLE MOTOR oe
+
+=
+
+HEAT SINK = PCB
+FIGURE 2 - MOUNTING THE HEAT SINK SMWD3E
+
+HEAT SINK MOUNTING PROCEDURE
+
+A) Loosen the spindle PCB and sub PCB mounting screws. OPER gs
+B) Insert the heat sink’s thin leaf between the spindle,
+PCB and sub PCB. es
+
+C) Mount the PCBs. _
+D) Secure the thin leaf of the heat sink to the sub PCB
+using "3M" type glue.
+
+a # #
+
+TR

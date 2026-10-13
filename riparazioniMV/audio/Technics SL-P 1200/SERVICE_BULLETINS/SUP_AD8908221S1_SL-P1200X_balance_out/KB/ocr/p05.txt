@@ -1,0 +1,38 @@
+|
+Matsushita Services Company »
+IMPORTANT!
+
+This SL-P1200 or SL-P1200X Compact Disc Player has been modified by improving
+internal ground circuit for keyboard. An external ground terminal has also
+been added. PLEASE FOLLOW THESE INSTRUCTIONS WHEN INSTALLING so as to prevent
+static or mis-operation, especially when using wired remote. Thank you.
+
+GROUNDING THE UNIT
+
+Please note the following when making connections to the audio output
+terminals:
+
+1) =
+* WHEN USING BOTH THE “UNBALANCE” AND “BALANCED” OUTPUTS AT THE SAME
+TIME:
+Make sure that pin 1 on’ both channels of the BALANCED output
+terminals {is disconnected.
+x WHEN USING ONLY THE “BALANCED" OUTPUTS:
+If pin 1 of the BALANCED outputs is disconnected, be sure to
+connect this unit’s ground terminal to the ground of the component
+to which it is connected. ,
+If pin 1 of the BALANCED outputs is connected, connection of the
+ground terminal Is not necessary.
+In either case confirm that the component to which this unit is
+connected is properly grounded.
+x WHEN CONNECTING THE WIRED REMOTE CONTROL TERMINAL:
+Do not connect pin 4 of the WIRED REMOTE CONTROL to the system’s
+ground.
+2) SL-P1200
+
+* WHEN CONNECTING TO AN “UNBALANCED TO BALANCED" ADAPTOR:
+Do not connect pin 1 of the BALANCED terminal to the adaptor side.
+
+* WHEN CONNECTING THE WIRED REMOTE CONTROL TERMINAL:
+Do not connect pin 4 of the WIRED REMOTE CONTROL to the system’s
+ground.

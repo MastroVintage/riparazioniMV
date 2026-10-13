@@ -1,0 +1,16 @@
+[Trascrizione manuale verificata sull'immagine; l'OCR automatico della parte alta era illeggibile perche' il foglio e' storto]
+3) To improve the switch bouncing problem, change C415, from 0.001uf to 0.01uf. This capacitor is located on the "SOCKET PCB" on the rear panel.
+4) A. Measure the RF level at test point TJ302. The level should be between 0.7 and 1.2 volts P-P. Clean the optical pick-up lens using the cleaning kit SZZP1038C. Follow the instructions in the Owner's Manual.
+B. Check the OPEN/CLOSE detection switch S101. Make sure that all three terminals make good contact. If poor contact is noticed, replace it with the switch assembly (Part Number SWSD12001). See figure below:
+ORIGINAL -> IMPROVED   SWITCH TERMINAL MODIFICATION   SWITCH ASSEMBLY - SWSD12001
+NOTE: THE SWITCH HAS BEEN IMPROVED FROM THE FEBRUARY 10, 1987 PRODUCTION ON SL-P1200, AND FROM FIRST PRODUCTION OF SL-P1200X. THE DATE CAN BE DETERMINED BY THE SERIAL NUMBER AS FOLLOWS:
+X X 7 2 1 0 X X X X   YEAR / MONTH / DAY   MONTH: 1 ~ 9 = JAN. ~ SEPT., J = OCT., K = NOV., L = DEC.
+MODIFICATION KIT
+PROCEDURE | PART DESCRIPTION | QUANTITY | KIT NUMBER
+1-B | HEX NUT 2, WASHER 1, LOCK WASHER 1, LOCK NUT 1, METAL POST 1, GROUND LABEL 1 | | TAS8512001
+2-C | SCREW | 1 |
+2-D | WIRE TIE | 1 |
+2-F | GROUND PLATE | 1 |
+3 | 0.01uF CAPACITOR | 1 |
+4-B | SWITCH ASSEMBLY | 1 |
+3 of 4
