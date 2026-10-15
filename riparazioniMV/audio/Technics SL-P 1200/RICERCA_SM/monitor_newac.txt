@@ -1,0 +1,5 @@
+# Stato ultimo controllo del repo https://github.com/cherts/newac (usato dal Monitor service manual SL-P1200)
+controllato=2026-10-15
+pushed_at=2026-08-18T09:09:16Z
+ultimo_commit=58ca243 2026-08-18T09:09:16Z Merge pull request #17 from webbrain-one/webbrain/issue-2
+ultima_release=2.6.2 2025-10-23T18:26:25Z
